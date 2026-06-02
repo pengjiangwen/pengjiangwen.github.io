@@ -3,12 +3,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pengjiangwen.github.io/tech/</loc>
+    <lastmod>2026-06-02T22:40:07+08:00</lastmod>
+  </url><url>
+    <loc>https://pengjiangwen.github.io/</loc>
+    <lastmod>2026-06-02T22:40:07+08:00</lastmod>
+  </url><url>
+    <loc>https://pengjiangwen.github.io/tech/test-article/</loc>
+    <lastmod>2026-06-02T22:40:07+08:00</lastmod>
+  </url><url>
     <loc>https://pengjiangwen.github.io/categories/</loc>
   </url><url>
     <loc>https://pengjiangwen.github.io/tags/</loc>
-  </url><url>
-    <loc>https://pengjiangwen.github.io/tech/</loc>
-  </url><url>
-    <loc>https://pengjiangwen.github.io/</loc>
   </url>
 </urlset>
