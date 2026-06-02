@@ -154,35 +154,51 @@ def slugify(text):
     return re.sub(r"-+", "-", re.sub(r"[\s_]+", "-", text)).strip("-")
 
 
-def extract_json(text):
-    m = re.search(r"```json\s*(.*?)\s*```", text, re.DOTALL) or re.search(r"\{.*\}", text, re.DOTALL)
-    return m.group(1) if m else text
+def parse_response(text):
+    title = ""
+    description = ""
+    tags = []
+    content = ""
+    m = re.search(r"TITLE:\s*(.+?)(?:\n|$)", text)
+    if m: title = m.group(1).strip().strip('"')
+    m = re.search(r"DESCRIPTION:\s*(.+?)(?:\n|$)", text)
+    if m: description = m.group(1).strip().strip('"')
+    m = re.search(r"TAGS:\s*(.+?)(?:\n|$)", text)
+    if m: tags = [t.strip().lower() for t in m.group(1).split(",") if t.strip()]
+    m = re.search(r"CONTENT:\s*(.+)", text, re.DOTALL)
+    if m: content = m.group(1).strip()
+    return title, description, tags, content
 
 
 def generate(keyword, category):
     client = OpenAI(api_key=LLM_API_KEY, base_url=LLM_BASE_URL)
     prompt = f"""Write a blog post about: "{keyword}"
 Category: {category}
-Return JSON with: "title" (SEO title), "description" (meta, 140-155 chars), "tags" (array of 3-5), "content" (full markdown article 800-1500 words).
-Output inside ```json``` block."""
+Article: 800-1500 words. Format EXACTLY:
+
+TITLE: Your SEO title here
+DESCRIPTION: Meta description here (140-155 chars)
+TAGS: tag1, tag2, tag3
+CONTENT:
+## Introduction
+...article body..."""
 
     resp = client.chat.completions.create(model=LLM_MODEL, messages=[
-        {"role": "system", "content": f"You are an SEO writer for {SITE_NAME}. Write helpful, original content. Never mention AI."},
+        {"role": "system", "content": f"You are an SEO writer for {SITE_NAME}. Write helpful, original content."},
         {"role": "user", "content": prompt},
     ], temperature=0.7, max_tokens=16384)
 
-    result = json.loads(extract_json(resp.choices[0].message.content))
-    title = result.get("title", keyword.title())
-    desc = result.get("description", "")
-    tags = result.get("tags", [category])
-    content = result.get("content", "")
+    title, description, tags, content = parse_response(resp.choices[0].message.content)
+    if not title: title = keyword.title()
+    if not content: content = resp.choices[0].message.content
+    if not tags: tags = [category]
     slug = slugify(title)
     date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     md = f"""---
 title: "{title}"
 date: "{date}"
-description: "{desc}"
+description: "{description}"
 tags: {json.dumps(tags)}
 categories: ["{category}"]
 draft: false
