@@ -7,7 +7,7 @@ from openai import OpenAI
 
 LLM_API_KEY = os.environ["LLM_API_KEY"]
 LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "https://opencode.ai/zen/go/v1")
-LLM_MODEL = os.environ.get("LLM_MODEL", "mimo-v2.5")
+LLM_MODEL = os.environ.get("LLM_MODEL", "deepseek-v4-pro")
 SITE_NAME = "TechLife Guide"
 
 KEYWORDS = {
