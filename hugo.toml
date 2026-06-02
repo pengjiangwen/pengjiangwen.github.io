@@ -1,0 +1,63 @@
+baseURL = 'https://pengjiangwen.github.io/'
+languageCode = 'en-us'
+title = 'TechLife Guide'
+theme = 'PaperMod'
+
+[params]
+  env = 'production'
+  description = 'Your daily guide to tech, lifestyle, home, and health'
+  keywords = ['tech', 'lifestyle', 'home', 'health', 'guide', 'tips']
+  author = 'TechLife Guide'
+
+  defaultTheme = 'auto'
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  ShowFullTextinRSS = true
+
+  [params.homeInfoParams]
+    Title = 'TechLife Guide'
+    Content = 'Your daily guide to tech, lifestyle, home, and health. Discover practical tips, honest reviews, and how-to guides.'
+
+  [params.profileMode]
+    enabled = false
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[privacy]
+  [privacy.googleAnalytics]
+    disabled = false
+    respectDoNotTrack = true
+  [privacy.youtube]
+    privacyEnhanced = true
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[menu]
+  [[menu.main]]
+    name = 'Tech'
+    url = '/tech/'
+    weight = 1
+  [[menu.main]]
+    name = 'Lifestyle'
+    url = '/lifestyle/'
+    weight = 2
+  [[menu.main]]
+    name = 'Home'
+    url = '/home/'
+    weight = 3
+  [[menu.main]]
+    name = 'Health'
+    url = '/health/'
+    weight = 4
