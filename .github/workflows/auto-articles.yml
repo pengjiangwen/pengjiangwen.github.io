@@ -1,9 +1,10 @@
 name: Auto Generate Articles
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: '0 0,12 * * *'
-    - cron: '50 12 * * *'  # 20:50 CST 临时测试
   workflow_dispatch:
 
 permissions:
