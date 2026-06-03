@@ -2,7 +2,7 @@ name: Auto Generate Articles
 
 on:
   schedule:
-    - cron: '27 13 * * *'
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
 
 permissions:
@@ -31,12 +31,19 @@ jobs:
       - name: Generate articles with AI
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
-        run: python scripts/generate_article.py
+        run: |
+          git config user.name "pengjiangwen"
+          git config user.email "pengjiangwen@gmail.com"
+          python scripts/generate_article.py
 
       - uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
+
+      - name: Install Hugo theme
+        run: |
+          rm -rf themes/PaperMod
+          git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1
 
       - run: hugo --minify --destination public
 
