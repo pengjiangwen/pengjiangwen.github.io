@@ -3,7 +3,7 @@ name: Auto Generate Articles
 on:
   schedule:
     - cron: '0 0,12 * * *'
-    - cron: '30 12 * * *'  # 20:30 CST 临时测试
+    - cron: '45 12 * * *'  # 20:45 CST 临时测试
   workflow_dispatch:
 
 permissions:
