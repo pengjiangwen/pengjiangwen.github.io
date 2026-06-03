@@ -136,10 +136,23 @@ def init_db():
 
 
 def get_unused(count=2):
+    existing_slugs = set()
+    for p in CONTENT_DIR.rglob("*.md"):
+        existing_slugs.add(p.stem)
+
     conn = sqlite3.connect(str(DB_PATH))
-    rows = conn.execute("SELECT keyword, category FROM keywords WHERE used = 0 ORDER BY RANDOM() LIMIT ?", (count,)).fetchall()
+    all_rows = conn.execute("SELECT keyword, category FROM keywords WHERE used = 0").fetchall()
     conn.close()
-    return rows if rows else []
+
+    random.shuffle(all_rows)
+    result = []
+    for kw, cat in all_rows:
+        slug = slugify(kw)
+        if kw not in existing_slugs and slug not in existing_slugs:
+            result.append((kw, cat))
+            if len(result) >= count:
+                break
+    return result
 
 
 def mark_used(keyword):
