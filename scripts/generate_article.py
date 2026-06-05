@@ -33,8 +33,8 @@ def get_unused(data):
         for kw in entry["pool"]:
             if kw in entry["used"]:
                 continue
-            slug = slugify(kw)
-            if slug in existing_slugs:
+            kw_slug = slugify(kw)
+            if any(kw_slug in s for s in existing_slugs):
                 continue
             candidates.append((kw, cat))
     random.shuffle(candidates)
