@@ -51,14 +51,33 @@ def need_replenish(data):
     return None
 
 
+SAFETY_BLOCKLIST = [
+    "porn", "sex", "nude", "erotic", "adult content", "xxx", "hentai",
+    "gambling", "casino", "betting", "crack", "hack", "cheat code",
+    "drug", "weed", "cocaine", "weed", " marijuana", "illegal",
+    "weapon", "gun", "ammo", "dark web", "deep web",
+    "escort", "dating", "hookup", "casual encounter",
+    "weight loss pill", "diet pill", "fat burner",
+    "get rich quick", "make money fast", "forex",
+    "spy", "hacker", "cracked", "warez",
+]
+
+def is_safe(text):
+    text_lower = text.lower()
+    for word in SAFETY_BLOCKLIST:
+        if word in text_lower:
+            return False
+    return True
+
+
 def replenish_keywords(data, category):
     client = OpenAI(api_key=LLM_API_KEY, base_url=LLM_BASE_URL)
-    prompt = f"""Generate {REPLENISH_COUNT} SEO-friendly blog post topics for a "{category}" category on a website called "{SITE_NAME}".
-Each topic should be a keyword phrase that people search for (2-8 words).
-Return them as a JSON array of strings ONLY, no other text.
-Example: {{"keywords": ["topic 1", "topic 2", ...]}}"""
+    prompt = f"""Generate {REPLENISH_COUNT} SEO-friendly blog post topics for the "{category}" category on "{SITE_NAME}".
+Each topic: a common search phrase people type into Google (2-8 words).
+ONLY generate safe, family-friendly, legal topics. NO adult, gambling, drug, weapon, or illegal content.
+Return a JSON array of strings ONLY. Example: {{"keywords": ["topic 1", "topic 2", ...]}}"""
     resp = client.chat.completions.create(model=LLM_MODEL, messages=[
-        {"role": "system", "content": "You are an SEO keyword researcher. Return ONLY valid JSON."},
+        {"role": "system", "content": "You are an SEO keyword researcher. Return ONLY valid JSON. Never suggest unsafe or illegal topics."},
         {"role": "user", "content": prompt},
     ], temperature=0.8, max_tokens=4096)
     text = resp.choices[0].message.content.strip()
@@ -71,9 +90,9 @@ Example: {{"keywords": ["topic 1", "topic 2", ...]}}"""
     else:
         new_kws = []
     existing = set(data[category]["pool"])
-    added = [kw for kw in new_kws if isinstance(kw, str) and kw.strip() and kw not in existing]
+    added = [kw for kw in new_kws if isinstance(kw, str) and kw.strip() and is_safe(kw) and kw not in existing]
     data[category]["pool"].extend(added)
-    print(f"  Replenished {category}: +{len(added)} keywords")
+    print(f"  Replenished {category}: +{len(added)} keywords (filtered {len(new_kws) - len(added)} unsafe)")
     return added
 
 
@@ -100,24 +119,33 @@ def parse_response(text):
 
 def generate(keyword, category):
     client = OpenAI(api_key=LLM_API_KEY, base_url=LLM_BASE_URL)
-    prompt = f"""Write a blog post about: "{keyword}"
+    prompt = f"""Write a high-quality blog post about: "{keyword}"
 Category: {category}
-Article: 800-1500 words. Format EXACTLY:
 
-TITLE: Your SEO title here
-DESCRIPTION: Meta description here (140-155 chars)
+Requirements:
+- 800-1500 words, well-structured with H2/H3 subheadings
+- Start with a strong hook, include real examples or actionable tips
+- Write naturally — like a knowledgeable human blogger, NOT like generic AI
+- NO fluff, no filler sentences, no clichés
+- 100% original, family-safe content. Do NOT include: adult, gambling, drugs, violence, illegal topics
+- Format EXACTLY:
+
+TITLE: SEO title (under 60 chars)
+DESCRIPTION: Meta description (140-155 chars)
 TAGS: tag1, tag2, tag3
 CONTENT:
 ## Introduction
-...article body..."""
+...body with subheadings and practical value..."""
     resp = client.chat.completions.create(model=LLM_MODEL, messages=[
-        {"role": "system", "content": f"You are an SEO writer for {SITE_NAME}. Write helpful, original content."},
         {"role": "user", "content": prompt},
     ], temperature=0.7, max_tokens=16384)
     title, description, tags, content = parse_response(resp.choices[0].message.content)
     if not title: title = keyword.title()
     if not content: content = resp.choices[0].message.content
     if not tags: tags = [category]
+    if not is_safe(title + " " + description + " " + content):
+        print(f"  SKIP (unsafe content detected)")
+        return None
     slug = slugify(title)
     date = datetime.now(CST).strftime("%Y-%m-%dT%H:%M:%S")
     md = f"""---
@@ -153,7 +181,11 @@ def main():
     for kw, cat in keywords:
         print(f"Generating: [{cat}] {kw}")
         try:
-            title, slug = generate(kw, cat)
+            result = generate(kw, cat)
+            if result is None:
+                print(f"  SKIPPED (safety filter)")
+                continue
+            title, slug = result
             data[cat]["used"].append(kw)
             print(f"  OK: {title}")
         except Exception as e:
