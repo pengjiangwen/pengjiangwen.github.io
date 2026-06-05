@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Article generator with auto-replenishing keyword pool."""
 import json, os, re, random, subprocess, sys
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+
+CST = timezone(timedelta(hours=8))
 from pathlib import Path
 from openai import OpenAI
 
@@ -117,7 +119,7 @@ CONTENT:
     if not content: content = resp.choices[0].message.content
     if not tags: tags = [category]
     slug = slugify(title)
-    date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    date = datetime.now(CST).strftime("%Y-%m-%dT%H:%M:%S")
     md = f"""---
 title: "{title}"
 date: "{date}"
