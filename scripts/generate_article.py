@@ -65,7 +65,7 @@ SAFETY_BLOCKLIST = [
 def is_safe(text):
     text_lower = text.lower()
     for word in SAFETY_BLOCKLIST:
-        if word in text_lower:
+        if re.search(r"\b" + re.escape(word) + r"\b", text_lower):
             return False
     return True
 
