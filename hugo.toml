@@ -3,6 +3,7 @@ locale = 'en-us'
 publishDir = 'docs'
 title = 'TechLife Guide'
 theme = 'PaperMod'
+timeZone = 'Asia/Shanghai'
 
 [params]
   env = 'production'

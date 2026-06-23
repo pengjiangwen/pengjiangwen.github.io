@@ -147,7 +147,7 @@ CONTENT:
         print(f"  SKIP (unsafe content detected)")
         return None
     slug = slugify(title)
-    date = datetime.now(CST).strftime("%Y-%m-%dT%H:%M:%S")
+    date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     md = f"""---
 title: "{title}"
 date: "{date}"
