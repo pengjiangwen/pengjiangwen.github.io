@@ -146,6 +146,11 @@ CONTENT:
     if not is_safe(title + " " + description + " " + content):
         print(f"  SKIP (unsafe content detected)")
         return None
+    # Ensure content is substantial (not just front matter)
+    body_words = len(content.split())
+    if body_words < 50:
+        print(f"  SKIP (content too short: {body_words} words)")
+        return None
     slug = slugify(title)
     date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     md = f"""---
