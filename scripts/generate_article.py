@@ -8,8 +8,8 @@ from pathlib import Path
 from openai import OpenAI
 
 LLM_API_KEY = os.environ["LLM_API_KEY"]
-LLM_BASE_URL = os.environ.get("LLM_BASE_URL") or "https://opencode.ai/zen/go/v1"
-LLM_MODEL = os.environ.get("LLM_MODEL", "deepseek-v4-pro")
+LLM_BASE_URL = os.environ.get("LLM_BASE_URL") or "https://api.deepseek.com/v1"
+LLM_MODEL = os.environ.get("LLM_MODEL", "deepseek-chat")
 SITE_NAME = "TechLife Guide"
 CATEGORIES = ["tech", "lifestyle", "home", "health"]
 CONTENT_DIR = Path("content")
