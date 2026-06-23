@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Phone Battery on TechLife Guide</title>
-    <link>https://pengjiangwen.github.io/tags/phone-battery/</link>
-    <description>Recent content in Phone Battery on TechLife Guide</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2026 02:37:33 +0800</lastBuildDate>
-    <atom:link href="https://pengjiangwen.github.io/tags/phone-battery/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Phone Battery Dying Fast? 8 Fixes That Actually Work</title>
-      <link>https://pengjiangwen.github.io/tech/phone-battery-dying-fast-8-fixes-that-actually-work/</link>
-      <pubDate>Sat, 06 Jun 2026 02:37:33 +0800</pubDate>
-      <guid>https://pengjiangwen.github.io/tech/phone-battery-dying-fast-8-fixes-that-actually-work/</guid>
-      <description>Stop charging your phone wrong. Discover 8 proven techniques to dramatically extend your phone&amp;#39;s battery life, backed by battery science and expert advice.</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Phone Battery on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/phone-battery/</link><description>Recent content in Phone Battery on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 06 Jun 2026 02:37:33 +0800</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/phone-battery/index.xml" rel="self" type="application/rss+xml"/><item><title>Phone Battery Dying Fast? 8 Fixes That Actually Work</title><link>https://pengjiangwen.github.io/tech/phone-battery-dying-fast-8-fixes-that-actually-work/</link><pubDate>Sat, 06 Jun 2026 02:37:33 +0800</pubDate><guid>https://pengjiangwen.github.io/tech/phone-battery-dying-fast-8-fixes-that-actually-work/</guid><description>Stop charging your phone wrong. Discover 8 proven techniques to dramatically extend your phone&amp;#39;s battery life, backed by battery science and expert advice.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>You unplug your phone at 7 AM, and by lunchtime it’s flashing 15%. You’ve dimmed the screen, force-closed every app, and now you’re that person tethered to a portable charger that weighs as much as a brick. Sound familiar?</p>
 <p>The internet is full of battery “tips” that either don’t work or made sense in 2010. I’ve spent the last year tracking my smartphone’s battery health, testing everything from charging habits to app settings, and the results were surprising. What actually extends battery life isn’t magic — it’s a handful of science-backed tweaks that fit into your daily life without turning you into a battery monk.</p>
 <p>Let’s skip the fluff and get to what really works.</p>
@@ -71,7 +55,4 @@
 <h2 id="final-thoughts-make-it-a-routine">Final Thoughts: Make It a Routine</h2>
 <p>Extending your phone battery life isn’t about one dramatic gesture. It’s about building small, painless habits: not charging overnight, keeping the phone out of the sun, and pruning background apps. The goal isn’t to baby your device — it’s to make it last through your day, and through the years, so you’re not shelling out for a replacement every 18 months.</p>
 <p>Try three of these tips this week. Check your battery stats, set that 80% charge limit, and delete the Facebook app. You’ll be surprised how little you miss the constant drain — and how much longer your phone stays alive.</p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

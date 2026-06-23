@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Dual Monitor Setup on TechLife Guide</title>
-    <link>https://pengjiangwen.github.io/tags/dual-monitor-setup/</link>
-    <description>Recent content in Dual Monitor Setup on TechLife Guide</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 02:10:41 +0800</lastBuildDate>
-    <atom:link href="https://pengjiangwen.github.io/tags/dual-monitor-setup/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to Set Up Dual Monitors: Step-by-Step Guide</title>
-      <link>https://pengjiangwen.github.io/tech/how-to-set-up-dual-monitors-step-by-step-guide/</link>
-      <pubDate>Tue, 16 Jun 2026 02:10:41 +0800</pubDate>
-      <guid>https://pengjiangwen.github.io/tech/how-to-set-up-dual-monitors-step-by-step-guide/</guid>
-      <description>Set up dual monitors in minutes with this step-by-step guide. Covers Windows, macOS, cables, and pro tips for productivity. Boost your workflow today!</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Dual Monitor Setup on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/dual-monitor-setup/</link><description>Recent content in Dual Monitor Setup on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 16 Jun 2026 02:10:41 +0800</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/dual-monitor-setup/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Set Up Dual Monitors: Step-by-Step Guide</title><link>https://pengjiangwen.github.io/tech/how-to-set-up-dual-monitors-step-by-step-guide/</link><pubDate>Tue, 16 Jun 2026 02:10:41 +0800</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-set-up-dual-monitors-step-by-step-guide/</guid><description>Set up dual monitors in minutes with this step-by-step guide. Covers Windows, macOS, cables, and pro tips for productivity. Boost your workflow today!</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>I still remember the afternoon I first plugged a second monitor into my laptop. I had a report due, and I was constantly toggling between a PDF source and a Google Doc. A friend handed me an old 22-inch Dell and said, “Just try it.” Twenty minutes later, I’d forgotten the Alt+Tab keys even existed. That single change probably cut my writing time in half that day.</p>
 <p>Setting up dual monitors isn’t complicated, but it’s also not always plug-and-play—especially if your ports don’t match, your cables are a mess, or Windows decides to be difficult. This guide will walk you through everything: checking your gear, connecting the hardware, and configuring both Windows and macOS so both screens work exactly the way you want. Whether you’re building a remote-work battlestation, a coding rig, or just want to stop squinting at a single 13-inch laptop screen, I’ve got you covered.</p>
 <h2 id="what-youll-need-before-you-start">What You’ll Need Before You Start</h2>
@@ -88,7 +72,4 @@
 <h2 id="conclusion">Conclusion</h2>
 <p>A dual monitor setup is one of the cheapest, most impactful upgrades you can make to your digital workspace. It reduces cognitive load, saves time, and honestly just feels better than hunching over a single screen. I’ve been using two screens for years, and every time I go back to a single display—like when traveling—I feel genuinely constrained.</p>
 <p>The hardest part is usually finding the right cable or adapter. Once that’s sorted, the software side takes five minutes. So dig that old monitor out of the closet, order a $15 cable, and give it a try. Your future self, buried in spreadsheets or code, will thank you.</p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Productivity on TechLife Guide</title>
-    <link>https://pengjiangwen.github.io/tags/productivity/</link>
-    <description>Recent content in Productivity on TechLife Guide</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 02:10:41 +0800</lastBuildDate>
-    <atom:link href="https://pengjiangwen.github.io/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to Set Up Dual Monitors: Step-by-Step Guide</title>
-      <link>https://pengjiangwen.github.io/tech/how-to-set-up-dual-monitors-step-by-step-guide/</link>
-      <pubDate>Tue, 16 Jun 2026 02:10:41 +0800</pubDate>
-      <guid>https://pengjiangwen.github.io/tech/how-to-set-up-dual-monitors-step-by-step-guide/</guid>
-      <description>Set up dual monitors in minutes with this step-by-step guide. Covers Windows, macOS, cables, and pro tips for productivity. Boost your workflow today!</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Productivity on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/productivity/</link><description>Recent content in Productivity on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 16 Jun 2026 02:10:41 +0800</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/productivity/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Set Up Dual Monitors: Step-by-Step Guide</title><link>https://pengjiangwen.github.io/tech/how-to-set-up-dual-monitors-step-by-step-guide/</link><pubDate>Tue, 16 Jun 2026 02:10:41 +0800</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-set-up-dual-monitors-step-by-step-guide/</guid><description>Set up dual monitors in minutes with this step-by-step guide. Covers Windows, macOS, cables, and pro tips for productivity. Boost your workflow today!</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>I still remember the afternoon I first plugged a second monitor into my laptop. I had a report due, and I was constantly toggling between a PDF source and a Google Doc. A friend handed me an old 22-inch Dell and said, “Just try it.” Twenty minutes later, I’d forgotten the Alt+Tab keys even existed. That single change probably cut my writing time in half that day.</p>
 <p>Setting up dual monitors isn’t complicated, but it’s also not always plug-and-play—especially if your ports don’t match, your cables are a mess, or Windows decides to be difficult. This guide will walk you through everything: checking your gear, connecting the hardware, and configuring both Windows and macOS so both screens work exactly the way you want. Whether you’re building a remote-work battlestation, a coding rig, or just want to stop squinting at a single 13-inch laptop screen, I’ve got you covered.</p>
 <h2 id="what-youll-need-before-you-start">What You’ll Need Before You Start</h2>
@@ -88,15 +72,7 @@
 <h2 id="conclusion">Conclusion</h2>
 <p>A dual monitor setup is one of the cheapest, most impactful upgrades you can make to your digital workspace. It reduces cognitive load, saves time, and honestly just feels better than hunching over a single screen. I’ve been using two screens for years, and every time I go back to a single display—like when traveling—I feel genuinely constrained.</p>
 <p>The hardest part is usually finding the right cable or adapter. Once that’s sorted, the software side takes five minutes. So dig that old monitor out of the closet, order a $15 cable, and give it a try. Your future self, buried in spreadsheets or code, will thank you.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Remote Work Productivity Tips That Actually Work</title>
-      <link>https://pengjiangwen.github.io/lifestyle/remote-work-productivity-tips-that-actually-work/</link>
-      <pubDate>Wed, 10 Jun 2026 03:41:09 +0800</pubDate>
-      <guid>https://pengjiangwen.github.io/lifestyle/remote-work-productivity-tips-that-actually-work/</guid>
-      <description>Struggling with remote work? Get actionable tips on workspace setup, time blocking, and boundaries that actually work—no fluff, just real solutions.</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+]]></content:encoded></item><item><title>Remote Work Productivity Tips That Actually Work</title><link>https://pengjiangwen.github.io/lifestyle/remote-work-productivity-tips-that-actually-work/</link><pubDate>Wed, 10 Jun 2026 03:41:09 +0800</pubDate><guid>https://pengjiangwen.github.io/lifestyle/remote-work-productivity-tips-that-actually-work/</guid><description>Struggling with remote work? Get actionable tips on workspace setup, time blocking, and boundaries that actually work—no fluff, just real solutions.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>If you’ve ever wrapped up a remote workday feeling like you were busy every minute but got nothing meaningful done, you know the frustration. Maybe you answered Slack messages within seconds, attended back-to-back Zoom calls, and crossed off a dozen tiny tasks—yet your most important project didn’t move an inch.</p>
 <p>I’ve been working remotely for over a decade, first as a freelancer, then leading distributed teams. In that time, I’ve learned that productivity isn’t about willpower or grinding harder. It’s about designing your environment, your schedule, and your habits so that the path of least resistance leads to focused, high-impact work.</p>
 <p>In this post, I’ll share the remote work productivity tips that have actually worked for me and for the people I’ve coached. No fluff, no recycled generic advice—just practical, proven strategies you can start using today.</p>
@@ -152,15 +128,7 @@
 <p>Remote work productivity isn’t about squeezing more tasks into your day. It’s about creating the conditions that allow your best work to emerge naturally. By shaping your environment, guarding your time, setting firm boundaries, and choosing the right communication habits, you can thrive remotely—not just survive.</p>
 <p>The strategies I shared here aren’t theories. I’ve used them myself and seen them transform the output and well-being of colleagues and clients. Start with one or two changes. Maybe it’s a dedicated workspace this week. Then add a hard stop next week. Remember, consistency beats intensity every time.</p>
 <p>Now, pick one tip from this list and try it tomorrow morning. Then watch what happens to your focus—and your peace of mind.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Master Your Day: 10 Powerful Morning Routine Ideas for Productivity</title>
-      <link>https://pengjiangwen.github.io/lifestyle/master-your-day-10-powerful-morning-routine-ideas-for-productivity/</link>
-      <pubDate>Tue, 02 Jun 2026 15:15:15 +0000</pubDate>
-      <guid>https://pengjiangwen.github.io/lifestyle/master-your-day-10-powerful-morning-routine-ideas-for-productivity/</guid>
-      <description>Transform your mornings with actionable morning routine ideas for productivity. Learn how to design a personal ritual that fuels focus and success all day.</description>
-      <content:encoded><![CDATA[<h2 id="why-your-morning-sets-the-tone-for-your-entire-day">Why Your Morning Sets the Tone for Your Entire Day</h2>
+]]></content:encoded></item><item><title>Master Your Day: 10 Powerful Morning Routine Ideas for Productivity</title><link>https://pengjiangwen.github.io/lifestyle/master-your-day-10-powerful-morning-routine-ideas-for-productivity/</link><pubDate>Tue, 02 Jun 2026 15:15:15 +0000</pubDate><guid>https://pengjiangwen.github.io/lifestyle/master-your-day-10-powerful-morning-routine-ideas-for-productivity/</guid><description>Transform your mornings with actionable morning routine ideas for productivity. Learn how to design a personal ritual that fuels focus and success all day.</description><content:encoded><![CDATA[<h2 id="why-your-morning-sets-the-tone-for-your-entire-day">Why Your Morning Sets the Tone for Your Entire Day</h2>
 <p>We’ve all been there: the alarm blares, you hit snooze, and suddenly you’re rushing out the door with no plan, already feeling behind. The quality of your first few waking hours directly impacts your energy, focus, and overall productivity. A intentional morning routine isn’t about adding more to your plate—it’s about creating a foundation for a successful day. It replaces reactive chaos with proactive control, allowing you to work <em>on</em> your life instead of just <em>in</em> it.</p>
 <p>This guide isn’t about a one-size-fits-all prescription. It’s about providing you with a toolkit of powerful, research-backed ideas. Use them to design a unique morning ritual that aligns with your goals, lifestyle, and personality.</p>
 <h2 id="the-core-principles-of-a-productive-morning-routine">The Core Principles of a Productive Morning Routine</h2>
@@ -236,7 +204,4 @@
 <h2 id="your-morning-your-rules-start-tomorrow">Your Morning, Your Rules: Start Tomorrow</h2>
 <p>The perfect morning routine doesn’t exist. What exists is a <em>good enough</em> routine that you can stick to and that serves your needs. Start tomorrow by choosing just <strong>one or two ideas</strong> from this list. Maybe it’s simply drinking water before coffee and spending five minutes planning your day. Master that, and then add another element.</p>
 <p>Your morning is your daily reset button. By taking control of it, you’re not just being more productive—you’re crafting a life with more intention, energy, and purpose. <strong>What will your first step be?</strong></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

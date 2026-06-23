@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Home Automation on TechLife Guide</title>
-    <link>https://pengjiangwen.github.io/tags/home-automation/</link>
-    <description>Recent content in Home Automation on TechLife Guide</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 21:06:14 +0800</lastBuildDate>
-    <atom:link href="https://pengjiangwen.github.io/tags/home-automation/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Smart Lighting Setup Ideas: Room-by-Room Guide</title>
-      <link>https://pengjiangwen.github.io/lifestyle/smart-lighting-setup-ideas-room-by-room-guide/</link>
-      <pubDate>Fri, 19 Jun 2026 21:06:14 +0800</pubDate>
-      <guid>https://pengjiangwen.github.io/lifestyle/smart-lighting-setup-ideas-room-by-room-guide/</guid>
-      <description>Discover smart lighting setup ideas for every room—sunrise alarms, security automations, and more. No fluff, just practical ways to light your home better.</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Home Automation on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/home-automation/</link><description>Recent content in Home Automation on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2026 21:06:14 +0800</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/home-automation/index.xml" rel="self" type="application/rss+xml"/><item><title>Smart Lighting Setup Ideas: Room-by-Room Guide</title><link>https://pengjiangwen.github.io/lifestyle/smart-lighting-setup-ideas-room-by-room-guide/</link><pubDate>Fri, 19 Jun 2026 21:06:14 +0800</pubDate><guid>https://pengjiangwen.github.io/lifestyle/smart-lighting-setup-ideas-room-by-room-guide/</guid><description>Discover smart lighting setup ideas for every room—sunrise alarms, security automations, and more. No fluff, just practical ways to light your home better.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>It’s 6:30 AM. Instead of a blaring alarm, a soft warm glow gradually fills your bedroom, mimicking sunrise. By the time your alarm chimes, you’re already halfway awake. Down the hall, the lights are at 20% so you don’t stub a toe, and the coffee maker starts brewing because the kitchen noticed you coming. This isn’t a sci‑fi concept—it’s what a well‑planned smart lighting setup does every morning.</p>
 <p>Smart lighting often gets reduced to turning bulbs on and off from a phone, but the real value lies in scenes, automations, and light that bends around your routines. Most people buy a starter kit, tinker for an afternoon, then leave pricey bulbs working like ordinary ones. This guide skips the filler. I’ll walk you through practical, room‑by‑room ideas you can steal, whether you’re starting fresh or looking to finally make your setup do something useful.</p>
 <h2 id="understanding-smart-lighting-basics">Understanding Smart Lighting Basics</h2>
@@ -63,15 +47,7 @@
 </ul>
 <h2 id="conclusion">Conclusion</h2>
 <p>Smart lighting, when it’s done right, disappears into the background. You stop thinking about switches and just move through your home while it adapts around you. Start small: pick one room, set up a scene or two, and live with it for a week. Then add another. The real transformation isn’t the tech—it’s how the tech supports the way you already live, only better.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Best Smart Thermostats for Energy Savings in 2024</title>
-      <link>https://pengjiangwen.github.io/home/best-smart-thermostats-for-energy-savings-in-2024/</link>
-      <pubDate>Fri, 05 Jun 2026 20:00:44 +0800</pubDate>
-      <guid>https://pengjiangwen.github.io/home/best-smart-thermostats-for-energy-savings-in-2024/</guid>
-      <description>Cut your energy bills with a smart thermostat. Compare top energy-saving models from Nest, ecobee, Amazon, and more to help you choose the right one.</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+]]></content:encoded></item><item><title>Best Smart Thermostats for Energy Savings in 2024</title><link>https://pengjiangwen.github.io/home/best-smart-thermostats-for-energy-savings-in-2024/</link><pubDate>Fri, 05 Jun 2026 20:00:44 +0800</pubDate><guid>https://pengjiangwen.github.io/home/best-smart-thermostats-for-energy-savings-in-2024/</guid><description>Cut your energy bills with a smart thermostat. Compare top energy-saving models from Nest, ecobee, Amazon, and more to help you choose the right one.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Heating and cooling eat up nearly half the energy in a typical home, making it the biggest utility expense for most households. As rates rise, finding ways to trim those costs without sacrificing comfort is essential. Smart thermostats do exactly that—learning your routines, sensing when you leave, and automatically adjusting schedules to curb waste. Energy Star estimates a properly used smart thermostat can cut heating and cooling bills by 8–15% annually, often saving $100 or more per year. But which model delivers the best real-world savings? This guide explains the key energy-saving features, what to look for when buying, and reviews the best smart thermostats for energy savings in 2024.</p>
 <h2 id="how-smart-thermostats-save-energy">How Smart Thermostats Save Energy</h2>
 <p>Understanding the tech behind the savings helps you choose the right device.</p>
@@ -130,7 +106,4 @@
 </ul>
 <h2 id="conclusion">Conclusion</h2>
 <p>A smart thermostat is a straightforward investment that pays for itself through lower energy bills, often in under two years. The models above offer proven savings—whether you prefer the autonomous learning of the Nest, the room‑by‑room precision of the ecobee or Honeywell T9, the wallet‑friendly Alexa integration of the Amazon, or the no‑fuss installation of the Sensi. Pick the one that fits your home and habits, and don’t forget to check for local utility rebates. With a few tweaks to your settings, you’ll enjoy a more comfortable home and a noticeably smaller energy bill.</p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

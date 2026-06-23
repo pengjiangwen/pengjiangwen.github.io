@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Gaming on a Budget on TechLife Guide</title>
-    <link>https://pengjiangwen.github.io/tags/gaming-on-a-budget/</link>
-    <description>Recent content in Gaming on a Budget on TechLife Guide</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2026 12:36:34 +0000</lastBuildDate>
-    <atom:link href="https://pengjiangwen.github.io/tags/gaming-on-a-budget/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to Build a Budget Gaming PC in 2025: Complete Guide</title>
-      <link>https://pengjiangwen.github.io/tech/how-to-build-a-budget-gaming-pc-in-2025-complete-guide/</link>
-      <pubDate>Wed, 03 Jun 2026 12:36:34 +0000</pubDate>
-      <guid>https://pengjiangwen.github.io/tech/how-to-build-a-budget-gaming-pc-in-2025-complete-guide/</guid>
-      <description>Discover how to build a gaming PC on a budget with our step-by-step guide. Save money, get pro performance, and enjoy PC gaming without breaking the bank.</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Gaming on a Budget on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/gaming-on-a-budget/</link><description>Recent content in Gaming on a Budget on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2026 12:36:34 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/gaming-on-a-budget/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Build a Budget Gaming PC in 2025: Complete Guide</title><link>https://pengjiangwen.github.io/tech/how-to-build-a-budget-gaming-pc-in-2025-complete-guide/</link><pubDate>Wed, 03 Jun 2026 12:36:34 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-build-a-budget-gaming-pc-in-2025-complete-guide/</guid><description>Discover how to build a gaming PC on a budget with our step-by-step guide. Save money, get pro performance, and enjoy PC gaming without breaking the bank.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Let’s face it – the days of dropping $2,000 on a gaming rig are not for everyone. Between rising GPU costs and an ever-growing list of must-play titles, the dream of building your own gaming PC can feel out of reach. But here’s the good news: you <strong>can</strong> build a capable gaming PC on a budget and still enjoy modern titles at smooth frame rates. I’ve been building budget-focused systems for over a decade, and the secret isn’t cutting corners – it’s making smart, value-driven choices. In this guide, I’ll walk you through exactly how to do it, from setting a realistic budget to choosing the right parts and putting it all together. By the end, you’ll have a custom gaming rig that punches well above its price tag.</p>
 <h2 id="why-build-a-budget-gaming-pc">Why Build a Budget Gaming PC?</h2>
 <p>Before we dive into parts lists, let’s talk about why you’d build your own instead of buying a pre-built or a console. First, <strong>customization</strong>. You control every component, which means you can allocate money where it matters most – like the graphics card – and save on things like fancy RGB lighting. Second, <strong>upgradability</strong>. A DIY PC lets you swap out a GPU or add more RAM down the line, extending its lifespan for years. Third, <strong>cost efficiency</strong>. Pre-built gaming PCs often mark up prices by 20–30% and include bloatware; building yourself eliminates that premium. Even on a tight budget, you can often outperform a similarly priced pre-built system.</p>
@@ -61,7 +45,4 @@
 <p>For that last bit of optimization, look into <strong>AMD FSR or NVIDIA DLSS</strong> in supported games. These upscaling technologies can nearly double your frame rates with minimal visual impact, extending the life of a budget GPU considerably.</p>
 <h2 id="conclusion">Conclusion</h2>
 <p>Building a gaming PC on a budget isn’t about settling – it’s about making every dollar count. You now have a framework that’s customizable, upgradeable, and genuinely powerful enough for today’s games. Start by outlining your budget, focus your spending on the GPU and a solid PSU, and don’t be afraid of the used market for graphics cards. The feeling of booting up a machine you built yourself and seeing those frame rates is worth every minute of research and effort. Whether you’re diving into competitive Valorant or exploring the world of Elden Ring, your budget rig is ready. Have questions or want a personalized part list? Drop a comment – I always love nerding out over new builds. Now, go build that PC and join the master race without the master price tag.</p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

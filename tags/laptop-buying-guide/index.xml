@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Laptop Buying Guide on TechLife Guide</title>
-    <link>https://pengjiangwen.github.io/tags/laptop-buying-guide/</link>
-    <description>Recent content in Laptop Buying Guide on TechLife Guide</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 20:29:22 +0800</lastBuildDate>
-    <atom:link href="https://pengjiangwen.github.io/tags/laptop-buying-guide/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Laptop Buying Guide for Students: What Actually Matters</title>
-      <link>https://pengjiangwen.github.io/tech/laptop-buying-guide-for-students-what-actually-matters/</link>
-      <pubDate>Fri, 05 Jun 2026 20:29:22 +0800</pubDate>
-      <guid>https://pengjiangwen.github.io/tech/laptop-buying-guide-for-students-what-actually-matters/</guid>
-      <description>Discover the essential factors to consider when buying a laptop for school. From budget to battery life, our student-focused guide has real-world tips and examples.</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Laptop Buying Guide on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/laptop-buying-guide/</link><description>Recent content in Laptop Buying Guide on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2026 20:29:22 +0800</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/laptop-buying-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Laptop Buying Guide for Students: What Actually Matters</title><link>https://pengjiangwen.github.io/tech/laptop-buying-guide-for-students-what-actually-matters/</link><pubDate>Fri, 05 Jun 2026 20:29:22 +0800</pubDate><guid>https://pengjiangwen.github.io/tech/laptop-buying-guide-for-students-what-actually-matters/</guid><description>Discover the essential factors to consider when buying a laptop for school. From budget to battery life, our student-focused guide has real-world tips and examples.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>You’ve got your acceptance letter, the dorm assignment, and a mental list of things you’ll need. Somewhere between bedding and a mini-fridge, you realize your old laptop won’t cut it — or maybe you never owned one. Walking into a store or scrolling through Amazon, you face a wall of specs you don’t understand. Salespeople push the shiniest model, while your cousin says “just get a MacBook.” It’s confusing, and a wrong choice means wasted money and daily frustration.</p>
 <p>I’ve been there. When I started college, I bought a heavy 17-inch “gaming” laptop because I thought more power meant better. The battery died halfway through a lecture, and my shoulder hurt from lugging it across campus. Since then, I’ve helped dozens of students pick the right machine — from broke freshmen to PhD candidates. This guide cuts through the noise. No jargon, no affiliate-driven lists. Just what actually matters when you need a laptop for school.</p>
 <h2 id="stop-shopping-before-you-define-your-needs">Stop Shopping Before You Define Your Needs</h2>
@@ -83,7 +67,4 @@ You might need to compile code, run virtual machines, or work with large dataset
 <li>Is there a solid return policy in case something feels off after a week?</li>
 </ul>
 <p>Answer these, and you’ll avoid the most common mistakes I see.</p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

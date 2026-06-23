@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Remote Work on TechLife Guide</title>
-    <link>https://pengjiangwen.github.io/tags/remote-work/</link>
-    <description>Recent content in Remote Work on TechLife Guide</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 03:41:09 +0800</lastBuildDate>
-    <atom:link href="https://pengjiangwen.github.io/tags/remote-work/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Remote Work Productivity Tips That Actually Work</title>
-      <link>https://pengjiangwen.github.io/lifestyle/remote-work-productivity-tips-that-actually-work/</link>
-      <pubDate>Wed, 10 Jun 2026 03:41:09 +0800</pubDate>
-      <guid>https://pengjiangwen.github.io/lifestyle/remote-work-productivity-tips-that-actually-work/</guid>
-      <description>Struggling with remote work? Get actionable tips on workspace setup, time blocking, and boundaries that actually work—no fluff, just real solutions.</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Remote Work on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/remote-work/</link><description>Recent content in Remote Work on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2026 03:41:09 +0800</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/remote-work/index.xml" rel="self" type="application/rss+xml"/><item><title>Remote Work Productivity Tips That Actually Work</title><link>https://pengjiangwen.github.io/lifestyle/remote-work-productivity-tips-that-actually-work/</link><pubDate>Wed, 10 Jun 2026 03:41:09 +0800</pubDate><guid>https://pengjiangwen.github.io/lifestyle/remote-work-productivity-tips-that-actually-work/</guid><description>Struggling with remote work? Get actionable tips on workspace setup, time blocking, and boundaries that actually work—no fluff, just real solutions.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>If you’ve ever wrapped up a remote workday feeling like you were busy every minute but got nothing meaningful done, you know the frustration. Maybe you answered Slack messages within seconds, attended back-to-back Zoom calls, and crossed off a dozen tiny tasks—yet your most important project didn’t move an inch.</p>
 <p>I’ve been working remotely for over a decade, first as a freelancer, then leading distributed teams. In that time, I’ve learned that productivity isn’t about willpower or grinding harder. It’s about designing your environment, your schedule, and your habits so that the path of least resistance leads to focused, high-impact work.</p>
 <p>In this post, I’ll share the remote work productivity tips that have actually worked for me and for the people I’ve coached. No fluff, no recycled generic advice—just practical, proven strategies you can start using today.</p>
@@ -70,7 +54,4 @@
 <p>Remote work productivity isn’t about squeezing more tasks into your day. It’s about creating the conditions that allow your best work to emerge naturally. By shaping your environment, guarding your time, setting firm boundaries, and choosing the right communication habits, you can thrive remotely—not just survive.</p>
 <p>The strategies I shared here aren’t theories. I’ve used them myself and seen them transform the output and well-being of colleagues and clients. Start with one or two changes. Maybe it’s a dedicated workspace this week. Then add a hard stop next week. Remember, consistency beats intensity every time.</p>
 <p>Now, pick one tip from this list and try it tomorrow morning. Then watch what happens to your focus—and your peace of mind.</p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>
