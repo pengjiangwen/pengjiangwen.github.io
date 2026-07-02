@@ -1,4 +1,143 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tech on TechLife Guide</title><link>https://pengjiangwen.github.io/categories/tech/</link><description>Recent content in Tech on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 18:32:46 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>Android vs iOS: Which OS Wins in 2024?</title><link>https://pengjiangwen.github.io/tech/android-vs-ios-which-os-wins-in-2024/</link><pubDate>Wed, 01 Jul 2026 18:32:46 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/android-vs-ios-which-os-wins-in-2024/</guid><description>A no-fluff comparison of Android vs iOS covering privacy, customization, ecosystem, and real-world usability. Find your perfect fit.</description><content:encoded><![CDATA[<p>TITLE: Android vs iOS: Which OS Wins in 2024?
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tech on TechLife Guide</title><link>https://pengjiangwen.github.io/categories/tech/</link><description>Recent content in Tech on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2026 10:19:52 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Set Up a Home NAS Server: A Practical Guide</title><link>https://pengjiangwen.github.io/tech/how-to-set-up-a-home-nas-server-a-practical-guide/</link><pubDate>Thu, 02 Jul 2026 10:19:52 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-set-up-a-home-nas-server-a-practical-guide/</guid><description>Build your own home NAS from scratch. Step-by-step guide covering hardware, software, RAID, and remote access for backups and media streaming.</description><content:encoded><![CDATA[<p>TITLE: How to Set Up a Home NAS Server: A Practical Guide
+DESCRIPTION: Build your own home NAS from scratch. Step-by-step guide covering hardware, software, RAID, and remote access for backups and media streaming.
+TAGS: home NAS, DIY NAS server, network attached storage, home server setup, data backup</p>
+<h2 id="introduction">Introduction</h2>
+<p>Last year, I lost three years of family photos when a laptop hard drive failed. The backup drive I’d been using was sitting right next to the laptop on the same desk during a power surge. Both died. That’s when I stopped treating backup as an afterthought and started building a home NAS.</p>
+<p>A Network Attached Storage (NAS) is essentially your own private cloud. Unlike Dropbox or Google Drive, you own the hardware, you control the data, and there are no monthly subscription fees for storage. You can stream movies to your TV, back up every device in your house, and access files remotely—all without paying a recurring bill.</p>
+<p>This guide walks through the entire process: choosing hardware, installing software, configuring storage, and setting up remote access. No assumptions about prior server experience. Just practical steps that work.</p>
+<h2 id="why-build-a-nas-instead-of-buying-one">Why Build a NAS Instead of Buying One?</h2>
+<p>Pre-built NAS units from Synology or QNAP are convenient. Plug in drives, click a few buttons, and you’re done. They also cost a premium. A 4-bay Synology enclosure with no drives runs around $400. For that same budget, you can build a machine with significantly more processing power, upgradeability, and storage capacity.</p>
+<p>Building your own also means you’re not locked into proprietary software. If Synology decides to drop support for your model in three years, you’re stuck. With a DIY build, you can swap operating systems, upgrade components, or repurpose the hardware entirely.</p>
+<p>The trade-off is time. You’ll spend an afternoon assembling and configuring. But once it’s running, maintenance is minimal.</p>
+<h2 id="step-1-choose-your-hardware">Step 1: Choose Your Hardware</h2>
+<h3 id="the-just-works-build">The &ldquo;Just Works&rdquo; Build</h3>
+<p>For most home users, this is the sweet spot. It handles file storage, media streaming, automated backups, and runs 24/7 without breaking the bank.</p>
+<ul>
+<li><strong>Case:</strong> Fractal Design Node 304 (mini-ITX, holds 6 drives)</li>
+<li><strong>Motherboard:</strong> ASRock B660M-ITX/ac (built-in WiFi is nice for initial setup)</li>
+<li><strong>CPU:</strong> Intel Core i3-12100 (efficient, has integrated graphics for transcoding)</li>
+<li><strong>RAM:</strong> 8GB DDR4 (start here, upgrade if you run virtual machines)</li>
+<li><strong>Power Supply:</strong> 300W-400W 80+ Bronze (don’t overspend, NAS draws little power)</li>
+<li><strong>Boot Drive:</strong> 120GB SATA SSD (for the operating system)</li>
+<li><strong>Storage Drives:</strong> Two 4TB WD Red Plus (NAS-rated, CMR technology)</li>
+</ul>
+<p>Total cost: roughly $350-400 without storage drives. Add $100-120 per 4TB NAS drive.</p>
+<h3 id="the-budget-build">The Budget Build</h3>
+<p>If you have an old desktop lying around, you can repurpose it. Minimum requirements:</p>
+<ul>
+<li>Any dual-core CPU from the last 10 years</li>
+<li>4GB RAM (8GB recommended)</li>
+<li>SATA ports for your drives (add a PCIe SATA card if needed)</li>
+<li>A case that can hold at least two 3.5-inch drives</li>
+</ul>
+<p>I started with a 2012 Dell Optiplex. It’s still running, serving files to five people without complaint.</p>
+<h3 id="what-to-avoid">What to Avoid</h3>
+<ul>
+<li><strong>Raspberry Pi with USB drives:</strong> The USB bus is shared. One drive failing can corrupt the entire array. Also, USB drives aren’t designed for 24/7 operation.</li>
+<li><strong>Desktop hard drives (WD Blue, Seagate Barracuda):</strong> These don’t have TLER (Time-Limited Error Recovery). In a RAID array, a desktop drive might drop out unnecessarily, causing rebuild headaches.</li>
+<li><strong>Gaming power supplies:</strong> Overkill. A 1000W PSU running at 10% load is inefficient. Stick with 300-400W.</li>
+</ul>
+<h2 id="step-2-assemble-the-hardware">Step 2: Assemble the Hardware</h2>
+<p>This is straightforward. Mount the motherboard in the case, install the CPU and RAM, connect the power supply. For the storage drives:</p>
+<ol>
+<li>Install the boot SSD in any SATA port.</li>
+<li>Install your storage drives. If using a case like the Node 304, drives mount on their side with rubber grommets to reduce vibration.</li>
+<li>Connect SATA data cables to the motherboard and power cables from the PSU.</li>
+</ol>
+<p>One tip: label your drives. Write &ldquo;Boot&rdquo;, &ldquo;Drive 1&rdquo;, &ldquo;Drive 2&rdquo; on masking tape and stick it on the cable. When a drive fails two years from now, you’ll thank yourself.</p>
+<h2 id="step-3-install-the-operating-system">Step 3: Install the Operating System</h2>
+<h3 id="truenas-scale-recommended">TrueNAS Scale (Recommended)</h3>
+<p>TrueNAS Scale is free, open-source, and built on Linux. It supports ZFS, which is the gold standard for data integrity. It also runs Docker containers and virtual machines if you want to expand later.</p>
+<ol>
+<li>Download the TrueNAS Scale ISO from their website.</li>
+<li>Use BalenaEtcher or Rufus to write it to a USB stick (8GB or larger).</li>
+<li>Plug the USB into your NAS, boot from it.</li>
+<li>Follow the installer: select your boot SSD, set a root password, and let it install.</li>
+<li>After reboot, remove the USB installer. The system will boot from the SSD.</li>
+<li>Find the IP address shown on the monitor. Type that IP into a web browser on your main computer. You’ll see the TrueNAS web interface.</li>
+</ol>
+<h3 id="alternative-unraid">Alternative: Unraid</h3>
+<p>Unraid costs $59+ but offers easier drive expansion. You can mix drive sizes, add drives one at a time, and it has a huge community for app support. If you’re less technical and want something that “just works,” Unraid is worth the money.</p>
+<p>I use TrueNAS because ZFS’s checksumming catches silent data corruption. Unraid doesn’t do that by default. For family photos and financial documents, I want that extra layer.</p>
+<h2 id="step-4-configure-your-storage-pool">Step 4: Configure Your Storage Pool</h2>
+<p>In TrueNAS, storage is organized into pools. A pool is built from one or more virtual devices (vdevs). Each vdev can be a single drive, a mirror, or a RAID-Z array.</p>
+<h3 id="for-two-drives-mirror">For Two Drives: Mirror</h3>
+<p>Two 4TB drives in a mirror gives you 4TB of usable space. If one drive fails, you replace it and the system rebuilds automatically. This is the simplest and most reliable setup for beginners.</p>
+<p>In the TrueNAS web UI:</p>
+<ol>
+<li>Go to Storage → Create Pool.</li>
+<li>Name it &ldquo;tank&rdquo; (or anything).</li>
+<li>Drag both drives into the Data VDevs section.</li>
+<li>Select &ldquo;Mirror&rdquo; from the dropdown.</li>
+<li>Click Create.</li>
+</ol>
+<h3 id="for-three-or-more-drives-raid-z">For Three or More Drives: RAID-Z</h3>
+<p>RAID-Z is similar to RAID 5. With three 4TB drives, you get 8TB usable. One drive can fail without data loss. With four drives in RAID-Z2, you get 8TB usable but can lose two drives.</p>
+<p>Choose RAID-Z if you need more capacity and can tolerate slightly more complexity during recovery.</p>
+<h3 id="important-dont-fill-past-80">Important: Don&rsquo;t Fill Past 80%</h3>
+<p>ZFS performance degrades when a pool is over 80% full. Plan your capacity accordingly. If you need 6TB of storage, get drives that give you at least 7.5TB usable.</p>
+<h2 id="step-5-create-shares-and-set-permissions">Step 5: Create Shares and Set Permissions</h2>
+<p>Now you need to make the storage accessible on your network.</p>
+<h3 id="for-windowsmaclinux-smb-shares">For Windows/Mac/Linux: SMB Shares</h3>
+<ol>
+<li>In TrueNAS, go to Shares → Windows (SMB) Shares → Add.</li>
+<li>Select the dataset (folder) you want to share.</li>
+<li>Enable &ldquo;Allow Guest Access&rdquo; only if you trust everyone on your network. Otherwise, create users under Accounts → Users and assign permissions.</li>
+</ol>
+<h3 id="for-time-machine-backups-mac">For Time Machine Backups (Mac)</h3>
+<ol>
+<li>Create a separate dataset just for Time Machine (e.g., &ldquo;timemachine&rdquo;).</li>
+<li>Enable the &ldquo;Time Machine&rdquo; flag in that dataset’s advanced options.</li>
+<li>In the SMB share settings, check &ldquo;Enable Time Machine support.&rdquo;</li>
+</ol>
+<p>Now every Mac on your network will see the NAS as a backup destination. No more plugging in external drives.</p>
+<h2 id="step-6-set-up-remote-access-securely">Step 6: Set Up Remote Access (Securely)</h2>
+<p>This is where most people get it wrong. They forward port 443 or 80 to their NAS and call it done. That’s how you get ransomwared.</p>
+<h3 id="the-right-way-tailscale">The Right Way: Tailscale</h3>
+<p>Tailscale creates a secure mesh VPN. You install it on your NAS and on your phone/laptop. All traffic goes through an encrypted tunnel. No ports open on your router.</p>
+<ol>
+<li>Sign up for a free Tailscale account (up to 100 devices).</li>
+<li>On TrueNAS, go to Apps → Available Apps → search for &ldquo;Tailscale&rdquo;.</li>
+<li>Install it. Authenticate with your Tailscale account.</li>
+<li>Install the Tailscale app on your phone and laptop.</li>
+<li>Now you can access your NAS by its Tailscale IP address from anywhere in the world.</li>
+</ol>
+<h3 id="alternative-wireguard">Alternative: WireGuard</h3>
+<p>If you prefer not to use a third-party service, WireGuard is built into TrueNAS. Set it up under System → Services → WireGuard. It’s more technical but completely self-hosted.</p>
+<h3 id="what-not-to-do">What Not to Do</h3>
+<ul>
+<li><strong>Do not</strong> enable FTP or plain HTTP. They send passwords in cleartext.</li>
+<li><strong>Do not</strong> forward port 22 (SSH) unless you disable password authentication and use SSH keys only.</li>
+<li><strong>Do not</strong> use the &ldquo;admin&rdquo; account for daily use. Create a separate user with limited permissions.</li>
+</ul>
+<h2 id="step-7-automate-backups-yes-back-up-your-nas">Step 7: Automate Backups (Yes, Back Up Your NAS)</h2>
+<p>A NAS is not a backup if it’s the only copy of your data. RAID protects against drive failure, not against fire, theft, or ransomware.</p>
+<h3 id="local-backup-usb-drive">Local Backup: USB Drive</h3>
+<p>Plug in a large external drive. In TrueNAS, go to Tasks → Periodic Snapshot Tasks to take daily snapshots of your datasets. Then set up a Replication Task to send those snapshots to the USB drive. If your NAS dies, you plug the USB into any Linux machine and recover.</p>
+<h3 id="offsite-backup-backblaze-b2">Offsite Backup: Backblaze B2</h3>
+<p>Backblaze B2 costs about $0.005/GB/month. For 500GB of critical data, that’s $2.50/month.</p>
+<ol>
+<li>Create a Backblaze B2 account and generate an Application Key.</li>
+<li>In TrueNAS, go to Tasks → Cloud Sync Tasks.</li>
+<li>Select &ldquo;Backblaze B2&rdquo; as the destination.</li>
+<li>Schedule it to run weekly.</li>
+</ol>
+<p>This gives you a copy off-site. If your house burns down, your data survives.</p>
+<h2 id="real-world-usage-after-setup">Real-World Usage After Setup</h2>
+<p>Here’s what my NAS does daily:</p>
+<ul>
+<li><strong>File storage:</strong> All documents, photos, and videos live on the NAS. My laptop has a 256GB SSD. I don’t store anything locally.</li>
+<li><strong>Media streaming:</strong> I run Jellyfin (free, open-source alternative to Plex) in a Docker container on TrueNAS. It streams 4K movies to my TV, phone, and tablet. The Intel iGPU handles hardware transcoding effortlessly.</li>
+<li><strong>Automated backups:</strong> Every Mac in the house backs up via Time Machine. Windows machines use Veeam Agent to back up to an SMB share.</li>
+<li><strong>Photo management:</strong> I use Immich (self-hosted Google Photos alternative) to auto-upload photos from my phone. They’re searchable by date, location, and even objects.</li>
+<li><strong>Home assistant:</strong> The same machine runs Home Assistant in a VM to control smart lights and sensors.</li>
+</ul>
+<p>Total power draw: about 35 watts idle. That’s roughly $3/month in electricity.</p>
+<h2 id="final-advice">Final Advice</h2>
+<p>Start small. A two-drive mirror with TrueNAS Scale will handle 90% of what most households need. You can always add drives or build a second NAS later. Don’t overthink the hardware—buy what you can afford, set it up, and start using it.</p>
+<p>The hardest part isn’t the assembly or the software. It’s the discipline to actually use it. Set up automatic backups on every device on day one. Schedule a monthly check to verify your snapshots are running. And for the love of data, don’t skimp on the off-site backup.</p>
+<p>Your future self, after a hard drive fails, will thank you.</p>
+]]></content:encoded></item><item><title>Android vs iOS: Which OS Wins in 2024?</title><link>https://pengjiangwen.github.io/tech/android-vs-ios-which-os-wins-in-2024/</link><pubDate>Wed, 01 Jul 2026 18:32:46 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/android-vs-ios-which-os-wins-in-2024/</guid><description>A no-fluff comparison of Android vs iOS covering privacy, customization, ecosystem, and real-world usability. Find your perfect fit.</description><content:encoded><![CDATA[<p>TITLE: Android vs iOS: Which OS Wins in 2024?
 DESCRIPTION: A no-fluff comparison of Android vs iOS covering privacy, customization, ecosystem, and real-world usability. Find your perfect fit.
 TAGS: Android vs iOS, smartphone comparison, mobile OS, tech guide, 2024 smartphone tips</p>
 <h2 id="introduction">Introduction</h2>
