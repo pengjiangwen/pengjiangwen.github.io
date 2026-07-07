@@ -1,4 +1,149 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Teches on TechLife Guide</title><link>https://pengjiangwen.github.io/tech/</link><description>Recent content in Teches on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2026 15:17:02 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Mechanical Keyboards for Programming in 2024</title><link>https://pengjiangwen.github.io/tech/best-mechanical-keyboards-for-programming-in-2024/</link><pubDate>Mon, 06 Jul 2026 15:17:02 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/best-mechanical-keyboards-for-programming-in-2024/</guid><description>Ditch the wrist pain. We tested 12 mechanical keyboards for coding. Find your perfect switch, layout, and budget with real-world benchmarks.</description><content:encoded><![CDATA[<p>TITLE: Best Mechanical Keyboards for Programming in 2024
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Teches on TechLife Guide</title><link>https://pengjiangwen.github.io/tech/</link><description>Recent content in Teches on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2026 02:24:24 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Build a PC: A Step-by-Step Guide for Beginners</title><link>https://pengjiangwen.github.io/tech/how-to-build-a-pc-a-step-by-step-guide-for-beginners/</link><pubDate>Tue, 07 Jul 2026 02:24:24 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-build-a-pc-a-step-by-step-guide-for-beginners/</guid><description>Learn how to build a PC from scratch with this practical guide. Covers part selection, assembly, cable management, and first boot—no fluff, just results.</description><content:encoded><![CDATA[<p>TITLE: How to Build a PC: A Step-by-Step Guide for Beginners
+DESCRIPTION: Learn how to build a PC from scratch with this practical guide. Covers part selection, assembly, cable management, and first boot—no fluff, just results.
+TAGS: build a PC, PC building guide, DIY computer, gaming PC build, PC assembly tutorial</p>
+<h2 id="introduction">Introduction</h2>
+<p>I still remember the first time I pressed the power button on a PC I built myself. Nothing happened. No fans spun, no lights flickered—just silence. I had forgotten to flip the switch on the power supply. After a moment of panic, I fixed it, and the machine roared to life. That feeling? It’s addictive.</p>
+<p>Building your own PC isn’t just about saving money (though you often do). It’s about control. You choose every part, from the CPU to the case fans. You know exactly what’s inside your machine, and you can upgrade it piece by piece instead of buying a whole new system every few years. Plus, it’s genuinely satisfying.</p>
+<p>This guide assumes you’re starting from zero. I’ll walk you through every step—from picking parts to that first boot screen—without the marketing fluff or unnecessary jargon. Let’s get your hands dirty.</p>
+<h2 id="step-1-define-your-builds-purpose">Step 1: Define Your Build’s Purpose</h2>
+<p>Before you spend a single dollar, ask yourself: <em>What will this PC actually do?</em></p>
+<ul>
+<li><strong>Gaming at 1080p/1440p?</strong> Focus on a strong GPU (graphics card) and a mid-range CPU. You don’t need a top-tier processor for most games.</li>
+<li><strong>Video editing or 3D rendering?</strong> Prioritize a CPU with many cores (like an AMD Ryzen 7 or Intel Core i7) and at least 32GB of RAM.</li>
+<li><strong>General productivity (web, office, light editing)?</strong> A budget build with an integrated GPU (like an AMD Ryzen 5 5600G) will save you money and still feel snappy.</li>
+</ul>
+<p><strong>Real example:</strong> My friend wanted a PC for Fortnite and schoolwork. He almost bought a $1,500 prebuilt with a flashy RGB case. Instead, we built a $900 machine with a Ryzen 5 5600X and an RTX 3060. It runs the same games at higher settings, and he saved $600.</p>
+<p>Define your use case first. Everything else follows.</p>
+<h2 id="step-2-choose-your-components-the-core-7">Step 2: Choose Your Components (The Core 7)</h2>
+<p>You only need seven main parts to build a PC. Here’s what each does and how to pick them wisely.</p>
+<h3 id="cpu-central-processing-unit">CPU (Central Processing Unit)</h3>
+<p>The brain of the operation. For most builders, the choice comes down to AMD or Intel. As of 2025:</p>
+<ul>
+<li><strong>AMD Ryzen 5/7</strong> – Great for multitasking and value. The AM5 platform supports future upgrades.</li>
+<li><strong>Intel Core i5/i7</strong> – Strong single-core performance for gaming. The LGA1700 socket is mature and stable.</li>
+</ul>
+<p><strong>Actionable tip:</strong> Don’t overspend on a CPU you won’t utilize. A Ryzen 5 7600 is plenty for 95% of gamers. Put that extra money into a better GPU.</p>
+<h3 id="gpu-graphics-card">GPU (Graphics Card)</h3>
+<p>This handles all visuals. If you’re gaming, this is your most important component.</p>
+<ul>
+<li><strong>Budget:</strong> NVIDIA RTX 4060 or AMD RX 7600 – great for 1080p.</li>
+<li><strong>Mid-range:</strong> RTX 4070 Super or RX 7800 XT – handles 1440p smoothly.</li>
+<li><strong>High-end:</strong> RTX 4080 Super or RX 7900 XTX – for 4K or high refresh rates.</li>
+</ul>
+<p><strong>Warning:</strong> Avoid buying a GPU used from unknown sellers unless you can test it. Counterfeit cards exist, and mining cards can fail early.</p>
+<h3 id="motherboard">Motherboard</h3>
+<p>The backbone that connects everything. Key considerations:</p>
+<ul>
+<li><strong>Form factor:</strong> ATX (full-size), Micro-ATX (smaller, fewer slots), or Mini-ITX (tiny, expensive).</li>
+<li><strong>Socket compatibility:</strong> Must match your CPU (e.g., AM5 for Ryzen 7000 series, LGA1700 for Intel 12th-14th gen).</li>
+<li><strong>Features:</strong> Do you need Wi-Fi built-in? How many USB ports? M.2 slots for fast SSDs?</li>
+</ul>
+<p><strong>Pro tip:</strong> A B650 motherboard (for AMD) or B760 (for Intel) offers the best balance of features and price for most builds. Don’t pay for a premium Z-series board unless you plan to overclock.</p>
+<h3 id="ram-memory">RAM (Memory)</h3>
+<p>For gaming, 16GB is the minimum. 32GB is the sweet spot for 2025. Stick with DDR5 if your motherboard supports it—it’s faster and future-proof.</p>
+<p><strong>Speed matters:</strong> Aim for DDR5-6000 CL30 for AMD builds, or DDR5-5600+ for Intel. Higher speeds (like 6400) often cause instability on AMD systems.</p>
+<h3 id="storage-ssd">Storage (SSD)</h3>
+<p>Get an NVMe M.2 SSD. Period. A 1TB drive costs around $60–$80 and will make your PC feel lightning-fast. Add a 2TB or 4TB SATA SSD later if you need bulk storage.</p>
+<p><strong>Avoid:</strong> Hard drives (HDDs) for your operating system. They’re slow, noisy, and ancient. Use them only for backups.</p>
+<h3 id="power-supply-psu">Power Supply (PSU)</h3>
+<p>The most overlooked component. A cheap PSU can fry your entire system. Use the <a href="https://cultists.network/140/psu-tier-list/">PSU Tier List</a> as a reference.</p>
+<ul>
+<li><strong>Wattage:</strong> 550W for budget builds, 650W for mid-range, 750W+ for high-end.</li>
+<li><strong>Rating:</strong> 80+ Gold is the sweet spot for efficiency and reliability.</li>
+</ul>
+<p><strong>Rule of thumb:</strong> Never skimp on the PSU. A $40 unit is a red flag.</p>
+<h3 id="case">Case</h3>
+<p>Pick a case with good airflow—mesh front panels are best. Avoid glass-front cases that choke your fans. Also check:</p>
+<ul>
+<li><strong>GPU clearance:</strong> Make sure your card fits (length and width).</li>
+<li><strong>Cable management space:</strong> A few inches behind the motherboard tray helps a lot.</li>
+</ul>
+<p><strong>My go-to:</strong> The Fractal Design Pop Air ($90) is affordable, has great airflow, and looks clean.</p>
+<h2 id="step-3-gather-your-tools-you-already-have-them">Step 3: Gather Your Tools (You Already Have Them)</h2>
+<p>You don’t need a special toolkit. Just grab:</p>
+<ul>
+<li>A #2 Phillips-head screwdriver (magnetic tip helps).</li>
+<li>A clean, flat surface (a wooden desk or table—avoid carpet for static reasons).</li>
+<li>Your motherboard manual (read it, seriously).</li>
+<li>Zip ties or velcro straps for cable management.</li>
+</ul>
+<p><strong>Optional but nice:</strong> An anti-static wrist strap. I’ve built dozens of PCs without one and never had an issue, but if you’re nervous, spend $5 for peace of mind.</p>
+<h2 id="step-4-assembly--the-order-that-works">Step 4: Assembly – The Order That Works</h2>
+<p>Follow this sequence. It saves time and frustration.</p>
+<h3 id="1-install-the-cpu">1. Install the CPU</h3>
+<p>Open the socket lever, align the triangle marker on the CPU with the triangle on the socket, and drop it in. <strong>Do not force it.</strong> If it doesn’t sit flat, you’re misaligned. Close the lever gently.</p>
+<h3 id="2-install-the-ram">2. Install the RAM</h3>
+<p>Push the sticks into slots A2 and B2 (check your manual—usually the second and fourth slots from the CPU). You’ll hear a click on both ends. Press evenly.</p>
+<h3 id="3-install-the-m2-ssd">3. Install the M.2 SSD</h3>
+<p>Screw out the heatsink (if your motherboard has one), insert the SSD at a 30-degree angle, then press down and secure with the screw. It’s that easy.</p>
+<h3 id="4-install-the-cpu-cooler">4. Install the CPU Cooler</h3>
+<ul>
+<li><strong>Stock coolers</strong> (included with most CPUs): Apply the pre-applied thermal paste, align the push-pins, and press down until they click.</li>
+<li><strong>Aftermarket coolers:</strong> Apply a pea-sized dot of thermal paste, mount the bracket, and tighten screws in a cross pattern.</li>
+</ul>
+<p><strong>Real mistake:</strong> I once installed a cooler without removing the plastic peel on the contact plate. Don’t be me. Check for clear plastic before mounting.</p>
+<h3 id="5-install-the-power-supply">5. Install the Power Supply</h3>
+<p>Mount the PSU in the case (usually bottom-mounted, fan facing down). Route the cables through the nearest cutouts. Don’t plug anything in yet—just route them.</p>
+<h3 id="6-install-the-motherboard">6. Install the Motherboard</h3>
+<p>Place the I/O shield (the metal plate with cutouts) into the case first. Then lower the motherboard onto the standoffs. Screw it in with the included screws. Don’t overtighten.</p>
+<h3 id="7-install-the-gpu">7. Install the GPU</h3>
+<p>Remove the PCIe slot covers on the back of the case. Align the GPU with the top PCIe x16 slot (the one closest to the CPU). Push down firmly until it clicks. Secure it with screws.</p>
+<h3 id="8-connect-all-cables">8. Connect All Cables</h3>
+<p>This is the tedious part. Refer to your motherboard manual for:</p>
+<ul>
+<li><strong>24-pin power</strong> (biggest cable, goes to motherboard right edge)</li>
+<li><strong>8-pin CPU power</strong> (usually top-left corner)</li>
+<li><strong>PCIe power</strong> (6+2 pin cables for your GPU)</li>
+<li><strong>Front panel headers</strong> (power button, reset, LEDs—these are tiny and labeled in the manual)</li>
+</ul>
+<p><strong>Pro tip:</strong> Connect the case fans to the motherboard headers labeled “CHA_FAN” or “SYS_FAN.” If you have RGB fans, you’ll need a separate hub or motherboard RGB header.</p>
+<h2 id="step-5-cable-management-do-it-right">Step 5: Cable Management (Do It Right)</h2>
+<p>You don’t need a perfect build like a YouTuber. But loose cables block airflow and look messy.</p>
+<ul>
+<li>Route cables behind the motherboard tray. Use the cutouts to bring them back to the front only where needed.</li>
+<li>Use zip ties to bundle excess cable length.</li>
+<li>Keep the GPU power cables tidy—they’re the most visible.</li>
+</ul>
+<p><strong>One trick:</strong> If your case has a shroud (covering the bottom PSU area), hide all extra cables under it.</p>
+<h2 id="step-6-first-boot--the-moment-of-truth">Step 6: First Boot – The Moment of Truth</h2>
+<p>Plug in the monitor (to the GPU, not the motherboard), keyboard, and mouse. Flip the PSU switch to “on.” Press the power button.</p>
+<p><strong>What should happen:</strong></p>
+<ul>
+<li>Fans spin.</li>
+<li>LEDs light up.</li>
+<li>You see the motherboard logo on screen.</li>
+</ul>
+<p><strong>What if nothing happens?</strong></p>
+<ul>
+<li>Check the PSU switch.</li>
+<li>Reseat the RAM (remove and reinstall).</li>
+<li>Make sure the front panel power connector is on the correct pins (consult your manual).</li>
+</ul>
+<p><strong>Common issue:</strong> The system turns on but no display. This often means the GPU isn’t seated fully, or the monitor is plugged into the motherboard instead of the GPU.</p>
+<h2 id="step-7-install-the-operating-system">Step 7: Install the Operating System</h2>
+<p>You’ll need a USB drive (8GB or larger) and another computer to create installation media.</p>
+<ol>
+<li>Download the Windows 11 Media Creation Tool from Microsoft’s website (free, no license needed to install).</li>
+<li>Run it and select your USB drive.</li>
+<li>Plug the USB into your new PC, boot it, and press F12 or DEL repeatedly to enter the boot menu.</li>
+<li>Select the USB drive.</li>
+<li>Follow the on-screen prompts. When asked for a product key, you can skip it and activate later.</li>
+</ol>
+<p><strong>Alternative:</strong> If you want to save $100, install Linux (Ubuntu or Pop!_OS). It’s free, lightweight, and works great for web browsing, coding, and light gaming.</p>
+<h2 id="step-8-driver-installation-and-testing">Step 8: Driver Installation and Testing</h2>
+<p>Once Windows is installed, do this immediately:</p>
+<ol>
+<li><strong>Update Windows</strong> – Settings &gt; Windows Update &gt; Check for updates.</li>
+<li><strong>Install GPU drivers</strong> – Download from NVIDIA or AMD’s website. Don’t use Windows Update for this.</li>
+<li><strong>Motherboard drivers</strong> – Download chipset drivers from your motherboard manufacturer’s site (e.g., ASUS, MSI, Gigabyte).</li>
+<li><strong>Run a stress test</strong> – Use Cinebench (CPU) and FurMark (GPU) for 10 minutes. If temps stay under 85°C, you’re golden.</li>
+</ol>
+<p><strong>Real example:</strong> After building, my CPU hit 95°C in Cinebench. Turns out I forgot to remove the plastic from the cooler. Fixed it, temps dropped to 72°C. Always check your thermal paste and cooler mount.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Building a PC is a skill you can learn in an afternoon. The first build takes 2–4 hours. By your third, you’ll do it in under an hour. You’ll also save hundreds of dollars over prebuilts, and you’ll never be afraid to swap a part again.</p>
+<p>If you hit a wall, the r/buildapc subreddit is full of helpful people. Or just Google your specific problem—chances are someone else has solved it.</p>
+<p>Now go build something. And flip that PSU switch on first.</p>
+]]></content:encoded></item><item><title>Best Mechanical Keyboards for Programming in 2024</title><link>https://pengjiangwen.github.io/tech/best-mechanical-keyboards-for-programming-in-2024/</link><pubDate>Mon, 06 Jul 2026 15:17:02 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/best-mechanical-keyboards-for-programming-in-2024/</guid><description>Ditch the wrist pain. We tested 12 mechanical keyboards for coding. Find your perfect switch, layout, and budget with real-world benchmarks.</description><content:encoded><![CDATA[<p>TITLE: Best Mechanical Keyboards for Programming in 2024
 DESCRIPTION: Ditch the wrist pain. We tested 12 mechanical keyboards for coding. Find your perfect switch, layout, and budget with real-world benchmarks.
 TAGS: mechanical keyboard, programming keyboard, best keyboard for coders, ergonomic keyboard, Cherry MX switches</p>
 <h2 id="introduction">Introduction</h2>
