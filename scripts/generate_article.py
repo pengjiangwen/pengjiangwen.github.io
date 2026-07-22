@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Article generator with auto-replenishing keyword pool."""
-import json, os, re, random, subprocess, sys
+import json, os, re, random
 from datetime import datetime, timezone, timedelta
 
 CST = timezone(timedelta(hours=8))
@@ -14,7 +14,7 @@ SITE_NAME = "TechLife Guide"
 CATEGORIES = ["tech", "lifestyle", "home", "health"]
 CONTENT_DIR = Path("content")
 KW_PATH = Path("config/keywords.json")
-ARTICLES_PER_RUN = 2
+ARTICLES_PER_RUN = 4
 REPLENISH_THRESHOLD = 10
 REPLENISH_COUNT = 20
 
@@ -179,9 +179,6 @@ def main():
     keywords = get_unused(data)
     if not keywords:
         print("No unused keywords left across all categories!")
-        subprocess.run(["git", "add", "-A"], check=True)
-        subprocess.run(["git", "commit", "-m", "Auto: replenish keywords"], check=False)
-        subprocess.run(["git", "push"], check=False)
         return
     for kw, cat in keywords:
         print(f"Generating: [{cat}] {kw}")
@@ -196,9 +193,6 @@ def main():
         except Exception as e:
             print(f"  FAIL: {e}")
     save_keywords(data)
-    subprocess.run(["git", "add", "-A"], check=True)
-    subprocess.run(["git", "commit", "-m", "Auto: generate daily articles"], check=False)
-    subprocess.run(["git", "push"], check=False)
 
 
 if __name__ == "__main__":

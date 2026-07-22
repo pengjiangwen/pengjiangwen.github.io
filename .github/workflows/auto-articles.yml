@@ -31,10 +31,16 @@ jobs:
       - name: Generate articles with AI
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+        run: python scripts/generate_article.py
+
+      - name: Commit and push changes to main
         run: |
           git config user.name "pengjiangwen"
           git config user.email "pengjiangwen@gmail.com"
-          python scripts/generate_article.py
+          git add config/keywords.json content/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto: generate daily articles"
+          git push
 
       - uses: peaceiris/actions-hugo@v2
         with:
