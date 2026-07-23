@@ -1,4 +1,290 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>TechLife Guide</title><link>https://pengjiangwen.github.io/</link><description>Recent content on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 22 Jul 2026 13:25:40 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Stop Procrastinating: 5 Science-Backed Ways to Get Things Done</title><link>https://pengjiangwen.github.io/lifestyle/stop-procrastinating-5-science-backed-ways-to-get-things-done/</link><pubDate>Wed, 22 Jul 2026 13:25:40 +0000</pubDate><guid>https://pengjiangwen.github.io/lifestyle/stop-procrastinating-5-science-backed-ways-to-get-things-done/</guid><description>Ditch the guilt and get moving. Learn why you procrastinate and 5 actionable, science-backed strategies to build focus and finish your tasks today.</description><content:encoded><![CDATA[<p>TITLE: Stop Procrastinating: 5 Science-Backed Ways to Get Things Done
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>TechLife Guide</title><link>https://pengjiangwen.github.io/</link><description>Recent content on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2026 02:04:02 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Home Security Camera Installation: A Step-by-Step Guide</title><link>https://pengjiangwen.github.io/home/home-security-camera-installation-a-step-by-step-guide/</link><pubDate>Thu, 23 Jul 2026 02:04:02 +0000</pubDate><guid>https://pengjiangwen.github.io/home/home-security-camera-installation-a-step-by-step-guide/</guid><description>Learn how to install home security cameras yourself. This guide covers placement, wiring, Wi-Fi setup, and common mistakes to avoid.</description><content:encoded><![CDATA[<p>TITLE: Home Security Camera Installation: A Step-by-Step Guide
+DESCRIPTION: Learn how to install home security cameras yourself. This guide covers placement, wiring, Wi-Fi setup, and common mistakes to avoid.
+TAGS: home security, security camera installation, DIY home security, camera placement, smart home</p>
+<h2 id="introduction">Introduction</h2>
+<p>Last spring, a neighbor of mine spent $1,200 on a professional security camera installation. Three weeks later, a package thief walked right up to his front door, grabbed a delivery, and disappeared. When he checked the footage, the camera had captured a perfect, high-definition view of&hellip; the top of the thief’s hat. The camera was mounted too high, angled too steeply, and aimed at the wrong spot.</p>
+<p>I’m not saying you shouldn’t hire a pro. But if you’re handy with a drill and comfortable with a smartphone app, you can install a solid home security camera system in an afternoon for a fraction of the cost. The difference between a camera that catches faces and one that catches nothing comes down to three things: placement, power, and connection.</p>
+<p>This guide will walk you through each step, with the exact details most online guides leave out.</p>
+<h2 id="before-you-buy-understanding-your-needs">Before You Buy: Understanding Your Needs</h2>
+<p>Not all cameras are created equal. Before you open your wallet, ask yourself three questions.</p>
+<p><strong>What am I trying to see?</strong> If you want to identify a person’s face at your front door, you need a camera with a narrower field of view and higher resolution (at least 2K, ideally 4K). If you want to watch a wide driveway, you need a camera with a wider lens (100 degrees or more), but you’ll sacrifice some detail at the edges.</p>
+<p><strong>Do I have power nearby?</strong> This is the single biggest mistake I see. People buy wired cameras without checking if there’s an outlet within reach of their chosen mounting spot. If you don’t have power, you have two options: battery-powered cameras (easier to install, but you’ll recharge them every few months) or PoE (Power over Ethernet) cameras that run on a single Ethernet cable. PoE is more reliable than Wi-Fi, but you need to run cable to a central recorder.</p>
+<p><strong>Do I want local storage or cloud storage?</strong> Local storage (an SD card in the camera or a Network Video Recorder) means no monthly fees, but if someone steals the camera, they steal the footage. Cloud storage costs $5–$15 per month but keeps your footage safe even if the hardware is taken.</p>
+<p><strong>Actionable tip:</strong> If you’re on a budget and renting, start with a single battery-powered camera at your front door. You can move it when you leave. If you own your home and want a permanent solution, wired PoE cameras are worth the extra effort.</p>
+<h2 id="step-1-choosing-the-right-location">Step 1: Choosing the Right Location</h2>
+<p>Placement is everything. A camera that’s too high, too low, or pointed the wrong way is a waste of money.</p>
+<h3 id="the-golden-rule-of-camera-height">The Golden Rule of Camera Height</h3>
+<p>Mount your camera 8 to 10 feet off the ground. Any higher, and you’ll see the top of people’s heads, not their faces. Any lower, and someone can easily reach up and knock it down or spray-paint the lens. At 8–9 feet, you’re high enough to be out of reach but low enough to capture clear facial features.</p>
+<h3 id="where-to-point-the-camera">Where to Point the Camera</h3>
+<ul>
+<li><strong>Front door:</strong> Mount the camera to the side of the door, not directly above it. If you mount it above, anyone who steps close to the door disappears from view. Angling it from the side gives you a profile view of faces and packages.</li>
+<li><strong>Backyard or side gates:</strong> Aim the camera so it covers the path of entry, not just the yard itself. A camera pointed at a gate will catch someone entering. A camera pointed at a lawn will catch someone standing there, but you won’t see how they got in.</li>
+<li><strong>Driveway:</strong> Mount the camera at bumper height (about 4–5 feet up) on a post or wall. This gives you a clear view of license plates and the driver’s face through the windshield. Yes, it’s lower than the golden rule, but for driveways, the trade-off is worth it.</li>
+</ul>
+<p><strong>Common mistake:</strong> Pointing the camera toward the sun. If your camera faces east or west, direct sunlight will wash out the image for several hours a day. Adjust your mounting angle to avoid this, or choose a camera with a good Wide Dynamic Range (WDR) feature.</p>
+<h2 id="step-2-running-power-and-cables">Step 2: Running Power and Cables</h2>
+<p>This is the part that scares most people. It shouldn’t.</p>
+<h3 id="for-battery-powered-cameras">For Battery-Powered Cameras</h3>
+<p>No wiring needed. Just mount the bracket, snap the camera on, and pair it with your phone. The catch: you’ll need to recharge the battery every 2–6 months, depending on how much motion it detects. If you mount the camera in a hard-to-reach spot, you’ll regret this. Plan to place battery cameras somewhere you can easily access with a ladder.</p>
+<p><strong>Pro tip:</strong> Buy a spare battery for your camera model. Swap the battery when it gets low, charge the dead one, and you never have downtime.</p>
+<h3 id="for-wired-cameras-standard-ac-power">For Wired Cameras (Standard AC Power)</h3>
+<p>You need an outdoor-rated outlet within 6 feet of the camera. If you don’t have one, you have a few options:</p>
+<ul>
+<li><strong>Use a weatherproof extension cord</strong> (rated for outdoor use) and hide it along the eaves or under siding.</li>
+<li><strong>Hire an electrician to add an outlet.</strong> This costs $150–$300 but is the cleanest solution.</li>
+<li><strong>Use a PoE camera instead</strong> (see next section).</li>
+</ul>
+<h3 id="for-poe-power-over-ethernet-cameras">For PoE (Power over Ethernet) Cameras</h3>
+<p>PoE cameras use a single Ethernet cable to carry both power and data. You run the cable from the camera to a PoE switch or a Network Video Recorder (NVR). This is the most reliable setup because there’s no Wi-Fi interference and no battery to charge.</p>
+<p><strong>How to run the cable:</strong></p>
+<ol>
+<li>Drill a hole through the wall behind the camera mount.</li>
+<li>Feed the Ethernet cable through the hole into the attic or crawl space.</li>
+<li>Run the cable along the rafters to your NVR or switch.</li>
+<li>Seal the hole with silicone caulk to prevent water intrusion.</li>
+</ol>
+<p><strong>Don’t have an attic?</strong> Use a cable raceway (a plastic channel that sticks to the wall) to hide the cable. Paint it to match your siding. It’s not invisible, but it looks intentional.</p>
+<h2 id="step-3-mounting-the-camera-the-right-way">Step 3: Mounting the Camera (The Right Way)</h2>
+<p>You’ve chosen the spot and run the cable. Now it’s time to mount.</p>
+<h3 id="tools-youll-need">Tools You’ll Need</h3>
+<ul>
+<li>Power drill with drill bits (masonry bit if mounting to brick or stucco)</li>
+<li>Screwdriver (usually Phillips head)</li>
+<li>Level (a small bubble level or a smartphone app)</li>
+<li>Pencil for marking holes</li>
+<li>Silicone caulk (for outdoor mounts)</li>
+<li>Anchors (if mounting to drywall or brick)</li>
+</ul>
+<h3 id="the-process">The Process</h3>
+<ol>
+<li><strong>Hold the mounting bracket in place</strong> and use a level to make sure it’s straight. Mark the screw holes with a pencil.</li>
+<li><strong>Drill pilot holes.</strong> For wood siding, use a 1/8-inch bit. For brick or stucco, use a masonry bit slightly smaller than your wall anchors.</li>
+<li><strong>Insert wall anchors</strong> (if needed). For brick or stucco, you’ll need plastic or metal anchors that expand when the screw goes in.</li>
+<li><strong>Screw the bracket into place.</strong> Don’t overtighten. If you strip the hole, you’ll have to move the camera.</li>
+<li><strong>Attach the camera</strong> to the bracket. Most cameras click into place or lock with a small screw.</li>
+<li><strong>Seal the mounting plate</strong> with silicone caulk. Water will find the tiniest gap. Run a bead of caulk around the top and sides of the plate (leave the bottom open so any trapped moisture can drain out).</li>
+</ol>
+<p><strong>Real example:</strong> A friend of mine skipped the caulk step. Six months later, water seeped behind the camera, shorted the connection, and the camera died. A $5 tube of caulk would have saved him $150.</p>
+<h2 id="step-4-connecting-and-configuring-the-app">Step 4: Connecting and Configuring the App</h2>
+<p>Once the camera is physically installed, you need to connect it to your home network.</p>
+<h3 id="wi-fi-connection-tips">Wi-Fi Connection Tips</h3>
+<ul>
+<li><strong>Test the signal strength before you finalize the mount.</strong> Hold the camera in place, open the app, and check the Wi-Fi signal. If it’s below 60%, the camera will drop connection frequently. Move your router closer, add a Wi-Fi extender, or choose a different mounting spot.</li>
+<li><strong>Use the 2.4 GHz band.</strong> Most security cameras only work on 2.4 GHz Wi-Fi, not 5 GHz. If you have a dual-band router, make sure your phone is on the 2.4 GHz network when you set up the camera.</li>
+<li><strong>Update the firmware.</strong> Before you do anything else, check for a firmware update in the app. Manufacturers release updates that fix bugs and security vulnerabilities. Outdated firmware is how hackers access your camera.</li>
+</ul>
+<h3 id="critical-settings-to-configure">Critical Settings to Configure</h3>
+<ul>
+<li><strong>Motion zones:</strong> Define specific areas where the camera should detect motion. If your camera points at a busy street, you don’t want it recording every passing car. Draw a zone that covers only your porch or driveway.</li>
+<li><strong>Sensitivity:</strong> Start at medium and adjust based on false alerts. Too high, and tree branches will trigger recordings. Too low, and you’ll miss actual events.</li>
+<li><strong>Notification schedule:</strong> Turn off notifications during the day if you’re home. You don’t need a ping every time you walk out to check the mail. Schedule notifications for nighttime or when you’re away.</li>
+<li><strong>Privacy zones:</strong> Black out areas you don’t want recorded (like a neighbor’s window or your own bedroom window). This is important for both privacy and legal reasons.</li>
+</ul>
+<h2 id="step-5-testing-and-fine-tuning">Step 5: Testing and Fine-Tuning</h2>
+<p>Installation isn’t finished until you’ve verified the camera works in real-world conditions.</p>
+<h3 id="do-the-walk-test">Do the Walk Test</h3>
+<ol>
+<li>Have someone walk toward your front door from the street.</li>
+<li>Watch the live feed on your phone. Can you see their face clearly at 10 feet? At 5 feet?</li>
+<li>Check the night vision. Walk the same path after dark. Does the infrared light illuminate the face, or does it wash out?</li>
+<li>Test the audio (if your camera has a microphone). Can you hear footsteps or voices clearly?</li>
+</ol>
+<h3 id="adjust-the-angle">Adjust the Angle</h3>
+<p>Most cameras allow you to tilt and pan after mounting. If the field of view is too narrow or too wide, tweak it. A common fix: tilt the camera down slightly more than you think you need. Most people aim too high.</p>
+<h3 id="check-the-recording">Check the Recording</h3>
+<p>Trigger a motion event and then review the clip. Is the footage smooth or choppy? Choppy footage usually means the Wi-Fi signal is weak or the camera’s frame rate is set too low. Adjust the frame rate to 15 fps for a good balance of quality and bandwidth.</p>
+<h2 id="common-mistakes-to-avoid">Common Mistakes to Avoid</h2>
+<p>I’ve seen these mistakes in person, and they’re all avoidable.</p>
+<p><strong>1. Mounting the camera inside a glass storm door.</strong> The glass reflects the infrared light at night, creating a whiteout. Mount the camera outside the glass.</p>
+<p><strong>2. Using the wrong screws.</strong> A camera weighs 1–2 pounds, but wind and vibration can loosen a weak mount. Use the screws that came with the camera, not random ones from your toolbox.</p>
+<p><strong>3. Forgetting about Wi-Fi congestion.</strong> If you live in an apartment building with 20 other Wi-Fi networks, your camera may struggle. Change the Wi-Fi channel on your router to a less crowded one (use a Wi-Fi analyzer app to find the best channel).</p>
+<p><strong>4. Not securing the camera account.</strong> Use a strong, unique password for your camera account. Do not use the default password. Enable two-factor authentication if available. This is the number one way people get their cameras hacked.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Installing a home security camera isn’t rocket science, but it does require attention to detail. The difference between a camera that gives you peace of mind and one that gives you frustration is almost always in the preparation.</p>
+<p>Take the time to choose the right location. Run the cable cleanly. Seal the mount against water. And test everything before you put the ladder away.</p>
+<p>If you do those things, you’ll have a system that works reliably for years. And next time a package goes missing, you’ll have a clear shot of the person who took it — not just the top of their hat.</p>
+]]></content:encoded></item><item><title>Best Ergonomic Office Chairs for Health in 2024</title><link>https://pengjiangwen.github.io/health/best-ergonomic-office-chairs-for-health-in-2024/</link><pubDate>Thu, 23 Jul 2026 02:03:28 +0000</pubDate><guid>https://pengjiangwen.github.io/health/best-ergonomic-office-chairs-for-health-in-2024/</guid><description>Stop the back pain. We break down the best ergonomic office chairs, key features to look for, and how to choose the right one for your body and budget.</description><content:encoded><![CDATA[<p>TITLE: Best Ergonomic Office Chairs for Health in 2024
+DESCRIPTION: Stop the back pain. We break down the best ergonomic office chairs, key features to look for, and how to choose the right one for your body and budget.
+TAGS: ergonomic chairs, office health, back pain relief, sitting posture, home office setup</p>
+<h2 id="introduction">Introduction</h2>
+<p>I spent seven years sitting in a &ldquo;gaming chair&rdquo; that looked cool but felt like a concrete slab after hour three. My lower back ached constantly. My shoulders were perpetually hunched. I thought I just had &ldquo;bad posture&rdquo; genetics.</p>
+<p>Then I borrowed a friend’s Herman Miller Aeron for a week. Within three days, the knot between my shoulder blades disappeared. I stopped shifting in my seat every twenty minutes. I wasn’t magically cured, but I realized something crucial: <strong>Your chair is not a luxury. It is a medical device.</strong></p>
+<p>Sitting for eight hours a day is already hard on your body. Doing it in a poorly designed chair is like running a marathon in dress shoes. The &ldquo;best&rdquo; ergonomic chair isn&rsquo;t the most expensive one—it’s the one that fits your specific body mechanics, work habits, and allows you to move naturally.</p>
+<p>This guide cuts through the marketing hype. We’ll look at the actual science of sitting, the specific features that matter, and the top chairs that deliver real health benefits without breaking the bank (or your spine).</p>
+<h2 id="why-your-current-chair-is-hurting-you">Why Your Current Chair is Hurting You</h2>
+<p>Before we talk about solutions, let’s address the elephant in the room: the &ldquo;executive&rdquo; chair you bought from a big-box store.</p>
+<p>Most standard office chairs are designed for one thing: looking good in a catalog. They have thick, plush cushioning that feels great for ten minutes. But foam breaks down. It compresses under your weight, creating pressure points in your thighs and tailbone. The lumbar support is often just a fixed bump that hits you in the wrong spot—or worse, it’s non-existent.</p>
+<p>The real damage happens subtly. Without proper support, your pelvis tilts backward. This flattens the natural curve of your lower spine (lordosis). Your head juts forward to compensate, straining your neck muscles. Over months and years, this leads to:</p>
+<ul>
+<li><strong>Disc compression:</strong> Constant pressure on your spinal discs can lead to herniation.</li>
+<li><strong>Muscle fatigue:</strong> Your back muscles work overtime just to keep you upright.</li>
+<li><strong>Reduced circulation:</strong> Poor seat edges cut off blood flow to your legs.</li>
+</ul>
+<p>The best ergonomic chairs are designed to fight these exact problems. They don’t just let you sit—they actively support your body in a neutral, healthy position.</p>
+<h2 id="the-4-non-negotiable-features-of-a-true-ergonomic-chair">The 4 Non-Negotiable Features of a True Ergonomic Chair</h2>
+<p>Not every chair labeled &ldquo;ergonomic&rdquo; actually is. Some just have a mesh back and a high price tag. Here are the specific features you must verify before buying.</p>
+<h3 id="1-adjustable-lumbar-support-that-actually-moves">1. Adjustable Lumbar Support (That Actually Moves)</h3>
+<p>This is the most critical feature. Your lumbar spine has a natural inward curve. A good chair supports this curve, but it must be <strong>height-adjustable</strong>. Why? Because the curve of a 5'2&quot; person is in a completely different spot than a 6'2&quot; person.</p>
+<ul>
+<li><strong>What to look for:</strong> A mechanism that slides up and down (at least 2-3 inches). Some chairs also offer depth adjustment, letting you push the support closer or farther away. Avoid chairs with &ldquo;built-in&rdquo; lumbar that you cannot move.</li>
+<li><strong>The test:</strong> Sit in the chair. Slide the lumbar support until it fits snugly into the small of your back. You should feel supported, not poked.</li>
+</ul>
+<h3 id="2-seat-depth-and-tilt">2. Seat Depth and Tilt</h3>
+<p>Your thighs should be fully supported without the front edge of the seat pressing into the back of your knees. If the seat is too long, it cuts off circulation. If it’s too short, your thighs don’t get support, leading to hip fatigue.</p>
+<ul>
+<li><strong>What to look for:</strong> A seat slider that moves forward and backward (usually 2-4 inches). Also, look for a <strong>tilt tension</strong> control. This lets you recline slightly (15-20 degrees) while keeping your feet flat. Reclining opens up the angle between your torso and thighs, reducing disc pressure.</li>
+<li><strong>The test:</strong> Sit with your back against the lumbar support. There should be a 2-3 finger gap between the back of your knee and the front edge of the seat.</li>
+</ul>
+<h3 id="3-armrests-that-do-more-than-hold-arms">3. Armrests That Do More Than Hold Arms</h3>
+<p>Most people rest their arms on the desk, not the armrests. If your armrests are fixed, they are useless. You need <strong>4D armrests</strong> (adjustable height, width, depth, and rotation).</p>
+<ul>
+<li><strong>Why it matters:</strong> When your arms are properly supported, your shoulders relax. This prevents the &ldquo;hunched&rdquo; posture that leads to upper back and neck pain. You want your forearms parallel to the floor when typing.</li>
+<li><strong>The test:</strong> Adjust the armrests so they sit just below your desk surface. Your elbows should be at a 90-degree angle. If you can’t get them close enough to your body, you’ll reach for the desk anyway.</li>
+</ul>
+<h3 id="4-breathable-and-responsive-backrest">4. Breathable and Responsive Backrest</h3>
+<p>Memory foam sounds comfortable, but it traps heat and doesn&rsquo;t provide dynamic support. Mesh is superior for airflow, but not all mesh is equal.</p>
+<ul>
+<li><strong>What to look for:</strong> A tension-tuned mesh that gives slightly under your weight but doesn&rsquo;t sag. Some chairs (like the Steelcase Gesture) use a flexible polymer back that moves with you. Avoid cheap mesh that feels like a trampoline.</li>
+<li><strong>The test:</strong> Lean back. The backrest should flex with your movement, not force you into a rigid position.</li>
+</ul>
+<h2 id="top-5-ergonomic-office-chairs-for-health-2024">Top 5 Ergonomic Office Chairs for Health (2024)</h2>
+<p>Here are the chairs that consistently perform best in terms of health outcomes, durability, and adjustability. Prices are approximate and can vary.</p>
+<h3 id="1-herman-miller-aeron-the-gold-standard">1. Herman Miller Aeron (The Gold Standard)</h3>
+<ul>
+<li><strong>Best for:</strong> People with medium to large builds (sizes A, B, C). High budget.</li>
+<li><strong>Why it wins:</strong> The Aeron is the most researched chair in history. The Pellicle mesh is brilliant—it doesn&rsquo;t compress over time, so you get the same support on day 1,000 as day one. The PostureFit SL lumbar system (on the newer models) is one of the best in the industry.</li>
+<li><strong>Health highlight:</strong> The mesh seat eliminates pressure points on your tailbone and thighs. The forward tilt option is excellent for leaning in to type.</li>
+<li><strong>Catch:</strong> It&rsquo;s expensive (around $1,200+ new). The fixed armrests on older models are limiting. Buy a used one from a office liquidation company to save 50%.</li>
+</ul>
+<h3 id="2-steelcase-gesture-the-movement-expert">2. Steelcase Gesture (The Movement Expert)</h3>
+<ul>
+<li><strong>Best for:</strong> People who fidget, move around, or use multiple devices.</li>
+<li><strong>Why it wins:</strong> The Gesture has the best armrests on the market. They move in every direction, supporting your arms whether you’re typing, scrolling on a tablet, or leaning back to think. The Core Flex backrest bends with your spine.</li>
+<li><strong>Health highlight:</strong> The LiveBack technology mimics the movement of your spine. It encourages micro-movements, which are crucial for spinal disc health.</li>
+<li><strong>Catch:</strong> The seat cushion is firm (some love it, some hate it). It’s also heavy.</li>
+</ul>
+<h3 id="3-haworth-fern-the-comfort-king">3. Haworth Fern (The Comfort King)</h3>
+<ul>
+<li><strong>Best for:</strong> Taller people (6'0&quot; and up) and those who want a plush, supportive seat.</li>
+<li><strong>Why it wins:</strong> The Fern has a unique asymmetrical lumbar support that doesn&rsquo;t feel like a hard bar. The backrest is tall and wide, providing excellent shoulder support. The seat cushion uses a high-density foam that doesn&rsquo;t bottom out.</li>
+<li><strong>Health highlight:</strong> The optional forward tilt mechanism helps maintain a neutral pelvis position when you lean in to work.</li>
+<li><strong>Catch:</strong> The standard lumbar support is okay, but the &ldquo;digital knit&rdquo; back option is worth the upgrade for better breathability.</li>
+</ul>
+<h3 id="4-humanscale-freedom-the-recliner">4. Humanscale Freedom (The Recliner)</h3>
+<ul>
+<li><strong>Best for:</strong> People who prefer to recline and relax while working.</li>
+<li><strong>Why it wins:</strong> This chair uses a weight-sensitive recline mechanism. You don&rsquo;t need to fiddle with knobs—you just lean back, and the chair adjusts the tension automatically. The headrest is integrated and moves with you.</li>
+<li><strong>Health highlight:</strong> The &ldquo;form-sensing mesh&rdquo; back conforms to your spine&rsquo;s shape. The lack of manual controls means you&rsquo;re forced into a good posture.</li>
+<li><strong>Catch:</strong> Limited seat depth adjustment. Not great for very short or very tall people.</li>
+</ul>
+<h3 id="5-branch-ergonomic-chair-the-budget-champion">5. Branch Ergonomic Chair (The Budget Champion)</h3>
+<ul>
+<li><strong>Best for:</strong> Home office workers on a tighter budget ($350-$400).</li>
+<li><strong>Why it wins:</strong> For the price, it offers incredible adjustability: seat depth, lumbar height, 4D armrests, and tilt tension. The mesh back is breathable. It&rsquo;s not as durable as the Herman Miller, but it&rsquo;s a massive step up from a generic office chair.</li>
+<li><strong>Health highlight:</strong> The lumbar support is surprisingly good for a sub-$400 chair. It’s firm and adjustable.</li>
+<li><strong>Catch:</strong> The seat cushion can feel firm after 6+ hours. The build quality is good, not great.</li>
+</ul>
+<h2 id="actionable-tips-how-to-set-up-your-chair-for-zero-pain">Actionable Tips: How to Set Up Your Chair for Zero Pain</h2>
+<p>Buying the right chair is only half the battle. You must set it up correctly. Follow these steps in order:</p>
+<ol>
+<li><strong>Feet flat on the floor.</strong> Adjust the seat height so your knees are at a 90-degree angle. If your feet don&rsquo;t reach the floor, get a footrest. Hanging legs strain your lower back.</li>
+<li><strong>Hips at 90 degrees (or slightly open).</strong> Your hips should be level with or slightly higher than your knees. This prevents your pelvis from tucking under.</li>
+<li><strong>Lumbar support into the curve.</strong> Slide the lumbar pad until it presses gently into the inward curve of your lower back. You should feel it, not fight it.</li>
+<li><strong>Seat depth check.</strong> Slide the seat forward until there is a 2-3 finger gap behind your knees.</li>
+<li><strong>Armrests to desk height.</strong> Raise the armrests until your forearms are parallel to the floor when typing. Slide them close enough to your body so you don&rsquo;t have to reach.</li>
+<li><strong>Monitor at eye level.</strong> The top of your monitor screen should be at or just below eye level. Your gaze should be slightly downward (15-20 degrees).</li>
+</ol>
+<h2 id="the-one-thing-no-chair-can-fix">The One Thing No Chair Can Fix</h2>
+<p>I’ll be honest: No chair, no matter how expensive, will save you if you sit in it for 10 hours without moving.</p>
+<p>The human body is designed for motion. The best ergonomic chair is the one that lets you change positions easily. Use the recline. Tilt forward. Shift your weight. Stand up every 45-60 minutes.</p>
+<p>A good chair reduces the <em>damage</em> of sitting. It doesn&rsquo;t eliminate the need to move. Pair your new chair with a standing desk converter or simply take a two-minute walk around the room every hour. Your spine will thank you.</p>
+<p>Invest in a chair that fits your body. Your back is the only one you’ve got.</p>
+]]></content:encoded></item><item><title>Best Free Software Alternatives 2025</title><link>https://pengjiangwen.github.io/tech/best-free-software-alternatives-2025/</link><pubDate>Thu, 23 Jul 2026 02:02:30 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/best-free-software-alternatives-2025/</guid><description>Ditch the subscriptions. Discover the top free software alternatives for 2025 that rival paid tools in design, video, office, and security.</description><content:encoded><![CDATA[<p>TITLE: Best Free Software Alternatives 2025
+DESCRIPTION: Ditch the subscriptions. Discover the top free software alternatives for 2025 that rival paid tools in design, video, office, and security.
+TAGS: free software, open source alternatives, 2025 tech, budget tools, productivity apps</p>
+<h2 id="introduction">Introduction</h2>
+<p>I remember the exact moment I canceled my Adobe Creative Cloud subscription. It was a cold January morning, and I stared at the $59.99 monthly charge wondering why I was paying for software I used for maybe four hours a week. That was three years ago, and I haven’t looked back.</p>
+<p>The software landscape in 2025 has shifted dramatically. The “pay-to-play” era is giving way to a renaissance of free, open-source, and freemium tools that are genuinely good — not just “good for free.” We’re talking about applications that rival their paid counterparts in features, stability, and user experience.</p>
+<p>This isn’t a list of obscure projects you’ve never heard of. These are the best free software alternatives for 2025 that I use daily, that my team relies on, and that thousands of professionals have already adopted. Let’s cut the fluff and get into the tools that will save you hundreds of dollars this year.</p>
+<h2 id="why-2025-is-the-golden-age-of-free-software">Why 2025 Is the Golden Age of Free Software</h2>
+<p>The old argument against free software was always the same: “It’s not as polished.” That died in 2023, and by 2025, it’s completely irrelevant.</p>
+<p>Several trends have converged to make this possible:</p>
+<ul>
+<li><strong>Mature open-source ecosystems</strong> like Blender and Krita now have dedicated foundations, paid developers, and professional training pipelines.</li>
+<li><strong>Generous freemium models</strong> from companies like Canva and DaVinci Resolve give you 90% of the paid features for nothing, banking on you upgrading for niche needs.</li>
+<li><strong>The subscription backlash</strong> has pushed developers to create better free alternatives because users are actively looking for them.</li>
+</ul>
+<p>If you’re still paying for Microsoft Office or Photoshop out of habit, you’re literally throwing money away.</p>
+<h2 id="office--productivity-ditch-microsoft-365">Office &amp; Productivity: Ditch Microsoft 365</h2>
+<h3 id="libreoffice-24x-the-veteran-that-keeps-getting-better">LibreOffice 24.x (The Veteran That Keeps Getting Better)</h3>
+<p>LibreOffice has been the go-to free office suite for years, but the 2024 and 2025 releases are something else. Version 24.2 introduced native tabbed interfaces, better Microsoft Office file compatibility (I’ve opened .docx files with zero formatting issues for six months straight), and a ribbon-like UI that feels familiar to anyone coming from Office 365.</p>
+<p><strong>Real-world test:</strong> I wrote my last two quarterly reports entirely in LibreOffice Writer, exported them as .docx, and emailed them to a client who uses Office 365. They didn’t notice. Not a single “the formatting looks weird” email.</p>
+<p><strong>Actionable tip:</strong> Download the “Fresh” version (not the “Still” version) for the latest features. If you need to collaborate with Office users, install the “Microsoft Fonts” package separately — it’s free and legal.</p>
+<h3 id="onlyoffice-cloud-collaboration-without-the-cost">OnlyOffice (Cloud Collaboration Without the Cost)</h3>
+<p>If you need real-time collaboration — the kind where two people edit the same document and see each other’s cursors — LibreOffice falls short. OnlyOffice fills that gap perfectly.</p>
+<p>It’s a free, open-source office suite with native cloud integration. You can install it on your own server (using Nextcloud or ownCloud) or use the free tier on their cloud platform. The document editor is eerily similar to Word Online, but without the Microsoft account requirement.</p>
+<p><strong>Why it wins in 2025:</strong> OnlyOffice supports collaborative spreadsheets with complex formulas that Google Sheets sometimes chokes on. I’ve tested a 50,000-row financial model in it, and it handled pivot tables without crashing.</p>
+<h2 id="graphic-design--photo-editing-photoshop-who">Graphic Design &amp; Photo Editing: Photoshop Who?</h2>
+<h3 id="krita-digital-painting-and-illustration">Krita (Digital Painting and Illustration)</h3>
+<p>Let’s be clear: Krita is not a Photoshop clone. It’s better for certain tasks. If you do digital painting, concept art, or comic illustration, Krita is the industry standard in the free world. The brush engine is genuinely superior to Photoshop’s — it supports brush stabilization, wrap-around mode, and a pop-up color palette that makes me faster than I ever was in Adobe.</p>
+<p><strong>Real-world example:</strong> A friend of mine runs a small indie game studio. All their character assets are created in Krita. When they hired a freelance concept artist who used Photoshop, the artist switched to Krita within two weeks because the layer management was more intuitive.</p>
+<p><strong>Actionable tip:</strong> Download the “Plus” brush pack from the Krita community store. It adds 50+ professional brushes for free and turns Krita into a legitimate Photoshop alternative for photo manipulation, not just painting.</p>
+<h3 id="photopea-online-photoshop-alternative-that-works-offline">Photopea (Online Photoshop Alternative That Works Offline)</h3>
+<p>Photopea is the most underrated tool in the free software ecosystem. It’s a web-based image editor that runs in your browser and supports .psd files natively. Yes, you read that right — you can open a Photoshop file with layers, blend modes, and adjustment layers directly in Photopea.</p>
+<p>In 2025, Photopea added offline mode (via a PWA install) and native .ai (Adobe Illustrator) file support. It handles most of what I did in Photoshop for web design, social media graphics, and basic photo retouching.</p>
+<p><strong>The catch:</strong> Free version shows banner ads. They’re non-intrusive, and you can remove them for $5/month — but I’ve been using the free version for two years and the ads never bothered me.</p>
+<h2 id="video-editing-davinci-resolve-remains-king">Video Editing: DaVinci Resolve Remains King</h2>
+<h3 id="davinci-resolve-19-the-free-version-is-not-a-demo">DaVinci Resolve 19 (The Free Version Is Not a Demo)</h3>
+<p>DaVinci Resolve’s free version is the best deal in all of software, period. The paid “Studio” version costs $295 (one-time, not subscription), but the free version gives you:</p>
+<ul>
+<li>Full 4K export (no watermark)</li>
+<li>Professional color grading tools (the best in the industry)</li>
+<li>Fairlight audio post-production</li>
+<li>Fusion visual effects</li>
+</ul>
+<p><strong>What you don’t get in the free version:</strong> Noise reduction, some AI features, and a few high-end effects. For 95% of YouTubers, social media creators, and even indie filmmakers, the free version is all you need.</p>
+<p><strong>Real-world example:</strong> I edited a 15-minute documentary entirely in DaVinci Resolve free version. It had 6 audio tracks, color correction on every clip, and motion graphics in Fusion. The export took 12 minutes. The final file was indistinguishable from something edited in Premiere Pro.</p>
+<p><strong>Actionable tip:</strong> DaVinci Resolve has a steep learning curve. Don’t jump in blind. Watch the official “DaVinci Resolve 101” training videos on Blackmagic’s website — they’re free and will save you hours of frustration.</p>
+<h3 id="shotcut-lightweight-alternative-for-simple-edits">Shotcut (Lightweight Alternative for Simple Edits)</h3>
+<p>If DaVinci Resolve feels like piloting a spaceship, Shotcut is a reliable sedan. It’s a free, open-source video editor that starts up in seconds and handles basic cuts, transitions, and audio syncing without the bloat.</p>
+<p><strong>Why use it:</strong> You need to trim a video, add a title, and export it in 5 minutes. Shotcut does that faster than any other tool I’ve used. It also supports a wide range of codecs natively, so you won’t run into “file not supported” errors.</p>
+<h2 id="audio-production--podcasting-studio-quality-for-free">Audio Production &amp; Podcasting: Studio-Quality for Free</h2>
+<h3 id="audacity-the-old-reliable-now-modern">Audacity (The Old Reliable, Now Modern)</h3>
+<p>Audacity has been around forever, and for good reason. In 2025, it’s still the best free audio editor for recording, editing, and mastering voiceovers or podcasts. The 2024 update (version 3.4) finally added a modern UI with dark mode, real-time effects preview, and better multi-track support.</p>
+<p><strong>Real-world test:</strong> I recorded a podcast episode with two remote guests using Audacity + a free plugin called “Noise Gate.” The final audio was clean enough that listeners asked what microphone I was using. (It was a $50 USB mic — the software did the heavy lifting.)</p>
+<p><strong>Actionable tip:</strong> Install the “Audacity to MP3” plugin (LAME encoder) immediately. It’s a one-time setup that lets you export directly to MP3 without a separate converter.</p>
+<h3 id="cakewalk-by-bandlab-full-daw-no-cost">Cakewalk by BandLab (Full DAW, No Cost)</h3>
+<p>For music production, Cakewalk is a full digital audio workstation (DAW) that was previously a $500 product. BandLab acquired it and made it completely free. It supports VST plugins, MIDI editing, and professional mixing tools.</p>
+<p><strong>Who should use it:</strong> Musicians, beatmakers, and anyone who wants to record multi-track music without paying for Ableton Live or FL Studio. The learning curve is real, but the documentation is excellent.</p>
+<h2 id="security--privacy-protect-yourself-without-paying">Security &amp; Privacy: Protect Yourself Without Paying</h2>
+<h3 id="bitwarden-password-manager-that-does-everything">Bitwarden (Password Manager That Does Everything)</h3>
+<p>Bitwarden is the only password manager I recommend. It’s open-source, audited by third-party security firms, and the free tier is unlimited — unlimited passwords, unlimited devices, and unlimited sharing with one other person.</p>
+<p><strong>Why not LastPass or 1Password?</strong> LastPass had multiple security breaches. 1Password costs $3/month. Bitwarden is free, secure, and works on every platform including Linux and command line.</p>
+<p><strong>Actionable tip:</strong> Enable “Two-Factor Authentication” using an authenticator app (like Aegis, also free) inside Bitwarden. This adds an extra layer of security without paying for premium.</p>
+<h3 id="protonvpn-privacy-without-the-logs">ProtonVPN (Privacy Without the Logs)</h3>
+<p>VPNs are mostly marketing hype, but ProtonVPN’s free tier is genuinely useful. It doesn’t log your activity, has no data caps (though speed is throttled on the free plan), and is based in Switzerland (strong privacy laws).</p>
+<p><strong>Real-world use:</strong> I use ProtonVPN free when connecting to public Wi-Fi at cafes or airports. It’s not fast enough for streaming, but for securing your connection on untrusted networks, it’s perfect.</p>
+<h2 id="file-management--storage-cloud-without-the-monthly-fee">File Management &amp; Storage: Cloud Without the Monthly Fee</h2>
+<h3 id="localsend-airdrop-for-everyone">LocalSend (AirDrop for Everyone)</h3>
+<p>AirDrop is great if everyone in the room has an Apple device. LocalSend is the cross-platform equivalent that works on Windows, macOS, Linux, Android, and iOS. It’s open-source, encrypted, and requires no internet connection — it uses your local network.</p>
+<p><strong>Why you need it:</strong> You’re at a friend’s house and need to send a 2GB video file. Instead of uploading to Google Drive and waiting, you open LocalSend on both devices, and the file transfers in under a minute.</p>
+<h3 id="cryptomator-encrypt-your-cloud-files">Cryptomator (Encrypt Your Cloud Files)</h3>
+<p>If you use Google Drive, Dropbox, or OneDrive, Cryptomator encrypts your files before they leave your computer. The free version works perfectly for personal use. It creates a virtual drive on your computer where you store files, and they’re automatically encrypted and synced to the cloud.</p>
+<p><strong>Actionable tip:</strong> Use Cryptomator with Google Drive for sensitive documents like tax returns or contracts. Even if Google gets hacked, your files are unreadable without your password.</p>
+<h2 id="the-final-word-start-small-switch-smart">The Final Word: Start Small, Switch Smart</h2>
+<p>You don’t need to replace all your paid software overnight. Pick one tool from this list and use it for a week. If it works, keep it. If it doesn’t, try another.</p>
+<p>My personal stack in 2025:</p>
+<ul>
+<li><strong>Writing:</strong> LibreOffice + OnlyOffice for collaboration</li>
+<li><strong>Design:</strong> Photopea for quick edits, Krita for illustration</li>
+<li><strong>Video:</strong> DaVinci Resolve (free)</li>
+<li><strong>Audio:</strong> Audacity</li>
+<li><strong>Password management:</strong> Bitwarden</li>
+<li><strong>Cloud encryption:</strong> Cryptomator</li>
+</ul>
+<p>Total cost: $0. And I haven’t missed a single paid tool.</p>
+<p>The software industry wants you to believe that quality costs money. In 2025, that’s simply not true. The free alternatives are here, they’re mature, and they’re waiting for you to make the switch.</p>
+]]></content:encoded></item><item><title>Stop Procrastinating: 5 Science-Backed Ways to Get Things Done</title><link>https://pengjiangwen.github.io/lifestyle/stop-procrastinating-5-science-backed-ways-to-get-things-done/</link><pubDate>Wed, 22 Jul 2026 13:25:40 +0000</pubDate><guid>https://pengjiangwen.github.io/lifestyle/stop-procrastinating-5-science-backed-ways-to-get-things-done/</guid><description>Ditch the guilt and get moving. Learn why you procrastinate and 5 actionable, science-backed strategies to build focus and finish your tasks today.</description><content:encoded><![CDATA[<p>TITLE: Stop Procrastinating: 5 Science-Backed Ways to Get Things Done
 DESCRIPTION: Ditch the guilt and get moving. Learn why you procrastinate and 5 actionable, science-backed strategies to build focus and finish your tasks today.
 TAGS: procrastination, productivity, time management, lifestyle tips, focus, motivation</p>
 <h2 id="introduction">Introduction</h2>
