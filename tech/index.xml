@@ -1,4 +1,226 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Teches on TechLife Guide</title><link>https://pengjiangwen.github.io/tech/</link><description>Recent content in Teches on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 07 Oct 2026 18:12:26 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Tablets for Kids: 2025 Guide for Every Age</title><link>https://pengjiangwen.github.io/tech/best-tablets-for-kids-2025-guide-for-every-age/</link><pubDate>Wed, 07 Oct 2026 18:12:26 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/best-tablets-for-kids-2025-guide-for-every-age/</guid><description>Looking for the best tablet for your kid? We compare Amazon Fire, iPad, Samsung, and more on price, durability, and parental controls.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Teches on TechLife Guide</title><link>https://pengjiangwen.github.io/tech/</link><description>Recent content in Teches on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2026 15:59:34 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Password Manager: An Honest 2025 Guide</title><link>https://pengjiangwen.github.io/tech/best-password-manager-an-honest-2025-guide/</link><pubDate>Mon, 12 Oct 2026 15:59:34 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/best-password-manager-an-honest-2025-guide/</guid><description>Stop guessing which password manager wins. Compare Bitwarden, 1Password, and Proton Pass on price, security, and the features that actually matter.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>Last year, a client of mine—a freelance designer with about 140 online accounts—told me she kept her passwords in a Notes app synced across her devices. She figured it was fine because her phone had a passcode. Then her iCloud account got compromised through a reused password on an old forum she&rsquo;d forgotten about. Within an hour, someone had her email, her bank, and her client portal. The Notes file was the master key.</p>
+<p>That story isn&rsquo;t unusual. It&rsquo;s the default outcome of how most people manage passwords. Reuse one password across a dozen sites and you&rsquo;ve effectively made every account as weak as the weakest site you&rsquo;ve ever signed up for. A password manager fixes this, but only if you pick one you&rsquo;ll actually use every day. The &ldquo;best&rdquo; one isn&rsquo;t a universal answer—it depends on your devices, your threat model, and how much friction you&rsquo;ll tolerate.</p>
+<p>This guide cuts through the affiliate-driven listicles. I&rsquo;ll walk through what actually matters, compare the real contenders, and give you a setup checklist you can finish in an afternoon.</p>
+<h2 id="what-a-password-manager-actually-does-and-what-it-doesnt">What a Password Manager Actually Does (And What It Doesn&rsquo;t)</h2>
+<p>A password manager stores your credentials in an encrypted vault. You unlock that vault with one master password, and it fills in logins for you. That&rsquo;s the core loop. Everything else is detail.</p>
+<p>What it does well:</p>
+<ul>
+<li>Generates long, random, unique passwords for every site</li>
+<li>Fills them automatically so you never type or memorize them</li>
+<li>Syncs across your devices (usually)</li>
+<li>Alerts you to reused or breached passwords</li>
+</ul>
+<p>What it doesn&rsquo;t do:</p>
+<ul>
+<li>Protect you if your master password is weak or reused</li>
+<li>Stop malware already running on your computer</li>
+<li>Replace two-factor authentication (2FA)—it complements it</li>
+</ul>
+<p>That last point trips people up. A password manager and 2FA are two separate layers. You want both.</p>
+<h2 id="the-criteria-that-actually-matter">The Criteria That Actually Matter</h2>
+<p>Most reviews obsess over features you&rsquo;ll never touch. Here&rsquo;s what I weigh when recommending one.</p>
+<h3 id="1-encryption-model-and-zero-knowledge-design">1. Encryption model and zero-knowledge design</h3>
+<p>Every serious manager uses AES-256 or XChaCha20 encryption with a zero-knowledge architecture—meaning the company can&rsquo;t read your vault even if compelled. If a provider can reset your master password for you, that&rsquo;s a red flag. It means they hold a key.</p>
+<h3 id="2-track-record-and-audits">2. Track record and audits</h3>
+<p>Look for published third-party security audits. Bitwarden, 1Password, and Proton Pass all have them. A company that won&rsquo;t submit to independent review is asking for blind trust.</p>
+<h3 id="3-cross-platform-support">3. Cross-platform support</h3>
+<p>If you use an iPhone, a Windows laptop, and a Chromebook, you need a manager that works everywhere. Check browser extensions, mobile apps, and desktop clients before committing.</p>
+<h3 id="4-autofill-quality">4. Autofill quality</h3>
+<p>This is where managers live or die. A vault that doesn&rsquo;t fill forms reliably gets abandoned. Test autofill on your three most-used sites during the free trial.</p>
+<h3 id="5-pricing-and-family-options">5. Pricing and family options</h3>
+<p>Solo plans run roughly $10–$40 per year. Family plans (up to 5–6 people) usually cost $40–$60 annually. That&rsquo;s less than one streaming subscription.</p>
+<h2 id="the-real-contenders-in-2025">The Real Contenders in 2025</h2>
+<h3 id="bitwarden--best-free-option-best-value">Bitwarden — Best free option, best value</h3>
+<p>Bitwarden&rsquo;s free tier is genuinely usable: unlimited passwords, unlimited devices, sync, and a password generator. No other major manager offers that. The premium tier is about $10 per year and adds emergency access, file attachments, and security reports.</p>
+<p>The interface is functional rather than beautiful, and autofill occasionally needs a nudge on complex sites. But for the price—often zero—it&rsquo;s hard to beat. If you&rsquo;re recommending a manager to a non-technical friend or family member, start here.</p>
+<h3 id="1password--best-overall-experience">1Password — Best overall experience</h3>
+<p>1Password costs more (around $36 per year for individuals, roughly $60 for families), and it earns it. Autofill is the most reliable I&rsquo;ve tested. The &ldquo;Watchtower&rdquo; feature flags weak, reused, and breached passwords clearly. Travel Mode lets you hide sensitive vaults from your devices when crossing borders—a niche but genuinely useful feature.</p>
+<p>The catch: no free tier. There&rsquo;s a 14-day trial, then you pay. If you want the smoothest experience and don&rsquo;t mind the cost, this is the pick.</p>
+<h3 id="proton-pass--best-for-privacy-focused-users">Proton Pass — Best for privacy-focused users</h3>
+<p>Proton Pass comes from the team behind Proton Mail. It&rsquo;s newer than the others but maturing fast. The free tier covers unlimited passwords and devices. Paid plans add aliases—disposable email addresses you can generate per site, so a breach at one service never exposes your real inbox.</p>
+<p>If you already use Proton&rsquo;s ecosystem, the integration is seamless. If you don&rsquo;t, it&rsquo;s still a solid standalone option with a strong privacy posture.</p>
+<h3 id="dashlane-and-nordpass--solid-with-caveats">Dashlane and NordPass — Solid, with caveats</h3>
+<p>Dashlane has excellent autofill and a polished interface, but its pricing has crept up and its free tier is now essentially a trial. NordPass is competent and affordable, backed by the team behind NordVPN. Neither does anything the three above don&rsquo;t, so I&rsquo;d only pick them if you&rsquo;re already in their ecosystems.</p>
+<h2 id="a-step-by-step-setup-checklist">A Step-by-Step Setup Checklist</h2>
+<p>Picking a manager is half the job. Migrating without losing access is the other half. Follow this order.</p>
+<ol>
+<li>
+<p><strong>Choose your manager and create the account.</strong> Do this on your primary computer, not your phone. Typing a strong master password is easier with a keyboard.</p>
+</li>
+<li>
+<p><strong>Generate a master password you can actually remember.</strong> Aim for four to five random words plus a number and symbol—something like <code>harbor-lantern-72-quilt!</code>. Write it down on paper and store that paper somewhere physically secure. Yes, paper. It&rsquo;s offline and unhackable.</p>
+</li>
+<li>
+<p><strong>Enable 2FA on the manager itself immediately.</strong> Use an authenticator app, not SMS. This is the single most important step.</p>
+</li>
+<li>
+<p><strong>Install the browser extension and mobile app.</strong> Log in on each device. Verify the vault syncs.</p>
+</li>
+<li>
+<p><strong>Import existing passwords.</strong> Every major manager imports from browsers and CSV files. Chrome, Safari, and Firefox all export your saved logins.</p>
+</li>
+<li>
+<p><strong>Delete the exported CSV file securely.</strong> This is the most common mistake. That CSV is plaintext. Anyone who finds it has everything. Delete it and empty the trash.</p>
+</li>
+<li>
+<p><strong>Run a password health report.</strong> Most managers flag reused and weak passwords. Work through the worst offenders first—email, banking, and anything tied to your identity.</p>
+</li>
+<li>
+<p><strong>Change reused passwords starting with email.</strong> Your email is the master key to password resets everywhere. Fix it first.</p>
+</li>
+<li>
+<p><strong>Turn on 2FA for your top 10 accounts.</strong> Email, bank, social media, cloud storage, and your manager.</p>
+</li>
+<li>
+<p><strong>Set up emergency access.</strong> Most paid plans let you designate a trusted contact who can request vault access if something happens to you. Do this. It takes two minutes and prevents a nightmare for your family.</p>
+</li>
+</ol>
+<h2 id="common-mistakes-to-avoid">Common Mistakes to Avoid</h2>
+<ul>
+<li><strong>Reusing your master password anywhere else.</strong> It should exist in exactly one place: your head and your vault.</li>
+<li><strong>Storing the master password in the vault itself.</strong> Circular and pointless.</li>
+<li><strong>Skipping 2FA because &ldquo;the vault is encrypted.&rdquo;</strong> Encryption protects data at rest. 2FA protects against someone who already has your master password.</li>
+<li><strong>Sharing passwords via text or email.</strong> Use the built-in sharing features instead—they&rsquo;re encrypted end-to-end.</li>
+<li><strong>Ignoring updates.</strong> Install them. Security patches matter.</li>
+<li><strong>Choosing based on affiliate rankings.</strong> Many &ldquo;best password manager&rdquo; articles are paid placements. Check the actual pricing pages.</li>
+</ul>
+<h2 id="which-one-should-you-actually-pick">Which One Should You Actually Pick?</h2>
+<p>If you want free and functional: <strong>Bitwarden</strong>.
+If you want the best experience and will pay for it: <strong>1Password</strong>.
+If privacy and email aliases matter most: <strong>Proton Pass</strong>.</p>
+<p>Any of these three will transform your security posture. The difference between them is smaller than the difference between using one and using none. Pick one this week, run the checklist, and spend the two hours it takes. Your future self—the one who doesn&rsquo;t get locked out of their bank account—will thank you.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/best-budget-laptops-2025-top-picks-under-700/">Best Budget Laptops 2025: Top Picks Under $700</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/best-streaming-devices-2025-top-picks-for-every-budget/">Best Streaming Devices 2025: Top Picks for Every Budget</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/learn-coding-for-beginners-a-realistic-roadmap/">Learn Coding for Beginners: A Realistic Roadmap</a></li>
+</ul>
+]]></content:encoded></item><item><title>How to Secure Your Home WiFi: A Practical Guide</title><link>https://pengjiangwen.github.io/tech/how-to-secure-your-home-wifi-a-practical-guide/</link><pubDate>Mon, 12 Oct 2026 15:59:21 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-secure-your-home-wifi-a-practical-guide/</guid><description>Learn how to secure your home WiFi with router hardening, WPA3 encryption, guest networks, and a step-by-step checklist that blocks real attacks.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>A neighbor of mine spent three weeks wondering why his internet crawled every evening between 7 and 10 p.m. He blamed his provider. He replaced the router. He ran speed tests that looked fine in the morning and terrible at night. The actual cause: his WiFi password was his last name plus &ldquo;123,&rdquo; and a teenager two doors down had been streaming video on his network for a month. His router&rsquo;s admin page still used the factory default login, which meant the kid could have done far worse than borrow bandwidth.</p>
+<p>That story is not unusual. Most home networks are compromised not by elite hackers but by lazy defaults that were never changed. The good news is that securing your WiFi is a weekend project, not a technical career. This guide walks through what actually matters, in the order that matters, with the specific settings and values you should use.</p>
+<h2 id="why-your-router-is-the-weakest-link-in-your-home">Why Your Router Is the Weakest Link in Your Home</h2>
+<p>Your router is the front door to every device you own. Laptops with saved passwords, phones with banking apps, smart cameras pointed at your living room, the tablet your kid uses for school — all of it sits behind one box that most people configure once and never touch again.</p>
+<p>Three failure modes cause the vast majority of home WiFi compromises:</p>
+<ol>
+<li><strong>Weak or shared credentials.</strong> A password like &ldquo;Fluffy2019&rdquo; falls to a dictionary attack in seconds. Reusing your WiFi password on other services means one data breach exposes your network.</li>
+<li><strong>Outdated firmware.</strong> Router manufacturers patch security holes regularly, but routers don&rsquo;t nag you to update the way your phone does. An unpatched router from 2018 can have dozens of known vulnerabilities.</li>
+<li><strong>Default admin access.</strong> If your router&rsquo;s management page still accepts &ldquo;admin/admin,&rdquo; anyone on your network can lock you out, redirect your traffic, or install malicious firmware.</li>
+</ol>
+<p>Fix those three and you&rsquo;ve eliminated most realistic threats. Everything below is about doing exactly that, plus a few extras that close the remaining gaps.</p>
+<h2 id="step-1-get-into-your-routers-admin-panel">Step 1: Get Into Your Router&rsquo;s Admin Panel</h2>
+<p>You can&rsquo;t secure what you can&rsquo;t see. Open a browser and go to your router&rsquo;s gateway address. Common ones:</p>
+<ul>
+<li><code>192.168.1.1</code></li>
+<li><code>192.168.0.1</code></li>
+<li><code>10.0.0.1</code></li>
+</ul>
+<p>If none work, on Windows open Command Prompt and type <code>ipconfig</code>. Look for &ldquo;Default Gateway.&rdquo; On Mac, check System Settings → Network → Details → TCP/IP. On your phone, the gateway is usually listed in the WiFi connection details.</p>
+<p>Log in with the credentials printed on the router&rsquo;s sticker — then change them immediately. Use a password manager to generate something like <code>v7K#mQ2$pL9xR4nT</code> and store it. Do not reuse your WiFi password here. These are two separate locks.</p>
+<p><strong>Common mistake:</strong> Skipping this step because the default password &ldquo;seems fine.&rdquo; It isn&rsquo;t. Default credentials are published in every router manual on earth.</p>
+<h2 id="step-2-choose-the-right-encryption-wpa3-not-wep">Step 2: Choose the Right Encryption (WPA3, Not WEP)</h2>
+<p>Your router offers several security modes. Pick the right one:</p>
+<ul>
+<li><strong>WEP</strong> — Broken since roughly 2004. If your router only supports WEP, replace the router.</li>
+<li><strong>WPA/TKIP</strong> — Obsolete. Avoid.</li>
+<li><strong>WPA2/AES</strong> — Still acceptable in 2024 if WPA3 isn&rsquo;t available.</li>
+<li><strong>WPA3</strong> — The current standard. Use it if your router supports it.</li>
+<li><strong>WPA2/WPA3 Mixed</strong> — A reasonable compromise if some older devices can&rsquo;t handle WPA3 alone.</li>
+</ul>
+<p>WPA3 adds protection against offline password guessing, which means even if someone captures your WiFi traffic, they can&rsquo;t run a brute-force attack against it at home. If your router is more than five years old and doesn&rsquo;t offer WPA2/AES at minimum, a $60 replacement is one of the best security purchases you can make.</p>
+<h2 id="step-3-set-a-wifi-password-that-actually-holds-up">Step 3: Set a WiFi Password That Actually Holds Up</h2>
+<p>Length beats complexity. A 20-character passphrase like <code>correct-horse-battery-staple-7</code> is stronger and easier to type than <code>X7$kL9!q</code>. Aim for at least 16 characters, mixing words is fine, and include a number or symbol to satisfy picky devices.</p>
+<p>Do not use:</p>
+<ul>
+<li>Your address, last name, or pet&rsquo;s name</li>
+<li>Your phone number</li>
+<li>Anything you&rsquo;ve used on another account</li>
+<li>The default password printed on the router</li>
+</ul>
+<p>Change it now if it&rsquo;s been the same for years. Yes, you&rsquo;ll have to re-enter it on every device once. That&rsquo;s a 10-minute inconvenience versus an open door.</p>
+<h2 id="step-4-update-firmware-and-turn-on-auto-updates">Step 4: Update Firmware and Turn On Auto-Updates</h2>
+<p>Firmware is the router&rsquo;s operating system. Outdated firmware is the single most exploited weakness in home networks.</p>
+<p>In your admin panel, look for &ldquo;Firmware,&rdquo; &ldquo;Update,&rdquo; or &ldquo;Administration.&rdquo; If there&rsquo;s a &ldquo;Check for updates&rdquo; button, press it. If there&rsquo;s an auto-update toggle, turn it on.</p>
+<p>If your router doesn&rsquo;t support automatic updates — many older ones don&rsquo;t — set a calendar reminder every 90 days to check manually. It takes two minutes and prevents the majority of remote attacks.</p>
+<p><strong>Worth knowing:</strong> Some ISPs push firmware updates to rented routers automatically. If you rent your router, ask your provider whether updates are automatic. If they say no, consider buying your own router. You&rsquo;ll save the rental fee within a year and gain full control.</p>
+<h2 id="step-5-lock-down-the-admin-interface">Step 5: Lock Down the Admin Interface</h2>
+<p>Back in the admin panel, find the remote management settings. Turn off:</p>
+<ul>
+<li><strong>Remote administration / WAN access</strong> — This lets someone on the internet reach your router&rsquo;s login page. There is almost never a legitimate reason to enable it at home.</li>
+<li><strong>UPnP (Universal Plug and Play)</strong> — Convenient for gaming consoles, but it lets any device on your network open ports to the internet without asking. Disable it unless a specific device genuinely requires it.</li>
+<li><strong>WPS (WiFi Protected Setup)</strong> — The push-button pairing feature. It&rsquo;s vulnerable to brute-force attacks that recover your WiFi password in hours. Turn it off. Yes, even though the button is convenient.</li>
+</ul>
+<p>Change the admin username from &ldquo;admin&rdquo; to something unique if your router allows it. Many don&rsquo;t, which is another reason to consider a modern router.</p>
+<h2 id="step-6-segment-your-network-with-a-guest-wifi">Step 6: Segment Your Network With a Guest WiFi</h2>
+<p>Your smart TV doesn&rsquo;t need to see your laptop. Your kid&rsquo;s gaming console doesn&rsquo;t need access to your work files. A guest network solves this in about two minutes.</p>
+<p>Enable the guest network in your router settings. Give it a different name and password. Connect all of these to it:</p>
+<ul>
+<li>Smart home devices (bulbs, plugs, cameras, thermostats)</li>
+<li>Guest phones and laptops</li>
+<li>Kids&rsquo; devices, if you want to apply parental controls later</li>
+<li>Anything you don&rsquo;t fully trust</li>
+</ul>
+<p>Most routers isolate guest networks from the main network by default, meaning a compromised smart bulb can&rsquo;t reach your laptop. Verify this by checking for an &ldquo;AP isolation&rdquo; or &ldquo;client isolation&rdquo; setting and enabling it.</p>
+<p>If your router supports VLANs or a &ldquo;IoT network&rdquo; option, even better. But guest WiFi covers 95% of home needs.</p>
+<h2 id="step-7-the-rest-of-the-checklist">Step 7: The Rest of the Checklist</h2>
+<p>Work through this in one sitting. Check items off as you go.</p>
+<p><strong>Router settings</strong></p>
+<ul>
+<li><input disabled="" type="checkbox"> Changed admin password from default</li>
+<li><input disabled="" type="checkbox"> Disabled remote/WAN administration</li>
+<li><input disabled="" type="checkbox"> Disabled WPS</li>
+<li><input disabled="" type="checkbox"> Disabled UPnP (unless a specific device needs it)</li>
+<li><input disabled="" type="checkbox"> Enabled WPA3 or WPA2/AES</li>
+<li><input disabled="" type="checkbox"> Set WiFi password to 16+ characters, unique</li>
+<li><input disabled="" type="checkbox"> Changed the default SSID (network name) so it doesn&rsquo;t reveal your router model</li>
+<li><input disabled="" type="checkbox"> Enabled automatic firmware updates, or set a 90-day reminder</li>
+<li><input disabled="" type="checkbox"> Enabled firewall (usually on by default — verify)</li>
+<li><input disabled="" type="checkbox"> Enabled guest network with client isolation</li>
+</ul>
+<p><strong>Devices and habits</strong></p>
+<ul>
+<li><input disabled="" type="checkbox"> Every device on the network uses a unique password for its own accounts</li>
+<li><input disabled="" type="checkbox"> Smart devices are on the guest network</li>
+<li><input disabled="" type="checkbox"> Router is physically placed somewhere guests can&rsquo;t reach the reset button</li>
+<li><input disabled="" type="checkbox"> You know how to check connected devices in the admin panel</li>
+</ul>
+<p><strong>Ongoing</strong></p>
+<ul>
+<li><input disabled="" type="checkbox"> Check the connected devices list monthly for anything unfamiliar</li>
+<li><input disabled="" type="checkbox"> Replace the router if it&rsquo;s more than 6–7 years old</li>
+<li><input disabled="" type="checkbox"> If you rent from your ISP, ask about automatic firmware updates</li>
+</ul>
+<h2 id="how-to-spot-a-compromised-network">How to Spot a Compromised Network</h2>
+<p>Even with everything above, it&rsquo;s worth knowing the warning signs. Check your router&rsquo;s &ldquo;Connected Devices&rdquo; or &ldquo;Attached Devices&rdquo; list. You should recognize every entry. If you see a device you don&rsquo;t own — a phone, a laptop, an unfamiliar name — something is wrong.</p>
+<p>Other signals:</p>
+<ul>
+<li>Internet slows dramatically at consistent times (evenings, weekends)</li>
+<li>Your router&rsquo;s admin password no longer works</li>
+<li>DNS settings changed without your input</li>
+<li>Browser warnings about certificate errors on sites that used to work</li>
+</ul>
+<p>If any of these happen, change your WiFi password immediately, factory reset the router, and reconfigure it using this guide. Then change passwords on any accounts you accessed while the network was compromised.</p>
+<h2 id="what-about-vpns-and-public-wifi">What About VPNs and Public WiFi?</h2>
+<p>A VPN encrypts your traffic between your device and the VPN server. It&rsquo;s useful on public WiFi at airports and coffee shops, where you don&rsquo;t control the network. At home, on a properly secured network, a VPN mostly adds overhead. It doesn&rsquo;t replace the steps above — it can&rsquo;t stop someone from joining your WiFi if your password is weak.</p>
+<p>If you work from home with sensitive data, a VPN to your employer&rsquo;s network is a different thing and usually required. That&rsquo;s fine. Just don&rsquo;t confuse it with home network security.</p>
+<h2 id="the-30-minute-version">The 30-Minute Version</h2>
+<p>If you only do five things, do these:</p>
+<ol>
+<li>Change the router admin password.</li>
+<li>Set WPA3 (or WPA2/AES) with a 16+ character WiFi password.</li>
+<li>Update the firmware and turn on auto-updates.</li>
+<li>Disable WPS, UPnP, and remote administration.</li>
+<li>Put smart devices on a guest network.</li>
+</ol>
+<p>That&rsquo;s a stronger setup than 90% of homes. Everything else in this guide is refinement.</p>
+<p>Your WiFi is the perimeter of your digital life. Treat the router like the front door it is — lock it, check it occasionally, and don&rsquo;t hand out keys you can&rsquo;t track.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-clean-your-pc-fans-in-20-minutes-or-less/">How to Clean Your PC Fans in 20 Minutes or Less</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/fix-slow-internet-speed-15-fixes-that-actually-work/">Fix Slow Internet Speed: 15 Fixes That Actually Work</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-fix-a-slow-internet-connection-12-real-solutions/">How to Fix a Slow Internet Connection: 12 Real Solutions</a></li>
+</ul>
+]]></content:encoded></item><item><title>Best Tablets for Kids: 2025 Guide for Every Age</title><link>https://pengjiangwen.github.io/tech/best-tablets-for-kids-2025-guide-for-every-age/</link><pubDate>Wed, 07 Oct 2026 18:12:26 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/best-tablets-for-kids-2025-guide-for-every-age/</guid><description>Looking for the best tablet for your kid? We compare Amazon Fire, iPad, Samsung, and more on price, durability, and parental controls.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>My nephew dropped his tablet down a flight of stairs last Thanksgiving. The screen survived. The $12 case I&rsquo;d bought him did not. That single moment taught me more about kids&rsquo; tablets than any spec sheet ever could: the hardware matters less than what you wrap around it, and the software matters more than both.</p>
 <p>If you&rsquo;re shopping for a tablet for a child, you&rsquo;ve probably noticed the market splits into two camps. There are cheap kid-branded tablets that feel like toys, and full-price adult tablets that you&rsquo;re terrified to hand over. The sweet spot sits somewhere in between, and it depends almost entirely on your kid&rsquo;s age and how you plan to use the thing.</p>
 <p>Here&rsquo;s what actually matters, plus specific picks that hold up in real households.</p>
@@ -1624,6 +1846,10 @@ Tech-savvy photographers who want to save money in the long run and have a drive
 <li><strong>Buy the Refurbished ThinkPad X1 Carbon</strong> if you value build quality and typing feel above all else and don&rsquo;t mind buying certified refurbished.</li>
 </ul>
 <p>The days of the &ldquo;disposable&rdquo; budget laptop are over. In 2025, you can spend under $700 and get a machine that will last you four to five years without frustration. The key is to avoid the marketing traps, prioritize RAM and SSD storage, and choose the screen that fits your needs. Happy hunting.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/best-password-manager-an-honest-2025-guide/">Best Password Manager: An Honest 2025 Guide</a></li>
+</ul>
 ]]></content:encoded></item><item><title>How to Clean Your PC Fans in 20 Minutes or Less</title><link>https://pengjiangwen.github.io/tech/how-to-clean-your-pc-fans-in-20-minutes-or-less/</link><pubDate>Tue, 08 Sep 2026 02:21:35 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-clean-your-pc-fans-in-20-minutes-or-less/</guid><description>Stop overheating and jet-engine noise. Learn how to safely clean your PC fans with this step-by-step guide. No disassembly skills required.</description><content:encoded><![CDATA[<p>TITLE: How to Clean Your PC Fans in 20 Minutes or Less
 DESCRIPTION: Stop overheating and jet-engine noise. Learn how to safely clean your PC fans with this step-by-step guide. No disassembly skills required.
 TAGS: PC maintenance, cleaning computer fans, PC cooling, dust removal, computer upkeep</p>
@@ -1714,6 +1940,10 @@ These are the mesh screens over your intake fans. They are your first line of de
 <p>Cleaning your PC fans is not a luxury; it&rsquo;s a necessity. It takes less time than a single episode of your favorite show, and it can extend the life of your hardware by years. It&rsquo;s also the cheapest performance upgrade you can do—because you&rsquo;re unlocking the performance you already paid for.</p>
 <p>I saved $500 that day by cleaning my fans instead of buying a new GPU. But more importantly, I learned that preventative maintenance beats reactive spending every single time.</p>
 <p>So, shut down your PC, grab that compressed air, and give your fans the love they deserve. Your ears—and your CPU—will thank you.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-secure-your-home-wifi-a-practical-guide/">How to Secure Your Home WiFi: A Practical Guide</a></li>
+</ul>
 ]]></content:encoded></item><item><title>Best Smart Home Devices 2025: Top Picks &amp; Buying Tips</title><link>https://pengjiangwen.github.io/tech/best-smart-home-devices-2025-top-picks-buying-tips/</link><pubDate>Mon, 07 Sep 2026 16:57:31 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/best-smart-home-devices-2025-top-picks-buying-tips/</guid><description>Discover the top smart home devices of 2025, from Matter-enabled hubs to AI security cams. Real-world testing, honest picks, and zero fluff.</description><content:encoded><![CDATA[<p>TITLE: Best Smart Home Devices 2025: Top Picks &amp; Buying Tips
 DESCRIPTION: Discover the top smart home devices of 2025, from Matter-enabled hubs to AI security cams. Real-world testing, honest picks, and zero fluff.
 TAGS: smart home 2025, best smart devices, Matter protocol, home automation</p>
