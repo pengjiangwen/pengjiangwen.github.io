@@ -100,3 +100,7 @@ It comes down to your specific ecosystem and needs:
 - **Buy the Refurbished ThinkPad X1 Carbon** if you value build quality and typing feel above all else and don't mind buying certified refurbished.
 
 The days of the "disposable" budget laptop are over. In 2025, you can spend under $700 and get a machine that will last you four to five years without frustration. The key is to avoid the marketing traps, prioritize RAM and SSD storage, and choose the screen that fits your needs. Happy hunting.
+
+## Related Reading
+
+- [Best Password Manager: An Honest 2025 Guide](https://pengjiangwen.github.io/tech/best-password-manager-an-honest-2025-guide/)

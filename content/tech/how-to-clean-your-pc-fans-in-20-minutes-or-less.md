@@ -128,3 +128,7 @@ Cleaning your PC fans is not a luxury; it's a necessity. It takes less time than
 I saved $500 that day by cleaning my fans instead of buying a new GPU. But more importantly, I learned that preventative maintenance beats reactive spending every single time.
 
 So, shut down your PC, grab that compressed air, and give your fans the love they deserve. Your ears—and your CPU—will thank you.
+
+## Related Reading
+
+- [How to Secure Your Home WiFi: A Practical Guide](https://pengjiangwen.github.io/tech/how-to-secure-your-home-wifi-a-practical-guide/)
