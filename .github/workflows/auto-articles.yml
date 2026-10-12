@@ -78,14 +78,18 @@ jobs:
         if: success()
         env:
           BEFORE_SHA: ${{ steps.before.outputs.sha }}
+          BASE_URL: https://pengjiangwen.github.io
         run: |
           TOTAL=$(find content -name '*.md' | wc -l | tr -d ' ')
           echo "TOTAL_ARTICLES=$TOTAL" >> "$GITHUB_ENV"
           {
-            echo "NEW_TITLES<<__EOF__"
+            echo "NEW_ITEMS<<__EOF__"
             git diff --name-only "$BEFORE_SHA" HEAD -- content/ | grep '\.md$' | while read -r f; do
-              sed -n 's/^title:[[:space:]]*//p' "$f" | head -1
-            done | sed 's/^"//; s/"$//; s/\\"/"/g'
+              title=$(sed -n 's/^title:[[:space:]]*//p' "$f" | head -1 | sed 's/^"//; s/"$//; s/\\"/"/g')
+              categ=$(basename "$(dirname "$f")")
+              slug=$(basename "$f" .md)
+              echo "- [${title}](${BASE_URL}/${categ}/${slug}/)"
+            done
             echo "__EOF__"
           } >> "$GITHUB_ENV"
 

@@ -44,7 +44,8 @@ def build_message() -> dict:
     now = time.strftime("%Y-%m-%d %H:%M", time.localtime(time.time() + 8 * 3600))  # CST
     total = os.environ.get("TOTAL_ARTICLES", "?").strip()
     indexed = os.environ.get("INDEXED_COUNT", "").strip()
-    titles = [t.strip() for t in os.environ.get("NEW_TITLES", "").split("\n") if t.strip()]
+    failed = os.environ.get("INDEXED_FAILED", "").strip()
+    items = [t.strip() for t in os.environ.get("NEW_ITEMS", "").split("\n") if t.strip()]
 
     if status == "success":
         lines = [
@@ -52,16 +53,16 @@ def build_message() -> dict:
             "",
             f"**推送时间**：{now} (CST)",
             "**推送状态**：成功 ✅",
-            f"**本次推送篇幅**：{len(titles)} 篇",
+            f"**本次推送篇幅**：{len(items)} 篇",
         ]
-        for t in titles:
-            lines.append(f"- {t}")
-        if not titles:
+        lines.extend(items)
+        if not items:
             lines.append("- （本次无新文章）")
         lines.append("")
         lines.append(f"**网站文章总数**：{total} 篇")
         if indexed:
-            lines.append(f"**Google 已收录**：{indexed} 页")
+            suffix = f"（另有 {failed} 页查询失败）" if failed not in ("", "0") else ""
+            lines.append(f"**Google 已收录**：{indexed} 页{suffix}")
         lines.append("")
         lines.append(f"[查看运行日志]({RUN_URL})")
     else:

@@ -88,8 +88,10 @@ def main() -> None:
     if "GITHUB_ENV" in os.environ:
         with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as fh:
             fh.write(f"INDEXED_COUNT={indexed}\n")
+            fh.write(f"INDEXED_FAILED={failed}\n")
     else:
         print(f"INDEXED_COUNT={indexed}")
+        print(f"INDEXED_FAILED={failed}")
 
 
 if __name__ == "__main__":
