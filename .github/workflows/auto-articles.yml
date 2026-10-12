@@ -9,6 +9,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  issues: write
 
 jobs:
   generate:
@@ -34,14 +35,6 @@ jobs:
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
         run: python scripts/generate_article.py
 
-      - name: Commit and push changes to main
-        run: |
-          git config user.name "pengjiangwen"
-          git config user.email "pengjiangwen@gmail.com"
-          git add config/keywords.json content/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto: generate daily articles"
-          git push
-
       - uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
@@ -51,9 +44,43 @@ jobs:
           rm -rf themes/PaperMod
           git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1
 
-      - run: hugo --minify --destination public
+      # Build BEFORE committing, so a broken article never gets saved to main
+      # and the live site never drifts out of sync with the repository.
+      - name: Build site (validates front matter)
+        run: hugo --minify --destination public
+
+      - name: Commit and push changes to main
+        run: |
+          git config user.name "pengjiangwen"
+          git config user.email "pengjiangwen@gmail.com"
+          git add config/keywords.json content/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto: generate daily articles"
+          git push
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+
+      # Free notification: open a GitHub Issue on failure -> you get an email.
+      # Duplicate open issues are skipped so it won't spam.
+      - name: Notify on failure (GitHub Issue)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TITLE="⚠️ 定时任务失败：文章生成/部署"
+          RUN_URL="https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          EXISTING=$(gh issue list --state open --search "$TITLE in:title" --json number --jq 'length' || echo 0)
+          if [ "$EXISTING" -gt 0 ]; then
+            echo "An open failure issue already exists, skipping."
+            exit 0
+          fi
+          gh issue create \
+            --title "$TITLE" \
+            --body "自动生成文章或部署网站时出错，**网站可能没有更新**。
+
+          请查看本次运行的日志：
+          ${RUN_URL}
+
+          修好后可以关闭本 Issue。"
