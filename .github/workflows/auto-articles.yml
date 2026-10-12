@@ -21,12 +21,17 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
       - run: pip install openai
+
+      - name: Record current commit
+        id: before
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
       - name: Generate articles with AI
         env:
@@ -61,10 +66,33 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 
-      # Free notification: push to DingTalk group robot on failure.
+      - name: Collect publish stats
+        if: success()
+        env:
+          BEFORE_SHA: ${{ steps.before.outputs.sha }}
+        run: |
+          TOTAL=$(find content -name '*.md' | wc -l | tr -d ' ')
+          echo "TOTAL_ARTICLES=$TOTAL" >> "$GITHUB_ENV"
+          {
+            echo "NEW_TITLES<<__EOF__"
+            git diff --name-only "$BEFORE_SHA" HEAD -- content/ | grep '\.md$' | while read -r f; do
+              sed -n 's/^title:[[:space:]]*//p' "$f" | head -1
+            done | sed 's/^"//; s/"$//; s/\\"/"/g'
+            echo "__EOF__"
+          } >> "$GITHUB_ENV"
+
+      - name: Notify success (DingTalk)
+        if: success()
+        env:
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          NOTIFY_STATUS: success
+        run: python scripts/notify_dingtalk.py
+
       - name: Notify on failure (DingTalk)
         if: failure()
         env:
           DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
           DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          NOTIFY_STATUS: failure
         run: python scripts/notify_dingtalk.py
