@@ -1,4 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Smartphones on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/smartphones/</link><description>Recent content in Smartphones on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2026 02:45:52 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/smartphones/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Extend Phone Battery Life: 12 Proven Tips</title><link>https://pengjiangwen.github.io/tech/how-to-extend-phone-battery-life-12-proven-tips/</link><pubDate>Fri, 25 Sep 2026 02:45:52 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-extend-phone-battery-life-12-proven-tips/</guid><description>Learn how to extend your phone battery life with practical, tested tips—from screen settings to charging habits that actually work.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Smartphones on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/smartphones/</link><description>Recent content in Smartphones on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2026 16:18:48 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/smartphones/index.xml" rel="self" type="application/rss+xml"/><item><title>Top Programming Languages to Learn in 2025: A Practical Guide</title><link>https://pengjiangwen.github.io/tech/top-programming-languages-to-learn-in-2025-a-practical-guide/</link><pubDate>Mon, 12 Oct 2026 16:18:48 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/top-programming-languages-to-learn-in-2025-a-practical-guide/</guid><description>A practical, no-fluff guide to the top programming languages to learn in 2025, with salary data, learning timelines, and a step-by-step plan.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>A job posting for a junior web developer in Austin, Texas, receives 340 applications in 72 hours. The recruiter screens them in two passes: first by whether the candidate&rsquo;s GitHub shows working code, second by whether that code is in a language the team actually uses. Two hundred of those resumes never get a human read.</p>
+<p>That&rsquo;s the real stakes of choosing a programming language. It&rsquo;s not about which language is &ldquo;best&rdquo; in some abstract sense. It&rsquo;s about which language gets you past the filter, into a codebase, and paid while you keep learning.</p>
+<p>This guide skips the hype cycle. Instead, it gives you the actual data — salary ranges, job counts, learning curves — and a decision framework you can apply this week.</p>
+<h2 id="the-only-three-questions-that-matter">The Only Three Questions That Matter</h2>
+<p>Before you look at a single language, answer these honestly:</p>
+<ol>
+<li><strong>What do you want to build?</strong> Websites, mobile apps, games, data pipelines, and embedded hardware all have different default languages.</li>
+<li><strong>How much time do you have?</strong> A first language takes 3–6 months to reach &ldquo;employable junior&rdquo; level with consistent daily practice. A second takes 6–10 weeks.</li>
+<li><strong>What does your local job market actually hire for?</strong> Search &ldquo;junior developer&rdquo; on LinkedIn or Indeed, filter to your city, and count the languages mentioned in the first 50 postings. That list is your shortlist.</li>
+</ol>
+<p>Most people skip question three and learn a language nobody near them is hiring for. Don&rsquo;t do that.</p>
+<h2 id="the-shortlist-languages-worth-your-time-in-2025">The Shortlist: Languages Worth Your Time in 2025</h2>
+<h3 id="python--the-best-first-language-for-most-people">Python — The Best First Language for Most People</h3>
+<p>Python sits at or near the top of the TIOBE index, Stack Overflow&rsquo;s survey, and GitHub&rsquo;s annual report — three independent measures agreeing is rare and meaningful.</p>
+<p><strong>Why it works as a first language:</strong> The syntax reads close to English. You can print &ldquo;Hello, world&rdquo; in one line. There&rsquo;s no memory management, no semicolons, no compilation step. You spend your first month learning programming concepts instead of fighting the toolchain.</p>
+<p><strong>Where the jobs are:</strong> Data analysis, machine learning, backend web development (Django, FastAPI), automation, and scripting. Entry-level Python roles in the US typically post between $70,000 and $95,000. Senior data and ML roles regularly clear $150,000.</p>
+<p><strong>Realistic timeline:</strong> 4–6 months of one hour per day to build three portfolio projects and pass a junior interview.</p>
+<p><strong>Common mistake:</strong> Learning Python syntax and stopping there. Syntax is 10% of the job. Build something that stores data, reads it back, and handles an error. That&rsquo;s the other 90%.</p>
+<h3 id="javascript--non-negotiable-for-anything-web">JavaScript — Non-Negotiable for Anything Web</h3>
+<p>If you want to build websites or web apps, JavaScript isn&rsquo;t optional. It&rsquo;s the only language browsers run natively. TypeScript — JavaScript with type annotations — now appears in more than 40% of professional codebases on GitHub, so plan to learn both.</p>
+<p><strong>Why it&rsquo;s worth it:</strong> Every interactive element on every website you&rsquo;ve ever used runs on JavaScript. The demand is enormous and geographically distributed. You can work remotely for a company on another continent.</p>
+<p><strong>The Node.js bonus:</strong> With Node.js, you write backend code in the same language. One language, both sides of the application. That&rsquo;s a genuine efficiency for solo developers and small teams.</p>
+<p><strong>Salary reality:</strong> Junior front-end roles in the US average $65,000–$85,000. Full-stack developers with TypeScript experience commonly see $95,000–$130,000.</p>
+<p><strong>Common mistake:</strong> Chasing frameworks. React, Vue, Svelte — they change every few years. Spend your first three months on plain JavaScript: functions, arrays, objects, the DOM, fetch. Frameworks become easy once the fundamentals are solid.</p>
+<h3 id="java--the-enterprise-workhorse">Java — The Enterprise Workhorse</h3>
+<p>Java has been in production since 1995 and still powers Android apps, banking systems, and large-scale backend services. It&rsquo;s verbose. It&rsquo;s also everywhere, and it pays.</p>
+<p><strong>Why learn it:</strong> Stability. Companies running Java systems have decades of code and a constant need for maintainers. That&rsquo;s not glamorous, but it&rsquo;s employable. Average US salary for Java developers: $95,000–$120,000.</p>
+<p><strong>The Android angle:</strong> While Kotlin is now Google&rsquo;s preferred Android language, millions of existing Android apps are Java. Knowing Java opens that maintenance and migration work.</p>
+<p><strong>Common mistake:</strong> Treating Java&rsquo;s verbosity as a flaw. It&rsquo;s a design choice that makes large codebases easier to reason about. Learn to appreciate it or you&rsquo;ll resent every line.</p>
+<h3 id="go--small-language-big-demand">Go — Small Language, Big Demand</h3>
+<p>Go was built at Google to solve Google-sized problems: fast compilation, simple concurrency, easy deployment. It has roughly 25 keywords. You can read the entire language spec in an afternoon.</p>
+<p><strong>Why it&rsquo;s gaining:</strong> Cloud infrastructure. Docker, Kubernetes, and Terraform are written in Go. Companies building backend services at scale — Stripe, Uber, Cloudflare — hire Go developers aggressively. Median US salary: $120,000–$145,000.</p>
+<p><strong>Common mistake:</strong> Learning Go as your first language. It&rsquo;s simple, but it assumes you already understand pointers, concurrency, and types. Learn Python or JavaScript first, then add Go in 6–8 weeks.</p>
+<h3 id="rust--steep-curve-serious-payoff">Rust — Steep Curve, Serious Payoff</h3>
+<p>Rust has topped Stack Overflow&rsquo;s &ldquo;most loved language&rdquo; survey for eight consecutive years. It&rsquo;s also genuinely hard. The borrow checker will reject your code repeatedly until you internalize ownership rules.</p>
+<p><strong>Why bother:</strong> Memory safety without garbage collection. That matters for systems programming, game engines, and performance-critical services. The talent pool is small, so salaries are high — $130,000–$180,000 in the US for experienced roles.</p>
+<p><strong>Common mistake:</strong> Starting here. Learn one language first. Rust as a second or third language is a career accelerator. Rust as a first language is a six-month frustration spiral.</p>
+<h2 id="a-step-by-step-plan-you-can-start-monday">A Step-by-Step Plan You Can Start Monday</h2>
+<p>Here&rsquo;s the checklist. Follow it in order.</p>
+<p><strong>Step 1: Pick one language. Just one.</strong>
+Use the three questions above. If you&rsquo;re unsure, pick Python. Write the choice down and commit for 90 days.</p>
+<p><strong>Step 2: Set a daily minimum.</strong>
+One hour, six days a week. Consistency beats intensity. Two hours every Saturday is worse than 30 minutes daily.</p>
+<p><strong>Step 3: Use one primary resource.</strong>
+Free options: Python&rsquo;s official tutorial, MDN Web Docs for JavaScript, &ldquo;A Tour of Go.&rdquo; Paid: one structured course, not five. Switching resources every week is the most common way beginners stall.</p>
+<p><strong>Step 4: Build three projects in this order.</strong></p>
+<ul>
+<li>A command-line tool that does something you personally need (a file organizer, a unit converter).</li>
+<li>A program that reads and writes data (a to-do list saved to a file, or a small database app).</li>
+<li>Something with a user interface (a web page, a desktop window, or a simple API).</li>
+</ul>
+<p><strong>Step 5: Read other people&rsquo;s code.</strong>
+Pick a small open-source project in your language. Read it for 20 minutes a day. You&rsquo;ll understand maybe 30% at first. That number climbs fast.</p>
+<p><strong>Step 6: Learn Git in week two, not month six.</strong>
+Every project goes on GitHub. Commit daily. Recruiters check commit history — a green contribution graph from the last six months is worth more than a certificate.</p>
+<p><strong>Step 7: Apply before you feel ready.</strong>
+Start applying at month four. You will fail interviews. Each failure tells you exactly what to study next. Waiting until you feel &ldquo;ready&rdquo; is how people spend two years learning and zero months earning.</p>
+<h2 id="what-not-to-do">What NOT to Do</h2>
+<ul>
+<li><strong>Don&rsquo;t learn five languages at once.</strong> You&rsquo;ll be mediocre at all of them. Depth beats breadth for your first two years.</li>
+<li><strong>Don&rsquo;t chase trends from social media.</strong> A language trending on X today may be irrelevant in 18 months. Job boards are slower and more honest than hype.</li>
+<li><strong>Don&rsquo;t skip fundamentals.</strong> Data structures, algorithms, and version control are language-agnostic. They transfer everywhere.</li>
+<li><strong>Don&rsquo;t pay for a bootcamp before trying free resources for 30 days.</strong> If you can&rsquo;t sustain free learning, you won&rsquo;t sustain paid learning either.</li>
+<li><strong>Don&rsquo;t ignore the second language.</strong> After your first is solid, add a complementary one: Python + JavaScript, JavaScript + Go, Java + Kotlin. Two languages doubles your job pool.</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Python for versatility. JavaScript for the web. Java for enterprise stability. Go for infrastructure. Rust for the long game.</p>
+<p>Pick one. Spend 90 days with it. Build three things. Put them on GitHub. Apply for jobs before you feel qualified.</p>
+<p>The language matters less than the 90 days. Anyone can read a list of languages. The people who get hired are the ones who wrote code yesterday, the day before, and the day before that.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/best-coding-apps-for-beginners-in-2025/">Best Coding Apps for Beginners in 2025</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/best-linux-distros-for-beginners-in-2025-no-terminal-fear/">Best Linux Distros for Beginners in 2025 (No Terminal Fear)</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-transfer-photos-to-computer-5-fast-methods/">How to Transfer Photos to Computer: 5 Fast Methods</a></li>
+</ul>
+]]></content:encoded></item><item><title>How to Extend Phone Battery Life: 12 Proven Tips</title><link>https://pengjiangwen.github.io/tech/how-to-extend-phone-battery-life-12-proven-tips/</link><pubDate>Fri, 25 Sep 2026 02:45:52 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-extend-phone-battery-life-12-proven-tips/</guid><description>Learn how to extend your phone battery life with practical, tested tips—from screen settings to charging habits that actually work.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>My phone died at 2 PM last Tuesday. Not because the battery was old—it was an eight-month-old flagship with a 4,500 mAh cell. It died because I&rsquo;d been running Google Maps navigation at full brightness, with Bluetooth on, streaming music to wireless earbuds, and letting 47 apps refresh in the background. All at once.</p>
 <p>That afternoon taught me something most people learn the hard way: modern phones don&rsquo;t die from bad hardware. They die from bad habits.</p>
 <p>The good news? Battery drain is almost entirely within your control. In this post, I&rsquo;ll walk through the settings, behaviors, and small tweaks that can realistically add hours to your daily screen time—backed by how lithium-ion batteries actually work, not just folklore.</p>
