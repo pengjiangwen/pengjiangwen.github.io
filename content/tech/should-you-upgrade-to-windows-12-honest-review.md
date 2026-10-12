@@ -94,3 +94,7 @@ Windows 12 is not a revolutionary leap, but it’s a meaningful evolution—if y
 My recommendation: If you bought a PC in the last two years, upgrade. If you’re on a 5+ year old machine, stay put. And if you’re in the middle, test it in a virtual machine first. There’s no rush—Windows 11 isn’t going anywhere for another six years.
 
 The best upgrade isn’t always the newest one. It’s the one that actually makes your day-to-day life better. For many of you, that might still be Windows 11. And that’s perfectly fine.
+
+## Related Reading
+
+- [Best Productivity Apps for Students: A Practical Guide](https://pengjiangwen.github.io/tech/best-productivity-apps-for-students-a-practical-guide/)
