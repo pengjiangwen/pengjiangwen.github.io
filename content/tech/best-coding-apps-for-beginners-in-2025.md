@@ -119,3 +119,7 @@ By day 30, you’ll know if coding is for you. If it is, great — you have a ne
 The best coding app is the one you’ll actually open every day. For most people, that’s Mimo for structure or Encode for practice. If you’re on iOS and want to build things, Pythonista is a hidden gem. And if you’re targeting web dev, SoloLearn covers the basics.  
 
 Don’t overthink it. Download one, set a 10-minute timer, and start. The hardest part isn’t choosing the app — it’s typing your first line of code. Do that today.
+
+## Related Reading
+
+- [Top Programming Languages to Learn in 2025: A Practical Guide](https://pengjiangwen.github.io/tech/top-programming-languages-to-learn-in-2025-a-practical-guide/)
