@@ -101,6 +101,12 @@ def slugify(text):
     return re.sub(r"-+", "-", re.sub(r"[\s_]+", "-", text)).strip("-")
 
 
+def yaml_str(text):
+    """Quote a string safely for YAML front matter (escape backslashes, quotes, newlines)."""
+    text = " ".join(str(text).split())
+    return '"' + text.replace("\\", "\\\\").replace('"', '\\"') + '"'
+
+
 def parse_response(text):
     title = ""
     description = ""
@@ -154,9 +160,9 @@ CONTENT:
     slug = slugify(title)
     date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     md = f"""---
-title: "{title}"
+title: {yaml_str(title)}
 date: "{date}"
-description: "{description}"
+description: {yaml_str(description)}
 tags: {json.dumps(tags)}
 categories: ["{category}"]
 draft: false

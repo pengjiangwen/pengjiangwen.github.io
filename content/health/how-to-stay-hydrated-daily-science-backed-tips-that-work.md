@@ -1,7 +1,7 @@
 ---
 title: "How to Stay Hydrated Daily: Science-Backed Tips That Work"
 date: "2026-07-28T01:51:32Z"
-description: "Ditch the "8 glasses" myth. Learn evidence-based hydration strategies, from urine color checks to electrolyte balance, for sustained energy and health."
+description: "Ditch the \"8 glasses\" myth. Learn evidence-based hydration strategies, from urine color checks to electrolyte balance, for sustained energy and health."
 tags: ["hydration tips", "how to stay hydrated", "drinking water", "electrolyte balance", "health and wellness"]
 categories: ["health"]
 draft: false
