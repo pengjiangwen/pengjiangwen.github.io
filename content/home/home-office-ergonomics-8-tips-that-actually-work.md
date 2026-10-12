@@ -2,7 +2,7 @@
 title: "Home Office Ergonomics: 8 Tips That Actually Work"
 date: "2026-09-30T03:16:08Z"
 description: "Fix your home office setup with 8 practical ergonomics tips—from monitor height to chair adjustments—that prevent pain and boost focus."
-tags: ["home office", "ergonomics", "workspace setup"]
+tags: ["home-office"]
 categories: ["home"]
 draft: false
 ---

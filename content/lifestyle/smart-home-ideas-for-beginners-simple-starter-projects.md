@@ -2,7 +2,7 @@
 title: "Smart Home Ideas for Beginners: Simple Starter Projects"
 date: "2026-06-17T02:22:56"
 description: "New to smart home tech? Start simple with smart plugs, voice assistants, and easy automations. Practical tips for beginners to upgrade your home with ease."
-tags: ["smart home for beginners", "beginner smart home ideas", "easy home automation"]
+tags: ["personal-finance", "habits-routines", "travel"]
 categories: ["lifestyle"]
 draft: false
 ---

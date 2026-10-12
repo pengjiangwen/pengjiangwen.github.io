@@ -2,7 +2,7 @@
 title: "Morning Routine Ideas for Maximum Productivity: Start Your Day Right"
 date: "2026-06-02T15:19:08Z"
 description: "Discover powerful morning routine ideas to boost productivity, energy, and focus. Transform your mornings with actionable, science-backed habits for success."
-tags: ["morning routine", "productivity tips", "healthy habits", "time management", "morning habits", "success mindset"]
+tags: ["productivity", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

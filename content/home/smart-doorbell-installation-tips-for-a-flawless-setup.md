@@ -2,7 +2,7 @@
 title: "Smart Doorbell Installation Tips for a Flawless Setup"
 date: "2026-09-11T15:37:40Z"
 description: "Learn smart doorbell installation tips that prevent Wi-Fi dead zones, false alerts, and wiring mistakes. Get a clean, reliable setup the first time."
-tags: ["smart doorbell", "home security", "diy installation"]
+tags: ["home-security"]
 categories: ["home"]
 draft: false
 ---

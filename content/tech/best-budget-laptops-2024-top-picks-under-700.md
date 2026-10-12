@@ -2,7 +2,7 @@
 title: "Best Budget Laptops 2024: Top Picks Under $700"
 date: "2026-08-13T12:52:45Z"
 description: "We tested the best budget laptops of 2024. From Chromebooks to Windows machines, here are the top picks for students, work, and everyday use."
-tags: ["budget laptops", "best laptops 2024", "cheap laptops", "laptops under 700", "student laptops"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

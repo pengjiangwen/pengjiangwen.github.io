@@ -2,7 +2,7 @@
 title: "Budget Home Office Setup Ideas 2025: Under $500"
 date: "2026-09-20T02:40:09Z"
 description: "Build a functional home office in 2025 without overspending. Real product picks, layout tips, and a full $500 setup breakdown you can copy today."
-tags: ["home office", "budget workspace", "remote work setup"]
+tags: ["home-office"]
 categories: ["home"]
 draft: false
 ---

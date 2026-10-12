@@ -2,7 +2,7 @@
 title: "Best Budget Fitness Trackers: Top Picks Under $80"
 date: "2026-10-03T15:30:05Z"
 description: "Looking for the best budget fitness tracker? We tested affordable bands that nail step counting, heart rate, and battery life without the premium price."
-tags: ["budget fitness tracker", "fitness tracker under $80", "affordable fitness band"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

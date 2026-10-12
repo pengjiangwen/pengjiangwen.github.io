@@ -2,7 +2,7 @@
 title: "Reduce Screen Time for Better Health: 9 Real Strategies"
 date: "2026-08-30T15:48:43Z"
 description: "Cutting screen time isn't about digital detox perfection. Learn 9 practical, science-backed strategies to reclaim your focus, sleep, and posture today."
-tags: ["reduce screen time", "digital wellbeing", "eye strain", "sleep hygiene", "phone addiction"]
+tags: ["nutrition", "sleep", "mental-health"]
 categories: ["health"]
 draft: false
 ---

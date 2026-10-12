@@ -2,7 +2,7 @@
 title: "Best Coding Apps for Kids: 10 Picks That Actually Teach"
 date: "2026-09-18T15:32:31Z"
 description: "Looking for the best coding apps for kids? These 10 apps teach real programming skills through play, from ScratchJr to Swift Playgrounds."
-tags: ["coding for kids", "educational apps", "stem learning"]
+tags: ["software", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

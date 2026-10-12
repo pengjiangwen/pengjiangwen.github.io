@@ -2,7 +2,7 @@
 title: "Best Wireless Earbuds Under $50 in 2025: Tested Picks"
 date: "2026-08-28T21:38:46Z"
 description: "We tested 14 budget earbuds under $50. These 6 actually deliver solid bass, clear calls, and low latency. No fluff, just honest results."
-tags: ["wireless earbuds", "budget audio", "under 50", "best value earbuds", "anc budget"]
+tags: ["audio", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

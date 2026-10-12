@@ -2,7 +2,7 @@
 title: "The 7-Day Digital Detox Challenge: Reclaim Your Focus"
 date: "2026-09-12T14:43:55Z"
 description: "Feeling burnt out by screens? Take the 7-day digital detox challenge to reset your attention, improve sleep, and reconnect with real life."
-tags: ["digital detox", "screen time", "mindfulness", "productivity", "lifestyle"]
+tags: ["productivity", "digital-wellbeing"]
 categories: ["lifestyle"]
 draft: false
 ---

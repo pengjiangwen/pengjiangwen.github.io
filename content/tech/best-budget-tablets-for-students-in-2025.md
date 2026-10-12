@@ -2,7 +2,7 @@
 title: "Best Budget Tablets for Students in 2025"
 date: "2026-06-23T19:23:55Z"
 description: "Tired of lugging a heavy laptop? Here are the top 5 budget tablets for students that handle notes, reading, and streaming without breaking the bank."
-tags: ["budget tablet", "student tech", "cheap tablet", "note-taking tablet", "affordable tech"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

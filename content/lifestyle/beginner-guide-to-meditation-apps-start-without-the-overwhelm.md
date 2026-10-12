@@ -2,7 +2,7 @@
 title: "Beginner Guide to Meditation Apps: Start Without the Overwhelm"
 date: "2026-09-24T02:28:42Z"
 description: "New to meditation apps? Learn how to choose one, avoid common beginner mistakes, and build a habit that actually sticks — without the overwhelm."
-tags: ["meditation apps", "mindfulness for beginners", "healthy habits"]
+tags: ["productivity", "personal-finance", "minimalism"]
 categories: ["lifestyle"]
 draft: false
 ---

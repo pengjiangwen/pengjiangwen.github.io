@@ -2,7 +2,7 @@
 title: "How to Back Up Your Phone (The Right Way)"
 date: "2026-09-04T15:32:00Z"
 description: "Stop losing photos and contacts. This guide covers iPhone and Android backup methods, including cloud, local, and hybrid strategies. Practical, step-by-step advice."
-tags: ["phone backup", "cloud storage", "data recovery", "iphone backup", "android backup"]
+tags: ["smartphones", "laptops", "pc-building"]
 categories: ["tech"]
 draft: false
 ---

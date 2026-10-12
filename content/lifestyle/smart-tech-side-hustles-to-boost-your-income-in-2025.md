@@ -2,7 +2,7 @@
 title: "Smart Tech Side Hustles to Boost Your Income in 2025"
 date: "2026-06-26T18:13:27Z"
 description: "Discover profitable tech side hustle ideas with real examples and actionable steps. From freelancing to digital products, start earning today."
-tags: ["tech side hustles", "make money online", "freelance tech work", "passive income tech", "lifestyle"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

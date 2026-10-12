@@ -2,7 +2,7 @@
 title: "Best Exercises for Seniors at Home: Safe, Effective Moves"
 date: "2026-06-27T15:55:29Z"
 description: "Discover the best exercises for seniors at home. Build strength, balance, and mobility with safe, low-impact moves. No equipment needed."
-tags: ["senior fitness", "home exercises for seniors", "balance exercises", "strength training for seniors", "low-impact workouts"]
+tags: ["fitness", "posture-ergonomics", "healthy-habits"]
 categories: ["health"]
 draft: false
 ---

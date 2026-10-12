@@ -2,7 +2,7 @@
 title: "Posture Correction Tips That Actually Work (No Gimmicks)"
 date: "2026-08-02T13:04:54Z"
 description: "Stop slouching for good. These science-backed posture correction tips fix texting neck, desk hunch, and back pain with simple daily habits."
-tags: ["posture correction", "back pain relief", "ergonomics tips", "posture exercises", "desk posture"]
+tags: ["posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

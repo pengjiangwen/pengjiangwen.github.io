@@ -2,7 +2,7 @@
 title: "Best External Hard Drives for Photos in 2024"
 date: "2026-09-09T15:41:33Z"
 description: "Need storage for your photo library? We tested the top external drives for photographers. Speed, reliability, and capacity compared."
-tags: ["external hard drive", "photo storage", "photography gear", "backup drives", "ssd vs hdd"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Best Smart Scales for Weight Management in 2024"
 date: "2026-08-29T16:00:28Z"
 description: "Ditch the guesswork. We tested 8 top smart scales for accuracy, app quality, and features. Find the perfect one to track weight, body fat, and trends."
-tags: ["smart scale", "weight management", "body composition", "fitness tech", "weight loss tracking"]
+tags: ["fitness", "nutrition", "sleep"]
 categories: ["health"]
 draft: false
 ---

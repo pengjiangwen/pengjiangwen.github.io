@@ -2,7 +2,7 @@
 title: "Best Budget Laptop for Home: 5 Picks Under $600"
 date: "2026-10-10T16:41:37Z"
 description: "Looking for the best budget laptop for home? We tested 5 affordable laptops under $600 for everyday tasks, video calls, and streaming."
-tags: ["budget laptop", "home laptop", "affordable laptop", "laptop buying guide", "budget tech"]
+tags: ["home-organization", "diy"]
 categories: ["home"]
 draft: false
 ---

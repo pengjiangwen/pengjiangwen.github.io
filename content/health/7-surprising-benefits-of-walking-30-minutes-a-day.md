@@ -2,7 +2,7 @@
 title: "7 Surprising Benefits of Walking 30 Minutes a Day"
 date: "2026-07-15T01:44:12Z"
 description: "Discover the science-backed benefits of a daily 30-minute walk, from improved heart health to boosted creativity. Real tips for making it stick."
-tags: ["walking benefits", "daily walking", "health tips", "exercise for beginners", "mental health walking"]
+tags: ["fitness"]
 categories: ["health"]
 draft: false
 ---

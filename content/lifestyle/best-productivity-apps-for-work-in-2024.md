@@ -2,7 +2,7 @@
 title: "Best Productivity Apps for Work in 2024"
 date: "2026-10-02T03:23:48Z"
 description: "Discover the best productivity apps for work. From task management to focus timers, these tools help you get more done without burning out."
-tags: ["productivity apps", "work tools", "time management"]
+tags: ["productivity"]
 categories: ["lifestyle"]
 draft: false
 ---

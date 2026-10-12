@@ -2,7 +2,7 @@
 title: "Smart Home Cleaning Hacks: Tech That Does the Work"
 date: "2026-09-18T02:29:36Z"
 description: "Discover how smart vacuums, robot mops, UV sanitizers, and clever apps turn tedious home cleaning into a hands-off, efficient routine."
-tags: ["home cleaning", "smart home technology", "cleaning hacks"]
+tags: ["cleaning", "smart-home"]
 categories: ["home"]
 draft: false
 ---

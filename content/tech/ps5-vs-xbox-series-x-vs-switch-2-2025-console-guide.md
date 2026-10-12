@@ -2,7 +2,7 @@
 title: "PS5 vs Xbox Series X vs Switch 2: 2025 Console Guide"
 date: "2026-08-12T12:52:06Z"
 description: "We compare PS5, Xbox Series X, and Switch 2 on price, specs, games, and value. Find out which console fits your setup before you buy."
-tags: ["gaming consoles", "ps5 vs xbox", "switch 2", "console comparison", "buying guide"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

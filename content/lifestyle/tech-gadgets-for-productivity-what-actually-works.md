@@ -2,7 +2,7 @@
 title: "Tech Gadgets for Productivity: What Actually Works"
 date: "2026-09-16T15:52:04Z"
 description: "Cut through the hype with real-world tested tech gadgets for productivity. From e-ink notebooks to portable monitors, here's what's worth your money."
-tags: ["productivity gadgets", "tech tools", "remote work gear"]
+tags: ["productivity"]
 categories: ["lifestyle"]
 draft: false
 ---

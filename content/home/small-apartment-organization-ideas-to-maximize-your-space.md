@@ -2,7 +2,7 @@
 title: "Small Apartment Organization Ideas to Maximize Your Space"
 date: "2026-06-02T15:19:37Z"
 description: "Discover smart small apartment organization ideas to transform clutter into calm. Get actionable tips for every room to create a spacious, functional home."
-tags: ["small apartment organization", "space-saving tips", "home organization", "decluttering", "minimalist living"]
+tags: ["home-organization", "cleaning", "diy"]
 categories: ["home"]
 draft: false
 ---

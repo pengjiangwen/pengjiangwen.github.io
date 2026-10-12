@@ -2,7 +2,7 @@
 title: "Healthy Smoothie Recipes That Actually Taste Good"
 date: "2026-10-12T14:10:42Z"
 description: "Skip the sugary smoothie traps. These healthy smoothie recipes use real food, balance macros, and take under 5 minutes to make."
-tags: ["healthy smoothies", "smoothie recipes", "healthy breakfast"]
+tags: ["fitness", "nutrition", "supplements"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Should You Upgrade to Windows 12? (Honest Review)"
 date: "2026-07-10T02:09:51Z"
 description: "Is Windows 12 worth the upgrade? We break down performance, hardware requirements, and real-world benefits to help you decide."
-tags: ["windows 12", "windows upgrade", "windows 12 review", "pc performance", "tech decision"]
+tags: ["software", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

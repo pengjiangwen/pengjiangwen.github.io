@@ -2,7 +2,7 @@
 title: "Best Meditation Apps for Stress Relief in 2025"
 date: "2026-09-14T02:40:13Z"
 description: "We tested the top meditation apps for stress relief, comparing price, content, and ease of use. Find the right one for your busy life here."
-tags: ["meditation apps", "stress relief", "mindfulness"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

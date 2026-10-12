@@ -2,7 +2,7 @@
 title: "Fix Slow Internet Speed: 15 Fixes That Actually Work"
 date: "2026-08-10T01:07:17Z"
 description: "Slow Wi-Fi ruining your day? Try these 15 router, hardware, and setting tweaks to boost your internet speed without paying for a new plan."
-tags: ["slow internet", "fix wifi speed", "router optimization", "broadband troubleshooting", "network speed"]
+tags: ["networking"]
 categories: ["tech"]
 draft: false
 ---

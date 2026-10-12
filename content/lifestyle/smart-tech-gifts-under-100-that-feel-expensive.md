@@ -2,7 +2,7 @@
 title: "Smart Tech Gifts Under $100 That Feel Expensive"
 date: "2026-08-23T00:52:01Z"
 description: "The best tech gifts under $100 in 2024—from e-readers and trackers to audio gear. Practical, tested picks that don’t feel cheap."
-tags: ["tech gifts", "budget gadgets", "gift guide", "under 100 dollars", "smart home"]
+tags: ["personal-finance", "habits-routines", "learning"]
 categories: ["lifestyle"]
 draft: false
 ---

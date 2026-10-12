@@ -2,7 +2,7 @@
 title: "Remote Work Tech Setup: Tools That Actually Matter"
 date: "2026-08-06T13:46:11Z"
 description: "Ditch the chaos. Here’s the exact tech stack for a remote work setup that boosts focus, comfort, and reliability—without the fluff."
-tags: ["remote work", "productivity tools", "home office", "tech setup", "work from home"]
+tags: ["productivity", "personal-finance", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

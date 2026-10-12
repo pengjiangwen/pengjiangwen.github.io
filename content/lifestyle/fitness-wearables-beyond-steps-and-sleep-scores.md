@@ -2,7 +2,7 @@
 title: "Fitness Wearables: Beyond Steps and Sleep Scores"
 date: "2026-08-07T12:44:58Z"
 description: "Discover how to choose and use fitness wearables effectively. Learn which metrics matter, how to avoid data overload, and practical tips for real results."
-tags: ["fitness wearables", "wearable tech", "health tracking", "smartwatch guide", "workout metrics"]
+tags: ["productivity", "habits-routines", "learning"]
 categories: ["lifestyle"]
 draft: false
 ---

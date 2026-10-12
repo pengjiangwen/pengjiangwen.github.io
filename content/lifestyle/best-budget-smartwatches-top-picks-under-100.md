@@ -2,7 +2,7 @@
 title: "Best Budget Smartwatches: Top Picks Under $100"
 date: "2026-09-28T19:01:39Z"
 description: "Looking for the best budget smartwatch? We tested top affordable options for fitness, notifications, and battery life. Find your perfect match under $100."
-tags: ["budget smartwatch", "affordable fitness tracker", "wearable tech"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

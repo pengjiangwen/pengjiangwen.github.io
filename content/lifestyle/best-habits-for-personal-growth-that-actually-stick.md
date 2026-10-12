@@ -2,7 +2,7 @@
 title: "Best Habits for Personal Growth That Actually Stick"
 date: "2026-07-08T01:57:04Z"
 description: "Tired of empty self-help advice? Here are 7 actionable habits for personal growth that build real momentum, with examples and tips to make them last."
-tags: ["personal growth habits", "self improvement tips", "daily routines for growth", "lifestyle habits", "mindset shifts"]
+tags: ["habits-routines", "self-improvement"]
 categories: ["lifestyle"]
 draft: false
 ---

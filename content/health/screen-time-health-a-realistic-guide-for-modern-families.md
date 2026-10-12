@@ -2,7 +2,7 @@
 title: "Screen Time Health: A Realistic Guide for Modern Families"
 date: "2026-09-01T15:51:52Z"
 description: "Learn practical, science-backed strategies to manage screen time health without guilt. Reduce eye strain, improve sleep, and reclaim focus with these actionable tips."
-tags: ["screen time health", "digital wellbeing", "eye strain relief", "healthy habits", "family tech boundaries"]
+tags: ["fitness", "sleep", "mental-health"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "15 iPhone Tips and Tricks You Probably Didn’t Know"
 date: "2026-07-02T18:18:20Z"
 description: "Unlock hidden iPhone features with these 15 actionable tips. From faster texting to pro-level camera tricks, save time and boost productivity today."
-tags: ["iphone tips", "ios shortcuts", "iphone hidden features", "tech productivity", "apple tricks"]
+tags: ["smartphones"]
 categories: ["tech"]
 draft: false
 ---

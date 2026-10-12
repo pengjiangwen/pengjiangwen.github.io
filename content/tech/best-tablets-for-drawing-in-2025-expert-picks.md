@@ -2,7 +2,7 @@
 title: "Best Tablets for Drawing in 2025: Expert Picks"
 date: "2026-09-02T15:44:12Z"
 description: "We tested the top drawing tablets for every budget. From the iPad Pro to the Galaxy Tab S9, here are the real-world winners for artists."
-tags: ["drawing tablets", "digital art", "ipad pro", "galaxy tab", "wacom"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

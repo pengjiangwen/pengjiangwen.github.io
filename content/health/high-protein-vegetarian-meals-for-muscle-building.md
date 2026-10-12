@@ -2,7 +2,7 @@
 title: "High Protein Vegetarian Meals for Muscle Building"
 date: "2026-07-09T14:37:33Z"
 description: "Discover how to build lean muscle on a vegetarian diet with high-protein meals, real meal plans, and actionable tips for maximum gains."
-tags: ["vegetarian muscle building", "high protein vegetarian meals", "plant-based protein", "muscle gain diet", "vegetarian fitness"]
+tags: ["nutrition"]
 categories: ["health"]
 draft: false
 ---

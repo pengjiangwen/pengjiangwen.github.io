@@ -2,7 +2,7 @@
 title: "Save Money on Groceries: 10 Proven Monthly Strategies"
 date: "2026-07-14T13:15:01Z"
 description: "Stop overspending at the store. Learn 10 actionable, no-nonsense strategies to cut your grocery bill by 30% or more each month."
-tags: ["grocery budget", "save money on food", "meal planning", "frugal living", "family finance"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

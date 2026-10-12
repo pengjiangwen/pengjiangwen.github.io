@@ -2,7 +2,7 @@
 title: "Smart Lighting Control: Upgrade Your Home’s Ambiance & Efficiency"
 date: "2026-07-21T13:21:15Z"
 description: "Learn how smart lighting control systems work, from motion sensors to voice commands. Get actionable tips for setup, energy savings, and daily convenience."
-tags: ["smart lighting", "home automation", "energy efficiency", "smart home tips", "led lighting"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

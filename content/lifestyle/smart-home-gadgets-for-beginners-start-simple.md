@@ -2,7 +2,7 @@
 title: "Smart Home Gadgets for Beginners: Start Simple"
 date: "2026-09-25T02:45:42Z"
 description: "New to smart home tech? Start with these beginner-friendly gadgets that are easy to set up, genuinely useful, and won't break the bank."
-tags: ["smart home", "home automation", "beginner tech"]
+tags: ["personal-finance", "habits-routines", "learning"]
 categories: ["lifestyle"]
 draft: false
 ---

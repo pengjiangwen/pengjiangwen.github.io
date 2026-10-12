@@ -2,7 +2,7 @@
 title: "Best Affordable 5G Phones in 2024: Top Picks Under $300"
 date: "2026-08-04T13:52:42Z"
 description: "5G is no longer a luxury. We tested the best budget 5G smartphones under $300. Find out which ones actually deliver speed without the flagship price."
-tags: ["budget 5g phones", "affordable 5g smartphones", "best 5g deals", "cheap 5g android"]
+tags: ["networking", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

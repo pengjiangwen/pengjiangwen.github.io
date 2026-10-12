@@ -2,7 +2,7 @@
 title: "How to Reduce Home Energy Costs: 12 Practical Ways"
 date: "2026-09-26T15:27:37Z"
 description: "Learn how to reduce home energy costs with practical, proven strategies—from smart thermostats to air sealing—that cut bills without sacrifice."
-tags: ["home energy savings", "reduce utility bills", "energy efficiency"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

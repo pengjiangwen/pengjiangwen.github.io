@@ -2,7 +2,7 @@
 title: "How to Organize Digital Photos: A Stress-Free System"
 date: "2026-09-17T15:57:36Z"
 description: "Overwhelmed by thousands of camera roll photos? Learn a simple, sustainable system to organize, back up, and actually enjoy your digital memories again."
-tags: ["digital photo organization", "photo management", "lifestyle"]
+tags: ["habits-routines", "learning", "travel"]
 categories: ["lifestyle"]
 draft: false
 ---

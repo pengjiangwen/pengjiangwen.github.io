@@ -2,7 +2,7 @@
 title: "Best Passive Income Ideas for Beginners in 2024"
 date: "2026-07-24T01:57:33Z"
 description: "Tired of trading time for money? Discover 7 proven, low-cost passive income ideas for beginners. Real strategies, honest numbers, and no fluff."
-tags: ["passive income for beginners", "side hustle ideas", "make money online", "financial freedom", "beginner investing"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

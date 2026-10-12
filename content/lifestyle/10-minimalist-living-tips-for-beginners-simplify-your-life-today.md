@@ -2,7 +2,7 @@
 title: "10 Minimalist Living Tips for Beginners: Simplify Your Life Today"
 date: "2026-06-04T11:39:26Z"
 description: "Discover practical minimalist living tips for beginners. Learn how to declutter your home, simplify your routine, and embrace a more intentional, stress-free lifestyle."
-tags: ["minimalism", "simple living", "decluttering", "beginner tips"]
+tags: ["minimalism"]
 categories: ["lifestyle"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Smart Thermostat Installation Guide: DIY in 60 Minutes"
 date: "2026-10-08T18:14:30Z"
 description: "Step-by-step smart thermostat installation guide, from checking C-wire compatibility to wiring, mounting, and app setup. Save money with a DIY install."
-tags: ["smart thermostat", "home improvement", "diy installation"]
+tags: ["energy-efficiency", "diy"]
 categories: ["home"]
 draft: false
 ---

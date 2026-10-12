@@ -2,7 +2,7 @@
 title: "Best Smart Plugs for Home Automation in 2025"
 date: "2026-08-12T12:52:31Z"
 description: "We tested 15 smart plugs for latency, energy monitoring, and reliability. These are the only ones worth buying for your smart home setup."
-tags: ["smart plugs", "home automation", "smart home", "energy monitoring", "alexa plugs"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Best Laptops for Home Office in 2024: Top Picks"
 date: "2026-09-27T02:49:17Z"
 description: "Find the best laptops for home office work. We compare top picks for productivity, video calls, and multitasking to help you choose the right one."
-tags: ["home office", "laptops", "productivity"]
+tags: ["home-office"]
 categories: ["home"]
 draft: false
 ---

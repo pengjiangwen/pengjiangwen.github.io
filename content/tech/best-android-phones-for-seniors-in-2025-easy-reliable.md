@@ -2,7 +2,7 @@
 title: "Best Android Phones for Seniors in 2025: Easy & Reliable"
 date: "2026-08-20T12:32:49Z"
 description: "Discover the top Android phones for seniors in 2025. We compare big buttons, loud speakers, simple modes, and battery life—with real-world picks for every budget."
-tags: ["android for seniors", "easy smartphone", "senior-friendly phones", "big button android", "simple mode"]
+tags: ["smartphones", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

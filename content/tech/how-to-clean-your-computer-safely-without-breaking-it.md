@@ -2,7 +2,7 @@
 title: "How to Clean Your Computer Safely (Without Breaking It)"
 date: "2026-08-15T12:22:08Z"
 description: "Learn the safe, step-by-step way to clean your PC or laptop—inside and out. Avoid static damage, dust buildup, and costly mistakes."
-tags: ["computer cleaning", "pc maintenance", "safe electronics cleaning", "laptop dust removal", "thermal paste"]
+tags: ["laptops", "pc-building"]
 categories: ["tech"]
 draft: false
 ---

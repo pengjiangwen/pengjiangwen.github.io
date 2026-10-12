@@ -2,7 +2,7 @@
 title: "How to Build a Capsule Wardrobe: 7 Simple Steps for Effortless Style"
 date: "2026-06-04T19:53:31Z"
 description: "Learn to build a capsule wardrobe easily. Simplify your closet, save money, and create effortless outfits. Start your minimalist fashion journey!"
-tags: ["capsule wardrobe", "minimalist fashion", "sustainable style"]
+tags: ["minimalism"]
 categories: ["lifestyle"]
 draft: false
 ---

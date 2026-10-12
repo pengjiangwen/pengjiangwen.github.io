@@ -2,7 +2,7 @@
 title: "How to Create an Energy Efficient Home (Without Breaking the Bank)"
 date: "2026-06-08T22:45:25"
 description: "Transform your house into an energy-saving powerhouse with practical, budget-friendly tips. Lower your utility bills, boost comfort, and reduce your carbon footprint—starting today."
-tags: ["energy efficient home", "home energy savings", "green home", "sustainable living", "energy efficiency tips"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

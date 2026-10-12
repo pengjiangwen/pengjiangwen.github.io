@@ -2,7 +2,7 @@
 title: "Smart Kitchen Devices Guide: What's Actually Worth It"
 date: "2026-09-16T15:51:33Z"
 description: "A practical smart kitchen devices guide covering smart ovens, air fryers, thermometers, and displays—plus what to skip and how to avoid ecosystem lock-in."
-tags: ["smart kitchen", "smart home", "kitchen gadgets"]
+tags: ["personal-finance", "career", "food-shopping"]
 categories: ["lifestyle"]
 draft: false
 ---

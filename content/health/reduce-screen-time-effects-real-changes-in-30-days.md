@@ -2,7 +2,7 @@
 title: "Reduce Screen Time Effects: Real Changes in 30 Days"
 date: "2026-07-12T01:59:00Z"
 description: "Discover the physical and mental effects of reducing screen time. Learn actionable steps to reset your focus, sleep, and mood naturally."
-tags: ["reduce screen time", "digital detox benefits", "screen time effects", "eye strain relief", "mental health technology"]
+tags: ["fitness", "sleep", "mental-health"]
 categories: ["health"]
 draft: false
 ---

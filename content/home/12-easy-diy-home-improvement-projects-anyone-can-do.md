@@ -2,7 +2,7 @@
 title: "12 Easy DIY Home Improvement Projects Anyone Can Do"
 date: "2026-09-10T02:22:45Z"
 description: "Transform your home with these 12 easy DIY projects. From peel-and-stick backsplash to caulking tubs, these beginner-friendly upgrades take a weekend or less."
-tags: ["diy home improvement", "beginner home projects", "home upgrades"]
+tags: ["diy"]
 categories: ["home"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Digital Detox Challenge: 7 Tips That Actually Work"
 date: "2026-09-29T17:22:41Z"
 description: "Tired of doomscrolling? Learn how to run a digital detox challenge with practical tips, real schedules, and strategies that stick long after day seven."
-tags: ["digital detox", "screen time", "mindfulness", "productivity", "lifestyle"]
+tags: ["digital-wellbeing"]
 categories: ["lifestyle"]
 draft: false
 ---

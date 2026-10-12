@@ -2,7 +2,7 @@
 title: "Home Security Camera Installation: A Step-by-Step Guide"
 date: "2026-07-23T02:04:02Z"
 description: "Learn how to install home security cameras yourself. This guide covers placement, wiring, Wi-Fi setup, and common mistakes to avoid."
-tags: ["home security", "security camera installation", "diy home security", "camera placement", "smart home"]
+tags: ["home-security"]
 categories: ["home"]
 draft: false
 ---

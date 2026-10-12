@@ -2,7 +2,7 @@
 title: "Router Setup in 20 Minutes: A No-Nonsense Guide"
 date: "2026-08-11T01:07:43Z"
 description: "Learn how to set up a new router step-by-step, from unboxing to Wi-Fi optimization. Avoid common mistakes and get the fastest, most secure network today."
-tags: ["router setup", "home network", "wifi configuration", "network security", "tech guide"]
+tags: ["networking"]
 categories: ["tech"]
 draft: false
 ---

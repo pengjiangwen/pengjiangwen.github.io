@@ -2,7 +2,7 @@
 title: "Read Nutrition Labels Like a Pro: 5-Step Guide"
 date: "2026-08-22T00:46:08Z"
 description: "Stop guessing at the grocery store. Learn the 5-step method to decode nutrition labels, spot hidden sugars, and choose foods that match your health goals."
-tags: ["nutrition labels", "healthy eating", "food labeling", "sugar intake", "portion control"]
+tags: ["nutrition"]
 categories: ["health"]
 draft: false
 ---

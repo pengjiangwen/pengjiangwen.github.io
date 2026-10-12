@@ -2,7 +2,7 @@
 title: "Smartwatch for Daily Health: What Actually Matters"
 date: "2026-09-30T03:16:30Z"
 description: "A smartwatch can track your heart, sleep, and stress all day. Here's what the data really means and how to use it without obsessing over numbers."
-tags: ["smartwatch", "daily health", "wearable tech"]
+tags: ["habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

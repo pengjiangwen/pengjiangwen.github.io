@@ -2,7 +2,7 @@
 title: "Low Impact Cardio: 7 Workouts That Burn Fat Without Pain"
 date: "2026-08-28T08:14:13Z"
 description: "Discover effective low impact cardio workouts that torch calories and boost heart health without stressing your joints. Perfect for beginners and pros."
-tags: ["low impact cardio", "joint friendly workouts", "home exercise"]
+tags: ["fitness"]
 categories: ["health"]
 draft: false
 ---

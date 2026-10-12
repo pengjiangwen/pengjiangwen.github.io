@@ -2,7 +2,7 @@
 title: "Smart Home Voice Control Tips for Home Assistant"
 date: "2026-07-26T13:04:05Z"
 description: "Unlock the full potential of Home Assistant voice control. Get actionable tips for faster responses, custom commands, and a smarter home."
-tags: ["home assistant", "voice control", "smart home", "automation tips", "home assistant voice"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

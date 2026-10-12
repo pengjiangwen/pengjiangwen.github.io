@@ -2,7 +2,7 @@
 title: "Mindfulness Apps for Anxiety: Do They Really Work?"
 date: "2026-08-20T00:45:35Z"
 description: "Can a smartphone really ease anxiety? We tested the top mindfulness apps, reviewed the science, and share practical tips for making them work for you."
-tags: ["mindfulness apps", "anxiety relief", "mental health apps", "meditation guide", "stress management"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

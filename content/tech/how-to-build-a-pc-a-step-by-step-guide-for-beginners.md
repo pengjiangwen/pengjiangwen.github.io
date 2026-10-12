@@ -2,7 +2,7 @@
 title: "How to Build a PC: A Step-by-Step Guide for Beginners"
 date: "2026-07-07T02:24:24Z"
 description: "Learn how to build a PC from scratch with this practical guide. Covers part selection, assembly, cable management, and first boot—no fluff, just results."
-tags: ["build a pc", "pc building guide", "diy computer", "gaming pc build", "pc assembly tutorial"]
+tags: ["pc-building"]
 categories: ["tech"]
 draft: false
 ---

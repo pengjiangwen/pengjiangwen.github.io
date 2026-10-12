@@ -2,7 +2,7 @@
 title: "How to Start a Successful Etsy Shop in 2025"
 date: "2026-07-16T13:26:44Z"
 description: "Learn the exact steps to launch a profitable Etsy shop. From niche selection to SEO and photography, this guide cuts through the noise."
-tags: ["etsy shop tips", "start selling on etsy", "etsy business guide", "handmade business", "etsy seo"]
+tags: ["personal-finance", "minimalism", "career"]
 categories: ["lifestyle"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Eco-Tech 2024: Smart Gadgets That Save You Money & Planet"
 date: "2026-08-08T01:03:13Z"
 description: "Discover the best eco-friendly tech products that lower your carbon footprint and energy bills. Real reviews, practical tips, and zero greenwashing."
-tags: ["sustainable tech", "eco gadgets", "green living", "energy saving", "zero waste"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

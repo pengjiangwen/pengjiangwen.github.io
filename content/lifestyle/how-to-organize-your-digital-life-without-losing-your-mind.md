@@ -2,7 +2,7 @@
 title: "How to Organize Your Digital Life (Without Losing Your Mind)"
 date: "2026-09-26T15:28:08Z"
 description: "Feeling buried by files, photos, and passwords? Here's a practical system to organize your digital life in a weekend—and keep it that way."
-tags: ["digital organization", "productivity", "lifestyle"]
+tags: ["productivity", "personal-finance", "minimalism"]
 categories: ["lifestyle"]
 draft: false
 ---

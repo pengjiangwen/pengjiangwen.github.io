@@ -2,7 +2,7 @@
 title: "How to Negotiate a Salary Raise (Without Burning Bridges)"
 date: "2026-06-07T00:05:14"
 description: "Learn how to negotiate a salary raise without burning bridges using proven scripts and real-world examples. Increase your income confidently."
-tags: ["salary negotiation", "career growth", "workplace communication"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

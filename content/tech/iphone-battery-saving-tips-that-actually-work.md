@@ -2,7 +2,7 @@
 title: "iPhone Battery Saving Tips That Actually Work"
 date: "2026-09-15T15:58:50Z"
 description: "Stop babysitting your charger. These iPhone battery saving tips target the real culprits draining your battery — and most take under a minute to set up."
-tags: ["iphone battery", "battery saving tips", "ios settings"]
+tags: ["smartphones"]
 categories: ["tech"]
 draft: false
 ---

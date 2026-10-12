@@ -2,7 +2,7 @@
 title: "Healthy Breakfast Ideas That Actually Keep You Full"
 date: "2026-10-12T15:45:21Z"
 description: "Skip the sugar crash. These healthy breakfast ideas are quick, protein-packed, and built to keep you full until lunch—with real recipes and prep tips."
-tags: ["healthy breakfast", "meal prep", "nutrition"]
+tags: ["fitness", "nutrition", "sleep"]
 categories: ["health"]
 draft: false
 ---

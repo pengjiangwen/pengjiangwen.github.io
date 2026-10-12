@@ -2,7 +2,7 @@
 title: "Parental Control Apps: A Parent's Honest Guide"
 date: "2026-09-25T16:13:56Z"
 description: "A practical parental control apps guide covering what they can and can't do, how to pick one, and how to set them up without starting a fight."
-tags: ["parental control apps", "digital parenting", "online safety"]
+tags: ["habits-routines", "learning", "digital-wellbeing"]
 categories: ["lifestyle"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Best Patio Furniture for Small Spaces: Smart Picks That Fit"
 date: "2026-07-14T13:15:46Z"
 description: "Discover the best patio furniture for small spaces. From bistro sets to folding chairs, get actionable tips and real examples to maximize your tiny balcony or compact patio."
-tags: ["small patio furniture", "balcony furniture", "compact outdoor furniture", "space-saving patio", "best patio furniture for small spaces"]
+tags: ["interior-design"]
 categories: ["home"]
 draft: false
 ---

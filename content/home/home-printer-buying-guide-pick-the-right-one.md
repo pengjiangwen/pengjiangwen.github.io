@@ -2,7 +2,7 @@
 title: "Home Printer Buying Guide: Pick the Right One"
 date: "2026-10-04T03:36:37Z"
 description: "Stop overpaying for ink. Learn how to choose a home printer by real cost per page, print volume, and features—plus the mistakes to avoid."
-tags: ["home printer", "printer buying guide", "inkjet vs laser"]
+tags: ["cleaning"]
 categories: ["home"]
 draft: false
 ---

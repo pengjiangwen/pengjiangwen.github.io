@@ -2,7 +2,7 @@
 title: "Remote Work Productivity Tips That Actually Work"
 date: "2026-06-10T03:41:09"
 description: "Struggling with remote work? Get actionable tips on workspace setup, time blocking, and boundaries that actually work—no fluff, just real solutions."
-tags: ["remote work", "productivity", "work from home"]
+tags: ["productivity"]
 categories: ["lifestyle"]
 draft: false
 ---

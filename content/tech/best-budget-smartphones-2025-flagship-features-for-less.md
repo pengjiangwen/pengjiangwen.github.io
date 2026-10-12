@@ -2,7 +2,7 @@
 title: "Best Budget Smartphones 2025: Flagship Features for Less"
 date: "2026-07-28T13:47:31Z"
 description: "The top budget smartphones of 2025 reviewed. We test real-world performance, camera quality, and battery life without the hype."
-tags: ["budget smartphones 2025", "best cheap phones 2025", "affordable android phones", "value smartphones", "tech reviews 2025"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Home Network Setup Guide: Wired, Wi-Fi & Mesh"
 date: "2026-08-13T12:52:14Z"
 description: "Learn how to set up a fast, reliable home network. Covers router placement, Wi-Fi channels, mesh systems, and Ethernet cabling for beginners."
-tags: ["home network setup", "wi-fi optimization", "mesh router guide", "ethernet cabling"]
+tags: ["home-organization", "smart-home", "diy"]
 categories: ["home"]
 draft: false
 ---

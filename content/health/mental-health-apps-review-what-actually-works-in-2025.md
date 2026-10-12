@@ -2,7 +2,7 @@
 title: "Mental Health Apps Review: What Actually Works in 2025"
 date: "2026-09-20T15:10:38Z"
 description: "We tested 12 mental health apps for 30 days. Here's what actually helps with anxiety, sleep, and mood—and which apps aren't worth your subscription."
-tags: ["mental health apps", "therapy apps", "meditation apps"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

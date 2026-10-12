@@ -2,7 +2,7 @@
 title: "Build a Backyard Deck: A Step-by-Step Guide for Homeowners"
 date: "2026-08-03T02:04:02Z"
 description: "Learn how to build a durable backyard deck from scratch. This guide covers planning, materials, permits, footings, framing, and decking with pro tips."
-tags: ["diy deck building", "backyard deck plans", "deck construction tips"]
+tags: ["diy"]
 categories: ["home"]
 draft: false
 ---

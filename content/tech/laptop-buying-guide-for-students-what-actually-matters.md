@@ -2,7 +2,7 @@
 title: "Laptop Buying Guide for Students: What Actually Matters"
 date: "2026-06-05T20:29:22"
 description: "Discover the essential factors to consider when buying a laptop for school. From budget to battery life, our student-focused guide has real-world tips and examples."
-tags: ["student laptops", "laptop buying guide", "college tech"]
+tags: ["laptops", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

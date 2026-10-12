@@ -2,7 +2,7 @@
 title: "Home Backup Power Solutions: What Actually Works"
 date: "2026-10-08T03:48:03Z"
 description: "Compare generators, battery backups, and solar options for home power outages. Real costs, runtimes, and practical tips to keep your lights on."
-tags: ["home backup power", "portable generator", "battery backup", "solar generator", "power outage"]
+tags: ["home-organization", "energy-efficiency", "diy"]
 categories: ["home"]
 draft: false
 ---

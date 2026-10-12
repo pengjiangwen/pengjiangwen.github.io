@@ -2,7 +2,7 @@
 title: "How to Boost Metabolism: 12 Science-Backed Strategies"
 date: "2026-10-11T17:08:15Z"
 description: "Learn how to boost metabolism naturally with proven strategies like strength training, protein intake, sleep, and NEAT. No gimmicks—just real results."
-tags: ["metabolism", "weight loss", "health tips"]
+tags: ["fitness", "nutrition", "sleep"]
 categories: ["health"]
 draft: false
 ---

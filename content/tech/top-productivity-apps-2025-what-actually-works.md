@@ -2,7 +2,7 @@
 title: "Top Productivity Apps 2025: What Actually Works"
 date: "2026-09-16T02:38:01Z"
 description: "We tested the top productivity apps of 2025 to find which ones actually save time. From AI assistants to focus timers, here's what's worth your money."
-tags: ["productivity apps", "tech tools", "time management"]
+tags: ["software", "productivity-tech"]
 categories: ["tech"]
 draft: false
 ---

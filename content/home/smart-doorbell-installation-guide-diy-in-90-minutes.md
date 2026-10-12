@@ -2,7 +2,7 @@
 title: "Smart Doorbell Installation Guide: DIY in 90 Minutes"
 date: "2026-09-25T02:45:20Z"
 description: "Learn how to install a smart doorbell yourself in about 90 minutes. Covers wiring, transformers, chime setup, Wi-Fi tips, and renter-friendly options."
-tags: ["smart doorbell", "home security", "diy installation"]
+tags: ["home-security", "diy"]
 categories: ["home"]
 draft: false
 ---

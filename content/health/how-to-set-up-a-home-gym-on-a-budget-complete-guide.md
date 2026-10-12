@@ -2,7 +2,7 @@
 title: "How to Set Up a Home Gym on a Budget: Complete Guide"
 date: "2026-09-18T02:29:48Z"
 description: "Build a home gym on a budget with smart equipment picks, DIY hacks, and money-saving tips. Get a full workout setup for under $300."
-tags: ["home gym", "budget fitness", "home workout"]
+tags: ["fitness"]
 categories: ["health"]
 draft: false
 ---

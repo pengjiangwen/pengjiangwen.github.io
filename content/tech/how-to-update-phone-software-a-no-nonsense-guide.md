@@ -2,7 +2,7 @@
 title: "How to Update Phone Software: A No-Nonsense Guide"
 date: "2026-09-20T15:11:08Z"
 description: "Learn how to update your phone software safely on Android and iPhone, fix stuck updates, and why those notifications actually matter."
-tags: ["phone software update", "android update", "iphone update"]
+tags: ["software"]
 categories: ["tech"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Beginner Yoga for Flexibility: A Realistic Guide"
 date: "2026-10-06T17:40:49Z"
 description: "Tight hips, stiff back, can't touch your toes? Here's how beginners can build real flexibility with yoga—without injury or frustration."
-tags: ["beginner yoga", "flexibility", "yoga for stiffness"]
+tags: ["fitness"]
 categories: ["health"]
 draft: false
 ---

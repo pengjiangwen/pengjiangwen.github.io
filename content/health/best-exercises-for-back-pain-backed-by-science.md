@@ -2,7 +2,7 @@
 title: "Best Exercises for Back Pain (Backed by Science)"
 date: "2026-10-12T03:33:38Z"
 description: "Discover the best exercises for back pain, from gentle stretches to core strengthening moves. Learn how to start safely and avoid common mistakes."
-tags: ["back pain", "exercise", "core strength", "stretching", "health"]
+tags: ["posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

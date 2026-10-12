@@ -2,7 +2,7 @@
 title: "E-Reader vs Tablet: Which One Should You Buy?"
 date: "2026-08-06T01:53:10Z"
 description: "E-reader or tablet for reading, notes, and media? We compare displays, battery life, eye comfort, and price to help you choose the right device."
-tags: ["e-reader vs tablet", "kindle vs ipad", "digital reading", "e-ink display", "tablet for reading"]
+tags: ["productivity", "personal-finance", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

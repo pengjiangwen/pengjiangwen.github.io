@@ -2,7 +2,7 @@
 title: "Best Budget Laptops 2025: Top Picks Under $700"
 date: "2026-09-08T15:45:17Z"
 description: "We tested the best budget laptops of 2025. From Chromebooks to Windows 11, these are the only sub-$700 laptops worth your money this year."
-tags: ["budget laptops", "best laptops 2025", "cheap laptops", "laptop reviews", "tech deals"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

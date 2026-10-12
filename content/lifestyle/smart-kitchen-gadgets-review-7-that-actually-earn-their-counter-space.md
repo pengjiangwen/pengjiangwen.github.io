@@ -2,7 +2,7 @@
 title: "Smart Kitchen Gadgets Review: 7 That Actually Earn Their Counter Space"
 date: "2026-07-09T14:38:04Z"
 description: "Honest smart kitchen gadgets review. We tested 7 devices for real-world value. Find out which save time and which are just expensive toys."
-tags: ["smart kitchen gadgets", "kitchen tech review", "smart home cooking", "kitchen appliances", "lifestyle tech"]
+tags: ["habits-routines", "food-shopping"]
 categories: ["lifestyle"]
 draft: false
 ---

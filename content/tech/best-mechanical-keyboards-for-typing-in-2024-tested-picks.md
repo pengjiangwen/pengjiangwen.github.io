@@ -2,7 +2,7 @@
 title: "Best Mechanical Keyboards for Typing in 2024: Tested Picks"
 date: "2026-08-19T12:30:47Z"
 description: "We tested 20+ boards for comfort, sound, and speed. These are the best mechanical keyboards for typing, from budget to premium."
-tags: ["mechanical keyboard", "typing keyboard", "best keyboard", "ergonomic keyboard", "switch guide"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

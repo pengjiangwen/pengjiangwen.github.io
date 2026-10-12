@@ -2,7 +2,7 @@
 title: "Best Foods for Gut Health: What Actually Works"
 date: "2026-10-10T03:37:21Z"
 description: "Discover the best foods for gut health, from fermented favorites to fiber-rich powerhouses, plus simple ways to add them to your plate today."
-tags: ["gut health", "gut-friendly foods", "microbiome diet"]
+tags: ["immunity"]
 categories: ["health"]
 draft: false
 ---

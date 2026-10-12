@@ -2,7 +2,7 @@
 title: "Beginner’s Guide to Growing Vegetables at Home: Simple Tips for a Thriving Garden"
 date: "2026-06-05T03:04:21Z"
 description: "Start your home vegetable garden with confidence! This beginner’s guide covers everything from soil prep to harvest, with easy tips for growing fresh produce at home."
-tags: ["vegetable gardening", "beginner gardening", "homegrown vegetables", "gardening tips", "urban gardening"]
+tags: ["gardening"]
 categories: ["home"]
 draft: false
 ---

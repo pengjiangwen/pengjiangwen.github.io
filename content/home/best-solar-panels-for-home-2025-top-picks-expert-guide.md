@@ -2,7 +2,7 @@
 title: "Best Solar Panels for Home 2025: Top Picks & Expert Guide"
 date: "2026-06-12T20:41:25"
 description: "Discover the best home solar panels for 2025. Compare top brands, efficiency, cost, and warranties. Practical tips to save money and choose wisely."
-tags: ["best solar panels 2025", "home solar guide", "solar panel reviews"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

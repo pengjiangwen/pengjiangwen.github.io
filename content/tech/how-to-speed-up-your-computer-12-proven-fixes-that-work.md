@@ -2,7 +2,7 @@
 title: "How to Speed Up Your Computer: 12 Proven Fixes That Work"
 date: "2026-09-13T02:23:05Z"
 description: "Is your PC crawling? Learn how to speed up your computer with 12 practical fixes, from startup cleanup to hardware upgrades that actually deliver."
-tags: ["computer speed", "pc performance", "windows optimization"]
+tags: ["laptops", "pc-building", "software"]
 categories: ["tech"]
 draft: false
 ---

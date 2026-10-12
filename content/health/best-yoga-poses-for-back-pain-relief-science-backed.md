@@ -2,7 +2,7 @@
 title: "Best Yoga Poses for Back Pain Relief (Science-Backed)"
 date: "2026-09-16T02:38:14Z"
 description: "Discover the best yoga poses for back pain, backed by research. Learn safe, effective stretches for lower back relief and core strength."
-tags: ["yoga for back pain", "back pain relief", "lower back stretches"]
+tags: ["fitness", "posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

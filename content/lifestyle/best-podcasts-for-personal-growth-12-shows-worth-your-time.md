@@ -2,7 +2,7 @@
 title: "Best Podcasts for Personal Growth: 12 Shows Worth Your Time"
 date: "2026-10-05T20:06:32Z"
 description: "Looking for the best podcasts for personal growth? These 12 shows deliver real, actionable advice on habits, mindset, money, and relationships."
-tags: ["personal growth podcasts", "self-improvement", "lifestyle"]
+tags: ["self-improvement"]
 categories: ["lifestyle"]
 draft: false
 ---

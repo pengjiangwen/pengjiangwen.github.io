@@ -2,7 +2,7 @@
 title: "Sustainable Tech Lifestyle: A Practical Guide"
 date: "2026-09-22T02:38:39Z"
 description: "Build a sustainable tech lifestyle with practical tips on devices, energy use, and digital habits that cut waste and save money."
-tags: ["sustainable tech", "eco-friendly lifestyle", "green technology"]
+tags: ["personal-finance", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

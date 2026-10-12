@@ -2,7 +2,7 @@
 title: "Tech Productivity Hacks That Actually Work"
 date: "2026-09-15T15:59:09Z"
 description: "Stop drowning in apps and notifications. These practical tech productivity hacks help you reclaim focus, automate busywork, and finish what matters."
-tags: ["productivity", "technology", "time management"]
+tags: ["productivity"]
 categories: ["lifestyle"]
 draft: false
 ---

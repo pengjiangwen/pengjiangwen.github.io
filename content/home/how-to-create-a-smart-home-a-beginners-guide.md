@@ -2,7 +2,7 @@
 title: "How to Create a Smart Home: A Beginner's Guide"
 date: "2026-10-10T16:41:47Z"
 description: "Learn how to create a smart home that actually works. From picking a hub to automating lights, here's a practical, no-fluff setup guide for beginners."
-tags: ["smart home", "home automation", "smart home setup"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

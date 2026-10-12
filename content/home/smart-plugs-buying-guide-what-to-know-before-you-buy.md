@@ -2,7 +2,7 @@
 title: "Smart Plugs Buying Guide: What to Know Before You Buy"
 date: "2026-09-23T15:51:49Z"
 description: "Shopping for smart plugs? Learn about Wi-Fi vs. Zigbee, energy monitoring, amperage limits, and hub requirements so you pick the right one."
-tags: ["smart plugs", "smart home", "home automation"]
+tags: ["home-organization", "energy-efficiency", "smart-home"]
 categories: ["home"]
 draft: false
 ---

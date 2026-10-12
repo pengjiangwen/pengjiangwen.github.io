@@ -2,7 +2,7 @@
 title: "Smart Home Setup for Beginners: Start Simple"
 date: "2026-10-06T04:05:59Z"
 description: "New to smart home tech? Learn a simple, budget-friendly setup path — from smart plugs to voice control — without wasting money on gadgets you don't need."
-tags: ["smart home", "home automation", "smart home for beginners"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

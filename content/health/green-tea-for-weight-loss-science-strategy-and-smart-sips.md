@@ -2,7 +2,7 @@
 title: "Green Tea for Weight Loss: Science, Strategy, and Smart Sips"
 date: "2026-07-15T13:18:50Z"
 description: "Discover how green tea boosts metabolism, burns fat, and supports weight loss. Practical tips on dosage, timing, and avoiding common mistakes."
-tags: ["green tea weight loss", "metabolism booster", "healthy weight management", "fat burning", "natural weight loss"]
+tags: ["weight-loss"]
 categories: ["health"]
 draft: false
 ---

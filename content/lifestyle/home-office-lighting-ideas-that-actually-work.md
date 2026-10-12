@@ -2,7 +2,7 @@
 title: "Home Office Lighting Ideas That Actually Work"
 date: "2026-10-02T17:09:19Z"
 description: "Tired of eye strain and bad video calls? These home office lighting ideas cover layering, color temperature, and budget setups that work."
-tags: ["home office lighting", "lighting design", "work from home"]
+tags: ["productivity", "personal-finance", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

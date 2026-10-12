@@ -2,7 +2,7 @@
 title: "How to Improve Mental Health With Tech Tools"
 date: "2026-09-20T15:10:58Z"
 description: "Discover practical tech tools to improve mental health, from mood tracking apps to digital boundaries. Actionable tips backed by real examples."
-tags: ["mental health", "wellness apps", "digital wellbeing"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

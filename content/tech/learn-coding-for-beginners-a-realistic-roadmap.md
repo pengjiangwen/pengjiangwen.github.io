@@ -2,7 +2,7 @@
 title: "Learn Coding for Beginners: A Realistic Roadmap"
 date: "2026-09-29T03:31:24Z"
 description: "Learn coding for beginners with a practical roadmap: pick a language, build real projects, dodge tutorial hell, and land your first dev job."
-tags: ["learn to code", "programming for beginners", "coding roadmap"]
+tags: ["security-privacy"]
 categories: ["tech"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Beginner Workout Plan You Can Do At Home: Get Started Today"
 date: "2026-06-02T15:20:15Z"
 description: "Start your fitness journey with this simple, effective beginner workout plan you can do at home. No gym needed, just a little space and motivation!"
-tags: ["beginner workout plan", "home workout", "fitness for beginners", "bodyweight exercises", "at-home exercise routine"]
+tags: ["fitness"]
 categories: ["health"]
 draft: false
 ---

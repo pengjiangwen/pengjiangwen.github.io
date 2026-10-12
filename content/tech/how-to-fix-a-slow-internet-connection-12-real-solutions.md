@@ -2,7 +2,7 @@
 title: "How to Fix a Slow Internet Connection: 12 Real Solutions"
 date: "2026-09-15T15:58:40Z"
 description: "Slow internet ruining your day? Learn how to diagnose and fix a slow connection with practical steps, from router placement to DNS tweaks."
-tags: ["slow internet", "wifi troubleshooting", "internet speed"]
+tags: ["networking"]
 categories: ["tech"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Fix Your Sleep: 7 Science-Backed Habits That Actually Work"
 date: "2026-08-22T00:47:26Z"
 description: "Struggling to sleep? Discover 7 practical, science-backed habits to fall asleep faster, stay asleep longer, and wake up feeling genuinely rested."
-tags: ["sleep quality", "insomnia tips", "sleep hygiene", "circadian rhythm", "better sleep"]
+tags: ["sleep"]
 categories: ["health"]
 draft: false
 ---

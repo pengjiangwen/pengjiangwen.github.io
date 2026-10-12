@@ -2,7 +2,7 @@
 title: "Best Budget Drones 2025: Top Picks Under $500"
 date: "2026-07-03T02:10:30Z"
 description: "The best budget drones of 2025 tested for real-world use. From 4K cameras to GPS stability, find the perfect drone without breaking the bank."
-tags: ["budget drones", "cheap drones 2025", "best drones under 500", "beginner drones", "drone reviews"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

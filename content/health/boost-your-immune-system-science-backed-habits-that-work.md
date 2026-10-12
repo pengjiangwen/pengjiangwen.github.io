@@ -2,7 +2,7 @@
 title: "Boost Your Immune System: Science-Backed Habits That Work"
 date: "2026-08-08T01:02:16Z"
 description: "Discover evidence-based ways to strengthen your immunity naturally. Learn about sleep, nutrition, stress management, and lifestyle tweaks that actually make a difference."
-tags: ["immune system", "immunity boost", "healthy lifestyle", "natural immunity", "wellness tips"]
+tags: ["immunity"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "How to Set Up Dual Monitors: Step-by-Step Guide"
 date: "2026-06-16T02:10:41"
 description: "Set up dual monitors in minutes with this step-by-step guide. Covers Windows, macOS, cables, and pro tips for productivity. Boost your workflow today!"
-tags: ["dual monitor setup", "productivity", "tech tips"]
+tags: ["smartphones", "laptops", "pc-building"]
 categories: ["tech"]
 draft: false
 ---

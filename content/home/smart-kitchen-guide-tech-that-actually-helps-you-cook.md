@@ -2,7 +2,7 @@
 title: "Smart Kitchen Guide: Tech That Actually Helps You Cook"
 date: "2026-08-22T12:22:24Z"
 description: "Learn how to create a smart kitchen without wasting money. We cover essential gadgets, setup tips, and real workflows that save time."
-tags: ["smart kitchen", "home automation", "kitchen tech", "smart appliances", "cooking gadgets"]
+tags: ["cleaning", "smart-home", "diy"]
 categories: ["home"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Healthy Sleep Habits: A Practical Guide for Better Rest"
 date: "2026-09-30T17:20:14Z"
 description: "Struggling to fall asleep or stay asleep? These science-backed healthy sleep habits can help you rest better tonight—no expensive gadgets required."
-tags: ["sleep hygiene", "healthy sleep habits", "better sleep"]
+tags: ["habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

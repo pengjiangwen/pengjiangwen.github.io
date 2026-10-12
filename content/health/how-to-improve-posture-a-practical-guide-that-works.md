@@ -2,7 +2,7 @@
 title: "How to Improve Posture: A Practical Guide That Works"
 date: "2026-10-12T03:33:24Z"
 description: "Fix your posture with practical, science-backed strategies. Learn desk setup, daily exercises, and habit hacks that actually work long-term."
-tags: ["posture improvement", "ergonomics", "back health"]
+tags: ["posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

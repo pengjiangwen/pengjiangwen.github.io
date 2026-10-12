@@ -2,7 +2,7 @@
 title: "Free Antivirus Software: What's Actually Worth Installing"
 date: "2026-09-10T02:22:11Z"
 description: "Free antivirus tools can protect your PC without costing a dime—if you pick the right one. Here's what actually works and what to avoid."
-tags: ["free antivirus", "cybersecurity", "windows security"]
+tags: ["software"]
 categories: ["tech"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "How to Protect Smart Home Devices from Hackers"
 date: "2026-10-02T17:08:48Z"
 description: "Smart home devices are convenient but vulnerable. Learn practical steps to secure your network, cameras, and voice assistants from hackers."
-tags: ["smart home security", "iot protection", "home network safety"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

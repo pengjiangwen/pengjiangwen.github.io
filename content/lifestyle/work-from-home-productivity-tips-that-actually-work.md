@@ -2,7 +2,7 @@
 title: "Work From Home Productivity Tips That Actually Work"
 date: "2026-10-04T03:36:47Z"
 description: "Struggling to stay focused working from home? These practical, tested productivity tips help you get more done without burning out or losing your mind."
-tags: ["work from home", "productivity tips", "remote work"]
+tags: ["productivity"]
 categories: ["lifestyle"]
 draft: false
 ---

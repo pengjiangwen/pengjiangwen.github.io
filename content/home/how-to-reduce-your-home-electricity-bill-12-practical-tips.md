@@ -2,7 +2,7 @@
 title: "How to Reduce Your Home Electricity Bill: 12 Practical Tips"
 date: "2026-10-05T20:06:45Z"
 description: "Cut your home electricity bill with proven, actionable tips—from killing phantom loads to smarter cooling. Save real money without sacrificing comfort."
-tags: ["reduce electricity bill", "home energy saving", "lower utility costs"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

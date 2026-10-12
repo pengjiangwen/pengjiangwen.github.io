@@ -2,7 +2,7 @@
 title: "How to Stay Hydrated at Work: A Practical Guide"
 date: "2026-10-11T03:10:50Z"
 description: "Struggling to drink enough water at work? Learn simple, science-backed strategies to stay hydrated during busy workdays—without constant bathroom breaks."
-tags: ["hydration", "workplace health", "healthy habits"]
+tags: ["hydration"]
 categories: ["health"]
 draft: false
 ---

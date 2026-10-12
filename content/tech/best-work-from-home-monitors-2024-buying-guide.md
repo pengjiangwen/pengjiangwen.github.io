@@ -2,7 +2,7 @@
 title: "Best Work From Home Monitors: 2024 Buying Guide"
 date: "2026-08-11T01:08:10Z"
 description: "Upgrade your home office with the best monitors for work from home. We break down resolution, ergonomics, and connectivity for every budget."
-tags: ["work from home", "monitors", "home office", "productivity", "tech"]
+tags: ["productivity-tech", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

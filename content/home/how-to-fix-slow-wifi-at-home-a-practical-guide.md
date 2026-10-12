@@ -2,7 +2,7 @@
 title: "How to Fix Slow WiFi at Home: A Practical Guide"
 date: "2026-10-02T03:23:39Z"
 description: "Slow WiFi ruining your Netflix nights? Learn how to diagnose and fix common home WiFi problems with simple, actionable steps that actually work."
-tags: ["slow wifi fix", "home wifi tips", "wifi troubleshooting"]
+tags: ["diy"]
 categories: ["home"]
 draft: false
 ---

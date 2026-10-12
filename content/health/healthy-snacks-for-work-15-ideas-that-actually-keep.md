@@ -2,7 +2,7 @@
 title: "Healthy Snacks for Work: 15 Ideas That Actually Keep"
 date: "2026-09-15T02:44:08Z"
 description: "Beat the 3pm vending machine run with 15 healthy work snacks that boost focus, curb cravings, and take minutes to prep."
-tags: ["healthy snacks", "workplace wellness", "meal prep"]
+tags: ["nutrition", "hydration", "healthy-habits"]
 categories: ["health"]
 draft: false
 ---

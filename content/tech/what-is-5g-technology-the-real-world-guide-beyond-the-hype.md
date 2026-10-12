@@ -2,7 +2,7 @@
 title: "What Is 5G Technology? The Real-World Guide Beyond the Hype"
 date: "2026-07-28T01:51:05Z"
 description: "5G isn't just faster phones. Learn how it actually works, the three main types, real-world examples, and what it means for your daily life."
-tags: ["5g technology", "what is 5g", "5g explained", "5g vs 4g", "mmwave", "sub-6", "5g use cases"]
+tags: ["networking"]
 categories: ["tech"]
 draft: false
 ---

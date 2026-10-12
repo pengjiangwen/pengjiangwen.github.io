@@ -2,7 +2,7 @@
 title: "Best Home Gym Equipment for Small Spaces (2025 Guide)"
 date: "2026-07-11T01:55:29Z"
 description: "Build a powerful home gym in an apartment or spare room. Here’s the compact gear that actually works, plus setup tips from a real fitness enthusiast."
-tags: ["home gym", "small space workout", "compact fitness equipment", "apartment gym", "home fitness tips"]
+tags: ["fitness"]
 categories: ["health"]
 draft: false
 ---

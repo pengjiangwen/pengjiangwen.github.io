@@ -2,7 +2,7 @@
 title: "Speed Up Windows 11: 11 Fixes That Actually Work"
 date: "2026-08-09T12:34:45Z"
 description: "Is your PC lagging? Stop guessing. These 11 proven tweaks—from startup apps to power settings—will make Windows 11 feel brand new."
-tags: ["windows 11 performance", "speed up pc", "windows optimization", "tech tips"]
+tags: ["software"]
 categories: ["tech"]
 draft: false
 ---

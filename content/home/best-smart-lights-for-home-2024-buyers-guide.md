@@ -2,7 +2,7 @@
 title: "Best Smart Lights for Home: 2024 Buyer's Guide"
 date: "2026-08-19T12:30:17Z"
 description: "Discover the best smart lights for every room and budget. Compare bulbs, strips, and fixtures with real-world testing insights and setup tips."
-tags: ["smart lighting", "home automation", "smart bulbs", "led strips", "smart home"]
+tags: ["home-organization", "home-security", "energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

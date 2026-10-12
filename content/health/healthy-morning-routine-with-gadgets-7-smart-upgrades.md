@@ -2,7 +2,7 @@
 title: "Healthy Morning Routine with Gadgets: 7 Smart Upgrades"
 date: "2026-09-03T15:34:41Z"
 description: "Discover how to build a healthy morning routine with gadgets that actually work. Learn sleep tracking, light therapy, and smart hydration tips without the hype."
-tags: ["morning routine", "health technology", "sleep tracking", "smart home", "wellness gadgets"]
+tags: ["healthy-habits"]
 categories: ["health"]
 draft: false
 ---

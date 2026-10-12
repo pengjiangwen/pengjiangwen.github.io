@@ -2,7 +2,7 @@
 title: "Wireless Earbuds Buying Guide: 2024 Edition"
 date: "2026-08-04T01:48:12Z"
 description: "Confused by true wireless earbuds? This guide breaks down codecs, ANC, fit, and battery life so you buy the right pair the first time, not the third."
-tags: ["wireless earbuds", "buying guide", "anc", "bluetooth audio"]
+tags: ["audio", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

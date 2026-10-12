@@ -2,7 +2,7 @@
 title: "Best Fitness Apps for Beginners: 7 Picks That Actually Work"
 date: "2026-10-08T03:48:13Z"
 description: "Just starting to work out? These 7 beginner-friendly fitness apps make it easy to build a routine you'll stick with—no gym required."
-tags: ["fitness apps", "beginner workouts", "home fitness"]
+tags: ["productivity", "habits-routines", "career"]
 categories: ["lifestyle"]
 draft: false
 ---

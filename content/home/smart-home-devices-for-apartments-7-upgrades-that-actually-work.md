@@ -2,7 +2,7 @@
 title: "Smart Home Devices for Apartments: 7 Upgrades That Actually Work"
 date: "2026-08-14T12:47:17Z"
 description: "Renting? Discover 7 apartment-friendly smart home devices that don't require drilling, rewiring, or breaking your lease. Practical tips for renters."
-tags: ["smart home", "apartment living", "renter friendly tech", "smart plugs", "home automation"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

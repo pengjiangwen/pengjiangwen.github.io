@@ -2,7 +2,7 @@
 title: "Stay Active at a Desk Job: 15 Science-Backed Tips"
 date: "2026-08-05T01:51:06Z"
 description: "Learn how to stay active at a desk job with 15 practical, science-backed tips. Boost energy, fix posture, and beat sitting disease without leaving your chair."
-tags: ["desk job health", "office ergonomics", "sitting disease", "workplace wellness", "active sitting"]
+tags: ["posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

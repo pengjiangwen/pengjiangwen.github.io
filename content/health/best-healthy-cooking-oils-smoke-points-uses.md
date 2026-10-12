@@ -2,7 +2,7 @@
 title: "Best Healthy Cooking Oils: Smoke Points & Uses"
 date: "2026-08-02T02:01:58Z"
 description: "Confused by cooking oils? We break down the healthiest options, their smoke points, and the best uses for olive, avocado, coconut, and more."
-tags: ["healthy cooking oils", "best oil for cooking", "smoke point", "avocado oil", "olive oil"]
+tags: ["nutrition", "supplements"]
 categories: ["health"]
 draft: false
 ---

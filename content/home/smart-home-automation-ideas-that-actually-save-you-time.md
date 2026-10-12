@@ -2,7 +2,7 @@
 title: "Smart Home Automation Ideas That Actually Save You Time"
 date: "2026-10-10T16:42:07Z"
 description: "Practical smart home automation ideas that solve real problems — from morning routines to leak detection. No gimmicks, just setups that work."
-tags: ["smart home", "home automation", "smart home ideas"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

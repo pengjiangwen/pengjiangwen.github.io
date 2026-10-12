@@ -2,7 +2,7 @@
 title: "Smart Lighting Setup Guide: Build Your System Right"
 date: "2026-09-21T17:33:08Z"
 description: "A practical smart lighting setup guide covering hubs vs. Wi-Fi, bulb types, switch wiring, scenes, and automations that actually work."
-tags: ["smart lighting", "smart home", "home automation"]
+tags: ["diy"]
 categories: ["home"]
 draft: false
 ---

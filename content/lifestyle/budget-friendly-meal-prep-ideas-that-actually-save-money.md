@@ -2,7 +2,7 @@
 title: "Budget-Friendly Meal Prep Ideas That Actually Save Money"
 date: "2026-09-26T02:48:15Z"
 description: "Learn practical budget-friendly meal prep ideas that cut grocery bills without boring your taste buds. Real tips, costs, and a weekly plan included."
-tags: ["meal prep", "budget cooking", "frugal living"]
+tags: ["personal-finance", "food-shopping"]
 categories: ["lifestyle"]
 draft: false
 ---

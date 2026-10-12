@@ -2,7 +2,7 @@
 title: "Digital Wellness Tips for a Calmer, Focused Life"
 date: "2026-07-31T13:46:55Z"
 description: "Learn practical digital wellness tips to reduce screen time, boost focus, and reclaim your mental space—without abandoning your devices."
-tags: ["digital wellness", "screen time", "mental health", "productivity", "tech-life balance"]
+tags: ["productivity", "minimalism", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

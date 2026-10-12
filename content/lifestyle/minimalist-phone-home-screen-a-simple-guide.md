@@ -2,7 +2,7 @@
 title: "Minimalist Phone Home Screen: A Simple Guide"
 date: "2026-10-01T17:47:40Z"
 description: "Learn how to build a minimalist phone home screen that reduces distraction, saves time, and looks clean. Practical steps, app picks, and real examples."
-tags: ["minimalist phone", "digital minimalism", "home screen setup"]
+tags: ["minimalism"]
 categories: ["lifestyle"]
 draft: false
 ---

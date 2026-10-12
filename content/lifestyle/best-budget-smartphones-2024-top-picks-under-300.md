@@ -2,7 +2,7 @@
 title: "Best Budget Smartphones 2024: Top Picks Under $300"
 date: "2026-10-07T03:33:41Z"
 description: "Looking for the best budget smartphones in 2024? We tested top picks under $300 that deliver great cameras, battery life, and performance."
-tags: ["budget smartphones", "tech deals", "lifestyle tech"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

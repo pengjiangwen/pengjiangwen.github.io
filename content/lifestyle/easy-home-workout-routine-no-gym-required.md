@@ -2,7 +2,7 @@
 title: "Easy Home Workout Routine: No Gym Required"
 date: "2026-09-25T16:14:28Z"
 description: "Build strength and stamina at home with this easy 20-minute routine. No equipment needed—just your body weight and a little floor space."
-tags: ["home workout", "bodyweight exercise", "fitness routine"]
+tags: ["habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

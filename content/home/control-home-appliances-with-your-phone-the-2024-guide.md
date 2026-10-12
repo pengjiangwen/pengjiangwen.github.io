@@ -2,7 +2,7 @@
 title: "Control Home Appliances with Your Phone: The 2024 Guide"
 date: "2026-08-16T12:24:03Z"
 description: "Learn how to control home appliances with your phone using smart plugs, IR blasters, and hubs. A practical, budget-friendly guide for real homes."
-tags: ["smart home", "home automation", "phone control", "smart plugs", "ir blaster"]
+tags: ["home-organization", "home-security", "energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

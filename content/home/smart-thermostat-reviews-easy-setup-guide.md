@@ -2,7 +2,7 @@
 title: "Smart Thermostat Reviews & Easy Setup Guide"
 date: "2026-07-21T13:21:49Z"
 description: "Honest smart thermostat reviews for 2024, plus a step-by-step setup guide. Save money and energy without the headache."
-tags: ["smart thermostat", "thermostat reviews", "home automation", "energy savings", "hvac setup", "smart home"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

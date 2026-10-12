@@ -2,7 +2,7 @@
 title: "Home Solar Panel Installation Basics: A Real Guide"
 date: "2026-09-11T15:37:17Z"
 description: "Thinking about solar? Learn how home solar installation works, what it costs, and the mistakes to avoid before you sign a contract."
-tags: ["home solar", "solar panel installation", "renewable energy"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

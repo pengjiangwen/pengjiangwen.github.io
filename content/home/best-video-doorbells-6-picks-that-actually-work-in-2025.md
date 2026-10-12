@@ -2,7 +2,7 @@
 title: "Best Video Doorbells: 6 Picks That Actually Work in 2025"
 date: "2026-09-30T17:20:48Z"
 description: "Compare the best video doorbells for 2025 — wired vs battery, subscription costs, and which models win for renters, cold climates, and tight budgets."
-tags: ["video doorbells", "smart home security", "home tech"]
+tags: ["home-organization", "home-security", "smart-home"]
 categories: ["home"]
 draft: false
 ---

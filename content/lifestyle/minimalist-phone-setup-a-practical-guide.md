@@ -2,7 +2,7 @@
 title: "Minimalist Phone Setup: A Practical Guide"
 date: "2026-09-20T15:10:48Z"
 description: "Tired of endless scrolling? Learn how to build a minimalist phone setup that cuts distractions, saves time, and helps you use your device with intention."
-tags: ["minimalism", "digital wellbeing", "productivity"]
+tags: ["minimalism"]
 categories: ["lifestyle"]
 draft: false
 ---

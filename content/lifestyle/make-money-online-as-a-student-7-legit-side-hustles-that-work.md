@@ -2,7 +2,7 @@
 title: "Make Money Online as a Student: 7 Legit Side Hustles That Work"
 date: "2026-06-28T10:13:27Z"
 description: "Tired of being broke? Learn 7 realistic ways to make money online as a student without scams or BS. Actionable tips from someone who did it."
-tags: ["student side hustle", "make money online", "student income", "online jobs for students", "passive income for students"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

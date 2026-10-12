@@ -2,7 +2,7 @@
 title: "Home Network Security: 12 Best Practices That Work"
 date: "2026-09-11T02:17:35Z"
 description: "Protect your home Wi-Fi from hackers with these practical network security tips—from router settings to guest networks and firmware updates."
-tags: ["home network security", "wi-fi security", "router settings"]
+tags: ["smart-home", "diy"]
 categories: ["home"]
 draft: false
 ---

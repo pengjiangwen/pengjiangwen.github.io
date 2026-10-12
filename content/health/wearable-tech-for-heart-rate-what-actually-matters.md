@@ -2,7 +2,7 @@
 title: "Wearable Tech for Heart Rate: What Actually Matters"
 date: "2026-09-17T15:57:55Z"
 description: "Wearable heart rate trackers are everywhere, but are they accurate? Learn how they work, what the data means, and how to use yours wisely."
-tags: ["wearable tech", "heart rate monitoring", "fitness trackers"]
+tags: ["fitness", "sleep", "mental-health"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Work From Home Desk Setup: A Practical Guide"
 date: "2026-10-06T17:40:21Z"
 description: "Build a work from home desk setup that protects your body and boosts focus. Practical tips on monitors, chairs, lighting, and cable control."
-tags: ["work from home", "desk setup", "home office ergonomics"]
+tags: ["productivity", "personal-finance", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

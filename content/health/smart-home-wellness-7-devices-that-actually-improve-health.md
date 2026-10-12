@@ -2,7 +2,7 @@
 title: "Smart Home Wellness: 7 Devices That Actually Improve Health"
 date: "2026-08-26T00:51:36Z"
 description: "Discover how to use smart home devices for wellness, from sleep tracking to air quality. Real tips to build a healthier living space."
-tags: ["smart home wellness", "health technology", "sleep optimization", "air quality monitor", "smart lighting"]
+tags: ["healthy-habits"]
 categories: ["health"]
 draft: false
 ---

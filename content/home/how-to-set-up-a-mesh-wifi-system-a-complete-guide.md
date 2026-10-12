@@ -2,7 +2,7 @@
 title: "How to Set Up a Mesh WiFi System: A Complete Guide"
 date: "2026-10-03T15:30:16Z"
 description: "Learn how to set up a mesh WiFi system the right way, from placement to app configuration, and finally fix those dead zones for good."
-tags: ["mesh wifi", "home network", "wifi setup"]
+tags: ["home-organization", "smart-home", "diy"]
 categories: ["home"]
 draft: false
 ---

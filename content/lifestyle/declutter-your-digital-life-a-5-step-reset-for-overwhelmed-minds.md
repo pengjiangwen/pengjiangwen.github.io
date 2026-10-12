@@ -2,7 +2,7 @@
 title: "Declutter Your Digital Life: A 5-Step Reset for Overwhelmed Minds"
 date: "2026-08-08T12:32:26Z"
 description: "Feeling buried by notifications, files, and tabs? Learn a practical, guilt-free 5-step system to reclaim your digital space and mental clarity today."
-tags: ["digital minimalism", "productivity tips", "decluttering", "organization", "screen time"]
+tags: ["minimalism"]
 categories: ["lifestyle"]
 draft: false
 ---

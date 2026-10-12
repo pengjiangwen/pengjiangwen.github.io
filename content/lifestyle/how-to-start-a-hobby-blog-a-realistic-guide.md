@@ -2,7 +2,7 @@
 title: "How to Start a Hobby Blog: A Realistic Guide"
 date: "2026-09-29T03:31:47Z"
 description: "Want to start a hobby blog without wasting months? Here's a practical, no-fluff roadmap covering niche, platform, and your first 10 posts."
-tags: ["hobby blog", "blogging tips", "lifestyle blog"]
+tags: ["personal-finance", "habits-routines", "learning"]
 categories: ["lifestyle"]
 draft: false
 ---

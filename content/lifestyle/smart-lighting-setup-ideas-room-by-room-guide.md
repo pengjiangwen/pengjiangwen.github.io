@@ -2,7 +2,7 @@
 title: "Smart Lighting Setup Ideas: Room-by-Room Guide"
 date: "2026-06-19T21:06:14"
 description: "Discover smart lighting setup ideas for every room—sunrise alarms, security automations, and more. No fluff, just practical ways to light your home better."
-tags: ["smart lighting", "home automation", "interior lighting"]
+tags: ["productivity", "personal-finance", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

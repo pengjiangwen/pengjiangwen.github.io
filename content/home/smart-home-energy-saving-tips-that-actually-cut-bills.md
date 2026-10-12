@@ -2,7 +2,7 @@
 title: "Smart Home Energy Saving Tips That Actually Cut Bills"
 date: "2026-10-01T03:23:00Z"
 description: "Learn practical smart home energy saving tips using thermostats, plugs, lighting, and routines to lower your utility bills without sacrificing comfort."
-tags: ["smart home", "energy saving", "home automation"]
+tags: ["energy-efficiency", "smart-home"]
 categories: ["home"]
 draft: false
 ---

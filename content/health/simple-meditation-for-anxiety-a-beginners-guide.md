@@ -2,7 +2,7 @@
 title: "Simple Meditation for Anxiety: A Beginner's Guide"
 date: "2026-10-07T18:12:56Z"
 description: "Learn simple meditation techniques for anxiety that work in minutes. No experience needed—just practical tools to calm your mind starting today."
-tags: ["meditation for anxiety", "mindfulness", "anxiety relief"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

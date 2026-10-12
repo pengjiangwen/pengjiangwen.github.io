@@ -2,7 +2,7 @@
 title: "Best Healthy Morning Routine Apps to Start Your Day Right"
 date: "2026-09-15T02:43:44Z"
 description: "Discover the best healthy morning routine apps to build lasting habits, boost focus, and start every day with energy. Practical picks and tips inside."
-tags: ["morning routine", "healthy habits", "productivity apps"]
+tags: ["habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

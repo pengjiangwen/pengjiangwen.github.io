@@ -2,7 +2,7 @@
 title: "How to Start a Healthy Diet (Without Losing Your Mind)"
 date: "2026-07-27T14:14:30Z"
 description: "Ditch the fads. Learn a practical, science-backed system to start a healthy diet, with real food swaps and mindset shifts that stick."
-tags: ["healthy diet", "clean eating", "nutrition tips", "meal prep", "weight loss", "wellness habits"]
+tags: ["nutrition"]
 categories: ["health"]
 draft: false
 ---

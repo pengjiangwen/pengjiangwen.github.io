@@ -2,7 +2,7 @@
 title: "Home Automation for Beginners: Start Smart in 2025"
 date: "2026-09-19T02:29:10Z"
 description: "New to home automation? Learn which devices to buy first, how protocols work, and how to build a smart home without wasting money or time."
-tags: ["home automation", "smart home", "smart home beginners"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

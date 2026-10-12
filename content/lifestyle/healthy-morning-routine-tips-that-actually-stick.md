@@ -2,7 +2,7 @@
 title: "Healthy Morning Routine Tips That Actually Stick"
 date: "2026-09-26T15:27:58Z"
 description: "Build a healthy morning routine you'll actually keep. Practical tips on sleep, light, movement, and breakfast — no 5 AM hype required."
-tags: ["morning routine", "healthy habits", "wellness lifestyle"]
+tags: ["habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "How to Manage Anxiety Without Medication: Natural Strategies for Lasting Calm"
 date: "2026-06-04T19:51:24Z"
 description: "Discover natural ways to manage anxiety without medication. Learn about lifestyle changes, therapy, mindfulness, and more to regain calm and control."
-tags: ["anxiety relief", "natural remedies", "mental wellness"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

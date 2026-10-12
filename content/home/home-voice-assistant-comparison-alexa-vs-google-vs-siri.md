@@ -2,7 +2,7 @@
 title: "Home Voice Assistant Comparison: Alexa vs. Google vs. Siri"
 date: "2026-09-09T15:40:39Z"
 description: "We tested Alexa, Google Assistant, and Siri in real homes. Compare sound, smart home control, privacy, and call quality to pick the right one."
-tags: ["voice assistants", "smart home", "alexa vs google", "homekit", "smart speakers"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "How to Manage Stress Naturally: 9 Science-Backed Habits"
 date: "2026-10-06T17:40:39Z"
 description: "Learn how to manage stress naturally with proven techniques like breathing exercises, walking, and sleep hygiene—no pills, no gimmicks, just real relief."
-tags: ["stress management", "natural remedies", "mental health"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Time Management Tips for Busy Professionals That Actually Work"
 date: "2026-07-03T02:09:55Z"
 description: "Stop feeling overwhelmed. Practical time management tips for busy professionals, from calendar blocking to the 2-minute rule. No fluff, just results."
-tags: ["time management", "productivity tips", "busy professionals", "work-life balance", "efficiency"]
+tags: ["productivity"]
 categories: ["lifestyle"]
 draft: false
 ---

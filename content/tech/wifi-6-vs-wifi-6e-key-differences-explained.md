@@ -2,7 +2,7 @@
 title: "WiFi 6 vs WiFi 6E: Key Differences Explained"
 date: "2026-07-06T02:28:48Z"
 description: "WiFi 6 vs WiFi 6E: What’s the real difference? Learn about the 6 GHz band, device compatibility, speed gains, and whether upgrading is worth it in 2024."
-tags: ["wifi 6", "wifi 6e", "6 ghz band", "wireless networking", "router upgrade", "tech comparison"]
+tags: ["networking", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

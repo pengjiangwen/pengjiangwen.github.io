@@ -2,7 +2,7 @@
 title: "Smart Meal Prep Tips for Busy People (That Actually Work)"
 date: "2026-08-08T01:02:43Z"
 description: "Discover practical, time-saving meal prep strategies that fit real life. Learn batch cooking, storage hacks, and simple recipes to eat healthy all week."
-tags: ["meal prep", "healthy eating", "batch cooking", "weekly planning", "food storage"]
+tags: ["nutrition"]
 categories: ["health"]
 draft: false
 ---

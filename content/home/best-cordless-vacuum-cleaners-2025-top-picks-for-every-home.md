@@ -2,7 +2,7 @@
 title: "Best Cordless Vacuum Cleaners 2025: Top Picks for Every Home"
 date: "2026-06-03T14:47:53Z"
 description: "Discover the best cordless vacuum cleaners of 2025 with powerful suction and long battery life. Compare top models for homes with pets, carpets, and hard floors."
-tags: ["cordless vacuum cleaners", "best stick vacuums 2025", "cordless vacuum reviews"]
+tags: ["cleaning"]
 categories: ["home"]
 draft: false
 ---

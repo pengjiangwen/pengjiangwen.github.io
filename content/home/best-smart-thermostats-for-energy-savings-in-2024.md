@@ -2,7 +2,7 @@
 title: "Best Smart Thermostats for Energy Savings in 2024"
 date: "2026-06-05T20:00:44"
 description: "Cut your energy bills with a smart thermostat. Compare top energy-saving models from Nest, ecobee, Amazon, and more to help you choose the right one."
-tags: ["smart thermostat", "energy savings", "home automation", "nest", "ecobee", "smart home"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

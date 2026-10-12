@@ -2,7 +2,7 @@
 title: "Standing Desk Posture: Real Benefits, Backed by Science"
 date: "2026-08-27T06:22:35Z"
 description: "Discover how standing desks improve posture, reduce back pain, and boost focus. Learn the correct setup and a simple routine to avoid new aches."
-tags: ["standing desk benefits", "posture improvement", "ergonomic workspace", "back pain relief", "healthy work habits"]
+tags: ["posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

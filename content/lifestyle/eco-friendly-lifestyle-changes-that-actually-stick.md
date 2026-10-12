@@ -2,7 +2,7 @@
 title: "Eco Friendly Lifestyle Changes That Actually Stick"
 date: "2026-09-24T16:13:49Z"
 description: "Practical eco friendly lifestyle changes you can start today, from kitchen swaps to smarter transport, without guilt or expensive gadgets."
-tags: ["eco friendly lifestyle", "sustainable living", "zero waste tips"]
+tags: ["personal-finance", "minimalism", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "12 Practical Tips for Better Mental Health"
 date: "2026-10-12T14:31:00Z"
 description: "Discover 12 science-backed, practical tips to improve your mental health daily—from sleep and movement to setting boundaries and seeking support."
-tags: ["mental health", "self-care", "wellness"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

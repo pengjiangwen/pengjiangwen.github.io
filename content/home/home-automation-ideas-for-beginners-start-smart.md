@@ -2,7 +2,7 @@
 title: "Home Automation Ideas for Beginners: Start Smart"
 date: "2026-09-23T15:52:08Z"
 description: "New to smart homes? Start here. Practical, budget-friendly home automation ideas for beginners, from smart plugs to lighting, without the overwhelm."
-tags: ["home automation", "smart home", "beginner smart home"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Morning Routine for Mental Health: A Practical Guide"
 date: "2026-07-07T14:12:40Z"
 description: "Learn how to build a morning routine that reduces anxiety, boosts focus, and stabilizes your mood. Actionable steps backed by psychology, not toxic positivity."
-tags: ["morning routine", "mental health tips", "anxiety relief", "self-care habits", "healthy mornings"]
+tags: ["mental-health", "healthy-habits"]
 categories: ["health"]
 draft: false
 ---

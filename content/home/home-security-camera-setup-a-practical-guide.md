@@ -2,7 +2,7 @@
 title: "Home Security Camera Setup: A Practical Guide"
 date: "2026-10-09T17:47:50Z"
 description: "Learn how to plan, install, and maintain a home security camera system that actually works—from camera placement to Wi-Fi tips and storage options."
-tags: ["home security", "security cameras", "diy home improvement"]
+tags: ["home-security"]
 categories: ["home"]
 draft: false
 ---

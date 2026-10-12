@@ -2,7 +2,7 @@
 title: "How to Organize a Home Office That Actually Works"
 date: "2026-10-12T14:45:08Z"
 description: "Transform your chaotic home office into a functional workspace with these practical organization strategies, from cable management to smart storage solutions."
-tags: ["home office", "organization", "productivity"]
+tags: ["home-office"]
 categories: ["home"]
 draft: false
 ---

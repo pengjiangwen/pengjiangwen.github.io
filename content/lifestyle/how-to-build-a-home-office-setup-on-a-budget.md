@@ -2,7 +2,7 @@
 title: "How to Build a Home Office Setup on a Budget"
 date: "2026-10-07T03:34:14Z"
 description: "Build a comfortable, productive home office without overspending. Practical tips on desks, chairs, lighting, and tech that actually work."
-tags: ["home office", "budget workspace", "remote work"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Sleep Better Naturally: A Step-by-Step Plan"
 date: "2026-06-06T17:22:26"
 description: "Discover natural, science-backed ways to improve your sleep quality. From bedtime routines to diet tips, learn how to wake up refreshed every morning."
-tags: ["sleep quality", "natural sleep remedies", "sleep tips", "healthy sleep habits", "insomnia relief"]
+tags: ["habits-routines", "learning"]
 categories: ["lifestyle"]
 draft: false
 ---

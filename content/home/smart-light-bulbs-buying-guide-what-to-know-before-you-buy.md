@@ -2,7 +2,7 @@
 title: "Smart Light Bulbs Buying Guide: What to Know Before You Buy"
 date: "2026-10-04T03:36:16Z"
 description: "Confused by smart bulbs? Learn about lumens, color temperature, hubs, and protocols so you pick the right bulb the first time—no returns needed."
-tags: ["smart bulbs", "home lighting", "smart home"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "How to Clean Computer Cache: Speed Up Your PC in Minutes"
 date: "2026-06-30T18:23:41Z"
 description: "Learn exactly how to clear cache on Windows and Mac safely. Step-by-step guide with actionable tips to free up space and fix slowdowns."
-tags: ["clear computer cache", "clean cache windows", "clear cache mac", "speed up computer", "free up disk space"]
+tags: ["pc-building", "software", "security-privacy"]
 categories: ["tech"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Home WiFi Setup Guide: Get Strong Signal Every Room"
 date: "2026-09-28T02:50:24Z"
 description: "Learn how to set up your home WiFi router the right way, fix dead zones, and pick the best channel for faster internet in every room."
-tags: ["home wifi", "router setup", "wifi signal"]
+tags: ["home-organization", "cleaning", "home-security"]
 categories: ["home"]
 draft: false
 ---

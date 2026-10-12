@@ -2,7 +2,7 @@
 title: "Smart Home Security Cameras: A Practical Guide"
 date: "2026-09-18T15:32:53Z"
 description: "Thinking about smart home security cameras? Learn how they work, what features matter, where to place them, and how to avoid common mistakes."
-tags: ["smart home security", "security cameras", "home safety"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

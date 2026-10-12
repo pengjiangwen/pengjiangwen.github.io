@@ -2,7 +2,7 @@
 title: "9 Best Budgeting Apps for Families in 2025"
 date: "2026-10-04T16:14:03Z"
 description: "Compare the best budgeting apps for families, from YNAB to Honeydue. Find the right tool to track spending, save money, and teach kids about finance."
-tags: ["budgeting apps", "family finance", "money management"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

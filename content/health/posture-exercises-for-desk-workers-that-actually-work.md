@@ -2,7 +2,7 @@
 title: "Posture Exercises for Desk Workers That Actually Work"
 date: "2026-10-05T20:07:05Z"
 description: "Fix desk-worker posture with 7 targeted exercises you can do at your desk. No gym, no equipment, 10 minutes a day. Real relief for neck and back pain."
-tags: ["posture exercises", "desk worker health", "back pain relief"]
+tags: ["posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

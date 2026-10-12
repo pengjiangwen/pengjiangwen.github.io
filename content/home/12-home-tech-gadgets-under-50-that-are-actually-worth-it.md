@@ -2,7 +2,7 @@
 title: "12 Home Tech Gadgets Under $50 That Are Actually Worth It"
 date: "2026-10-02T17:08:57Z"
 description: "Discover 12 genuinely useful home tech gadgets under $50 — from smart plugs to LED strips — with real prices and practical buying tips."
-tags: ["budget tech", "smart home", "home gadgets"]
+tags: ["home-organization", "home-security", "energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

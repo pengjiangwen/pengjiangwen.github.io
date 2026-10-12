@@ -2,7 +2,7 @@
 title: "How to Soundproof a Room on a Budget: 12 Cheap Fixes"
 date: "2026-09-28T19:02:00Z"
 description: "Block noise without wrecking your wallet. Learn how to soundproof a room on a budget using towels, weatherstripping, rugs, and smart DIY tricks that work."
-tags: ["soundproofing", "home improvement", "budget diy"]
+tags: ["energy-efficiency", "diy", "interior-design"]
 categories: ["home"]
 draft: false
 ---

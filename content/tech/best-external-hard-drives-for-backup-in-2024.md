@@ -2,7 +2,7 @@
 title: "Best External Hard Drives for Backup in 2024"
 date: "2026-08-22T12:22:56Z"
 description: "We tested 15 external drives for backup. These are the 7 worth your money, with real-world speeds, durability notes, and a no-nonsense buying guide."
-tags: ["external hard drive", "backup storage", "best backup drives", "data backup", "nas vs external"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Best Wireless Earbuds 2025: Top Picks & Buying Guide"
 date: "2026-06-28T10:13:59Z"
 description: "We tested 20+ models to find the best wireless earbuds of 2025. From noise-cancelling to budget-friendly, here are our top recommendations."
-tags: ["wireless earbuds 2025", "best earbuds", "noise cancelling earbuds", "tech review 2025", "audio gear"]
+tags: ["audio", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

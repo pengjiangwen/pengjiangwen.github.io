@@ -2,7 +2,7 @@
 title: "Meal Planning Apps That Save Time (and Your Sanity)"
 date: "2026-10-09T17:48:00Z"
 description: "Discover the best meal planning apps that save time, cut grocery bills, and end the \"what's for dinner\" panic. Real picks, real tips."
-tags: ["meal planning", "meal planning apps", "time-saving tips"]
+tags: ["productivity", "personal-finance", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

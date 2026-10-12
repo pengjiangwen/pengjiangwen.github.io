@@ -2,7 +2,7 @@
 title: "How to Pay Off Debt Fast on a Low Income (Real Plan)"
 date: "2026-06-25T19:20:57Z"
 description: "Ditch the generic advice. A realistic, step-by-step guide to crushing debt on a tight budget with zero fluff and actionable tactics."
-tags: ["debt payoff", "low income budget", "personal finance", "frugal living", "side hustles"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

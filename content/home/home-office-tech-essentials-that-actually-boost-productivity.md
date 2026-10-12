@@ -2,7 +2,7 @@
 title: "Home Office Tech Essentials That Actually Boost Productivity"
 date: "2026-08-21T00:52:43Z"
 description: "Upgrade your workspace with these practical home office tech essentials. From monitors to ergonomic gear, build a setup that works for you."
-tags: ["home office", "productivity", "tech gear", "remote work", "ergonomics"]
+tags: ["home-office"]
 categories: ["home"]
 draft: false
 ---

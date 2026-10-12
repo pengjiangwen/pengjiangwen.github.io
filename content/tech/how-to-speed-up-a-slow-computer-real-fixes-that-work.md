@@ -2,7 +2,7 @@
 title: "How to Speed Up a Slow Computer (Real Fixes That Work)"
 date: "2026-07-24T13:22:10Z"
 description: "Is your PC crawling? Ditch the myths. Here are 10 actionable steps to speed up a slow computer, from startup bloat to hidden malware."
-tags: ["speed up computer", "slow pc fix", "windows optimization", "computer performance", "tech tips"]
+tags: ["laptops", "pc-building", "software"]
 categories: ["tech"]
 draft: false
 ---

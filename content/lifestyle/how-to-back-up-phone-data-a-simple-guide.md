@@ -2,7 +2,7 @@
 title: "How to Back Up Phone Data: A Simple Guide"
 date: "2026-10-06T04:06:19Z"
 description: "Learn how to back up your phone data safely. Step-by-step methods for iPhone and Android, plus cloud and offline options to protect your photos and contacts."
-tags: ["phone backup", "data protection", "mobile tips"]
+tags: ["habits-routines", "travel"]
 categories: ["lifestyle"]
 draft: false
 ---

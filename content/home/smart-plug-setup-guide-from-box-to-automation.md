@@ -2,7 +2,7 @@
 title: "Smart Plug Setup Guide: From Box to Automation"
 date: "2026-10-09T17:47:39Z"
 description: "Learn how to set up smart plugs in minutes, connect them to Wi-Fi, and build simple automations that actually save energy and time."
-tags: ["smart plugs", "home automation", "smart home setup"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

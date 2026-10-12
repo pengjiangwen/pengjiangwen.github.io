@@ -2,7 +2,7 @@
 title: "How to Build Healthy Habits That Actually Stick"
 date: "2026-09-19T15:06:49Z"
 description: "Learn how to build healthy habits that last using science-backed strategies like habit stacking, tiny changes, and smart trigger design."
-tags: ["healthy habits", "habit building", "wellness", "self-improvement"]
+tags: ["fitness", "nutrition", "sleep"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Mental Health Tips for Students: A Practical Guide"
 date: "2026-10-09T03:53:30Z"
 description: "Practical mental health tips for students, from sleep and study habits to managing anxiety. Real strategies you can start using today."
-tags: ["student mental health", "study stress", "self-care for students"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

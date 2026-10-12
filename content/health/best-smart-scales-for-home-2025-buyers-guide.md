@@ -2,7 +2,7 @@
 title: "Best Smart Scales for Home: 2025 Buyer's Guide"
 date: "2026-09-22T16:01:31Z"
 description: "Compare the best smart scales for home in 2025. Learn which features matter, how to sync your data, and which scale fits your health goals."
-tags: ["smart scale", "health tech", "weight tracking"]
+tags: ["fitness", "nutrition", "hydration"]
 categories: ["health"]
 draft: false
 ---

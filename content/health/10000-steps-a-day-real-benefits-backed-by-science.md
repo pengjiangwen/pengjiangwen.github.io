@@ -2,7 +2,7 @@
 title: "10,000 Steps a Day: Real Benefits Backed by Science"
 date: "2026-07-12T01:58:32Z"
 description: "Discover the proven benefits of walking 10,000 steps daily. From weight loss to mental clarity, here’s how to hit your goal without gimmicks."
-tags: ["walking benefits", "10000 steps", "daily walking", "health tips", "fitness routine"]
+tags: ["fitness", "nutrition", "sleep"]
 categories: ["health"]
 draft: false
 ---

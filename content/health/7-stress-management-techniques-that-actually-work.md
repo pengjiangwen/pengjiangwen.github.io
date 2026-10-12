@@ -2,7 +2,7 @@
 title: "7 Stress Management Techniques That Actually Work"
 date: "2026-09-23T02:38:55Z"
 description: "Discover 7 science-backed stress management techniques, from box breathing to the 5-4-3-2-1 method, that calm your nervous system in minutes."
-tags: ["stress management", "mental health", "relaxation techniques"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

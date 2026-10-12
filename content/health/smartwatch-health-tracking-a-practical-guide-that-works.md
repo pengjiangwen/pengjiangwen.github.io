@@ -2,7 +2,7 @@
 title: "Smartwatch Health Tracking: A Practical Guide That Works"
 date: "2026-07-31T13:47:29Z"
 description: "Learn how to track your health with smartwatches beyond step counts. Discover actionable tips for heart rate, sleep, HRV, and recovery that actually improve your habits."
-tags: ["smartwatch health", "wearable tech", "heart rate tracking", "sleep tracking", "hrv", "fitness tracking", "health metrics", "recovery monitoring"]
+tags: ["fitness", "nutrition", "sleep"]
 categories: ["health"]
 draft: false
 ---

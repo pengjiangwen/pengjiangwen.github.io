@@ -2,7 +2,7 @@
 title: "Home Entertainment System Setup: A Practical Guide"
 date: "2026-09-12T02:24:25Z"
 description: "Build a home entertainment system that actually works. Learn how to choose a TV, match a soundbar, hide cables, and calibrate your setup step by step."
-tags: ["home theater", "entertainment system", "tv setup"]
+tags: ["diy", "interior-design"]
 categories: ["home"]
 draft: false
 ---

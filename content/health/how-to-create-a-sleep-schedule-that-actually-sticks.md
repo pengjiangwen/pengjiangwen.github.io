@@ -2,7 +2,7 @@
 title: "How to Create a Sleep Schedule That Actually Sticks"
 date: "2026-08-10T12:52:03Z"
 description: "Learn to reset your circadian rhythm with a step-by-step plan. Fix your wake time, manage light, and troubleshoot common sleep schedule mistakes."
-tags: ["sleep schedule", "circadian rhythm", "sleep hygiene", "better sleep", "morning routine"]
+tags: ["sleep"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Best Wi-Fi Router for Home: 2025 Buyer's Guide"
 date: "2026-09-19T02:28:58Z"
 description: "Stop overpaying for internet you're not getting. Learn how to pick the best Wi-Fi router for your home, plus top picks for every budget and house size."
-tags: ["wifi router", "home networking", "mesh wifi"]
+tags: ["home-organization", "smart-home", "diy"]
 categories: ["home"]
 draft: false
 ---

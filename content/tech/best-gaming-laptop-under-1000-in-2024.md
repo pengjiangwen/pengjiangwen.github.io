@@ -2,7 +2,7 @@
 title: "Best Gaming Laptop Under $1000 in 2024"
 date: "2026-07-22T01:54:48Z"
 description: "Found the best gaming laptop under $1000? We tested the top 5 models for performance, build, and value. Real benchmarks, no fluff."
-tags: ["gaming laptop under 1000", "budget gaming laptop", "best laptop for gaming", "affordable gaming laptop", "rtx 4050 laptop"]
+tags: ["laptops", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

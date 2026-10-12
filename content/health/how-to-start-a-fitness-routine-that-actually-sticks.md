@@ -2,7 +2,7 @@
 title: "How to Start a Fitness Routine That Actually Sticks"
 date: "2026-08-19T00:45:52Z"
 description: "Learn the exact steps to start a fitness routine without burnout. A practical guide on goal setting, scheduling, and building sustainable habits."
-tags: ["fitness for beginners", "workout routine", "healthy habits", "exercise motivation"]
+tags: ["fitness", "healthy-habits"]
 categories: ["health"]
 draft: false
 ---

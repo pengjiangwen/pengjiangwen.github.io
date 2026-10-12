@@ -2,7 +2,7 @@
 title: "Smart Lighting Installation Guide: DIY Setup Made Simple"
 date: "2026-09-10T02:22:22Z"
 description: "Learn how to install smart lighting the right way—from choosing hubs and switches to wiring and app setup. A practical DIY guide for beginners."
-tags: ["smart lighting", "home automation", "diy installation"]
+tags: ["diy"]
 categories: ["home"]
 draft: false
 ---

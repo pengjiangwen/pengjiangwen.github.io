@@ -2,7 +2,7 @@
 title: "Top Meditation Apps 2025: Calm, Headspace & More"
 date: "2026-06-17T21:05:29"
 description: "Stressed? Discover 2025's best meditation apps. Compare Calm, Headspace, Insight Timer & more: honest reviews, free vs paid, and tips to get started."
-tags: ["meditation apps", "mindfulness", "stress relief"]
+tags: ["productivity", "personal-finance", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

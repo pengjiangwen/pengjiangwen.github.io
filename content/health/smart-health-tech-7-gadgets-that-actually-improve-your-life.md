@@ -2,7 +2,7 @@
 title: "Smart Health Tech: 7 Gadgets That Actually Improve Your Life"
 date: "2026-07-19T01:56:44Z"
 description: "Ditch the gimmicks. Discover 7 evidence-based tech gadgets for better health, from sleep trackers to smart water bottles, with real-world tips."
-tags: ["health gadgets", "wearable tech", "sleep tracker", "smart water bottle", "fitness technology", "health monitoring"]
+tags: ["fitness", "nutrition", "sleep"]
 categories: ["health"]
 draft: false
 ---

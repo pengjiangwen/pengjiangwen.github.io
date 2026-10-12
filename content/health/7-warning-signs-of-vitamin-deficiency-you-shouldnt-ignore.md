@@ -2,7 +2,7 @@
 title: "7 Warning Signs of Vitamin Deficiency You Shouldn't Ignore"
 date: "2026-09-24T16:14:00Z"
 description: "Fatigue, hair loss, tingling hands—your body whispers before it screams. Learn the 7 most common signs of vitamin deficiency and what to do about them."
-tags: ["vitamin deficiency", "nutritional health", "vitamins and minerals"]
+tags: ["supplements"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Healthy Eating with Meal Planning Apps: Smart Tips"
 date: "2026-09-10T15:35:36Z"
 description: "Learn how to use meal planning apps to eat healthier without the hassle. Practical tips for grocery lists, portions, and sticking to your goals."
-tags: ["healthy eating", "meal planning apps", "nutrition tips"]
+tags: ["nutrition"]
 categories: ["health"]
 draft: false
 ---

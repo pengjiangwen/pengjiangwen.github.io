@@ -2,7 +2,7 @@
 title: "Intermittent Fasting Guide for Beginners"
 date: "2026-06-24T18:21:29Z"
 description: "New to intermittent fasting? Learn the science, methods, and pitfalls. A no-fluff guide to start fasting safely and see real results."
-tags: ["intermittent fasting", "beginner fasting guide", "health tips", "time-restricted eating", "weight loss"]
+tags: ["nutrition", "sleep", "mental-health"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Smart Thermostat Buying Guide: What Actually Matters"
 date: "2026-09-30T17:20:36Z"
 description: "A practical smart thermostat buying guide covering C-wire needs, compatibility, sensors, and hidden fees so you pick the right model the first time."
-tags: ["smart thermostat", "home automation", "energy savings"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

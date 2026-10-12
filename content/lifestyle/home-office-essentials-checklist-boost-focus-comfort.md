@@ -2,7 +2,7 @@
 title: "Home Office Essentials Checklist: Boost Focus & Comfort"
 date: "2026-06-27T15:56:00Z"
 description: "A no-fluff checklist of home office essentials for ergonomics, productivity, and focus. Real tips from a remote worker to set up your space right."
-tags: ["home office setup", "remote work essentials", "productivity tips", "ergonomic workspace", "wfh checklist"]
+tags: ["productivity"]
 categories: ["lifestyle"]
 draft: false
 ---

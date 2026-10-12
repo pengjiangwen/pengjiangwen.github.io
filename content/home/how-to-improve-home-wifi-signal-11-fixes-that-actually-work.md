@@ -2,7 +2,7 @@
 title: "How to Improve Home WiFi Signal: 11 Fixes That Actually Work"
 date: "2026-08-13T12:53:52Z"
 description: "Dead zones got you down? Learn 11 proven, practical ways to boost your home WiFi signal—from router placement to channel settings. No jargon, just results."
-tags: ["home wifi", "boost wifi signal", "wifi troubleshooting", "router placement", "mesh network"]
+tags: ["home-organization", "smart-home", "diy"]
 categories: ["home"]
 draft: false
 ---

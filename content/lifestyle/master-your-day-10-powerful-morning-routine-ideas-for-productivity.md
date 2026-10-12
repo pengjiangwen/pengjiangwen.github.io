@@ -2,7 +2,7 @@
 title: "Master Your Day: 10 Powerful Morning Routine Ideas for Productivity"
 date: "2026-06-02T15:15:15Z"
 description: "Transform your mornings with actionable morning routine ideas for productivity. Learn how to design a personal ritual that fuels focus and success all day."
-tags: ["productivity", "morning-routine", "time-management", "personal-development", "healthy-habits"]
+tags: ["productivity", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

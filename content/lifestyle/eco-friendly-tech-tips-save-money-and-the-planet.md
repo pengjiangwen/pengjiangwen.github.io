@@ -2,7 +2,7 @@
 title: "Eco Friendly Tech Tips: Save Money and the Planet"
 date: "2026-09-24T16:13:39Z"
 description: "Practical eco friendly tech tips to cut energy use, extend device life, and reduce e-waste—without spending much or sacrificing performance."
-tags: ["eco friendly tech", "sustainable living", "reduce e-waste"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

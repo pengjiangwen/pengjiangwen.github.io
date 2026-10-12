@@ -2,7 +2,7 @@
 title: "Digital Self-Defense: A Practical Privacy Guide"
 date: "2026-08-29T15:59:33Z"
 description: "Learn actionable steps to lock down your online identity, from browser hardening to password managers. No tech degree required."
-tags: ["online privacy", "cybersecurity", "data protection", "digital footprint", "vpn guide"]
+tags: ["security-privacy"]
 categories: ["tech"]
 draft: false
 ---

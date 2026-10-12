@@ -2,7 +2,7 @@
 title: "10 Yoga Poses for Lower Back Pain Relief That Work"
 date: "2026-06-06T17:18:48"
 description: "Discover 10 expert yoga poses for lower back pain relief. Learn safe stretches and create a simple daily routine for lasting comfort and flexibility."
-tags: ["yoga for back pain", "lower back pain relief", "gentle yoga"]
+tags: ["fitness", "posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

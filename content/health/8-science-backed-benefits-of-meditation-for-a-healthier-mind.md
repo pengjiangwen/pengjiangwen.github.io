@@ -2,7 +2,7 @@
 title: "8 Science-Backed Benefits of Meditation for a Healthier Mind"
 date: "2026-09-13T15:23:28Z"
 description: "Discover how daily meditation reduces stress, improves focus, and boosts health. Learn 8 science-backed benefits plus practical tips to start today."
-tags: ["meditation", "mindfulness", "mental health"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

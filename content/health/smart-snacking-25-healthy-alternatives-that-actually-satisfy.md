@@ -2,7 +2,7 @@
 title: "Smart Snacking: 25 Healthy Alternatives That Actually Satisfy"
 date: "2026-08-05T13:49:28Z"
 description: "Ditch the vending machine. Discover dietitian-approved healthy snack alternatives that curb cravings, boost energy, and taste amazing. Real food, real tips."
-tags: ["healthy snacks", "clean eating", "snack ideas", "nutrition tips", "weight management"]
+tags: ["fitness", "nutrition", "supplements"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Small Space Home Gym: Best Compact Workout Gear"
 date: "2026-08-23T12:22:41Z"
 description: "Transform a corner of your home into a gym with these compact, effective workout tools. No heavy machines, just results. Read our top picks."
-tags: ["home gym", "small space workout", "compact fitness", "apartment workout gear", "home fitness"]
+tags: ["fitness"]
 categories: ["health"]
 draft: false
 ---

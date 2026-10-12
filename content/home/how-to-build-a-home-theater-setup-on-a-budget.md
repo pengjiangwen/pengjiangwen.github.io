@@ -2,7 +2,7 @@
 title: "How to Build a Home Theater Setup on a Budget"
 date: "2026-10-02T17:09:09Z"
 description: "Build a real home theater on a budget with smart speaker, projector, and seating choices. Practical picks and setup tips that save money."
-tags: ["home theater", "budget tech", "home audio"]
+tags: ["diy"]
 categories: ["home"]
 draft: false
 ---

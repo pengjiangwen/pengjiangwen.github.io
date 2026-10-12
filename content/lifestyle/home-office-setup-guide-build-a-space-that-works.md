@@ -2,7 +2,7 @@
 title: "Home Office Setup Guide: Build a Space That Works"
 date: "2026-09-29T17:22:20Z"
 description: "A practical home office setup guide covering desk height, lighting, ergonomics, and budget picks to build a workspace that actually works for you."
-tags: ["home office", "ergonomics", "remote work"]
+tags: ["productivity", "habits-routines", "career"]
 categories: ["lifestyle"]
 draft: false
 ---

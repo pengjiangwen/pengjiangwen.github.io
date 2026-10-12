@@ -2,7 +2,7 @@
 title: "How to Build a Gaming PC on a Budget: A Step-by-Step Guide"
 date: "2026-06-02T14:43:06Z"
 description: "Learn how to build a powerful gaming PC without breaking the bank. Our step-by-step guide covers smart component choices and assembly tips for beginners."
-tags: ["budget-gaming-pc", "pc-building", "gaming-pc-guide", "diy-computer", "hardware-tips"]
+tags: ["pc-building"]
 categories: ["tech"]
 draft: false
 ---

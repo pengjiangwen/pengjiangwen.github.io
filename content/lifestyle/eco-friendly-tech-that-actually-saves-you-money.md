@@ -2,7 +2,7 @@
 title: "Eco-Friendly Tech That Actually Saves You Money"
 date: "2026-09-05T02:15:26Z"
 description: "Discover practical, sustainable gadgets that reduce e-waste and lower your bills. Real examples, honest advice, and zero greenwashing."
-tags: ["sustainable living", "green gadgets", "eco tech", "zero waste", "energy saving"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

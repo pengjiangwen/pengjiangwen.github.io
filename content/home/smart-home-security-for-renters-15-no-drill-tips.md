@@ -2,7 +2,7 @@
 title: "Smart Home Security for Renters: 15 No-Drill Tips"
 date: "2026-09-07T16:58:18Z"
 description: "Boost apartment security without losing your deposit. Discover renter-friendly smart locks, cameras, sensors, and DIY fixes that are easy to install and remove."
-tags: ["renter security", "apartment safety", "smart home", "no-drill install", "diy security"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

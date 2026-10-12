@@ -2,7 +2,7 @@
 title: "Best Tablets for Students in 2024: Real-World Picks"
 date: "2026-08-17T00:47:09Z"
 description: "Drowning in tablet specs? I tested the top student tablets for note-taking, typing, and budget. Here are the only 4 worth buying this year."
-tags: ["student tablets", "best tablet for college", "note-taking tablet", "ipad vs samsung", "budget tablet"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "How to Protect Your Online Privacy in 2025"
 date: "2026-09-12T14:44:06Z"
 description: "Practical steps to protect your online privacy, from password managers to browser hardening, plus the data brokers quietly selling your info."
-tags: ["online privacy", "cybersecurity", "data protection"]
+tags: ["security-privacy"]
 categories: ["tech"]
 draft: false
 ---

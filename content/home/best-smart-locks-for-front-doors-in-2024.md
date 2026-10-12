@@ -2,7 +2,7 @@
 title: "Best Smart Locks for Front Doors in 2024"
 date: "2026-08-15T00:48:01Z"
 description: "We tested the top smart locks for front doors. From budget picks to premium models with video, here are the best options for security and convenience."
-tags: ["smart locks", "home security", "front door", "keyless entry", "smart home"]
+tags: ["home-organization", "cleaning", "home-security"]
 categories: ["home"]
 draft: false
 ---

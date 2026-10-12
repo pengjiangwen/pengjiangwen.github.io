@@ -2,7 +2,7 @@
 title: "Start Running Today: A No-Nonsense Guide for Beginners"
 date: "2026-06-10T03:38:10"
 description: "How to start running for absolute beginners: practical tips on gear, form, and a walk-run plan to build endurance safely. Kickstart your fitness journey now!"
-tags: ["running for beginners", "start running guide", "beginner running tips"]
+tags: ["fitness"]
 categories: ["health"]
 draft: false
 ---

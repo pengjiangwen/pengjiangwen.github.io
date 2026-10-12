@@ -2,7 +2,7 @@
 title: "Best Laptop for Home Office: 7 Picks That Actually Work"
 date: "2026-09-26T02:48:49Z"
 description: "Choosing the best laptop for home office work comes down to keyboard, screen, and battery. Here are 7 tested picks for every budget and workflow."
-tags: ["home office", "laptop buying guide", "remote work"]
+tags: ["home-office"]
 categories: ["home"]
 draft: false
 ---

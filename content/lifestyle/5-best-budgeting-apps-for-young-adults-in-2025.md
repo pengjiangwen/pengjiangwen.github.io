@@ -2,7 +2,7 @@
 title: "5 Best Budgeting Apps for Young Adults in 2025"
 date: "2026-06-05T20:25:11"
 description: "Discover the 5 best budgeting apps for young adults. From simple trackers to zero-based budgets, find a tool that fits your financial goals."
-tags: ["budgeting apps", "young adults", "personal finance"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

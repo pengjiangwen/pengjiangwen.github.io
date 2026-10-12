@@ -2,7 +2,7 @@
 title: "Smart Home for Beginners: Start Small, Save Big"
 date: "2026-08-03T02:03:23Z"
 description: "New to smart home tech? Learn which devices actually matter, how to set them up without frustration, and avoid costly mistakes. Your practical starter guide."
-tags: ["smart home", "beginner guide", "home automation", "smart speakers", "smart lighting"]
+tags: ["smart-home"]
 categories: ["tech"]
 draft: false
 ---

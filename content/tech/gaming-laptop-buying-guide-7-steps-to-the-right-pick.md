@@ -2,7 +2,7 @@
 title: "Gaming Laptop Buying Guide: 7 Steps to the Right Pick"
 date: "2026-08-31T02:40:07Z"
 description: "Picking a gaming laptop is confusing. Here’s a no-nonsense guide to GPUs, CPUs, screens, and cooling—so you get real performance for your budget."
-tags: ["gaming laptop", "laptop buying guide", "rtx 4060", "laptop specs", "gaming hardware"]
+tags: ["laptops", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

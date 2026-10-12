@@ -2,7 +2,7 @@
 title: "Mental Health Reset: 7 Science-Backed Habits That Actually Work"
 date: "2026-08-25T12:33:30Z"
 description: "Struggling with stress or low mood? Discover seven practical, evidence-based habits to improve mental health—without the fluff or toxic positivity."
-tags: ["mental health", "self-improvement", "stress management", "mindfulness", "daily habits"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

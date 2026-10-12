@@ -2,7 +2,7 @@
 title: "How Much Sleep Do Adults Really Need? A Complete Guide"
 date: "2026-10-07T03:33:51Z"
 description: "Most adults need 7-9 hours of sleep, but quality matters as much as quantity. Learn how much sleep you need by age and how to get it."
-tags: ["sleep health", "adult sleep needs", "sleep hygiene"]
+tags: ["sleep"]
 categories: ["health"]
 draft: false
 ---

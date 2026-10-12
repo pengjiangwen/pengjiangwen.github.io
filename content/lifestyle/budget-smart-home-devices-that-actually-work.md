@@ -2,7 +2,7 @@
 title: "Budget Smart Home Devices That Actually Work"
 date: "2026-09-10T15:35:50Z"
 description: "Build a smart home on a budget with devices that actually work. Real prices, honest picks, and tips to avoid wasting money on gadgets you won't use."
-tags: ["smart home", "budget tech", "home automation"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

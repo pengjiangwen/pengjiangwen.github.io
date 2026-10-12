@@ -2,7 +2,7 @@
 title: "Fix WiFi Connection Issues: 7 Steps That Actually Work"
 date: "2026-07-29T13:51:42Z"
 description: "Tried everything and your WiFi still drops? Here’s a no-nonsense guide to diagnosing and fixing common home network problems."
-tags: ["wifi troubleshooting", "fix internet connection", "home network tips", "router setup", "slow wifi fix"]
+tags: ["networking"]
 categories: ["tech"]
 draft: false
 ---

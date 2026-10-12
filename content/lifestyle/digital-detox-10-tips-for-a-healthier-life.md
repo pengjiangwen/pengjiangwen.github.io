@@ -2,7 +2,7 @@
 title: "Digital Detox: 10 Tips for a Healthier Life"
 date: "2026-06-11T21:10:49"
 description: "Discover 10 practical digital detox tips to reduce stress, improve sleep, and reclaim your time. Realistic advice for a healthier, happier life."
-tags: ["digital detox", "healthy habits", "screen time"]
+tags: ["digital-wellbeing"]
 categories: ["lifestyle"]
 draft: false
 ---

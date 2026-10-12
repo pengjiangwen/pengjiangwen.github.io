@@ -2,7 +2,7 @@
 title: "Smart Home Starter Guide: Devices That Actually Matter"
 date: "2026-08-29T05:00:31Z"
 description: "New to smart homes? This beginner's guide covers essential devices, setup tips, and common pitfalls to avoid. Start small and build your connected home with confidence."
-tags: ["smart home", "beginner guide", "home automation", "smart speakers", "smart lighting"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

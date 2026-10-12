@@ -2,7 +2,7 @@
 title: "Smart Light Bulbs Guide: Save Money & Automate Your Home"
 date: "2026-09-28T02:50:47Z"
 description: "Thinking about smart bulbs? Learn how they work, which protocols matter, and how to pick the right ones without overspending or overcomplicating."
-tags: ["smart home", "smart lighting", "home automation"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

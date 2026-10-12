@@ -2,7 +2,7 @@
 title: "Best Ergonomic Keyboards for Wrist Pain (2024 Guide)"
 date: "2026-09-05T14:19:26Z"
 description: "Struggling with wrist pain? We break down the best ergonomic keyboards based on split design, tenting, and key switches to help you type pain-free."
-tags: ["ergonomic keyboard", "wrist pain relief", "carpal tunnel", "office ergonomics", "typing comfort"]
+tags: ["posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

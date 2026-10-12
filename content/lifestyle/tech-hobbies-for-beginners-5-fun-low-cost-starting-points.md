@@ -2,7 +2,7 @@
 title: "Tech Hobbies for Beginners: 5 Fun, Low-Cost Starting Points"
 date: "2026-08-08T12:31:02Z"
 description: "Discover five beginner-friendly tech hobbies that won't break the bank. From retro gaming to smart home tinkering, learn how to start today."
-tags: ["tech hobbies", "beginner projects", "diy electronics", "coding for beginners", "smart home setup"]
+tags: ["personal-finance", "habits-routines", "learning"]
 categories: ["lifestyle"]
 draft: false
 ---

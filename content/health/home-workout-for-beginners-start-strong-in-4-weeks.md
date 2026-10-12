@@ -2,7 +2,7 @@
 title: "Home Workout for Beginners: Start Strong in 4 Weeks"
 date: "2026-09-13T15:23:07Z"
 description: "Learn how to start a home workout as a beginner with no equipment. Get a simple 4-week plan, form tips, and ways to stay consistent."
-tags: ["home workout", "beginner fitness", "bodyweight exercise"]
+tags: ["fitness"]
 categories: ["health"]
 draft: false
 ---

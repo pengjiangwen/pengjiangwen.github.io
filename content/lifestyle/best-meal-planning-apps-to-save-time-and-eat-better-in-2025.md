@@ -2,7 +2,7 @@
 title: "Best Meal Planning Apps to Save Time and Eat Better in 2025"
 date: "2026-06-25T19:20:24Z"
 description: "Compare top meal planning apps for real life. From budget-friendly options to diet-specific tools, find the app that fits your routine."
-tags: ["meal planning apps", "healthy eating tools", "kitchen organization", "food prep apps", "lifestyle tech"]
+tags: ["personal-finance", "minimalism", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

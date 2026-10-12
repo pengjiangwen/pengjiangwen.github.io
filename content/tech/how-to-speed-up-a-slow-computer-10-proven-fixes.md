@@ -2,7 +2,7 @@
 title: "How to Speed Up a Slow Computer: 10 Proven Fixes"
 date: "2026-06-15T01:03:32"
 description: "Is your computer painfully slow? Try these 10 proven fixes to speed up your PC—from startup cleanup to cheap SSD upgrades. No tech skills required."
-tags: ["slow computer", "speed up pc", "computer repair"]
+tags: ["laptops", "pc-building", "software"]
 categories: ["tech"]
 draft: false
 ---

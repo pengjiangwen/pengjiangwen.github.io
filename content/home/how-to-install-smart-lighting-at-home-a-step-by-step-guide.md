@@ -2,7 +2,7 @@
 title: "How to Install Smart Lighting at Home: A Step-by-Step Guide"
 date: "2026-07-12T13:02:55Z"
 description: "Learn how to install smart lighting yourself, from choosing bulbs to setting up routines. Practical tips, wiring safety, and real-world examples included."
-tags: ["smart home", "home automation", "diy lighting", "smart bulbs", "home improvement"]
+tags: ["diy"]
 categories: ["home"]
 draft: false
 ---

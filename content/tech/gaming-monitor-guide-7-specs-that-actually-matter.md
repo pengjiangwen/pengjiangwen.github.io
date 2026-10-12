@@ -2,7 +2,7 @@
 title: "Gaming Monitor Guide: 7 Specs That Actually Matter"
 date: "2026-08-31T18:33:12Z"
 description: "Stop guessing. Learn how to choose a gaming monitor with the only 7 specs that matter. Refresh rate, panel type, response time, and more—explained simply."
-tags: ["gaming monitor", "monitor buying guide", "refresh rate", "pc gaming setup"]
+tags: ["smartphones", "pc-building", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

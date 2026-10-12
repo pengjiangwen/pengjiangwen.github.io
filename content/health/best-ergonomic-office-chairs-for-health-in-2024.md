@@ -2,7 +2,7 @@
 title: "Best Ergonomic Office Chairs for Health in 2024"
 date: "2026-07-23T02:03:28Z"
 description: "Stop the back pain. We break down the best ergonomic office chairs, key features to look for, and how to choose the right one for your body and budget."
-tags: ["ergonomic chairs", "office health", "back pain relief", "sitting posture", "home office setup"]
+tags: ["posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

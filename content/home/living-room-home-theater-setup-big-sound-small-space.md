@@ -2,7 +2,7 @@
 title: "Living Room Home Theater Setup: Big Sound, Small Space"
 date: "2026-07-29T13:50:44Z"
 description: "Transform your living room into a home theater without a dedicated room. Actionable tips on layout, soundbars vs. speakers, screen size, and seating for real families."
-tags: ["home theater setup", "living room design", "home audio", "tv placement", "family room entertainment"]
+tags: ["cleaning", "smart-home", "diy"]
 categories: ["home"]
 draft: false
 ---

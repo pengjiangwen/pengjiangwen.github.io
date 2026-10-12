@@ -2,7 +2,7 @@
 title: "Wearable Heart Monitors: Smart Tech for a Healthier Heart"
 date: "2026-08-27T21:30:46Z"
 description: "Discover how wearable ECG, PPG, and AI-driven heart monitors work, their real-world benefits, and practical tips for choosing the right device."
-tags: ["wearable heart monitor", "ecg smartwatch", "arrhythmia detection", "heart health tracking"]
+tags: ["fitness", "sleep", "mental-health"]
 categories: ["health"]
 draft: false
 ---

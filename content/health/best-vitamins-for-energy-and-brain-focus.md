@@ -2,7 +2,7 @@
 title: "Best Vitamins for Energy and Brain Focus"
 date: "2026-07-28T01:50:37Z"
 description: "Stop guessing. Discover the top vitamins that actually boost mental clarity and physical energy, plus real food sources and dosage tips."
-tags: ["vitamins for energy", "brain focus supplements", "b vitamins", "omega-3", "vitamin d", "mental clarity"]
+tags: ["fitness", "nutrition", "sleep"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Healthy Smartphone Habits: A 30-Day Reset Guide"
 date: "2026-09-04T02:15:00Z"
 description: "Learn to break free from doomscrolling with a practical 30-day framework. Reduce screen time, boost focus, and reclaim your attention without going cold turkey."
-tags: ["digital wellbeing", "smartphone addiction", "healthy habits", "screen time reduction", "mental health"]
+tags: ["fitness", "nutrition", "sleep"]
 categories: ["health"]
 draft: false
 ---

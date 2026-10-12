@@ -2,7 +2,7 @@
 title: "Yoga for Back Pain Relief: 7 Poses That Actually Work"
 date: "2026-08-01T13:03:44Z"
 description: "Discover science-backed yoga poses for back pain relief. Learn proper alignment, breathing techniques, and when to avoid certain stretches. Start feeling better today."
-tags: ["yoga for back pain", "back pain relief", "yoga poses", "spinal health", "chronic pain"]
+tags: ["fitness", "posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Best Robot Vacuums Under $500 in 2024: Tested Picks"
 date: "2026-08-08T12:32:02Z"
 description: "We tested 15 robot vacuums under $500 to find the best for pet hair, hardwood, and carpets. These 6 picks offer premium features without the premium price."
-tags: ["robot vacuum", "budget robot vacuum", "best robot vacuum 2024", "smart home cleaning", "pet hair vacuum"]
+tags: ["cleaning", "smart-home", "diy"]
 categories: ["home"]
 draft: false
 ---

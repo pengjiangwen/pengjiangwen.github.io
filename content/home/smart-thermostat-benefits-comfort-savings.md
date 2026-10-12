@@ -2,7 +2,7 @@
 title: "Smart Thermostat Benefits: Comfort & Savings"
 date: "2026-09-09T02:23:49Z"
 description: "Discover how smart thermostats slash energy bills, boost comfort, and learn if they’re worth it. Real data, setup tips, and hidden features explained."
-tags: ["smart home", "energy savings", "hvac tips", "home automation"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

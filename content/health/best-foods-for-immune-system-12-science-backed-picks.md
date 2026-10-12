@@ -2,7 +2,7 @@
 title: "Best Foods for Immune System: 12 Science-Backed Picks"
 date: "2026-10-12T15:21:03Z"
 description: "Discover the best foods for your immune system, from citrus and garlic to yogurt and almonds, plus simple ways to add them to everyday meals."
-tags: ["immune system", "healthy foods", "nutrition"]
+tags: ["immunity"]
 categories: ["health"]
 draft: false
 ---

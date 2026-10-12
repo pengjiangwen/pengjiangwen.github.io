@@ -2,7 +2,7 @@
 title: "How to Choose a Smart Hub That Won’t Drive You Crazy"
 date: "2026-08-18T12:30:13Z"
 description: "Picking a smart hub is confusing. Here’s how to match one to your actual gear, avoid protocol traps, and future-proof your setup without overspending."
-tags: ["smart home", "smart hub", "home automation", "zigbee vs z-wave", "matter protocol"]
+tags: ["cleaning", "home-security", "energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

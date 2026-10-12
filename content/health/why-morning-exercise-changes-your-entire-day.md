@@ -2,7 +2,7 @@
 title: "Why Morning Exercise Changes Your Entire Day"
 date: "2026-08-05T13:48:50Z"
 description: "Discover the science-backed benefits of morning exercise, from better sleep to sharper focus. Learn practical tips to build a sustainable AM workout habit."
-tags: ["morning exercise", "fitness routine", "healthy habits", "workout benefits", "circadian rhythm"]
+tags: ["fitness"]
 categories: ["health"]
 draft: false
 ---

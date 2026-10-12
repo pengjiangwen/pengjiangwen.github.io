@@ -2,7 +2,7 @@
 title: "Best Home Security Cameras 2024: Tested & Reviewed"
 date: "2026-08-14T01:15:59Z"
 description: "We tested 15+ cameras for 2024. These are the best indoor, outdoor, and budget picks for video quality, AI alerts, and privacy."
-tags: ["home security", "security cameras", "smart home", "2024 reviews"]
+tags: ["home-organization", "home-security", "energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

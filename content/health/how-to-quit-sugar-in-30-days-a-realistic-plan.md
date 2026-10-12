@@ -2,7 +2,7 @@
 title: "How to Quit Sugar in 30 Days (A Realistic Plan)"
 date: "2026-07-21T01:56:03Z"
 description: "A 30-day plan to quit sugar without misery. Learn to beat cravings, navigate social situations, and reset your taste buds for good."
-tags: ["quit sugar", "sugar detox", "30 day challenge", "health tips", "reduce cravings"]
+tags: ["nutrition"]
 categories: ["health"]
 draft: false
 ---

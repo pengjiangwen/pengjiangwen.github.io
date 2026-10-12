@@ -2,7 +2,7 @@
 title: "Smart Lighting for Apartments: A Renter's Guide"
 date: "2026-10-09T03:53:21Z"
 description: "Transform your apartment with smart lighting. Learn which bulbs, hubs, and setups work best for renters—no wiring required."
-tags: ["smart lighting", "apartment living", "smart home"]
+tags: ["habits-routines", "travel"]
 categories: ["lifestyle"]
 draft: false
 ---

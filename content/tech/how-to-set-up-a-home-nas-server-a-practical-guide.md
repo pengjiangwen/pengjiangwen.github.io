@@ -2,7 +2,7 @@
 title: "How to Set Up a Home NAS Server: A Practical Guide"
 date: "2026-07-02T10:19:52Z"
 description: "Build your own home NAS from scratch. Step-by-step guide covering hardware, software, RAID, and remote access for backups and media streaming."
-tags: ["home nas", "diy nas server", "network attached storage", "home server setup", "data backup"]
+tags: ["laptops", "pc-building", "smart-home"]
 categories: ["tech"]
 draft: false
 ---

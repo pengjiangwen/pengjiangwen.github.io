@@ -2,7 +2,7 @@
 title: "How to Boost Your Immune System Naturally: 10 Science-Backed Tips for Year-Round Health"
 date: "2026-06-04T11:40:34Z"
 description: "Discover effective, natural ways to strengthen your immune system. From diet and exercise to sleep and stress management, learn how to stay healthy all year long."
-tags: ["immune system", "natural health", "boost immunity", "wellness", "healthy lifestyle"]
+tags: ["immunity"]
 categories: ["health"]
 draft: false
 ---

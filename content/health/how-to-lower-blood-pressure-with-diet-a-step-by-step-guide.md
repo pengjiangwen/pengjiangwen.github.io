@@ -2,7 +2,7 @@
 title: "How to Lower Blood Pressure with Diet: A Step-by-Step Guide"
 date: "2026-06-17T02:20:50"
 description: "Learn how to lower blood pressure naturally with food. Get actionable tips, a DASH diet breakdown, and a simple 1-day meal plan to support healthier BP levels."
-tags: ["lower blood pressure diet", "dash diet", "hypertension foods", "reduce blood pressure naturally", "heart health diet"]
+tags: ["nutrition"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Meditation for Beginners: Real Benefits You Can Feel This Week"
 date: "2026-07-18T01:47:21Z"
 description: "Skeptical about meditation? Discover science-backed benefits for beginners, plus actionable tips to start a daily practice without the fluff."
-tags: ["meditation for beginners", "benefits of meditation", "how to meditate", "mindfulness for starters", "stress relief techniques"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

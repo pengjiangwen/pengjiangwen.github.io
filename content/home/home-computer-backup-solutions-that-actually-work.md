@@ -2,7 +2,7 @@
 title: "Home Computer Backup Solutions That Actually Work"
 date: "2026-10-12T14:45:20Z"
 description: "A practical guide to home computer backup solutions, including the 3-2-1 rule, local and cloud options, and a simple setup anyone can follow."
-tags: ["home backup", "data backup", "cloud storage"]
+tags: ["home-organization", "diy"]
 categories: ["home"]
 draft: false
 ---

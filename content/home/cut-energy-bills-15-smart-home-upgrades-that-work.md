@@ -2,7 +2,7 @@
 title: "Cut Energy Bills: 15 Smart Home Upgrades That Work"
 date: "2026-08-19T12:29:46Z"
 description: "Discover practical, proven ways to make your home more energy efficient. From smart thermostats to insulation fixes, save money and reduce waste."
-tags: ["energy efficiency", "home improvement", "save money", "smart home", "sustainability"]
+tags: ["energy-efficiency", "smart-home"]
 categories: ["home"]
 draft: false
 ---

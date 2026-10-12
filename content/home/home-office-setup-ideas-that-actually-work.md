@@ -2,7 +2,7 @@
 title: "Home Office Setup Ideas That Actually Work"
 date: "2026-09-11T15:37:28Z"
 description: "Practical home office setup ideas for small spaces, budgets, and back pain. Real tips on desks, chairs, lighting, and cable control from someone who tested them."
-tags: ["home office", "remote work", "workspace design"]
+tags: ["home-office"]
 categories: ["home"]
 draft: false
 ---

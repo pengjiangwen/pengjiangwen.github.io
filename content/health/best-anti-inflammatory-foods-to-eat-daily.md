@@ -2,7 +2,7 @@
 title: "Best Anti-Inflammatory Foods to Eat Daily"
 date: "2026-06-27T09:20:00Z"
 description: "Discover the top anti-inflammatory foods to eat daily. A practical guide with real examples to reduce chronic inflammation naturally."
-tags: ["anti-inflammatory foods", "chronic inflammation", "healthy diet", "nutrition tips", "natural healing"]
+tags: ["nutrition"]
 categories: ["health"]
 draft: false
 ---

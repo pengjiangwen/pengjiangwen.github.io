@@ -2,7 +2,7 @@
 title: "Home Tech Decluttering: 7 Steps to a Calmer Digital Life"
 date: "2026-08-18T12:28:49Z"
 description: "Overwhelmed by cables, old gadgets, and notification chaos? Learn a practical, room-by-room system to reclaim your home and mental bandwidth."
-tags: ["tech decluttering", "cable management", "digital minimalism", "smart home organization", "e-waste recycling"]
+tags: ["home-organization", "cleaning", "energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Best Budget Drones for Beginners 2025"
 date: "2026-06-14T01:03:01"
 description: "Discover the best beginner drones that won’t break the bank in 2025. From the DJI Mini 2 SE to the Ryze Tello, we cover top picks, key features, and practical tips for your first flight."
-tags: ["budget drones", "beginner drones", "drones under 300", "best drones 2025", "drone reviews"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

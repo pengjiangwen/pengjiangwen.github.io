@@ -2,7 +2,7 @@
 title: "How to Reduce Screen Time Without Losing Your Mind"
 date: "2026-07-27T02:10:51Z"
 description: "Practical, science-backed strategies to cut screen time for adults. Ditch the guilt, embrace boredom, and reclaim focus with these 5 actionable steps."
-tags: ["reduce screen time", "digital wellness", "productivity tips", "lifestyle habits", "phone addiction"]
+tags: ["digital-wellbeing"]
 categories: ["lifestyle"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "How to Declutter Your Entire Home in One Weekend"
 date: "2026-06-10T20:50:00"
 description: "Feeling overwhelmed by clutter? Use this practical, room-by-room plan to declutter your entire home in just one weekend—without burning out."
-tags: ["decluttering", "home organization", "weekend project", "minimalism", "cleaning tips"]
+tags: ["minimalism"]
 categories: ["lifestyle"]
 draft: false
 ---

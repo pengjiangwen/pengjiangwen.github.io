@@ -2,7 +2,7 @@
 title: "Energy Saving Tips for Home: Cut Bills Without Sacrificing Comfort"
 date: "2026-09-13T15:23:39Z"
 description: "Practical energy saving tips for home that actually lower your bills. Learn where your energy really goes and simple fixes that pay off fast."
-tags: ["energy saving", "home efficiency", "lower utility bills"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

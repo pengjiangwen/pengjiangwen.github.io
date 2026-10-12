@@ -2,7 +2,7 @@
 title: "Family Screen Time Rules That Actually Work"
 date: "2026-10-03T03:08:01Z"
 description: "Tired of screen time battles? Here's how to build family screen time rules that stick, with real examples and scripts you can use tonight."
-tags: ["family screen time", "parenting tips", "digital wellness"]
+tags: ["digital-wellbeing"]
 categories: ["lifestyle"]
 draft: false
 ---

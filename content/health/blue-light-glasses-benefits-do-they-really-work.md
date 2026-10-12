@@ -2,7 +2,7 @@
 title: "Blue Light Glasses Benefits: Do They Really Work?"
 date: "2026-10-05T03:18:33Z"
 description: "Blue light glasses are everywhere, but do they actually help? Here's what the research says about eye strain, sleep, and who benefits most."
-tags: ["blue light glasses", "eye health", "digital eye strain"]
+tags: ["sleep", "supplements", "posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

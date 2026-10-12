@@ -2,7 +2,7 @@
 title: "How to Clean Your PC Fans in 20 Minutes or Less"
 date: "2026-09-08T02:21:35Z"
 description: "Stop overheating and jet-engine noise. Learn how to safely clean your PC fans with this step-by-step guide. No disassembly skills required."
-tags: ["pc maintenance", "cleaning computer fans", "pc cooling", "dust removal", "computer upkeep"]
+tags: ["pc-building", "security-privacy", "networking"]
 categories: ["tech"]
 draft: false
 ---

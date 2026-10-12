@@ -2,7 +2,7 @@
 title: "Standing Desk Health Benefits: What Science Really Says"
 date: "2026-09-14T17:19:43Z"
 description: "Discover the real health benefits of standing desks, from back pain relief to better focus, plus practical tips to avoid common pitfalls."
-tags: ["standing desk", "workplace health", "ergonomics"]
+tags: ["fitness", "nutrition", "posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

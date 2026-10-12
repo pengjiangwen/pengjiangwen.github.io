@@ -2,7 +2,7 @@
 title: "Start a Daily Journaling Habit: The 5-Minute Method"
 date: "2026-08-06T01:51:17Z"
 description: "Learn how to start a daily journaling habit without burnout. Actionable tips, real examples, and a simple 5-minute framework for busy people."
-tags: ["journaling tips", "daily habit", "self-improvement", "mental health", "productivity"]
+tags: ["habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

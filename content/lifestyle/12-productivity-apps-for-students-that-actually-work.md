@@ -2,7 +2,7 @@
 title: "12 Productivity Apps for Students That Actually Work"
 date: "2026-10-03T03:08:11Z"
 description: "Stop juggling ten apps that don't talk to each other. Here are 12 productivity apps for students that genuinely save time, with real use cases."
-tags: ["productivity apps", "student tools", "study tips"]
+tags: ["productivity"]
 categories: ["lifestyle"]
 draft: false
 ---

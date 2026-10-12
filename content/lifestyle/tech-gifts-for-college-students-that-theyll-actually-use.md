@@ -2,7 +2,7 @@
 title: "Tech Gifts for College Students That They'll Actually Use"
 date: "2026-10-06T04:06:10Z"
 description: "Skip the useless gadgets. Here are the tech gifts college students actually use daily, from noise-cancelling headphones to portable chargers and laptops."
-tags: ["tech gifts", "college students", "gift guide"]
+tags: ["productivity", "personal-finance", "habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

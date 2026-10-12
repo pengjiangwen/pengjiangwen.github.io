@@ -2,7 +2,7 @@
 title: "How to Track Calories: A Practical Guide That Works"
 date: "2026-10-10T03:37:32Z"
 description: "Learn how to track calories without losing your mind. Real strategies, portion tricks, and common mistakes to avoid from someone who's done it."
-tags: ["calorie tracking", "weight loss", "nutrition basics"]
+tags: ["fitness", "nutrition", "weight-loss"]
 categories: ["health"]
 draft: false
 ---

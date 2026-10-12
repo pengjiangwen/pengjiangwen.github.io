@@ -2,7 +2,7 @@
 title: "AI Tools for Students: 12 That Actually Help"
 date: "2026-09-26T15:27:48Z"
 description: "Discover the best AI tools for students in 2025—from note-taking to citations. Real examples, pricing, and honest limits of each tool."
-tags: ["ai tools", "student productivity", "edtech"]
+tags: ["audio", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

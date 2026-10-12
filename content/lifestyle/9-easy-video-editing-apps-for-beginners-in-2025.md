@@ -2,7 +2,7 @@
 title: "9 Easy Video Editing Apps for Beginners in 2025"
 date: "2026-10-05T20:06:55Z"
 description: "New to video editing? Discover 9 beginner-friendly apps for iPhone, Android, and desktop that make cutting, captioning, and sharing videos simple."
-tags: ["video editing apps", "beginner video editing", "content creation"]
+tags: ["personal-finance", "learning", "travel"]
 categories: ["lifestyle"]
 draft: false
 ---

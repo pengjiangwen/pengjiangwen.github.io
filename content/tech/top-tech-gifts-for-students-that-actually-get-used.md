@@ -2,7 +2,7 @@
 title: "Top Tech Gifts for Students That Actually Get Used"
 date: "2026-09-01T15:51:26Z"
 description: "From noise-canceling headphones to smart notebooks, these are the top tech gifts for students that boost productivity without breaking the bank."
-tags: ["student tech gifts", "back to school tech", "college gadgets", "productivity tech", "tech under 100"]
+tags: ["smartphones", "laptops", "pc-building"]
 categories: ["tech"]
 draft: false
 ---

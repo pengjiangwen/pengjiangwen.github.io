@@ -2,7 +2,7 @@
 title: "How to Transfer Data to a New Phone (2024 Guide)"
 date: "2026-09-21T17:32:46Z"
 description: "Switching phones? Here's how to transfer contacts, photos, and apps from iPhone to Android or between same-brand devices without losing anything."
-tags: ["data transfer", "new phone setup", "iphone to android", "phone migration", "tech tips"]
+tags: ["smartphones", "software", "security-privacy"]
 categories: ["tech"]
 draft: false
 ---

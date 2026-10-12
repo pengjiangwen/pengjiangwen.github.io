@@ -2,7 +2,7 @@
 title: "Smart Home Routines That Actually Make Life Easier"
 date: "2026-10-05T03:18:53Z"
 description: "Discover practical smart home routines for mornings, evenings, and everything in between—plus tips to automate your lights, thermostat, and more."
-tags: ["smart home", "home automation", "routines"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "How to Quit Smoking Naturally: A Realistic Guide"
 date: "2026-10-12T15:45:06Z"
 description: "Learn how to quit smoking naturally with practical strategies, craving tips, and real examples. No gimmicks—just a clear plan you can start today."
-tags: ["quit smoking", "natural health", "smoking cessation"]
+tags: ["fitness", "nutrition", "sleep"]
 categories: ["health"]
 draft: false
 ---

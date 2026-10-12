@@ -2,7 +2,7 @@
 title: "Family Cybersecurity Tips: Protect Your Home in 2025"
 date: "2026-09-10T15:36:01Z"
 description: "Practical family cybersecurity tips to protect your kids, devices, and personal data at home—without turning your house into a fortress."
-tags: ["family cybersecurity", "online safety", "digital parenting"]
+tags: ["personal-finance", "habits-routines", "learning"]
 categories: ["lifestyle"]
 draft: false
 ---

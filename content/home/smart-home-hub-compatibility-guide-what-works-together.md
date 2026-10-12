@@ -2,7 +2,7 @@
 title: "Smart Home Hub Compatibility Guide: What Works Together"
 date: "2026-07-30T13:41:31Z"
 description: "Stop buying gadgets that don’t talk to each other. This guide breaks down Zigbee, Z-Wave, Matter, and which hubs actually unify your smart home."
-tags: ["smart home hub", "home automation compatibility", "zigbee vs z-wave", "matter protocol", "smart home setup"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

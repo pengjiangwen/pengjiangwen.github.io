@@ -2,7 +2,7 @@
 title: "How to Build a Sustainable Fitness Routine That Lasts"
 date: "2026-07-22T01:54:22Z"
 description: "Ditch the burnout cycle. Learn how to build a fitness routine you’ll actually stick with using practical habit design, recovery, and mindset shifts."
-tags: ["sustainable fitness", "fitness routine", "habit building", "exercise consistency", "health tips"]
+tags: ["fitness", "healthy-habits"]
 categories: ["health"]
 draft: false
 ---

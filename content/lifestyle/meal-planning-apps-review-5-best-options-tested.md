@@ -2,7 +2,7 @@
 title: "Meal Planning Apps Review: 5 Best Options Tested"
 date: "2026-09-14T17:20:26Z"
 description: "We tested 5 top meal planning apps for budget, dietary needs, and time. See which ones actually save you money and stress each week."
-tags: ["meal planning apps", "meal prep", "budgeting", "healthy eating", "lifestyle"]
+tags: ["personal-finance", "habits-routines", "travel"]
 categories: ["lifestyle"]
 draft: false
 ---

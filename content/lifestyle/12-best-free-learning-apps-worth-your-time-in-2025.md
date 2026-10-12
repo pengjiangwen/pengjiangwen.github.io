@@ -2,7 +2,7 @@
 title: "12 Best Free Learning Apps Worth Your Time in 2025"
 date: "2026-09-23T15:51:39Z"
 description: "Discover the best free learning apps for languages, coding, math, and skills. Honest reviews, real limitations, and tips to actually stick with them."
-tags: ["free learning apps", "online learning", "self-improvement"]
+tags: ["learning"]
 categories: ["lifestyle"]
 draft: false
 ---

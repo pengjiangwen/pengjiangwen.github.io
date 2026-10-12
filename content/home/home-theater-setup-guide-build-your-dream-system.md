@@ -2,7 +2,7 @@
 title: "Home Theater Setup Guide: Build Your Dream System"
 date: "2026-10-11T03:10:30Z"
 description: "Learn how to build a home theater setup that actually sounds and looks great, from room choice and screen size to speakers, seating, and calibration."
-tags: ["home theater", "home audio", "av setup"]
+tags: ["diy"]
 categories: ["home"]
 draft: false
 ---

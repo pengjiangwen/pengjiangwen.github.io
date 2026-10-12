@@ -2,7 +2,7 @@
 title: "9 Warning Signs of Vitamin D Deficiency You Shouldn't Ignore"
 date: "2026-10-11T17:08:02Z"
 description: "Fatigue, bone pain, and frequent illness could signal low vitamin D. Learn the 9 most common signs of deficiency and how to fix them fast."
-tags: ["vitamin d deficiency", "vitamin d symptoms", "health"]
+tags: ["supplements"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Best Robot Vacuums for Pet Hair (2024 Guide)"
 date: "2026-08-24T12:32:19Z"
 description: "We tested the top robot vacuums for pet hair. Compare suction, brush design, self-emptying bins, and find the best pick for your home and budget."
-tags: ["robot vacuum", "pet hair", "home cleaning", "best vacuums", "self-emptying"]
+tags: ["cleaning", "energy-efficiency", "interior-design"]
 categories: ["home"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Digital Detox Tips: Reclaim Focus Without Quitting Tech"
 date: "2026-07-05T02:23:53Z"
 description: "Practical, no-nonsense strategies to reduce screen time, break phone addiction, and reset your relationship with technology."
-tags: ["digital detox", "screen time tips", "mindfulness", "productivity", "wellness"]
+tags: ["productivity", "digital-wellbeing"]
 categories: ["lifestyle"]
 draft: false
 ---

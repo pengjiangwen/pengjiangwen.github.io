@@ -2,7 +2,7 @@
 title: "How to Speed Up Home Internet: 12 Fixes That Work"
 date: "2026-09-18T15:32:21Z"
 description: "Slow Wi-Fi? Learn how to speed up home internet with 12 practical fixes—from router placement to DNS tweaks—no technician visit required."
-tags: ["home internet", "wifi speed", "router tips"]
+tags: ["home-organization", "smart-home", "diy"]
 categories: ["home"]
 draft: false
 ---

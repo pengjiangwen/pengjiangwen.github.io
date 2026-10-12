@@ -2,7 +2,7 @@
 title: "Space Saving Furniture for Small Apartments: Smart Picks"
 date: "2026-07-04T02:08:52Z"
 description: "Discover the best space saving furniture for small apartments. Actionable tips on multi-functional beds, foldable tables, and hidden storage solutions."
-tags: ["small apartment furniture", "space saving furniture", "tiny living", "multi-functional furniture", "home organization"]
+tags: ["interior-design"]
 categories: ["home"]
 draft: false
 ---

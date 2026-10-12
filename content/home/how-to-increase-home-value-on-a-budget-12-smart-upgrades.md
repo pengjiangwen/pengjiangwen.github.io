@@ -2,7 +2,7 @@
 title: "How to Increase Home Value on a Budget: 12 Smart Upgrades"
 date: "2026-09-17T02:42:26Z"
 description: "Want to boost your home's value without draining your savings? Discover 12 budget-friendly upgrades that deliver real ROI, from paint to curb appeal."
-tags: ["home improvement", "home value", "budget renovation"]
+tags: ["home-organization", "cleaning", "gardening"]
 categories: ["home"]
 draft: false
 ---

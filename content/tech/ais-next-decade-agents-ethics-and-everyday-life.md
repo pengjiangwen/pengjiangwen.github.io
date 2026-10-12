@@ -2,7 +2,7 @@
 title: "AI's Next Decade: Agents, Ethics, and Everyday Life"
 date: "2026-08-07T12:45:24Z"
 description: "Explore the practical future of AI: autonomous agents, on-device models, job transformation, and the ethical crossroads we face by 2035."
-tags: ["artificial intelligence", "future tech", "ai agents", "machine learning", "tech trends"]
+tags: ["laptops", "audio", "software"]
 categories: ["tech"]
 draft: false
 ---

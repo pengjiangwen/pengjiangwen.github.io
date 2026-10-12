@@ -2,7 +2,7 @@
 title: "Beginner Photography Tips With Phone: Shoot Like a Pro"
 date: "2026-10-01T17:47:31Z"
 description: "Learn beginner photography tips with phone cameras to take stunning photos. Master lighting, composition, and editing with simple, actionable steps."
-tags: ["phone photography", "beginner photography", "mobile photography tips"]
+tags: ["learning", "digital-wellbeing"]
 categories: ["lifestyle"]
 draft: false
 ---

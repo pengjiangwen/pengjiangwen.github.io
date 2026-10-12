@@ -2,7 +2,7 @@
 title: "Best Smart Thermostat 2024: Top Picks That Actually Save"
 date: "2026-09-24T02:28:33Z"
 description: "Comparing the best smart thermostats of 2024? We break down Google Nest, Ecobee, and Amazon options by price, features, and real savings."
-tags: ["smart thermostat", "home automation", "energy savings"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

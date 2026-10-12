@@ -2,7 +2,7 @@
 title: "Smart Energy Saving Home Tech That Actually Cuts Bills"
 date: "2026-08-07T12:44:32Z"
 description: "Discover practical, proven home tech upgrades that slash energy bills. From smart thermostats to vampire power killers, these tips pay for themselves."
-tags: ["energy saving", "smart home", "home efficiency", "reduce electricity bill", "smart thermostat"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

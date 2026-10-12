@@ -2,7 +2,7 @@
 title: "How to Automate Your Home with Alexa: A Practical Guide"
 date: "2026-08-20T12:31:49Z"
 description: "Learn how to automate your home with Alexa using routines, sensors, and smart plugs. A step-by-step guide to saving time and energy today."
-tags: ["alexa automation", "smart home setup", "amazon echo", "alexa routines", "home automation"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "How to Set Up a Smart Home: A Beginner's Guide"
 date: "2026-09-27T16:07:24Z"
 description: "Learn how to set up a smart home the right way—from choosing a hub and Wi-Fi network to picking your first devices and automating routines."
-tags: ["smart home", "home automation", "smart home setup"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

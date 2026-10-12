@@ -2,7 +2,7 @@
 title: "Home Weather Station Setup: A Practical Guide That Works"
 date: "2026-08-06T13:47:28Z"
 description: "Learn how to set up a home weather station correctly. Avoid common sensor errors, get accurate data, and choose the right spot for your gear."
-tags: ["home weather station", "weather station setup", "backyard weather", "sensor placement", "personal weather network"]
+tags: ["home-organization", "cleaning", "gardening"]
 categories: ["home"]
 draft: false
 ---

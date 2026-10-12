@@ -2,7 +2,7 @@
 title: "Best Stretching Exercises for Office Workers (Desk Relief)"
 date: "2026-07-06T02:28:14Z"
 description: "7 targeted stretches to undo sitting damage. Fix tight hips, hunched shoulders, and a stiff neck at your desk with these actionable moves."
-tags: ["office stretches", "desk ergonomics", "lower back pain relief", "hip flexor stretch", "neck tension"]
+tags: ["fitness", "sleep", "hydration"]
 categories: ["health"]
 draft: false
 ---

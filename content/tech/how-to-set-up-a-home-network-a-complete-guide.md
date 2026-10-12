@@ -2,7 +2,7 @@
 title: "How to Set Up a Home Network: A Complete Guide"
 date: "2026-10-03T15:30:27Z"
 description: "Learn how to set up a home network from scratch—choose the right router, place it for best coverage, secure it, and fix dead zones like a pro."
-tags: ["home network", "wifi setup", "router configuration"]
+tags: ["networking"]
 categories: ["tech"]
 draft: false
 ---

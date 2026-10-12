@@ -2,7 +2,7 @@
 title: "Smart Lighting Buying Guide: How to Choose the Right Bulbs"
 date: "2026-09-22T02:38:29Z"
 description: "Confused by smart bulbs, hubs, and protocols? This practical smart lighting buying guide covers what actually matters before you spend a dime."
-tags: ["smart lighting", "smart home", "home automation"]
+tags: ["personal-finance", "habits-routines", "learning"]
 categories: ["lifestyle"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Best Budget Wireless Earbuds: 5 Picks Under $60"
 date: "2026-09-22T02:38:50Z"
 description: "Looking for the best budget wireless earbuds? We tested 5 affordable pairs under $60 that deliver solid sound, battery life, and comfort."
-tags: ["budget earbuds", "wireless earbuds", "affordable audio"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

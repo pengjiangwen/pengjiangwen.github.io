@@ -2,7 +2,7 @@
 title: "Morning Routine with Technology: A Smarter Start"
 date: "2026-10-03T03:08:22Z"
 description: "Build a morning routine with technology that actually helps. Learn which apps and devices to use, when to avoid screens, and how to stay in control."
-tags: ["morning routine", "digital wellness", "productivity habits"]
+tags: ["habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

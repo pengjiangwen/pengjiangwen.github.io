@@ -2,7 +2,7 @@
 title: "How to Reduce Phone Storage: 12 Tricks That Actually Work"
 date: "2026-10-04T16:14:13Z"
 description: "Running out of phone storage? Learn how to free up gigabytes fast by clearing hidden junk, taming photos, and using smart tools that save space."
-tags: ["phone storage", "digital decluttering", "smartphone tips"]
+tags: ["productivity", "habits-routines", "learning"]
 categories: ["lifestyle"]
 draft: false
 ---

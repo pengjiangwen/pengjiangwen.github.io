@@ -2,7 +2,7 @@
 title: "Home Wi-Fi Mesh Setup: Kill Dead Zones for Good"
 date: "2026-07-29T01:53:02Z"
 description: "Step-by-step guide to setting up a mesh Wi-Fi system. Learn placement tips, app configuration, and how to avoid common mistakes for whole-home coverage."
-tags: ["mesh wi-fi setup", "home network", "eliminate dead zones", "router placement", "wi-fi troubleshooting"]
+tags: ["home-organization", "gardening", "smart-home"]
 categories: ["home"]
 draft: false
 ---

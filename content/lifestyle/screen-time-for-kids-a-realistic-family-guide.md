@@ -2,7 +2,7 @@
 title: "Screen Time for Kids: A Realistic Family Guide"
 date: "2026-08-20T00:46:49Z"
 description: "Tired of the daily screen battles? Learn practical, judgment-free strategies to manage your kids' screen time without the guilt or power struggles."
-tags: ["screen time management", "parenting tips", "digital wellness", "healthy habits", "family routine"]
+tags: ["digital-wellbeing"]
 categories: ["lifestyle"]
 draft: false
 ---

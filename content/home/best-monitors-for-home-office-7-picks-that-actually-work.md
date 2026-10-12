@@ -2,7 +2,7 @@
 title: "Best Monitors for Home Office: 7 Picks That Actually Work"
 date: "2026-10-09T03:53:10Z"
 description: "Stop squinting at a laptop screen. These are the best monitors for home office work in 2025, from budget 24-inch panels to ultrawide productivity beasts."
-tags: ["home office", "monitors", "productivity"]
+tags: ["home-office"]
 categories: ["home"]
 draft: false
 ---

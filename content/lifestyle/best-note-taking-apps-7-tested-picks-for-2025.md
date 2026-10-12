@@ -2,7 +2,7 @@
 title: "Best Note-Taking Apps: 7 Tested Picks for 2025"
 date: "2026-09-14T02:40:24Z"
 description: "I tested dozens of note apps to find the best for work, study, and life. Compare Notion, Obsidian, Apple Notes, and more to pick your perfect fit."
-tags: ["note taking apps", "productivity", "digital organization"]
+tags: ["habits-routines", "learning"]
 categories: ["lifestyle"]
 draft: false
 ---

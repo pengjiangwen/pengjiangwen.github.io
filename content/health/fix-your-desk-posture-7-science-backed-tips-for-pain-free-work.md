@@ -2,7 +2,7 @@
 title: "Fix Your Desk Posture: 7 Science-Backed Tips for Pain-Free Work"
 date: "2026-07-27T14:16:17Z"
 description: "Stop slouching at your desk. Learn 7 actionable, science-backed tips to improve your posture while working, reduce back pain, and boost energy naturally."
-tags: ["posture at work", "ergonomic desk setup", "back pain relief", "office ergonomics", "healthy sitting"]
+tags: ["posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

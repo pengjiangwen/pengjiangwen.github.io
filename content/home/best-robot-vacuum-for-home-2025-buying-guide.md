@@ -2,7 +2,7 @@
 title: "Best Robot Vacuum for Home: 2025 Buying Guide"
 date: "2026-09-17T02:42:14Z"
 description: "Find the best robot vacuum for your home in 2025. Compare top picks for pet hair, carpets, and hard floors, plus tips to avoid common buying mistakes."
-tags: ["robot vacuum", "home cleaning", "smart home"]
+tags: ["cleaning", "appliances"]
 categories: ["home"]
 draft: false
 ---

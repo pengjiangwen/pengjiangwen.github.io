@@ -2,7 +2,7 @@
 title: "How to Secure Home WiFi: A Practical 2025 Guide"
 date: "2026-10-04T03:36:26Z"
 description: "Learn how to secure your home WiFi with actionable steps: change default passwords, enable WPA3, update firmware, and lock down your router today."
-tags: ["home wifi security", "router settings", "network protection"]
+tags: ["smart-home", "diy"]
 categories: ["home"]
 draft: false
 ---

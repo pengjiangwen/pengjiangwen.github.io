@@ -2,7 +2,7 @@
 title: "Top Tech Gifts Under $50 That Actually Impress"
 date: "2026-07-26T13:04:45Z"
 description: "Discover 12 high-quality tech gifts under $50 that people actually want. From smart plugs to portable chargers, these picks punch above their price tag."
-tags: ["tech gifts under 50", "affordable tech gifts", "budget tech gadgets", "gift ideas under $50", "cheap tech gifts"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

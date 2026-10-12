@@ -2,7 +2,7 @@
 title: "Home Tech Gifts Guide: Smart Picks for Every Budget"
 date: "2026-09-29T17:22:51Z"
 description: "Looking for home tech gifts? From smart speakers to robot vacuums, discover practical picks for every budget and personality type."
-tags: ["home tech gifts", "smart home", "gift guide"]
+tags: ["home-organization", "cleaning", "home-security"]
 categories: ["home"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "7 Ways to Prevent Digital Eye Strain (That Actually Work)"
 date: "2026-09-05T02:16:33Z"
 description: "Screens aren't going anywhere. Learn 7 practical, science-backed ways to prevent digital eye strain and keep your eyes comfortable all day long."
-tags: ["eye health", "digital eye strain", "screen time tips", "computer vision syndrome", "eye exercises"]
+tags: ["fitness", "sleep", "mental-health"]
 categories: ["health"]
 draft: false
 ---

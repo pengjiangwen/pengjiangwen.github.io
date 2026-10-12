@@ -2,7 +2,7 @@
 title: "Best Stretches for Back Pain That Actually Work"
 date: "2026-10-06T17:40:29Z"
 description: "Discover the best stretches for back pain, from cat-cow to sciatic nerve glides. Learn how to do them safely and when to see a doctor."
-tags: ["back pain relief", "stretching routine", "lower back stretches"]
+tags: ["posture-ergonomics"]
 categories: ["health"]
 draft: false
 ---

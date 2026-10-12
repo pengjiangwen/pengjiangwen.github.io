@@ -2,7 +2,7 @@
 title: "Home Network Security Tips That Actually Work"
 date: "2026-09-21T02:37:13Z"
 description: "Practical home network security tips to protect your Wi-Fi, router, and smart devices from hackers, with step-by-step changes you can make today."
-tags: ["home network security", "wi-fi security", "router protection"]
+tags: ["energy-efficiency", "smart-home", "diy"]
 categories: ["home"]
 draft: false
 ---

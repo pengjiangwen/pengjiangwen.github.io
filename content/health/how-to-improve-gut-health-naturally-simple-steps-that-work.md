@@ -2,7 +2,7 @@
 title: "How to Improve Gut Health Naturally: Simple Steps That Work"
 date: "2026-06-09T19:47:44"
 description: "Learn how to improve gut health naturally with simple, science-backed tips. From best prebiotic foods to stress-relief hacks, build a healthier gut today."
-tags: ["gut health", "digestive health", "natural remedies", "probiotics", "prebiotics", "microbiome", "healthy digestion", "wellness tips"]
+tags: ["immunity"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Healthy Meal Prep Ideas for a Stress-Free Week"
 date: "2026-06-29T14:40:08Z"
 description: "Master weekly meal prep with practical, healthy recipes. Save time, eat well, and ditch decision fatigue with these actionable tips and real examples."
-tags: ["healthy meal prep", "meal planning", "weekly recipes", "clean eating", "time-saving cooking"]
+tags: ["nutrition", "mental-health"]
 categories: ["health"]
 draft: false
 ---

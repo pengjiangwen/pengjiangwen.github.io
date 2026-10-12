@@ -2,7 +2,7 @@
 title: "Family Friendly Tech Activities: Fun for All Ages"
 date: "2026-09-24T02:28:22Z"
 description: "Discover family friendly tech activities that bring everyone together, from coding games to digital scavenger hunts. Fun, safe, and screen-smart ideas inside."
-tags: ["family tech activities", "kids coding", "screen time balance"]
+tags: ["habits-routines", "learning", "digital-wellbeing"]
 categories: ["lifestyle"]
 draft: false
 ---

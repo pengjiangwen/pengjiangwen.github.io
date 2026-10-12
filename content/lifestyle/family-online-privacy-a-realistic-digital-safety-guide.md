@@ -2,7 +2,7 @@
 title: "Family Online Privacy: A Realistic Digital Safety Guide"
 date: "2026-08-19T12:29:15Z"
 description: "Practical, family-friendly online privacy tips to protect your kids without fear-mongering. Set boundaries, use tools wisely, and build trust."
-tags: ["family internet safety", "online privacy tips", "digital parenting", "kids screen time", "cybersecurity for families"]
+tags: ["productivity", "habits-routines", "career"]
 categories: ["lifestyle"]
 draft: false
 ---

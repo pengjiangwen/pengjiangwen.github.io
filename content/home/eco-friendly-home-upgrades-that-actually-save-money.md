@@ -2,7 +2,7 @@
 title: "Eco Friendly Home Upgrades That Actually Save Money"
 date: "2026-09-12T02:24:47Z"
 description: "Discover practical eco friendly home upgrades that cut energy bills, reduce waste, and pay for themselves over time. Real costs and results included."
-tags: ["eco friendly home", "energy efficiency", "sustainable living"]
+tags: ["cleaning", "gardening", "energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

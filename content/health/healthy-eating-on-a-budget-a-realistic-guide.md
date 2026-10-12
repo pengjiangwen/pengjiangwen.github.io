@@ -2,7 +2,7 @@
 title: "Healthy Eating on a Budget: A Realistic Guide"
 date: "2026-09-22T02:39:04Z"
 description: "Learn how to eat healthy on a budget with practical tips on meal planning, smart shopping, and affordable nutritious foods that won't break the bank."
-tags: ["healthy eating", "budget nutrition", "meal planning"]
+tags: ["fitness", "nutrition", "sleep"]
 categories: ["health"]
 draft: false
 ---

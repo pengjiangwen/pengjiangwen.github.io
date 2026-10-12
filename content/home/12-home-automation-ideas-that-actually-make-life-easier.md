@@ -2,7 +2,7 @@
 title: "12 Home Automation Ideas That Actually Make Life Easier"
 date: "2026-09-12T14:43:45Z"
 description: "From smart lighting to leak detectors, discover 12 practical home automation ideas that save time, cut energy bills, and add real convenience to your day."
-tags: ["home automation", "smart home", "smart home devices"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

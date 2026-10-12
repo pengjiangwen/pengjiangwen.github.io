@@ -2,7 +2,7 @@
 title: "Best Printer for Home Use: 2025 Buyer's Guide"
 date: "2026-09-24T16:13:28Z"
 description: "Stop wasting money on the wrong printer. Compare the best home printers for documents, photos, and families, plus ink cost tips that actually save."
-tags: ["home printer", "printer buying guide", "inkjet vs laser"]
+tags: ["interior-design"]
 categories: ["home"]
 draft: false
 ---

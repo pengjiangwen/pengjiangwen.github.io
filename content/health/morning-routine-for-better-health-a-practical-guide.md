@@ -2,7 +2,7 @@
 title: "Morning Routine for Better Health: A Practical Guide"
 date: "2026-10-11T17:07:34Z"
 description: "Build a morning routine that actually improves your health. Evidence-based habits for energy, focus, and long-term wellbeing—no gimmicks required."
-tags: ["morning routine", "healthy habits", "wellness"]
+tags: ["healthy-habits"]
 categories: ["health"]
 draft: false
 ---

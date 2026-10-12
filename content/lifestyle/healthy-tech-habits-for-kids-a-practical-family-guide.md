@@ -2,7 +2,7 @@
 title: "Healthy Tech Habits for Kids: A Practical Family Guide"
 date: "2026-07-29T01:52:38Z"
 description: "Screen time doesn't have to be a battle. Learn actionable strategies for setting boundaries, modeling behavior, and raising balanced digital citizens."
-tags: ["kids screen time", "digital parenting", "healthy tech habits", "family lifestyle", "child development"]
+tags: ["habits-routines"]
 categories: ["lifestyle"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Best Smart Locks for Home Security (2024 Guide)"
 date: "2026-06-11T21:07:31"
 description: "Find the best smart locks to keep your home safe. We tested top models for security, ease of use, and smart features. Read our honest reviews and tips."
-tags: ["smart locks", "home security", "keyless entry"]
+tags: ["home-organization", "home-security", "smart-home"]
 categories: ["home"]
 draft: false
 ---

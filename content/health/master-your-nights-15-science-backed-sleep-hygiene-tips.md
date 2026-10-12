@@ -2,7 +2,7 @@
 title: "Master Your Nights: 15 Science-Backed Sleep Hygiene Tips"
 date: "2026-08-15T12:22:41Z"
 description: "Struggling to fall asleep? Discover 15 actionable, science-backed sleep hygiene tips to reset your circadian rhythm, boost deep sleep, and wake up refreshed."
-tags: ["sleep hygiene", "insomnia relief", "better sleep", "circadian rhythm", "sleep tips"]
+tags: ["sleep"]
 categories: ["health"]
 draft: false
 ---

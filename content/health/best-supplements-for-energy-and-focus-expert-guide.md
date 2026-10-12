@@ -2,7 +2,7 @@
 title: "Best Supplements for Energy and Focus (Expert Guide)"
 date: "2026-06-18T20:36:57"
 description: "Discover the best supplements for energy and focus, from caffeine to adaptogens. Includes dosage tips, expert insights, and how to avoid crashes naturally."
-tags: ["energy supplements", "focus supplements", "natural energy boosters"]
+tags: ["fitness", "nutrition", "sleep"]
 categories: ["health"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Home Office Setup Ideas on a Budget: 12 Smart Tips"
 date: "2026-09-13T02:22:43Z"
 description: "Build a functional home office without overspending. Practical budget setup ideas for desks, chairs, lighting, and storage that actually work."
-tags: ["home office", "budget workspace", "remote work setup"]
+tags: ["home-office"]
 categories: ["home"]
 draft: false
 ---

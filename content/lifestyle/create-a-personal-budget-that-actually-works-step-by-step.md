@@ -2,7 +2,7 @@
 title: "Create a Personal Budget That Actually Works (Step by Step)"
 date: "2026-07-27T02:10:25Z"
 description: "Stop the paycheck-to-paycheck cycle. Learn how to build a realistic budget that fits your lifestyle, with actionable steps and real examples."
-tags: ["personal budget", "money management", "budgeting tips", "financial planning", "lifestyle"]
+tags: ["personal-finance"]
 categories: ["lifestyle"]
 draft: false
 ---

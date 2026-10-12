@@ -2,7 +2,7 @@
 title: "Wireless Home Audio Systems: Smart Setup Guide"
 date: "2026-07-15T01:43:44Z"
 description: "Ditch the cables without sacrificing sound quality. Our guide covers Wi-Fi vs. Bluetooth, multi-room setups, and the best wireless speakers for your home."
-tags: ["wireless home audio", "multi-room speakers", "wi-fi vs bluetooth", "home audio system", "smart speakers"]
+tags: ["home-organization", "cleaning"]
 categories: ["home"]
 draft: false
 ---

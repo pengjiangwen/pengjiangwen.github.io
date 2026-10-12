@@ -2,7 +2,7 @@
 title: "Best Apps for Mental Health: Tools That Actually Help"
 date: "2026-07-18T12:57:49Z"
 description: "Discover the most effective mental health apps for anxiety, depression, and daily stress. Real reviews, actionable tips, and expert-backed picks for 2024."
-tags: ["mental health apps", "best apps for anxiety", "mindfulness apps", "therapy apps", "digital wellness"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

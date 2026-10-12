@@ -2,7 +2,7 @@
 title: "Best Monitor for Home Office: 6 Picks That Actually Deliver"
 date: "2026-10-02T03:23:20Z"
 description: "Stop squinting at a laptop screen. We break down the best monitors for home offices in 2025, from budget 1080p workhorses to 4K USB-C docks."
-tags: ["home office", "monitors", "remote work"]
+tags: ["home-office"]
 categories: ["home"]
 draft: false
 ---

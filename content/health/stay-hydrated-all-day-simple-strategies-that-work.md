@@ -2,7 +2,7 @@
 title: "Stay Hydrated All Day: Simple Strategies That Work"
 date: "2026-07-31T13:45:56Z"
 description: "Learn practical, science-backed ways to stay hydrated daily, from morning routines to food choices, without obsessing over water intake."
-tags: ["hydration tips", "healthy habits", "water intake", "wellness", "daily routine"]
+tags: ["hydration"]
 categories: ["health"]
 draft: false
 ---

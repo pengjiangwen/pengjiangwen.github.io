@@ -2,7 +2,7 @@
 title: "Home Cybersecurity Tips: Protect Your Family in 2024"
 date: "2026-09-28T02:50:14Z"
 description: "Practical home cybersecurity tips to protect your family, Wi-Fi, and smart devices. Learn password, router, and phishing defenses that actually work."
-tags: ["home cybersecurity", "online safety", "password security"]
+tags: ["home-organization", "smart-home", "diy"]
 categories: ["home"]
 draft: false
 ---

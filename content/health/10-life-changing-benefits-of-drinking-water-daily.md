@@ -2,7 +2,7 @@
 title: "10 Life-Changing Benefits of Drinking Water Daily"
 date: "2026-10-07T18:12:37Z"
 description: "Discover how drinking enough water boosts energy, sharpens focus, and improves health. Learn practical hydration tips backed by science."
-tags: ["hydration", "health", "wellness"]
+tags: ["hydration"]
 categories: ["health"]
 draft: false
 ---

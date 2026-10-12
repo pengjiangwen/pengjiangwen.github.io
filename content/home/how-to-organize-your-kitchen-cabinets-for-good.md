@@ -2,7 +2,7 @@
 title: "How to Organize Your Kitchen Cabinets for Good"
 date: "2026-06-07T18:19:38"
 description: "Learn how to organize your kitchen cabinets step by step. Declutter, categorize, and use smart storage solutions to create a functional, clutter-free kitchen."
-tags: ["kitchen organization", "cabinet decluttering", "home storage", "organizing tips", "kitchen zones"]
+tags: ["home-organization", "cleaning", "gardening"]
 categories: ["home"]
 draft: false
 ---

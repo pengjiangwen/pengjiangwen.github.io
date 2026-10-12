@@ -2,7 +2,7 @@
 title: "Mindfulness Meditation for Beginners: A Practical Start"
 date: "2026-08-04T13:53:33Z"
 description: "Learn how to start mindfulness meditation with simple steps, real examples, and science-backed tips. No incense required. Just you and your breath."
-tags: ["mindfulness", "meditation for beginners", "mental health", "stress relief", "focus"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

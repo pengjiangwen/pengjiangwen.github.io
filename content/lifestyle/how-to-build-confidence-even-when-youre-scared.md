@@ -2,7 +2,7 @@
 title: "How to Build Confidence (Even When You’re Scared)"
 date: "2026-06-07T18:17:53"
 description: "Struggling with fear? Learn practical, psychology-backed strategies to build real confidence, face fears, and transform your life—without toxic positivity."
-tags: ["confidence", "overcoming fear", "personal growth"]
+tags: ["self-improvement"]
 categories: ["lifestyle"]
 draft: false
 ---

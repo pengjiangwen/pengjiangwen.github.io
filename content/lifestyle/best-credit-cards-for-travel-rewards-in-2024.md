@@ -2,7 +2,7 @@
 title: "Best Credit Cards for Travel Rewards in 2024"
 date: "2026-09-17T02:42:37Z"
 description: "Compare the best travel rewards credit cards for 2024. Learn how to earn points, score free flights, and pick the right card for your spending habits."
-tags: ["travel rewards", "credit cards", "personal finance"]
+tags: ["personal-finance", "travel"]
 categories: ["lifestyle"]
 draft: false
 ---

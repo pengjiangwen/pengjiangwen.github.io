@@ -2,7 +2,7 @@
 title: "Simple Time Management Tips That Actually Work"
 date: "2026-09-28T19:01:30Z"
 description: "Stop juggling chaos and start getting things done. These simple time management tips are practical, realistic, and easy to start using today."
-tags: ["time management", "productivity", "simple living"]
+tags: ["productivity"]
 categories: ["lifestyle"]
 draft: false
 ---

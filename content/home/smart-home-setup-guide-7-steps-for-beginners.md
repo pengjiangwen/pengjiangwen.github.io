@@ -2,7 +2,7 @@
 title: "Smart Home Setup Guide: 7 Steps for Beginners"
 date: "2026-08-16T00:51:12Z"
 description: "Learn how to set up a smart home without the headache. From hubs to Wi-Fi, this step-by-step guide covers gear, setup order, and common pitfalls."
-tags: ["smart home setup", "home automation", "smart devices"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

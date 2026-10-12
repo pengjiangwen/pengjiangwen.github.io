@@ -2,7 +2,7 @@
 title: "Easy Meditation for Beginners: A Simple Guide"
 date: "2026-10-12T14:44:53Z"
 description: "New to meditation? Learn easy techniques you can start today, from the 5-minute breath practice to body scans, and build a habit that actually sticks."
-tags: ["meditation for beginners", "mindfulness", "stress relief"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

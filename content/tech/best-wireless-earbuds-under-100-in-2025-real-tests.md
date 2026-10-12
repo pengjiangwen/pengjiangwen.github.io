@@ -2,7 +2,7 @@
 title: "Best Wireless Earbuds Under $100 in 2025 (Real Tests)"
 date: "2026-09-02T02:13:59Z"
 description: "We tested 20 pairs under $100. These are the 5 best wireless earbuds for sound, battery, and calls. No hype, just honest results."
-tags: ["wireless earbuds", "budget audio", "tech reviews", "best earbuds 2025", "anc earbuds"]
+tags: ["audio", "buying-guide"]
 categories: ["tech"]
 draft: false
 ---

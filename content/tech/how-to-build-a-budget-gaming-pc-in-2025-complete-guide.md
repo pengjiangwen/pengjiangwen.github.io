@@ -2,7 +2,7 @@
 title: "How to Build a Budget Gaming PC in 2025: Complete Guide"
 date: "2026-06-03T12:36:34Z"
 description: "Discover how to build a gaming PC on a budget with our step-by-step guide. Save money, get pro performance, and enjoy PC gaming without breaking the bank."
-tags: ["budget gaming pc", "build gaming pc", "cheap gaming pc", "pc building guide", "gaming on a budget"]
+tags: ["pc-building"]
 categories: ["tech"]
 draft: false
 ---

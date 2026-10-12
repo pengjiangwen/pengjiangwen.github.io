@@ -2,7 +2,7 @@
 title: "WiFi Router Setup Guide: Get Online in 15 Minutes"
 date: "2026-09-15T02:43:56Z"
 description: "A step-by-step WiFi router setup guide covering placement, modem connection, admin login, security settings, and fixes for common problems."
-tags: ["wifi router setup", "home networking", "router security"]
+tags: ["networking"]
 categories: ["tech"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Home Automation on a Budget: Smart Home for Under $200"
 date: "2026-09-12T02:24:59Z"
 description: "Build a genuinely useful smart home on a small budget. Real device picks, practical automations, and the cheap tricks that actually work."
-tags: ["home automation", "smart home", "budget tech"]
+tags: ["smart-home"]
 categories: ["home"]
 draft: false
 ---

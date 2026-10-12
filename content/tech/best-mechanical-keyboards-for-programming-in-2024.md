@@ -2,7 +2,7 @@
 title: "Best Mechanical Keyboards for Programming in 2024"
 date: "2026-07-06T15:17:02Z"
 description: "Ditch the wrist pain. We tested 12 mechanical keyboards for coding. Find your perfect switch, layout, and budget with real-world benchmarks."
-tags: ["mechanical keyboard", "programming keyboard", "best keyboard for coders", "ergonomic keyboard", "cherry mx switches"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---

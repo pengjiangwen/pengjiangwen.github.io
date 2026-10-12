@@ -2,7 +2,7 @@
 title: "Best Budget Smart Plugs: 6 Cheap Picks That Actually Work"
 date: "2026-09-27T02:49:41Z"
 description: "Looking for the best budget smart plugs? We tested affordable options that deliver reliable scheduling, voice control, and energy monitoring."
-tags: ["smart plugs", "budget smart home", "home automation"]
+tags: ["energy-efficiency", "smart-home", "interior-design"]
 categories: ["home"]
 draft: false
 ---

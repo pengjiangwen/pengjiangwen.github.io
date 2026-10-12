@@ -2,7 +2,7 @@
 title: "7 Life-Changing Benefits of Walking Daily"
 date: "2026-10-12T14:30:45Z"
 description: "Discover how a daily walking habit transforms your heart, brain, and mood. Science-backed benefits plus practical tips to start today."
-tags: ["walking", "health", "fitness"]
+tags: ["fitness"]
 categories: ["health"]
 draft: false
 ---

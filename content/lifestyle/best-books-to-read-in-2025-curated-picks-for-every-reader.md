@@ -2,7 +2,7 @@
 title: "Best Books to Read in 2025: Curated Picks for Every Reader"
 date: "2026-06-13T18:17:15"
 description: "Looking for the best books to read in 2025? Our curated list of fiction, non-fiction, and self-development reads plus simple habits to help you read more."
-tags: ["best books 2025", "reading list", "book recommendations", "lifestyle"]
+tags: ["learning"]
 categories: ["lifestyle"]
 draft: false
 ---

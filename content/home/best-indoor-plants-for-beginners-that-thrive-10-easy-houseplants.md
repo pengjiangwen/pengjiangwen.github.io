@@ -2,7 +2,7 @@
 title: "Best Indoor Plants for Beginners That Thrive: 10 Easy Houseplants"
 date: "2026-06-03T13:51:24Z"
 description: "Discover the best indoor plants for beginners that thrive with minimal care. These low-maintenance houseplants are perfect for first-time plant owners and any home."
-tags: ["indoor plants", "beginner houseplants", "easy care plants", "low-maintenance plants", "houseplants for beginners"]
+tags: ["gardening"]
 categories: ["home"]
 draft: false
 ---

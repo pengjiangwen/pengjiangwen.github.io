@@ -2,7 +2,7 @@
 title: "Slash Your Electricity Bill: 10 Proven Home Hacks"
 date: "2026-07-12T13:03:37Z"
 description: "Discover actionable, expert-backed ways to lower your power bill. From phantom loads to smart thermostats, save hundreds without sacrificing comfort."
-tags: ["reduce electricity bill", "home energy savings", "lower power costs", "energy efficiency tips", "home improvement"]
+tags: ["energy-efficiency"]
 categories: ["home"]
 draft: false
 ---

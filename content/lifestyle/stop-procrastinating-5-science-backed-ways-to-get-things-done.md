@@ -2,7 +2,7 @@
 title: "Stop Procrastinating: 5 Science-Backed Ways to Get Things Done"
 date: "2026-07-22T13:25:40Z"
 description: "Ditch the guilt and get moving. Learn why you procrastinate and 5 actionable, science-backed strategies to build focus and finish your tasks today."
-tags: ["procrastination", "productivity", "time management", "lifestyle tips", "focus", "motivation"]
+tags: ["productivity", "habits-routines", "learning"]
 categories: ["lifestyle"]
 draft: false
 ---

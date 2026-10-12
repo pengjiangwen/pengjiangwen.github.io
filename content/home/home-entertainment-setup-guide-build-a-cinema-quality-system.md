@@ -2,7 +2,7 @@
 title: "Home Entertainment Setup Guide: Build a Cinema-Quality System"
 date: "2026-08-12T12:51:14Z"
 description: "Learn how to build the perfect home entertainment system step-by-step. From TV placement to surround sound calibration, this guide covers it all."
-tags: ["home theater setup", "surround sound guide", "tv calibration", "entertainment system"]
+tags: ["diy"]
 categories: ["home"]
 draft: false
 ---

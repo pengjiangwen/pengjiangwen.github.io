@@ -2,7 +2,7 @@
 title: "How to Reduce Stress Naturally at Home: 10 Proven Techniques"
 date: "2026-06-03T13:52:55Z"
 description: "Discover natural ways to reduce stress at home: breathing exercises, aromatherapy, yoga, herbal teas, and more. Find peace without leaving your house."
-tags: ["stress relief", "natural remedies", "home wellness"]
+tags: ["mental-health"]
 categories: ["health"]
 draft: false
 ---

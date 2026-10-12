@@ -2,7 +2,7 @@
 title: "Beginner’s Guide to Budget Travel: 10 Smart Tips to Save Money and Explore More"
 date: "2026-06-05T11:35:57"
 description: "Ready to travel on a budget? Our beginner's guide shares 10 practical tips to save money on flights, accommodation, food, and activities so you can see the world for less."
-tags: ["budget travel", "travel tips for beginners", "cheap travel", "travel on a budget"]
+tags: ["personal-finance", "travel"]
 categories: ["lifestyle"]
 draft: false
 ---

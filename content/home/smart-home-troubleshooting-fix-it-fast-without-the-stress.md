@@ -2,7 +2,7 @@
 title: "Smart Home Troubleshooting: Fix It Fast Without the Stress"
 date: "2026-09-09T02:24:12Z"
 description: "Your smart home acting up? Learn how to fix Wi-Fi drops, unresponsive devices, and automation failures with these practical, step-by-step troubleshooting tips."
-tags: ["smart home", "home automation", "troubleshooting", "wi-fi issues", "smart devices"]
+tags: ["smart-home", "diy"]
 categories: ["home"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Best Student Laptops 2025: Top Picks & Buying Guide"
 date: "2026-08-06T13:46:49Z"
 description: "Shopping for a student laptop in 2025? We break down the best models for battery life, portability, and price—without the tech jargon."
-tags: ["student laptops", "laptop buying guide", "college tech", "back to school", "laptop reviews"]
+tags: ["buying-guide"]
 categories: ["tech"]
 draft: false
 ---
