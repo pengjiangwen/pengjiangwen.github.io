@@ -9,7 +9,6 @@ permissions:
   contents: write
   pages: write
   id-token: write
-  issues: write
 
 jobs:
   generate:
@@ -62,25 +61,10 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 
-      # Free notification: open a GitHub Issue on failure -> you get an email.
-      # Duplicate open issues are skipped so it won't spam.
-      - name: Notify on failure (GitHub Issue)
+      # Free notification: push to DingTalk group robot on failure.
+      - name: Notify on failure (DingTalk)
         if: failure()
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          TITLE="⚠️ 定时任务失败：文章生成/部署"
-          RUN_URL="https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
-          EXISTING=$(gh issue list --state open --search "$TITLE in:title" --json number --jq 'length' || echo 0)
-          if [ "$EXISTING" -gt 0 ]; then
-            echo "An open failure issue already exists, skipping."
-            exit 0
-          fi
-          gh issue create \
-            --title "$TITLE" \
-            --body "自动生成文章或部署网站时出错，**网站可能没有更新**。
-
-          请查看本次运行的日志：
-          ${RUN_URL}
-
-          修好后可以关闭本 Issue。"
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+        run: python scripts/notify_dingtalk.py
