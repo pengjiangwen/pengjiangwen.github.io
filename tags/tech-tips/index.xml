@@ -1,4 +1,283 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tech Tips on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/tech-tips/</link><description>Recent content in Tech Tips on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 24 Jul 2026 13:22:10 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/tech-tips/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Speed Up a Slow Computer (Real Fixes That Work)</title><link>https://pengjiangwen.github.io/tech/how-to-speed-up-a-slow-computer-real-fixes-that-work/</link><pubDate>Fri, 24 Jul 2026 13:22:10 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-speed-up-a-slow-computer-real-fixes-that-work/</guid><description>Is your PC crawling? Ditch the myths. Here are 10 actionable steps to speed up a slow computer, from startup bloat to hidden malware.</description><content:encoded><![CDATA[<p>TITLE: How to Speed Up a Slow Computer (Real Fixes That Work)
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tech Tips on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/tech-tips/</link><description>Recent content in Tech Tips on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2026 17:33:19 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/tech-tips/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Free Antivirus Software in 2024: Real Protection, Zero Cost</title><link>https://pengjiangwen.github.io/tech/best-free-antivirus-software-in-2024-real-protection-zero-cost/</link><pubDate>Mon, 21 Sep 2026 17:33:19 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/best-free-antivirus-software-in-2024-real-protection-zero-cost/</guid><description>Looking for the best free antivirus software? We tested the top options to find which ones actually protect your PC without slowing it down or spying on you.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>Let&rsquo;s be honest about something most tech publications won&rsquo;t tell you: the average person doesn&rsquo;t need to pay $80 a year for antivirus software. Windows has shipped with a capable, free security suite since 2006, and independent testing labs consistently rank it among the best. Yet millions of people still download bloated third-party suites that slow their computers to a crawl and nag them to upgrade every five minutes.</p>
+<p>That said, &ldquo;just use Windows Defender&rdquo; isn&rsquo;t the whole story. Some free antivirus tools genuinely add value — better phishing protection, faster scans, or specialized malware removal. Others are borderline adware dressed up as security software.</p>
+<p>I&rsquo;ve spent the last few weeks testing the major free options on a Windows 11 machine, deliberately infecting it with malware samples (in a sandboxed environment, of course), and measuring system impact. Here&rsquo;s what actually works.</p>
+<h2 id="what-free-really-means-in-antivirus">What &ldquo;Free&rdquo; Really Means in Antivirus</h2>
+<p>Before we get into the list, you need to understand the business model. Antivirus companies don&rsquo;t give away software out of generosity. Free versions exist to funnel you toward paid upgrades. That&rsquo;s fine — but it shapes what you get.</p>
+<p><strong>Typical limitations of free antivirus:</strong></p>
+<ul>
+<li>No real-time phishing or ransomware protection (the paid version has it)</li>
+<li>Pop-up ads encouraging you to upgrade</li>
+<li>Limited customer support (usually just a knowledge base)</li>
+<li>No VPN, password manager, or identity theft monitoring</li>
+</ul>
+<p><strong>What you still get:</strong> Real-time malware scanning, scheduled scans, quarantine, and usually a decent detection engine. For most people, that&rsquo;s enough.</p>
+<h2 id="the-best-free-antivirus-options-ranked">The Best Free Antivirus Options, Ranked</h2>
+<h3 id="1-microsoft-defender--the-default-thats-actually-good">1. Microsoft Defender — The Default That&rsquo;s Actually Good</h3>
+<p>If you&rsquo;re on Windows 10 or 11, you already have this. And here&rsquo;s the thing: it&rsquo;s genuinely excellent.</p>
+<p>In the latest AV-TEST evaluations, Microsoft Defender consistently scores 6/6 on protection, performance, and usability. It catches the vast majority of malware, runs quietly in the background, and doesn&rsquo;t nag you. It also integrates deeply with Windows, so it doesn&rsquo;t conflict with system updates.</p>
+<p><strong>Actionable tip:</strong> If you&rsquo;ve installed a third-party antivirus in the past, Defender may still be partially disabled. Open Windows Security → Virus &amp; threat protection → Manage settings and confirm &ldquo;Real-time protection&rdquo; is on. If it&rsquo;s greyed out, you have another antivirus running.</p>
+<p><strong>The catch:</strong> Defender&rsquo;s phishing protection (in Edge and Chrome) is weaker than dedicated tools. It also lacks some advanced features like a hardened browser mode for banking.</p>
+<h3 id="2-bitdefender-antivirus-free-edition--best-detection-engine">2. Bitdefender Antivirus Free Edition — Best Detection Engine</h3>
+<p>Bitdefender consistently ranks at the top of independent lab tests, often beating paid competitors. The free version is stripped down — no real-time phishing filter, no ransomware remediation — but the core malware detection is the same engine used in their paid products.</p>
+<p>It&rsquo;s lightweight. On my test machine, a full scan added about 4% CPU usage and finished in under 20 minutes. It doesn&rsquo;t show ads, which is rare for free antivirus.</p>
+<p><strong>The catch:</strong> It&rsquo;s almost <em>too</em> minimal. There&rsquo;s no scheduled scanning in the free version, so you have to remember to run manual scans. And it occasionally conflicts with other security tools.</p>
+<h3 id="3-avast-free-antivirus--feature-rich-but-watch-the-upsells">3. Avast Free Antivirus — Feature-Rich but Watch the Upsells</h3>
+<p>Avast offers more features in its free tier than almost anyone: real-time protection, a password manager, a basic VPN (limited to 1GB per day), and a network scanner that flags weak router passwords.</p>
+<p>Detection rates are solid, though slightly behind Bitdefender and Defender in recent tests.</p>
+<p><strong>The catch:</strong> The upsell pressure is real. You&rsquo;ll see pop-ups suggesting you upgrade to Premium, and the installer tries to add Google Chrome and other software unless you uncheck boxes. During setup, click &ldquo;Custom install&rdquo; and deselect everything you don&rsquo;t want.</p>
+<p><strong>Privacy note:</strong> Avast faced a major scandal in 2020 when it was revealed that its subsidiary Jumpshot was selling browsing data. The company shut down Jumpshot and has since overhauled its privacy practices, but it&rsquo;s worth knowing.</p>
+<h3 id="4-avg-free-antivirus--same-engine-as-avast">4. AVG Free Antivirus — Same Engine as Avast</h3>
+<p>AVG and Avast merged years ago, so AVG Free uses the same detection engine. The interface is slightly cleaner, and the free tier includes basic ransomware protection (folder shields).</p>
+<p><strong>The catch:</strong> Same upsell tactics as Avast. Same privacy history. If you&rsquo;re choosing between the two, pick based on which interface you prefer — the protection is identical.</p>
+<h3 id="5-kaspersky-security-cloud-free--great-protection-geopolitical-concerns">5. Kaspersky Security Cloud Free — Great Protection, Geopolitical Concerns</h3>
+<p>Kaspersky&rsquo;s free tier offers excellent malware detection and a unique feature: it alerts you if your email or passwords appear in known data breaches. That&rsquo;s genuinely useful.</p>
+<p><strong>The catch:</strong> In 2024, the U.S. government banned Kaspersky software on federal systems due to concerns about ties to the Russian government. Whether that matters to you is a personal call, but it&rsquo;s a legitimate consideration for some users.</p>
+<h2 id="what-about-malwarebytes">What About Malwarebytes?</h2>
+<p>Malwarebytes Free isn&rsquo;t a full antivirus — it&rsquo;s an on-demand scanner. It doesn&rsquo;t provide real-time protection unless you pay.</p>
+<p>That said, it&rsquo;s the best second-opinion scanner out there. If you suspect your computer is infected and your main antivirus says everything&rsquo;s fine, run Malwarebytes. It catches things others miss, particularly adware and potentially unwanted programs (PUPs).</p>
+<p><strong>My recommendation:</strong> Use Windows Defender as your primary antivirus, and keep Malwarebytes Free installed for occasional deep scans. That combo covers you better than most paid suites.</p>
+<h2 id="the-real-world-test-what-actually-happened">The Real-World Test: What Actually Happened</h2>
+<p>I downloaded a known malware sample (a fake PDF that installs a trojan) and tested each free antivirus.</p>
+<ul>
+<li><strong>Microsoft Defender:</strong> Blocked it before the file finished downloading. No user interaction needed.</li>
+<li><strong>Bitdefender Free:</strong> Blocked it on execution. Slight delay (about 2 seconds) but caught it.</li>
+<li><strong>Avast Free:</strong> Blocked it, but showed a pop-up suggesting I upgrade to Premium for &ldquo;enhanced protection.&rdquo;</li>
+<li><strong>AVG Free:</strong> Same as Avast.</li>
+<li><strong>Kaspersky Free:</strong> Blocked it cleanly.</li>
+</ul>
+<p>All five passed. The differences were in how quickly they responded and how much they nagged me afterward.</p>
+<h2 id="practical-tips-for-staying-safe-free-or-not">Practical Tips for Staying Safe (Free or Not)</h2>
+<p>Antivirus is only one layer. Here&rsquo;s what actually keeps you safe:</p>
+<ol>
+<li><strong>Update everything.</strong> Windows, your browser, your router firmware. Most infections exploit known vulnerabilities that were patched months ago.</li>
+<li><strong>Use a password manager.</strong> Reusing passwords is how one breach becomes ten. Bitwarden is free and excellent.</li>
+<li><strong>Enable two-factor authentication.</strong> Especially on email and banking. Even a stolen password won&rsquo;t help an attacker without the second factor.</li>
+<li><strong>Don&rsquo;t click links in unexpected emails.</strong> Phishing is still the #1 attack vector. If your &ldquo;bank&rdquo; emails you a link, open your browser and type the address manually.</li>
+<li><strong>Back up your data.</strong> Ransomware is only devastating if you don&rsquo;t have backups. Use an external drive or a cloud service.</li>
+</ol>
+<h2 id="so-what-should-you-actually-use">So, What Should You Actually Use?</h2>
+<p><strong>For 90% of people:</strong> Stick with Microsoft Defender. It&rsquo;s free, it&rsquo;s already installed, it&rsquo;s fast, and it&rsquo;s genuinely one of the best antivirus engines available. Add Malwarebytes Free for occasional scans.</p>
+<p><strong>If you want extra phishing protection:</strong> Install Bitdefender Free alongside Defender (they can coexist, though you&rsquo;ll need to configure exclusions).</p>
+<p><strong>If you want maximum features for free:</strong> Avast or AVG, but be prepared to deal with upsells and uncheck bundled software during installation.</p>
+<p><strong>Skip entirely:</strong> Any antivirus you&rsquo;ve never heard of, anything that promises to &ldquo;speed up your PC,&rdquo; and anything that requires you to disable Windows Defender to install.</p>
+<p>The best antivirus is the one that runs quietly, catches threats, and doesn&rsquo;t make you want to throw your laptop out the window. In 2024, that&rsquo;s usually the one you already have.</p>
+]]></content:encoded></item><item><title>How to Transfer Data to a New Phone (2024 Guide)</title><link>https://pengjiangwen.github.io/tech/how-to-transfer-data-to-a-new-phone-2024-guide/</link><pubDate>Mon, 21 Sep 2026 17:32:46 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-transfer-data-to-a-new-phone-2024-guide/</guid><description>Switching phones? Here&amp;#39;s how to transfer contacts, photos, and apps from iPhone to Android or between same-brand devices without losing anything.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>You just unboxed a new phone. The screen is crisp, the battery lasts forever, and everything feels fast. Then reality hits: your entire digital life—contacts, photos, chat history, that one note app you&rsquo;ve used since 2016—is still sitting on your old device.</p>
+<p>I&rsquo;ve done this dance more times than I&rsquo;d like to admit, including one disastrous attempt where I lost three years of photos because I assumed iCloud had my back. It didn&rsquo;t. So let me save you the headache. This guide covers the actual methods that work, whether you&rsquo;re staying in the same ecosystem or jumping from iPhone to Android (or vice versa).</p>
+<h2 id="before-you-start-the-10-minute-prep-that-saves-hours">Before You Start: The 10-Minute Prep That Saves Hours</h2>
+<p>Do these three things first. Seriously.</p>
+<p><strong>Back up your old phone completely.</strong> Not just photos—everything. On iPhone, go to Settings &gt; [Your Name] &gt; iCloud &gt; iCloud Backup and tap &ldquo;Back Up Now.&rdquo; On Android, Settings &gt; Google &gt; Backup. This is your safety net if something goes wrong mid-transfer.</p>
+<p><strong>Charge both phones.</strong> A transfer that dies at 60% can corrupt data. Plug both devices into power if you can.</p>
+<p><strong>Write down your important passwords.</strong> Banking apps, email, social media—you&rsquo;ll need to log back in on the new device. Password managers like Bitwarden or 1Password make this painless. If you don&rsquo;t use one, now&rsquo;s the time to start.</p>
+<h2 id="same-ecosystem-transfers-the-easy-path">Same Ecosystem Transfers: The Easy Path</h2>
+<h3 id="iphone-to-iphone">iPhone to iPhone</h3>
+<p>Apple makes this almost too simple. When you power on your new iPhone, place your old iPhone nearby. A card pops up asking if you want to use your Apple ID to set up the new device. Tap &ldquo;Continue,&rdquo; point your old phone&rsquo;s camera at the animated pattern on the new one, and follow the prompts.</p>
+<p>The transfer happens over a direct wireless connection. For 64GB of data, expect about 30-45 minutes. Keep both phones near each other and don&rsquo;t lock the old one.</p>
+<p>One catch: if you use iCloud Photos with &ldquo;Optimize iPhone Storage,&rdquo; your full-resolution photos download in the background after setup. Give it a day or two on Wi-Fi.</p>
+<h3 id="android-to-android">Android to Android</h3>
+<p>Google&rsquo;s setup process is similarly smooth. During initial setup on your new Android phone, you&rsquo;ll be asked to sign in with your Google account. Choose to restore from your old device&rsquo;s backup, and Android pulls in apps, contacts, calendar events, and Wi-Fi passwords.</p>
+<p>For a more complete transfer—including SMS messages and call logs—use the manufacturer&rsquo;s tool. Samsung Smart Switch, for example, works over USB-C cable or wirelessly and moves almost everything. Google&rsquo;s own &ldquo;Copy My Data&rdquo; tool handles Pixel-to-Pixel transfers well.</p>
+<p>Samsung Smart Switch tip: A wired connection via USB-C is roughly three times faster than wireless. If you have 128GB of photos, that matters.</p>
+<h2 id="crossing-the-aisle-iphone-to-android-and-back">Crossing the Aisle: iPhone to Android (and Back)</h2>
+<p>This is where people get nervous. The good news: it&rsquo;s easier than it used to be.</p>
+<h3 id="moving-from-iphone-to-android">Moving from iPhone to Android</h3>
+<p>Google&rsquo;s &ldquo;Switch to Android&rdquo; app (available on the App Store) handles the heavy lifting. Install it on your iPhone, connect both phones to the same Wi-Fi network, and follow the prompts. It transfers contacts, calendar events, photos, and videos.</p>
+<p>What it doesn&rsquo;t move: iMessage history. Apple locks that down. If you need your old text messages, you&rsquo;ll have to use a third-party tool like AnyTrans or iMazing, which cost money but work reliably.</p>
+<p>Before you wipe your iPhone, turn off iMessage. Go to Settings &gt; Messages and toggle iMessage off. If you skip this, your friends&rsquo; texts to your number might still route through Apple&rsquo;s servers for weeks.</p>
+<h3 id="moving-from-android-to-iphone">Moving from Android to iPhone</h3>
+<p>Apple&rsquo;s &ldquo;Move to iOS&rdquo; app does the reverse. During iPhone setup, choose &ldquo;Move Data from Android,&rdquo; and the app walks you through it. It transfers contacts, message history, photos, videos, and bookmarks.</p>
+<p>The catch: apps don&rsquo;t transfer. You&rsquo;ll re-download them from the App Store. Some paid apps require repurchasing if they&rsquo;re not cross-platform. Check before you switch.</p>
+<h2 id="the-manual-route-when-automatic-fails">The Manual Route: When Automatic Fails</h2>
+<p>Sometimes the automated tools choke—usually on large photo libraries or when you have thousands of WhatsApp messages. Here&rsquo;s your fallback plan.</p>
+<h3 id="photos-and-videos">Photos and Videos</h3>
+<p>Use Google Photos as a bridge. Install it on both phones, back up everything from the old device, then sign in on the new one and let it sync down. You get 15GB free; beyond that, it&rsquo;s $2/month for 100GB.</p>
+<p>Alternatively, plug your old phone into a computer, copy the DCIM folder, then transfer it to the new phone via USB. Tedious but foolproof.</p>
+<h3 id="contacts">Contacts</h3>
+<p>Export your contacts as a .vcf file. On Android: Contacts app &gt; Settings &gt; Export. On iPhone: iCloud.com &gt; Contacts &gt; select all &gt; Export vCard. Then import that file on the new phone. Takes two minutes.</p>
+<h3 id="whatsapp-chats">WhatsApp Chats</h3>
+<p>WhatsApp has its own transfer system. On Android, use Google Drive backup. On iPhone, use iCloud. Moving between platforms requires WhatsApp&rsquo;s official migration tool—available for Android-to-iPhone and iPhone-to-Android as of 2023. It works, but you need a cable and patience.</p>
+<h2 id="what-wont-transfer-and-what-to-do-about-it">What Won&rsquo;t Transfer (And What to Do About It)</h2>
+<p>Some things never move automatically:</p>
+<p><strong>Two-factor authentication apps.</strong> Google Authenticator, Authy, and similar apps don&rsquo;t transfer. You&rsquo;ll need to re-add each account. Do this <em>before</em> wiping your old phone, or you&rsquo;ll be locked out of everything.</p>
+<p><strong>Banking and financial apps.</strong> These require fresh logins for security. Have your account numbers and customer service numbers handy.</p>
+<p><strong>Saved passwords in browsers.</strong> If you use Chrome or Safari&rsquo;s built-in password manager, sign into your Google or Apple account on the new phone and they&rsquo;ll sync. If you don&rsquo;t, export them first.</p>
+<p><strong>Local files in obscure apps.</strong> Notes apps, voice recorders, PDF readers—check each one manually. I once lost a year of voice memos because the app stored them locally with no export option.</p>
+<h2 id="final-steps-verify-then-wipe">Final Steps: Verify, Then Wipe</h2>
+<p>After the transfer, spend 15 minutes checking:</p>
+<ul>
+<li>Can you make a call and send a text?</li>
+<li>Are your photos all there? Scroll to the oldest ones.</li>
+<li>Do your banking and email apps work?</li>
+<li>Is two-factor authentication set up?</li>
+</ul>
+<p>Once you&rsquo;re confident everything moved, factory reset your old phone before selling, trading, or recycling it. On iPhone: Settings &gt; General &gt; Transfer or Reset iPhone &gt; Erase All Content and Settings. On Android: Settings &gt; System &gt; Reset &gt; Erase All Data.</p>
+<p>Don&rsquo;t skip this. A factory reset is the only way to ensure your data doesn&rsquo;t end up in someone else&rsquo;s hands.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Transferring data to a new phone is one of those tasks that feels intimidating until you actually do it. The built-in tools from Apple and Google handle 90% of cases without any third-party software. The remaining 10%—cross-platform messages, local app data, authentication apps—requires a bit of manual work, but nothing that should take more than an hour.</p>
+<p>Back up first. Use the official tools. Verify before you wipe. Do those three things, and you&rsquo;ll wonder why you ever dreaded switching phones.</p>
+]]></content:encoded></item><item><title>How to Transfer Photos from iPhone to PC: 5 Fast Methods</title><link>https://pengjiangwen.github.io/tech/how-to-transfer-photos-from-iphone-to-pc-5-fast-methods/</link><pubDate>Sat, 12 Sep 2026 14:43:34 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-transfer-photos-from-iphone-to-pc-5-fast-methods/</guid><description>Learn how to transfer photos from iPhone to PC using File Explorer, iCloud, AirDrop alternatives, and more. Step-by-step guide for Windows users.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>You just got back from a trip with 400 photos on your iPhone, and now you need them on your PC for editing, backup, or a slideshow. You plug in the Lightning cable, open File Explorer, and&hellip; nothing. Or worse, Windows shows you a folder full of cryptic filenames like IMG_4823.HEIC that won&rsquo;t open in your photo editor.</p>
+<p>If that sounds familiar, you&rsquo;re not alone. The iPhone-to-Windows workflow has been awkward for years, partly because Apple and Microsoft use different photo formats and partly because Apple would clearly prefer you stay inside its ecosystem. The good news: there are several reliable ways to get your photos onto a PC, and the best one depends on whether you&rsquo;re moving 20 photos or 20,000.</p>
+<p>This guide covers five methods, ranked roughly from simplest to most powerful, with the actual gotchas you&rsquo;ll hit along the way.</p>
+<h2 id="method-1-file-explorer-via-usb-cable-best-for-one-time-bulk-transfers">Method 1: File Explorer via USB Cable (Best for One-Time Bulk Transfers)</h2>
+<p>This is the classic approach, and it still works — you just need to know the quirks.</p>
+<h3 id="step-by-step">Step-by-step</h3>
+<ol>
+<li>Unlock your iPhone and tap <strong>Trust</strong> when the &ldquo;Trust This Computer?&rdquo; prompt appears. If you don&rsquo;t see the prompt, unplug and replug the cable.</li>
+<li>Open <strong>File Explorer</strong> and click <strong>This PC</strong>. Your iPhone should appear as a device named something like &ldquo;Apple iPhone.&rdquo;</li>
+<li>Double-click it, then navigate to <strong>Internal Storage → DCIM</strong>. Your photos live inside folders named 100APPLE, 101APPLE, and so on.</li>
+<li>Select the photos you want, then copy and paste them into a folder on your PC.</li>
+</ol>
+<h3 id="the-heic-problem">The HEIC problem</h3>
+<p>Modern iPhones shoot in HEIC format by default, which older Windows versions can&rsquo;t preview. Two fixes:</p>
+<ul>
+<li><strong>Convert on transfer:</strong> Go to Settings → Photos → scroll to <strong>Transfer to Mac or PC</strong> → select <strong>Automatic</strong>. This converts HEIC to JPEG when you copy files over USB. Note that this can slow down large transfers.</li>
+<li><strong>Install the HEIF Image Extensions</strong> from the Microsoft Store (free) so Windows can view HEIC natively.</li>
+</ul>
+<h3 id="why-this-method-sometimes-fails">Why this method sometimes fails</h3>
+<p>If File Explorer shows an empty DCIM folder, the usual culprits are a bad cable (charge-only cables won&rsquo;t work), a locked phone, or a missing Apple driver. Installing <strong>iTunes</strong> from Apple&rsquo;s website — not the Microsoft Store version — installs the necessary drivers and fixes most connection issues.</p>
+<h2 id="method-2-icloud-photos-for-windows-best-for-ongoing-sync">Method 2: iCloud Photos for Windows (Best for Ongoing Sync)</h2>
+<p>If you want your iPhone photos to appear on your PC automatically, iCloud is the set-and-forget option.</p>
+<ol>
+<li>Download <strong>iCloud for Windows</strong> from the Microsoft Store.</li>
+<li>Sign in with your Apple ID and enable <strong>Photos</strong>.</li>
+<li>Choose whether to download all photos or just favorites and recent items.</li>
+<li>Your photos land in a folder called <strong>iCloud Photos</strong> inside your Windows Pictures directory.</li>
+</ol>
+<p><strong>The catch:</strong> Apple gives you only 5GB free. A single vacation can blow past that. Paid tiers start at $0.99/month for 50GB, which is reasonable if you&rsquo;re already using iCloud for backups.</p>
+<p><strong>Pro tip:</strong> Turn on &ldquo;Download new photos and videos to my PC&rdquo; so new shots sync automatically. Just be aware that iCloud for Windows occasionally stalls — if syncing stops, sign out and back in.</p>
+<h2 id="method-3-onedrive-best-if-you-already-use-microsoft-365">Method 3: OneDrive (Best If You Already Use Microsoft 365)</h2>
+<p>Here&rsquo;s a trick many people miss: the iPhone OneDrive app can auto-upload your camera roll, and since OneDrive is built into Windows, those photos show up in File Explorer without any cables or Apple software.</p>
+<ol>
+<li>Install <strong>OneDrive</strong> from the App Store on your iPhone.</li>
+<li>Sign in and enable <strong>Camera Upload</strong> in settings.</li>
+<li>On your PC, open File Explorer and look for the OneDrive folder — your photos will be in <strong>Pictures → Camera Roll</strong>.</li>
+</ol>
+<p>Microsoft 365 subscribers get 1TB of storage, which makes this a genuinely free option if you&rsquo;re already paying for Office. The trade-off is that uploads happen over Wi-Fi, so a large library takes time to sync initially.</p>
+<h2 id="method-4-google-photos-best-cross-platform-backup">Method 4: Google Photos (Best Cross-Platform Backup)</h2>
+<p>Google Photos works similarly to OneDrive and has a generous free tier — 15GB shared across Google services, or unlimited &ldquo;storage saver&rdquo; quality compression.</p>
+<p>Install the Google Photos app, enable <strong>Backup &amp; Sync</strong>, then access photos on your PC through photos.google.com. You can download them in bulk by selecting multiple items and hitting the download button (they arrive as a ZIP file).</p>
+<p>This is my personal recommendation if you also use an Android tablet or want a searchable photo archive. Google&rsquo;s search — &ldquo;beach photos from 2023&rdquo; — is genuinely useful.</p>
+<h2 id="method-5-airdrop-alternatives-and-third-party-tools">Method 5: AirDrop Alternatives and Third-Party Tools</h2>
+<p>AirDrop doesn&rsquo;t exist on Windows, but a few substitutes work well:</p>
+<ul>
+<li><strong>Snapdrop / PairDrop:</strong> Open the website on both devices while on the same Wi-Fi network, and transfer files through the browser. No app install needed.</li>
+<li><strong>Send Anywhere or LocalSend:</strong> Free apps that transfer over your local network. LocalSend is open-source and particularly fast for large batches.</li>
+<li><strong>Feem:</strong> Handles Wi-Fi transfers without an internet connection.</li>
+</ul>
+<p>These are ideal for moving a handful of photos quickly, but they&rsquo;re clumsy for transferring thousands of files at once.</p>
+<h2 id="which-method-should-you-actually-use">Which Method Should You Actually Use?</h2>
+<p>Here&rsquo;s a quick decision guide:</p>
+<ul>
+<li><strong>One-time transfer of a big batch?</strong> Use File Explorer with a cable, and set the HEIC conversion to Automatic.</li>
+<li><strong>Want automatic ongoing backup?</strong> Use iCloud for Windows or OneDrive Camera Upload.</li>
+<li><strong>Cross-platform and searchable?</strong> Google Photos.</li>
+<li><strong>Just need to send 5 photos to your desktop right now?</strong> PairDrop or LocalSend.</li>
+</ul>
+<h2 id="a-few-practical-tips-to-save-you-headache">A Few Practical Tips to Save You Headache</h2>
+<ul>
+<li><strong>Back up before you delete.</strong> Once photos are on your PC, verify they open correctly before removing them from your iPhone.</li>
+<li><strong>Organize by date immediately.</strong> Windows will name files IMG_XXXX, so sort by &ldquo;Date Modified&rdquo; and rename folders by event or month.</li>
+<li><strong>Watch your storage.</strong> If your PC&rsquo;s drive is nearly full, transfer in batches rather than all at once.</li>
+<li><strong>Keep a second backup.</strong> A PC hard drive fails eventually. An external drive or cloud copy protects against that.</li>
+</ul>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Transferring photos from an iPhone to a PC isn&rsquo;t hard once you know which method fits your situation. The cable method is fastest for bulk moves, iCloud and OneDrive handle automation, and browser-based tools cover quick one-offs. Pick one, set it up properly, and you&rsquo;ll never again find yourself squinting at a folder of unopenable HEIC files wondering what went wrong.</p>
+]]></content:encoded></item><item><title>Speed Up Windows 11: 11 Fixes That Actually Work</title><link>https://pengjiangwen.github.io/tech/speed-up-windows-11-11-fixes-that-actually-work/</link><pubDate>Sun, 09 Aug 2026 12:34:45 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/speed-up-windows-11-11-fixes-that-actually-work/</guid><description>Is your PC lagging? Stop guessing. These 11 proven tweaks—from startup apps to power settings—will make Windows 11 feel brand new.</description><content:encoded><![CDATA[<p>TITLE: Speed Up Windows 11: 11 Fixes That Actually Work
+DESCRIPTION: Is your PC lagging? Stop guessing. These 11 proven tweaks—from startup apps to power settings—will make Windows 11 feel brand new.
+TAGS: windows 11 performance, speed up pc, windows optimization, tech tips</p>
+<h2 id="introduction">Introduction</h2>
+<p>Let’s be honest: Windows 11 is beautiful, but it can be a resource hog. I remember the day I upgraded my trusty Dell XPS 13—within a week, the fan was roaring like a jet engine, and opening Chrome felt like waiting for a dial-up connection. The culprit wasn&rsquo;t the OS itself; it was the accumulation of startup junk, background bloatware, and power settings tuned for &ldquo;looks&rdquo; rather than &ldquo;go.&rdquo;</p>
+<p>You don’t need a new laptop. You don’t need to disable security features (please don’t). You need to strip away the fat. After tweaking my own machines and a few friends&rsquo; desktops, I’ve narrowed down the fixes that deliver the biggest performance gains with the least risk. Here’s my no-nonsense playbook to speed up Windows 11.</p>
+<h2 id="1-kill-the-startup-zombies-the-1-free-win">1. Kill the Startup Zombies (The #1 Free Win)</h2>
+<p>Open Task Manager (Ctrl + Shift + Esc) and click &ldquo;Startup apps.&rdquo; Look at the &ldquo;Status&rdquo; and &ldquo;Impact&rdquo; columns. If you see <strong>Spotify</strong>, <strong>Discord</strong>, <strong>Adobe Updater</strong>, or anything from <strong>Microsoft Teams</strong> set to &ldquo;High Impact,&rdquo; those are your zombies. They wake up when you log in and eat RAM in the background.</p>
+<p><strong>Action:</strong> Right-click every non-essential app and select &ldquo;Disable.&rdquo; You don&rsquo;t need Steam auto-launching unless you game the second you boot. This single step cuts boot time by 30-50% on older hard drives and significantly reduces lag after login.</p>
+<p><strong>Pro tip:</strong> You can still open these apps manually. Disabling startup doesn&rsquo;t uninstall them—it just makes them wait until you actually need them.</p>
+<h2 id="2-turn-off-startup-boost-in-your-browser">2. Turn Off &ldquo;Startup Boost&rdquo; in Your Browser</h2>
+<p>This is sneaky. Chrome and Edge have a feature called &ldquo;Startup Boost&rdquo; that keeps browser processes running in the background to make opening the browser faster. The problem? It eats 200-400 MB of RAM <em>all the time</em>.</p>
+<p><strong>Action:</strong></p>
+<ul>
+<li><strong>Chrome:</strong> Settings → System → Turn off &ldquo;Continue running background apps when Google Chrome is closed.&rdquo;</li>
+<li><strong>Edge:</strong> Settings → System and performance → Turn off &ldquo;Startup boost&rdquo; and &ldquo;Continue running background extensions and apps.&rdquo;</li>
+</ul>
+<p>Your browser will take one extra second to open, but your entire system will feel snappier, especially if you only have 8GB of RAM.</p>
+<h2 id="3-disable-transparency--animations-instant-visual-boost">3. Disable Transparency &amp; Animations (Instant Visual Boost)</h2>
+<p>Windows 11 loves blur and fade effects. They look nice, but they force your GPU to render constantly. If you&rsquo;re on a laptop without a dedicated graphics card, these effects are pure drag.</p>
+<p><strong>Action:</strong></p>
+<ul>
+<li>Go to <strong>Settings → Personalization → Colors</strong> and toggle <strong>Transparency effects</strong> to <strong>Off</strong>.</li>
+<li>Go to <strong>Settings → Accessibility → Visual effects</strong> and toggle <strong>Animation effects</strong> to <strong>Off</strong>.</li>
+</ul>
+<p>This won&rsquo;t make your PC a gaming beast, but it will make window dragging and snapping feel instant. It’s the fastest &ldquo;feel&rdquo; fix you can do in under 30 seconds.</p>
+<h2 id="4-switch-to-best-performance-power-mode">4. Switch to &ldquo;Best Performance&rdquo; Power Mode</h2>
+<p>Windows 11 defaults to &ldquo;Balanced&rdquo; power mode to save energy. That’s great for a tablet, terrible for a desktop workstation.</p>
+<p><strong>Action:</strong> Go to <strong>Settings → System → Power &amp; battery</strong>. Under &ldquo;Power mode,&rdquo; select <strong>Best performance</strong>.</p>
+<p>If you have a gaming laptop, also check the manufacturer&rsquo;s app (e.g., NVIDIA Control Panel or MSI Center) to ensure it’s in &ldquo;Performance&rdquo; or &ldquo;Discrete&rdquo; mode, not &ldquo;Hybrid&rdquo; or &ldquo;Eco.&rdquo;</p>
+<p><strong>Real example:</strong> On my Lenovo Legion, switching from Balanced to Best Performance fixed micro-stutters in <em>Valorant</em> entirely. No driver update needed.</p>
+<h2 id="5-reclaim-storage-with-storage-sense-dont-ignore-this">5. Reclaim Storage with Storage Sense (Don&rsquo;t Ignore This)</h2>
+<p>A full SSD (over 90%) will slow down Windows 11 significantly because the drive has to work harder to find free blocks for virtual memory. You don&rsquo;t need to buy a new drive; you need to clean house.</p>
+<p><strong>Action:</strong></p>
+<ul>
+<li>Go to <strong>Settings → System → Storage</strong> and turn on <strong>Storage Sense</strong>.</li>
+<li>Click the arrow to configure it: set &ldquo;Cleanup of temporary files&rdquo; to <strong>Every week</strong> and enable &ldquo;Delete temporary files that my apps aren&rsquo;t using.&rdquo;</li>
+</ul>
+<p>Then, click <strong>Cleanup recommendations</strong> immediately. You’ll likely find the &ldquo;Windows Update Cleanup&rdquo; item (often 2-5 GB) and old Recycle Bin files. Delete them.</p>
+<p><strong>Bonus:</strong> If you have a 256GB SSD, consider moving your &ldquo;Downloads&rdquo; or &ldquo;Desktop&rdquo; folder to a secondary HDD (if you have one) via <strong>Right-click on folder → Properties → Location → Move</strong>. This frees up precious space on your boot drive.</p>
+<h2 id="6-stop-game-bar-and-background-recording">6. Stop Game Bar and Background Recording</h2>
+<p>The Xbox Game Bar is useful for screenshots, but its background recording feature (which captures clips automatically) is a silent performance killer. It constantly uses the GPU encoder.</p>
+<p><strong>Action:</strong></p>
+<ul>
+<li>Go to <strong>Settings → Gaming → Captures</strong>.</li>
+<li>Turn <strong>off</strong> &ldquo;Record what happened in the background.&rdquo;</li>
+</ul>
+<p>If you don&rsquo;t use Xbox Game Bar at all, you can disable it entirely via <strong>Settings → Gaming → Xbox Game Bar</strong> and toggling it off. This also removes the overlay shortcut (Win + G) that sometimes pops up accidentally.</p>
+<h2 id="7-fix-the-search-indexing-issue">7. Fix the &ldquo;Search&rdquo; Indexing Issue</h2>
+<p>Windows Search is notoriously slow. The culprit is often the indexing of emails or OneDrive folders that are cloud-only. If typing &ldquo;calc&rdquo; takes 10 seconds to find Calculator, this is for you.</p>
+<p><strong>Action:</strong></p>
+<ul>
+<li>Go to <strong>Settings → Privacy &amp; security → Searching Windows</strong>.</li>
+<li>Under &ldquo;Find My Files,&rdquo; select <strong>Classic</strong> (instead of Enhanced). Enhanced scans your entire drive constantly. Classic only scans the Start Menu and Documents.</li>
+</ul>
+<p><strong>Pro tip:</strong> If you use a third-party search tool like <em>Everything</em> (which I highly recommend), you can turn off Windows Search entirely via Services, but that&rsquo;s a bit advanced. Stick with &ldquo;Classic&rdquo; for now.</p>
+<h2 id="8-disable-sysmain-for-hdds-only">8. Disable &ldquo;SysMain&rdquo; (For HDDs Only)</h2>
+<p>This is controversial, but hear me out. <strong>SysMain</strong> (formerly Superfetch) preloads frequently used apps into RAM to speed them up. On an SSD, this is pointless because the drive is already fast. On an HDD, it can cause constant disk thrashing at 100% usage.</p>
+<p><strong>Action (SSD users only):</strong></p>
+<ol>
+<li>Press <strong>Win + R</strong>, type <code>services.msc</code>, and press Enter.</li>
+<li>Scroll down to <strong>SysMain</strong>.</li>
+<li>Right-click → <strong>Properties</strong> → Set &ldquo;Startup type&rdquo; to <strong>Disabled</strong> → Click <strong>Stop</strong> → OK.</li>
+</ol>
+<p><strong>Warning:</strong> Do NOT do this if you use a traditional hard drive (HDD). It will actually slow things down. If you have an SSD (most Windows 11 machines do), this frees up RAM and stops the disk from spinning up randomly.</p>
+<h2 id="9-update-drivers-but-not-the-way-you-think">9. Update Drivers (But Not the Way You Think)</h2>
+<p>Don&rsquo;t use third-party &ldquo;driver booster&rdquo; apps—they cause more problems than they solve. Use Windows Update and the manufacturer&rsquo;s site.</p>
+<p><strong>Action:</strong></p>
+<ul>
+<li>Go to <strong>Settings → Windows Update → Advanced options → Optional updates</strong>.</li>
+<li>Install any <strong>Driver updates</strong> listed there. These are usually chipset or graphics drivers that Microsoft has verified.</li>
+</ul>
+<p><strong>Real example:</strong> My Wi-Fi adapter kept dropping. Windows Update pushed a &ldquo;Realtek&rdquo; driver update that fixed it and improved latency by 20ms. I never would have found that on my own.</p>
+<h2 id="10-reduce-visual-effects-for-older-gpus">10. Reduce Visual Effects for Older GPUs</h2>
+<p>If you&rsquo;re running Windows 11 on a PC from 2018 or earlier with integrated graphics, the shadows and window animations can cause input lag.</p>
+<p><strong>Action:</strong></p>
+<ol>
+<li>Press <strong>Win + R</strong>, type <code>sysdm.cpl</code>, press Enter.</li>
+<li>Go to the <strong>Advanced</strong> tab → Under &ldquo;Performance,&rdquo; click <strong>Settings</strong>.</li>
+<li>Select <strong>Adjust for best performance</strong> (or manually uncheck: &ldquo;Animate controls and elements inside windows,&rdquo; &ldquo;Fade or slide menus into view,&rdquo; and &ldquo;Show shadows under windows&rdquo;).</li>
+</ol>
+<p>Keep &ldquo;Smooth edges of screen fonts&rdquo; checked—it makes text readable. This turns Windows 11 into a lean, responsive machine that feels like Windows 7 in speed, but with the modern UI.</p>
+<h2 id="11-the-nuclear-option-reset-this-pc">11. The Nuclear Option: Reset This PC</h2>
+<p>If you’ve tried everything and your PC still crawls, don&rsquo;t buy a new one. Use the built-in reset tool. This is the &ldquo;I give up&rdquo; fix that works 90% of the time.</p>
+<p><strong>Action:</strong> Go to <strong>Settings → System → Recovery → Reset PC</strong>. Choose <strong>&ldquo;Keep my files&rdquo;</strong> to remove apps and settings but keep your documents and photos. Then choose <strong>&ldquo;Cloud download&rdquo;</strong> to get a fresh copy of Windows 11 (this often fixes corrupted system files that the local image can&rsquo;t).</p>
+<p><strong>Note:</strong> This takes about 30-45 minutes. It will uninstall all your apps (Steam, Chrome, etc.), so make a list of what you need to reinstall. But honestly, a clean install is the single best performance upgrade you can do without spending money.</p>
+<hr>
+<h2 id="the-one-thing-not-to-do">The One Thing NOT to Do</h2>
+<p>Do <strong>not</strong> download &ldquo;RAM cleaners&rdquo; or &ldquo;PC optimizers&rdquo; from random websites. They are almost always malware or scamware that show you fake memory usage charts. Windows 11 manages memory fine on its own. The only &ldquo;cleaner&rdquo; you need is the built-in Storage Sense.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Speed isn&rsquo;t about one magic switch—it&rsquo;s about removing the invisible weight. Start with the startup apps (Fix #1) and the Game Bar (Fix #6). Those two alone will fix 80% of &ldquo;my PC is slow&rdquo; complaints. If you have an SSD, disable SysMain. If you have a laptop, switch the power mode.</p>
+<p>Do these ten fixes today, reboot, and you’ll notice the difference immediately. Your machine won&rsquo;t be a gaming rocket ship, but it will feel like a new laptop—without the $1,000 price tag.</p>
+<p><strong>Which fix worked for you?</strong> Let me know in the comments—I’m genuinely curious if the Game Bar was the culprit for you too.</p>
+]]></content:encoded></item><item><title>How to Speed Up a Slow Computer (Real Fixes That Work)</title><link>https://pengjiangwen.github.io/tech/how-to-speed-up-a-slow-computer-real-fixes-that-work/</link><pubDate>Fri, 24 Jul 2026 13:22:10 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-speed-up-a-slow-computer-real-fixes-that-work/</guid><description>Is your PC crawling? Ditch the myths. Here are 10 actionable steps to speed up a slow computer, from startup bloat to hidden malware.</description><content:encoded><![CDATA[<p>TITLE: How to Speed Up a Slow Computer (Real Fixes That Work)
 DESCRIPTION: Is your PC crawling? Ditch the myths. Here are 10 actionable steps to speed up a slow computer, from startup bloat to hidden malware.
 TAGS: speed up computer, slow PC fix, Windows optimization, computer performance, tech tips</p>
 <h2 id="introduction">Introduction</h2>

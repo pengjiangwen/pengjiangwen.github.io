@@ -1,4 +1,174 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tech Guide on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/tech-guide/</link><description>Recent content in Tech Guide on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 18:32:46 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/tech-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Android vs iOS: Which OS Wins in 2024?</title><link>https://pengjiangwen.github.io/tech/android-vs-ios-which-os-wins-in-2024/</link><pubDate>Wed, 01 Jul 2026 18:32:46 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/android-vs-ios-which-os-wins-in-2024/</guid><description>A no-fluff comparison of Android vs iOS covering privacy, customization, ecosystem, and real-world usability. Find your perfect fit.</description><content:encoded><![CDATA[<p>TITLE: Android vs iOS: Which OS Wins in 2024?
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tech Guide on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/tech-guide/</link><description>Recent content in Tech Guide on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 11 Aug 2026 01:07:43 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/tech-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Router Setup in 20 Minutes: A No-Nonsense Guide</title><link>https://pengjiangwen.github.io/tech/router-setup-in-20-minutes-a-no-nonsense-guide/</link><pubDate>Tue, 11 Aug 2026 01:07:43 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/router-setup-in-20-minutes-a-no-nonsense-guide/</guid><description>Learn how to set up a new router step-by-step, from unboxing to Wi-Fi optimization. Avoid common mistakes and get the fastest, most secure network today.</description><content:encoded><![CDATA[<p>TITLE: Router Setup in 20 Minutes: A No-Nonsense Guide
+DESCRIPTION: Learn how to set up a new router step-by-step, from unboxing to Wi-Fi optimization. Avoid common mistakes and get the fastest, most secure network today.
+TAGS: router setup, home network, wifi configuration, network security, tech guide</p>
+<h2 id="introduction">Introduction</h2>
+<p>You just unboxed a shiny new router. The box promises &ldquo;blazing speeds&rdquo; and &ldquo;whole-home coverage.&rdquo; But right now, you&rsquo;re staring at a black slab with blinking lights and four antennas, feeling a little like a caveman trying to start a Tesla.</p>
+<p>I’ve been there. Two years ago, I bought a Wi-Fi 6 router to replace my ISP’s rental unit. I plugged it in, followed the Quick Start guide, and ended up with a network that dropped signal every time someone used the microwave. The problem wasn’t the router—it was my setup process. I skipped the crucial steps that separate a &ldquo;working&rdquo; network from a &ldquo;great&rdquo; network.</p>
+<p>This guide cuts through the jargon. You don’t need a degree in IT. You need 20 minutes, a laptop (or phone), and this checklist. Let’s get your network running faster and safer than the neighbor’s.</p>
+<h2 id="before-you-touch-the-router-the-prep-phase">Before You Touch the Router: The Prep Phase</h2>
+<h3 id="check-your-internet-source">Check Your Internet Source</h3>
+<p>A router is a traffic cop, not a water pump. It doesn’t create internet; it distributes what comes from your modem. Before you even unpack the box, confirm your modem is working. Connect your laptop directly to the modem via Ethernet cable and test the connection. If you don&rsquo;t get internet there, no router will fix that. Call your ISP if needed.</p>
+<h3 id="document-your-current-settings">Document Your Current Settings</h3>
+<p>This is the step everyone skips. If you’re replacing an old router, you’ll need to replicate a few settings. Log into your old router’s admin panel and write down:</p>
+<ul>
+<li>Your PPPoE username/password (if you have fiber or DSL)</li>
+<li>Any port forwarding rules (if you run a gaming server or security camera)</li>
+<li>Your Wi-Fi network name (SSID) and password</li>
+</ul>
+<p>You can often find the old router’s admin address on a sticker on the device itself (usually 192.168.1.1 or 192.168.0.1).</p>
+<h2 id="physical-setup-where-you-place-it-matters-more-than-you-think">Physical Setup: Where You Place It Matters More Than You Think</h2>
+<h3 id="location-is-50-of-performance">Location is 50% of Performance</h3>
+<p>Don’t hide the router behind your TV or in a cabinet. That kills the signal before it starts. Place it:</p>
+<ul>
+<li><strong>Elevated:</strong> On a shelf or mounted on a wall. Radio waves spread downward and outward.</li>
+<li><strong>Central:</strong> In the middle of your home, not in a corner office.</li>
+<li><strong>Away from metal:</strong> Avoid metal furniture, mirrors, and concrete walls. These absorb Wi-Fi signals.</li>
+<li><strong>Away from other electronics:</strong> Keep it at least 3 feet away from microwaves, cordless phones, and baby monitors. They operate on similar frequencies (2.4 GHz) and cause interference.</li>
+</ul>
+<p><strong>Real example:</strong> I had a client who complained about slow speeds in their bedroom. Their router was under a desk, behind a metal filing cabinet, in the far corner of the living room. We moved it to a bookshelf in the hallway. Problem solved in two minutes.</p>
+<h3 id="the-cabling-sequence">The Cabling Sequence</h3>
+<p>Here’s the correct order:</p>
+<ol>
+<li>Power off your modem.</li>
+<li>Connect an Ethernet cable from your modem’s LAN port to your router’s <strong>WAN</strong> or <strong>Internet</strong> port (usually color-coded yellow or red, and separate from the other ports).</li>
+<li>Power on the modem. Wait 60 seconds.</li>
+<li>Power on the router. Wait for the status LED to turn solid (not blinking).</li>
+</ol>
+<p><strong>Pro tip:</strong> Use the included Ethernet cable, not a random old one. Cat5e or Cat6 cables are fine. If you use a damaged cable, you’ll get intermittent drops that drive you insane.</p>
+<h2 id="the-initial-configuration-lets-do-this-right">The Initial Configuration: Let’s Do This Right</h2>
+<h3 id="use-the-app-or-the-web-interface">Use the App or the Web Interface?</h3>
+<p>Modern routers (ASUS, TP-Link, Netgear) push you toward their mobile apps. Apps are fine for basic setup, but they often hide advanced settings. My advice: use the app for speed, then log into the web interface (via a browser at 192.168.1.1 or 192.168.0.1) for the critical tweaks below.</p>
+<h3 id="set-a-strong-admin-password-immediately">Set a Strong Admin Password (Immediately)</h3>
+<p>This is non-negotiable. The default admin password is &ldquo;admin&rdquo; or &ldquo;password&rdquo;—public knowledge to anyone. Change it in the first minute. Use a passphrase like <code>Correct-Horse-Battery-Staple</code> or a random string of 12+ characters. Write it down and store it in your password manager.</p>
+<h3 id="update-the-firmware">Update the Firmware</h3>
+<p>Your router shipped with software that’s likely outdated. In the admin panel, look for &ldquo;Firmware Update&rdquo; or &ldquo;System Update.&rdquo; Run it. This patches security holes and improves stability. This takes 5-10 minutes. Do not power off during the update. I once bricked a router by unplugging it mid-update. Don&rsquo;t be me.</p>
+<h2 id="configuring-your-wi-fi-the-core-settings">Configuring Your Wi-Fi: The Core Settings</h2>
+<h3 id="choose-the-right-bands">Choose the Right Bands</h3>
+<p>Modern routers are dual-band (2.4 GHz and 5 GHz) or tri-band (adds a second 5 GHz). Here’s the rule:</p>
+<ul>
+<li><strong>2.4 GHz:</strong> Long range, slower speeds, penetrates walls. Use for smart home devices (thermostats, plugs) and older gadgets.</li>
+<li><strong>5 GHz:</strong> Short range, faster speeds. Use for laptops, phones, and streaming boxes.</li>
+</ul>
+<p><strong>Action step:</strong> Give them different names (SSIDs). For example, <code>HomeWiFi</code> and <code>HomeWiFi-5G</code>. This lets you manually choose which band to connect to. If you see a &ldquo;Band Steering&rdquo; feature, turn it on—it automatically pushes devices to the best band. But if you have older devices that struggle, keep the bands separate.</p>
+<h3 id="set-encryption-wpa3-or-wpa2">Set Encryption: WPA3 or WPA2?</h3>
+<p>Use <strong>WPA3</strong> if your router supports it and all your devices are relatively new (2019 or later). If you have an older laptop or IoT device, select <strong>WPA2/WPA3 Mixed Mode</strong>. This offers compatibility without sacrificing security. Never use WEP or WPA—those are broken and easily hacked.</p>
+<h3 id="create-a-guest-network-yes-you-need-this">Create a Guest Network (Yes, You Need This)</h3>
+<p>This is the single best privacy move you can make. Your main network contains your PC, phone, and smart TV. Your guests’ phones might have malware. Create a separate &ldquo;Guest&rdquo; network with a different password. This isolates their traffic from your devices. Enable &ldquo;Guest Network Isolation&rdquo; if available.</p>
+<p><strong>Real example:</strong> A friend of mine had a neighbor ask to use his Wi-Fi &ldquo;just for a minute.&rdquo; He gave them the main password. A week later, his smart doorbell was streaming video to an unknown server. He had to reset everything. A guest network would have prevented this instantly.</p>
+<h2 id="advanced-tweaks-that-actually-matter">Advanced Tweaks That Actually Matter</h2>
+<h3 id="change-the-dns-server">Change the DNS Server</h3>
+<p>Your ISP’s default DNS can be slow and occasionally blocks sites. Switch to <strong>Cloudflare (1.1.1.1)</strong> or <strong>Google (8.8.8.8)</strong>. In the router settings, look for &ldquo;Internet&rdquo; or &ldquo;WAN&rdquo; settings. Enter the primary and secondary DNS addresses. This often improves page load times and bypasses some ISP-level throttling.</p>
+<h3 id="enable-qos-quality-of-service">Enable QoS (Quality of Service)</h3>
+<p>If you work from home or game online, QoS is a lifesaver. It prioritizes traffic. For example, set your work laptop’s MAC address as &ldquo;Highest Priority&rdquo; and your smart TV as &ldquo;Low.&rdquo; This ensures video calls don’t lag when someone streams Netflix.</p>
+<h3 id="disable-wps-wi-fi-protected-setup">Disable WPS (Wi-Fi Protected Setup)</h3>
+<p>WPS is a &ldquo;convenient&rdquo; button that lets devices join without a password. It’s also a massive security hole—hackers can brute-force the PIN in hours. Turn it off in the wireless settings. You don’t need it; typing a password takes five seconds.</p>
+<h3 id="set-a-schedule-for-reboots">Set a Schedule for Reboots</h3>
+<p>Routers accumulate memory leaks over time. Most modern routers have a &ldquo;Reboot Schedule&rdquo; option. Set it to reboot at 4 AM every Sunday. This clears the cache and prevents the &ldquo;slow internet on Thursday night&rdquo; issue.</p>
+<h2 id="testing-and-verifying-your-setup">Testing and Verifying Your Setup</h2>
+<h3 id="run-a-speed-test-correctly">Run a Speed Test (Correctly)</h3>
+<p>Don&rsquo;t test on your phone right next to the router—that tests the router’s maximum, not your real-world experience. Instead:</p>
+<ol>
+<li>Place your laptop 10-15 feet away, in the room you use most.</li>
+<li>Connect to the 5 GHz band.</li>
+<li>Run a test on Speedtest.net.</li>
+<li>Compare to your subscribed plan. If you pay for 300 Mbps and get 280, you’re good. If you get 50, something is wrong.</li>
+</ol>
+<h3 id="check-for-dead-zones">Check for Dead Zones</h3>
+<p>Walk around your home with your phone and watch the Wi-Fi bars. If you have a dead spot in the bedroom, consider a mesh system (like Eero or Deco) or a simple Wi-Fi extender. But before you buy hardware, try moving the router first—it’s free.</p>
+<h2 id="the-final-checklist">The Final Checklist</h2>
+<p>Before you close the admin panel, confirm:</p>
+<ul>
+<li><input disabled="" type="checkbox"> Admin password changed</li>
+<li><input disabled="" type="checkbox"> Firmware updated</li>
+<li><input disabled="" type="checkbox"> WPA3 or WPA2/WPA3 enabled</li>
+<li><input disabled="" type="checkbox"> WPS disabled</li>
+<li><input disabled="" type="checkbox"> Guest network created with a unique password</li>
+<li><input disabled="" type="checkbox"> DNS changed to 1.1.1.1 or 8.8.8.8</li>
+<li><input disabled="" type="checkbox"> Band names are clear (e.g., <code>Home</code> and <code>Home-5G</code>)</li>
+</ul>
+<h2 id="conclusion">Conclusion</h2>
+<p>Setting up a router isn&rsquo;t hard—it&rsquo;s just a sequence of small decisions. Most people plug it in, type the default password, and settle for a mediocre network. You now know the difference between &ldquo;working&rdquo; and &ldquo;optimized.&rdquo;</p>
+<p>Take the extra 10 minutes to change that DNS and enable QoS. Your future self, during a critical Zoom call, will thank you. And if you run into trouble, remember: the reset button on the back is your friend. Hold it for 10 seconds, and you can start over without fear.</p>
+<p>Now go enjoy your fast, secure network. Your old setup is officially obsolete.</p>
+]]></content:encoded></item><item><title>What Is Cloud Storage? A No-Nonsense Tech Guide</title><link>https://pengjiangwen.github.io/tech/what-is-cloud-storage-a-no-nonsense-tech-guide/</link><pubDate>Sun, 02 Aug 2026 02:00:57 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/what-is-cloud-storage-a-no-nonsense-tech-guide/</guid><description>Cloud storage explained simply: how it works, real-world examples, security risks, and smart tips to pick the right service for your needs.</description><content:encoded><![CDATA[<p>TITLE: What Is Cloud Storage? A No-Nonsense Tech Guide<br>
+DESCRIPTION: Cloud storage explained simply: how it works, real-world examples, security risks, and smart tips to pick the right service for your needs.<br>
+TAGS: cloud storage, cloud computing, data backup, online storage, tech guide</p>
+<h2 id="introduction">Introduction</h2>
+<p>You’ve probably used it today without thinking. That photo you snapped of your dog—it auto-backed up somewhere invisible. The spreadsheet you edited on your laptop, then opened on your phone—same trick. That “somewhere invisible” is cloud storage.</p>
+<p>But here’s the thing: most people can’t actually explain what it <em>is</em>. They just know it works. And that’s a problem. Because if you don’t understand the basics, you can’t make smart decisions about cost, security, or which provider to trust with your family photos and tax returns.</p>
+<p>I’ve spent the last decade working in IT infrastructure, and I’ve seen the same confusion over and over. So let me cut through the marketing jargon and give you the real, practical breakdown. No fluff. Just what cloud storage is, how it works, and how to use it without getting burned.</p>
+<h2 id="the-30-second-definition">The 30-Second Definition</h2>
+<p>Cloud storage is a service that lets you save files on remote servers managed by a third party, accessible via the internet. You’re renting digital space on someone else’s hard drives, but the magic is that you don’t care <em>which</em> hard drives. The provider handles the hardware, redundancy, and maintenance. You just get a folder that syncs across all your devices.</p>
+<p>That’s it. That’s the whole concept. But the details matter, and that’s where most people get tripped up.</p>
+<h2 id="how-cloud-storage-actually-works-without-the-tech-overload">How Cloud Storage Actually Works (Without the Tech Overload)</h2>
+<p>When you drag a file into your Dropbox folder, here’s what happens behind the scenes:</p>
+<ol>
+<li><strong>Chunking</strong>: Your file is split into small pieces (usually 4-8 MB each). This isn’t random—it makes transfer and storage more efficient.</li>
+<li><strong>Encryption in transit</strong>: Those chunks are scrambled using SSL/TLS (the same tech that protects online banking) before they leave your device.</li>
+<li><strong>Transmission</strong>: The encrypted chunks travel over the internet to the provider’s data center.</li>
+<li><strong>Redundant writing</strong>: The provider writes <em>multiple copies</em> of those chunks across different physical drives, often in different buildings or even different cities. If one drive dies, your file survives.</li>
+<li><strong>Metadata indexing</strong>: The system creates an index that maps your file’s chunks to their locations. When you click “open,” it reassembles them in milliseconds.</li>
+</ol>
+<p>The key difference from a USB stick: your file isn’t stored as a single blob. It’s scattered, duplicated, and tracked. That’s why cloud storage is so resilient—but it’s also why you need to trust your provider.</p>
+<h2 id="the-3-main-types-of-cloud-storage-and-which-youre-using">The 3 Main Types of Cloud Storage (And Which You’re Using)</h2>
+<p>Not all cloud storage is created equal. You’re probably using two or three types right now without knowing it.</p>
+<h3 id="1-object-storage-the-everyday-kind">1. Object Storage (The Everyday Kind)</h3>
+<p>This is what Google Drive, Dropbox, and iCloud use. Files are stored as “objects” with unique identifiers and metadata. It’s perfect for documents, photos, videos—anything you want to access from multiple devices.</p>
+<p><strong>Real example</strong>: When you edit a Google Doc, every keystroke is saved as a new version of an object. That’s why you can scroll back through 100 revisions.</p>
+<h3 id="2-block-storage-the-invisible-workhorse">2. Block Storage (The Invisible Workhorse)</h3>
+<p>This is what powers virtual machines and databases. Data is split into fixed-size blocks, each with its own address. It’s faster than object storage but requires the host system to manage it.</p>
+<p><strong>Real example</strong>: If you run a website on AWS EC2, the “hard drive” attached to that server is block storage. You never see it directly—it just works.</p>
+<h3 id="3-file-storage-the-old-school-network-drive">3. File Storage (The Old-School Network Drive)</h3>
+<p>This is the classic NAS (Network Attached Storage) model. Files are organized in a hierarchy of folders, accessed via protocols like SMB or NFS. It’s less flexible than object storage but great for shared office environments.</p>
+<p><strong>Real example</strong>: Your company’s shared “Marketing” folder on a Synology NAS is file storage. It feels like a local drive, but it’s actually on a server in the IT closet.</p>
+<h2 id="the-real-costs-its-not-free--heres-the-math">The Real Costs (It’s Not “Free” — Here’s the Math)</h2>
+<p>Everyone knows the free tiers: 5 GB on iCloud, 15 GB on Google Drive, 5 GB on Dropbox. That’s fine for a few documents, but it disappears fast. A single 3-minute 4K video is about 1 GB. Your phone’s photo library hits 15 GB in about 6 months if you shoot regularly.</p>
+<p>Here’s what the paid tiers actually cost (as of early 2025):</p>
+<ul>
+<li><strong>Google One</strong>: 100 GB for $1.99/month, 2 TB for $9.99/month</li>
+<li><strong>iCloud+</strong>: 50 GB for $0.99/month, 2 TB for $9.99/month</li>
+<li><strong>Dropbox Plus</strong>: 2 TB for $11.99/month</li>
+<li><strong>Backblaze B2</strong>: $6/TB/month (pay-as-you-go, no tiers)</li>
+</ul>
+<p><strong>Actionable tip</strong>: Don’t pay for storage you don’t use. Run a quick audit of your largest files. If you have 40 GB of old project files you haven’t touched in 3 years, archive them to a cold storage service like Amazon S3 Glacier Deep Archive ($0.00099/GB/month). That’s 4 cents per month for 40 GB. Keep only your actively-used files in the expensive, fast storage.</p>
+<h2 id="security-the-hard-truth-nobody-wants-to-hear">Security: The Hard Truth Nobody Wants to Hear</h2>
+<p>Here’s the uncomfortable reality: cloud storage providers don’t care about your individual files. They care about scale. They encrypt your data at rest (usually with AES-256), and they encrypt it in transit. But <em>they</em> hold the encryption keys. That means:</p>
+<ul>
+<li>If a government subpoenas your provider, they can hand over your files.</li>
+<li>If an employee at the provider goes rogue (it’s happened), they can access your data.</li>
+<li>If your account gets hacked, the attacker sees everything—unless you’ve added your own encryption layer.</li>
+</ul>
+<p><strong>The fix</strong>: Use client-side encryption tools like Cryptomator or Veracrypt. These encrypt your files <em>before</em> they ever leave your device. The provider sees gibberish. You hold the keys. It’s free, open-source, and takes 15 minutes to set up.</p>
+<p><strong>Real example</strong>: In 2022, a Dropbox breach exposed 130 GitHub repositories containing credentials. Dropbox said no user files were accessed—but the incident showed that even major providers have attack surfaces. You don’t want to be the test case.</p>
+<h2 id="how-to-choose-the-right-provider-a-practical-checklist">How to Choose the Right Provider (A Practical Checklist)</h2>
+<p>Stop reading reviews. Start with these five questions:</p>
+<ol>
+<li><strong>What’s your primary device ecosystem?</strong> If you’re all-in on Apple, iCloud’s 2-factor integration and photo optimization are unbeatable. If you’re on Windows/Android, OneDrive and Google Drive have better native integration.</li>
+<li><strong>Do you need collaboration?</strong> Google Drive and Dropbox have the best real-time co-editing. iCloud and OneDrive are weaker here.</li>
+<li><strong>How much do you actually store?</strong> If you’re under 50 GB, free tiers are fine. Over 2 TB, look at Backblaze or Wasabi for cheaper per-GB pricing.</li>
+<li><strong>What’s your upload speed?</strong> This is the hidden cost. If you have 10 Mbps upload, a 10 GB file takes 2.2 hours. Some providers (like Backblaze) offer “upload acceleration” that can cut this by 40%.</li>
+<li><strong>Can you export your data?</strong> This is the trap. Check if the provider allows bulk export. Google Takeout and Dropbox Export are good. Some cheap providers make it deliberately painful to leave.</li>
+</ol>
+<h2 id="the-backup-vs-sync-confusion-and-why-it-matters">The Backup vs. Sync Confusion (And Why It Matters)</h2>
+<p>Most people think cloud storage is backup. It’s not.</p>
+<p><strong>Sync</strong> (what Dropbox and Google Drive do) mirrors your files across devices. If you delete a file on your laptop, it deletes from the cloud and your phone. That’s not backup—that’s replication.</p>
+<p><strong>Backup</strong> (what Backblaze and Carbonite do) creates a separate, versioned copy that you can restore from any point in time. If your computer is stolen, you recover everything. If ransomware encrypts your synced folder, it also encrypts the cloud copy.</p>
+<p><strong>Actionable tip</strong>: Use both. Keep your active files in a sync service for convenience. Run a separate, automated backup tool (like Backblaze Personal, $99/year for unlimited) for your entire hard drive. The cost is less than one dinner out, and it saves you from the most common data loss scenarios.</p>
+<h2 id="real-world-example-the-wedding-photographer-who-lost-everything">Real-World Example: The Wedding Photographer Who Lost Everything</h2>
+<p>I once consulted for a photographer who stored 12 years of client galleries on a single external drive. She thought she was being careful—she had a second drive she mirrored monthly. Then her studio flooded. Both drives were in the same room. She lost 4,000 client sessions.</p>
+<p>She now uses a three-tier approach:</p>
+<ul>
+<li><strong>Local</strong>: A NAS with RAID 1 (two mirrored drives) for fast access.</li>
+<li><strong>Cloud sync</strong>: Dropbox for active client folders.</li>
+<li><strong>Cloud backup</strong>: Backblaze for the entire NAS, with 30-day version history.</li>
+</ul>
+<p>Her total cost: about $20/month. Her risk of total data loss: effectively zero.</p>
+<p>That’s the real power of cloud storage—not the convenience, not the syncing, but the <em>redundancy</em>. The peace of mind that your data exists in multiple physical locations, independent of your hardware.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Cloud storage isn’t magic. It’s just someone else’s hard drives, managed well and accessed over the internet. The technology is mature, the prices are reasonable, and the risks are manageable—if you understand what you’re signing up for.</p>
+<p>Stop thinking of it as “the cloud.” Think of it as a utility, like electricity or water. You don’t generate your own power; you pay a company to handle the infrastructure. Same deal here. Just make sure you’re not the only one with the keys to your own data.</p>
+<p><strong>Your next step</strong>: Take 20 minutes tonight. Audit your current storage. Delete the junk. Set up client-side encryption for anything sensitive. And if you don’t have a separate backup solution, start one. Your future self will thank you when the hard drive dies—and it will die. They always do.</p>
+]]></content:encoded></item><item><title>Android vs iOS: Which OS Wins in 2024?</title><link>https://pengjiangwen.github.io/tech/android-vs-ios-which-os-wins-in-2024/</link><pubDate>Wed, 01 Jul 2026 18:32:46 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/android-vs-ios-which-os-wins-in-2024/</guid><description>A no-fluff comparison of Android vs iOS covering privacy, customization, ecosystem, and real-world usability. Find your perfect fit.</description><content:encoded><![CDATA[<p>TITLE: Android vs iOS: Which OS Wins in 2024?
 DESCRIPTION: A no-fluff comparison of Android vs iOS covering privacy, customization, ecosystem, and real-world usability. Find your perfect fit.
 TAGS: Android vs iOS, smartphone comparison, mobile OS, tech guide, 2024 smartphone tips</p>
 <h2 id="introduction">Introduction</h2>

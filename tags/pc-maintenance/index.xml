@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Pc Maintenance on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/pc-maintenance/</link><description>Recent content in Pc Maintenance on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 08 Sep 2026 02:21:35 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/pc-maintenance/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Clean Your PC Fans in 20 Minutes or Less</title><link>https://pengjiangwen.github.io/tech/how-to-clean-your-pc-fans-in-20-minutes-or-less/</link><pubDate>Tue, 08 Sep 2026 02:21:35 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-clean-your-pc-fans-in-20-minutes-or-less/</guid><description>Stop overheating and jet-engine noise. Learn how to safely clean your PC fans with this step-by-step guide. No disassembly skills required.</description><content:encoded><![CDATA[<p>TITLE: How to Clean Your PC Fans in 20 Minutes or Less
+DESCRIPTION: Stop overheating and jet-engine noise. Learn how to safely clean your PC fans with this step-by-step guide. No disassembly skills required.
+TAGS: PC maintenance, cleaning computer fans, PC cooling, dust removal, computer upkeep</p>
+<h2 id="introduction">Introduction</h2>
+<p>You know that moment. You’re in a Zoom call, and suddenly your PC sounds like a 747 taking off from your desk. You check your temperatures, and your CPU is sitting at 85°C while you’re only browsing Chrome. The culprit isn’t malware, and it isn’t a failing pump. It’s dust.</p>
+<p>I learned this the hard way. Last summer, my gaming rig started thermal-throttling mid-match. I was convinced the GPU was dying. I was about to drop $500 on a new card when a friend casually asked, “When was the last time you cleaned your fans?” I paused. I had built the system two years prior. I had never cleaned it. A $15 can of compressed air and 20 minutes later, my temps dropped by 18 degrees Celsius. The “dying” GPU was perfectly fine.</p>
+<p>Here is the brutal truth: dust acts as an insulator. It clogs heatsink fins, blocks airflow, and makes your fans spin faster to compensate. This leads to premature bearing wear and, eventually, system instability. Let’s fix that today.</p>
+<h2 id="why-cleaning-your-fans-matters-more-than-you-think">Why Cleaning Your Fans Matters More Than You Think</h2>
+<p>Before we get to the physical labor, let’s talk about why this is the highest-ROI maintenance task in computing.</p>
+<p>Your PC fans don&rsquo;t just spin for fun. They pull cool air across heatsinks. That heat is the byproduct of electricity running through your chips. If that heat isn&rsquo;t moved away, the silicon physically degrades faster. But it’s not just about longevity.</p>
+<p><strong>The &ldquo;Dust Blanket&rdquo; Effect</strong>
+When dust builds up on a fan blade, it disrupts the aerodynamics. The fan pushes less air but has to work harder to do it. When dust clogs the fin stack of a CPU cooler or GPU heatsink, the air physically cannot pass through. It takes the path of least resistance, which is around the heatsink, not through it.</p>
+<p><strong>The Noise Factor</strong>
+Dust on the bearings acts as a grinding paste. It dries out the lubricant. That humming or rattling sound isn&rsquo;t just annoying; it&rsquo;s the sound of mechanical wear. Cleaning the dust off won&rsquo;t fix a bearing that&rsquo;s already gone dry, but regular cleaning prevents that failure from happening in the first place.</p>
+<h2 id="what-you-need-and-what-you-should-avoid">What You Need (And What You Should Avoid)</h2>
+<p>You don&rsquo;t need a professional workshop. But you do need the right tools. Using a vacuum cleaner is a common mistake—it generates static electricity that can fry your motherboard. Don&rsquo;t do it.</p>
+<p><strong>The Essential Kit:</strong></p>
+<ul>
+<li><strong>Compressed Air:</strong> Get cans with the &ldquo;straw&rdquo; attachment. Avoid &ldquo;eco&rdquo; blowers that just huff warm air; they don&rsquo;t have enough pressure.</li>
+<li><strong>Isopropyl Alcohol (90% or higher):</strong> For the stubborn sticky grime on fan blades.</li>
+<li><strong>Cotton Swabs (Q-tips):</strong> For precise cleaning.</li>
+<li><strong>Microfiber Cloth:</strong> For wiping down case panels.</li>
+<li><strong>Screwdriver:</strong> Usually a Phillips #2, but check your case thumb screws first.</li>
+</ul>
+<p><strong>Optional but Helpful:</strong></p>
+<ul>
+<li><strong>Anti-static wrist strap:</strong> If you&rsquo;re going to touch internal components directly. If you don&rsquo;t have one, touch your metal case frame before reaching inside to discharge static.</li>
+<li><strong>A soft-bristled paintbrush:</strong> Great for sweeping dust off large flat surfaces without blowing it into the air.</li>
+</ul>
+<h2 id="step-1-the-safe-shutdown-and-prep">Step 1: The Safe Shutdown and Prep</h2>
+<p>Do not start blasting air into a running machine. That&rsquo;s a disaster waiting to happen—fan blades can spin faster than their rated speed when hit with air, generating a back-current that can damage your motherboard.</p>
+<ol>
+<li><strong>Shut down your PC completely.</strong> Not sleep mode. A full shutdown.</li>
+<li><strong>Flip the switch on the PSU (Power Supply Unit) to &ldquo;Off&rdquo;</strong> (the &lsquo;O&rsquo; position).</li>
+<li><strong>Unplug the power cable</strong> from the wall.</li>
+<li><strong>Press and hold the power button on your case for 5 seconds.</strong> This drains any residual charge in the capacitors. It’s a good habit to get into.</li>
+</ol>
+<p>Now, move your PC to a well-ventilated area, preferably outside or near an open window. You are about to release a dust bomb, and you don&rsquo;t want that settling back into your room.</p>
+<h2 id="step-2-open-the-case-and-assess-the-damage">Step 2: Open the Case and Assess the Damage</h2>
+<p>Remove the side panel. Usually, this is the left panel (looking from the front). If you have glass panels, place them flat on a soft surface to avoid cracking.</p>
+<p>Take a look inside. You&rsquo;ll likely see the prime suspects:</p>
+<ul>
+<li><strong>Rear Exhaust Fan:</strong> Usually the dustiest because it pushes hot air out, which carries dust with it.</li>
+<li><strong>CPU Cooler (Heatsink and Fan):</strong> The biggest culprit. This sits right next to the motherboard and acts like a dust magnet.</li>
+<li><strong>GPU (Graphics Card):</strong> The fans face downwards usually. They pull dust from the bottom of the case.</li>
+<li><strong>Front Intake Fans:</strong> These pull air in, but they usually have filters in front of them. If the filter is clogged, the fans are usually clean, but the filter needs a vacuum.</li>
+</ul>
+<h2 id="step-3-the-blasting-technique-the-hold-the-fan-rule">Step 3: The Blasting Technique (The &ldquo;Hold the Fan&rdquo; Rule)</h2>
+<p>This is the most critical step for your hardware&rsquo;s health.</p>
+<p><strong>The Rule:</strong> Never let a fan spin freely while you clean it. When you blast air at a fan blade, it spins. This acts like a generator and sends voltage back into the motherboard, potentially frying the fan header.</p>
+<p><strong>The Fix:</strong> Insert a finger, a pencil, or a cotton swab between the blades to hold them still. Yes, it’s tedious, but it’s non-negotiable.</p>
+<p><strong>Now, the method:</strong></p>
+<ol>
+<li>Start with the <strong>PSU fan</strong> (if visible). Hold the blades and give it a few short bursts.</li>
+<li>Move to the <strong>rear exhaust fan</strong>. Hold it, blast it. You&rsquo;ll see a cloud of grey dust fly out.</li>
+<li>Clean the <strong>front intake fans</strong>. If they have a filter, pull the filter out first and clean it separately with a damp cloth (let it dry fully before reinstalling).</li>
+<li>For the <strong>CPU cooler</strong>: This is where the magic happens. Hold the fan blade, and blast air through the heatsink fins from the top down. Do this in multiple directions. You want the dust to fall out, not get pushed deeper into the fin stack.</li>
+<li>For the <strong>GPU</strong>: Hold the fans still. Blast air through the heatsink visible between the fan and the backplate. A lot of dust accumulates on the backplate of the GPU where the PCB meets the cooler.</li>
+</ol>
+<p><strong>Pro Tip:</strong> Use short, controlled bursts. Long, continuous streams from a can of compressed air cause the can to freeze and lose pressure. Short bursts are more effective.</p>
+<h2 id="step-4-the-deep-clean-for-stubborn-grime">Step 4: The Deep Clean (For Stubborn Grime)</h2>
+<p>Compressed air handles loose dust, but if you have sticky residue (often from smoke or high humidity), you need a different approach.</p>
+<p>This is where the isopropyl alcohol and Q-tips come in.</p>
+<ul>
+<li><strong>For Fan Blades:</strong> Dip a Q-tip in alcohol and wipe the blades individually. Alcohol evaporates quickly and leaves no residue. This is especially useful for GPU fans which tend to accumulate a film of grime.</li>
+<li><strong>For Heatsink Fins:</strong> If dust is caked onto the fins and air won&rsquo;t remove it, you can carefully run a Q-tip between the fins. Be gentle; these fins are delicate and bend easily. If you bend a fin, it restricts airflow just as much as dust does.</li>
+<li><strong>For the Case Interior:</strong> Use the microfiber cloth to wipe down the bottom of the case and the PSU shroud. This removes the fine layer of dust that compressed air will just swirl around.</li>
+</ul>
+<h2 id="step-5-the-hidden-trap---the-psu-and-dust-filters">Step 5: The Hidden Trap - The PSU and Dust Filters</h2>
+<p>Most people forget these two.</p>
+<p><strong>PSU (Power Supply):</strong>
+Most modern cases mount the PSU at the bottom with the fan facing downwards. This means it acts as a floor vacuum. If your PSU has a dust filter, clean that. If it doesn&rsquo;t, you&rsquo;ll need to remove the PSU to clean the fan properly. If you&rsquo;re not comfortable removing the PSU, just use the straw to get as close to the fan grill as possible and blow air in. It won&rsquo;t be perfect, but it will dislodge the thickest layer.</p>
+<p><strong>Dust Filters:</strong>
+These are the mesh screens over your intake fans. They are your first line of defense. If they are clogged, your fans have to spin faster to pull the same amount of air. Remove them, rinse them under warm water with a drop of dish soap, and let them air dry completely. Do not put them back in wet.</p>
+<h2 id="step-6-reassembly-and-the-dust-check">Step 6: Reassembly and The &ldquo;Dust Check&rdquo;</h2>
+<p>Once everything is clean, do a visual inspection. Look at the CPU heatsink fins. Can you see light through them? If yes, you did a good job.</p>
+<p>Before you close the case, check your cable management. If cables are strewn across the middle of the case, they are obstructing airflow. Use a zip tie to pull them tight against the back panel. This isn&rsquo;t just for aesthetics; it directly impacts your cooling efficiency.</p>
+<p><strong>Close the case.</strong> Do not run your PC with the side panel off thinking it cools better. It actually disrupts the intended airflow path, causing hot spots.</p>
+<h2 id="how-often-should-you-do-this">How Often Should You Do This?</h2>
+<p>This depends entirely on your environment.</p>
+<ul>
+<li><strong>Normal Household:</strong> Every 3-4 months.</li>
+<li><strong>Carpeted Rooms or Pet Owners:</strong> Every 1-2 months. Pet hair is the absolute worst for PC fans. It wraps around the blades and clogs filters rapidly.</li>
+<li><strong>Smokers or Heavy Dust Environments:</strong> Monthly.</li>
+</ul>
+<p><strong>The &ldquo;Test&rdquo;</strong> : If you hold your hand up to your exhaust fan and see visible dust particles blowing out, it’s time to clean.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Cleaning your PC fans is not a luxury; it&rsquo;s a necessity. It takes less time than a single episode of your favorite show, and it can extend the life of your hardware by years. It&rsquo;s also the cheapest performance upgrade you can do—because you&rsquo;re unlocking the performance you already paid for.</p>
+<p>I saved $500 that day by cleaning my fans instead of buying a new GPU. But more importantly, I learned that preventative maintenance beats reactive spending every single time.</p>
+<p>So, shut down your PC, grab that compressed air, and give your fans the love they deserve. Your ears—and your CPU—will thank you.</p>
+]]></content:encoded></item><item><title>How to Clean Your Computer Safely (Without Breaking It)</title><link>https://pengjiangwen.github.io/tech/how-to-clean-your-computer-safely-without-breaking-it/</link><pubDate>Sat, 15 Aug 2026 12:22:08 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-clean-your-computer-safely-without-breaking-it/</guid><description>Learn the safe, step-by-step way to clean your PC or laptop—inside and out. Avoid static damage, dust buildup, and costly mistakes.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>I once killed a laptop with a vacuum cleaner. Not metaphorically—I literally sucked a tiny SMD capacitor off the motherboard while trying to clear dust from the fan vent. The machine went from &ldquo;slow and warm&rdquo; to &ldquo;completely dead&rdquo; in under three seconds. That was a $900 lesson in why you don&rsquo;t use household vacuums on electronics.</p>
+<p>The truth is, most people either never clean their computers or they clean them wrong. They use damp cloths on screens, canned air upside down (which sprays freezing liquid), or they open the case and start poking at components with metal tools. All of these are recipes for disaster.</p>
+<p>But here&rsquo;s the good news: cleaning your computer is genuinely simple if you follow a few non-negotiable rules. You don&rsquo;t need expensive kits or professional help. You just need the right materials, the right sequence, and a little patience. This guide covers everything from the dusty exterior to the delicate internals—without the cringe-worthy mistakes.</p>
+<h2 id="why-cleaning-matters-more-than-you-think">Why Cleaning Matters More Than You Think</h2>
+<p>Dust isn&rsquo;t just ugly—it&rsquo;s a thermal insulator. When dust clogs your heatsink fins or fan blades, airflow drops, temperatures rise, and your CPU starts throttling to protect itself. That&rsquo;s why your computer feels slower over time even though you haven&rsquo;t installed anything new.</p>
+<p>A 2021 study from the University of British Columbia found that dust accumulation can reduce cooling efficiency by up to 30% in just six months. In a gaming PC or a workstation, that means higher fan noise, shorter component lifespan, and in extreme cases, thermal shutdowns.</p>
+<p>Beyond internal dust, the exterior harbors bacteria. Your keyboard, in particular, is a petri dish. A 2018 study by the University of Arizona found that the average keyboard has 20,000 times more bacteria than a toilet seat. If you eat at your desk, it&rsquo;s worse.</p>
+<p>So cleaning isn&rsquo;t cosmetic—it&rsquo;s performance and hygiene.</p>
+<h2 id="what-you-need-and-what-you-should-never-use">What You Need (And What You Should Never Use)</h2>
+<p>Before you touch anything, gather the correct tools. Here&rsquo;s your checklist:</p>
+<ul>
+<li><strong>Compressed air canister</strong> (the kind with a straw, not a vacuum)</li>
+<li><strong>Isopropyl alcohol</strong> (90% or higher, never rubbing alcohol with additives)</li>
+<li><strong>Microfiber cloths</strong> (lint-free, not paper towels)</li>
+<li><strong>Soft-bristled brush</strong> (a clean makeup brush or anti-static brush works)</li>
+<li><strong>Cotton swabs</strong> (for tight spots)</li>
+<li><strong>Screwdrivers</strong> (magnetic, if you&rsquo;re opening the case)</li>
+<li><strong>Anti-static wrist strap</strong> (optional but recommended for internal work)</li>
+</ul>
+<p>Now, the &ldquo;never&rdquo; list:</p>
+<ul>
+<li><strong>Household vacuum cleaners</strong>—they generate static electricity that can fry circuits. Even with a brush attachment, they&rsquo;re too aggressive.</li>
+<li><strong>Wet wipes</strong>—they leave residue and can damage coatings on screens.</li>
+<li><strong>Glass cleaner</strong>—ammonia destroys anti-glare screen coatings.</li>
+<li><strong>Paper towels</strong>—they scratch surfaces and leave fibers behind.</li>
+<li><strong>Canned air held upside down</strong>—it sprays bitter liquid that damages components.</li>
+</ul>
+<h2 id="step-1-shut-down-and-unplug-no-exceptions">Step 1: Shut Down and Unplug (No Exceptions)</h2>
+<p>This seems obvious, but you&rsquo;d be surprised how many people &ldquo;just want to clean the screen&rdquo; while the machine is running. Here&rsquo;s the hard rule: <strong>power off, unplug from the wall, and remove the battery if it&rsquo;s removable.</strong></p>
+<p>For laptops, also press and hold the power button for 15 seconds after unplugging. This drains residual charge from capacitors, which is where the real shock risk lives. A capacitor can hold a dangerous charge even when the machine is off.</p>
+<p>If you&rsquo;re working on a desktop, press the power button after unplugging to discharge the PSU&rsquo;s capacitors. Then, ground yourself by touching a metal part of the case before touching any internal component.</p>
+<h2 id="step-2-clean-the-exterior-case-ports-and-vents">Step 2: Clean the Exterior (Case, Ports, and Vents)</h2>
+<p>Start with the outside. Use a dry microfiber cloth to wipe down the case. For stubborn grime, dampen the cloth with isopropyl alcohol—<strong>never spray anything directly onto the computer</strong>.</p>
+<p>For vents and ports, use the compressed air canister with the straw attached. Hold it upright and use short bursts. Long bursts cause condensation and can push dust deeper into the system. Keep the canister at least a few inches away from the surface.</p>
+<p>Here&rsquo;s a tip most people miss: <strong>clean your intake filters first</strong>. If your PC case has dust filters on the front or bottom, remove them and rinse with warm water. Let them dry completely before reinstalling. A clogged filter is worse than no filter at all.</p>
+<h2 id="step-3-the-keyboard-the-germ-magnet">Step 3: The Keyboard (The Germ Magnet)</h2>
+<p>Flip the keyboard upside down and gently tap it. You&rsquo;ll be horrified by what falls out—crumbs, hair, dead skin, maybe a paperclip. Then use compressed air in short bursts, moving from left to right in a zigzag pattern.</p>
+<p>For sticky keys, dip a cotton swab in isopropyl alcohol and gently rub around the base of the keycap. If you have a mechanical keyboard, you can pull the keycaps off with a keycap puller and soak them in warm soapy water. Let them dry for 24 hours before reattaching.</p>
+<p><strong>Don&rsquo;t use a laptop while cleaning the keyboard.</strong> If you spill even a drop of liquid inside, you&rsquo;re in for a world of trouble. Clean with the device off and unplugged.</p>
+<h2 id="step-4-the-screen-delicate-by-nature">Step 4: The Screen (Delicate by Nature)</h2>
+<p>Your screen has a special coating. The wrong cleaner will strip it permanently, leaving a smeary, blotchy mess that no amount of wiping will fix.</p>
+<p>Here&rsquo;s the safe method:</p>
+<ol>
+<li>Use a <strong>dry</strong> microfiber cloth first to remove loose dust. Never wipe a dry screen with a dry cloth to remove fingerprints—you&rsquo;ll grind the grit into the surface.</li>
+<li>If there are smudges, lightly dampen a corner of the cloth with distilled water (not tap water, which leaves minerals).</li>
+<li>For stubborn spots, use a 50/50 mix of distilled water and white vinegar. Avoid alcohol on screens—it can damage anti-reflective coatings.</li>
+</ol>
+<p>Always wipe in one direction (top to bottom, or left to right). Circular motions create swirl marks.</p>
+<h2 id="step-5-opening-the-case-desktop-only">Step 5: Opening the Case (Desktop Only)</h2>
+<p>If you&rsquo;re comfortable with a screwdriver, cleaning the internals is the single most impactful thing you can do for thermal performance. Here&rsquo;s the safe sequence:</p>
+<ol>
+<li><strong>Ground yourself</strong>—wear an anti-static wrist strap clipped to the case, or touch the metal PSU chassis.</li>
+<li><strong>Remove the side panel</strong>—usually two thumbscrews on the back.</li>
+<li><strong>Identify the dust hotspots</strong>: CPU heatsink, GPU fans, case fans, and the PSU (if accessible).</li>
+<li><strong>Use compressed air in short bursts</strong>, holding fans still with a finger or a cotton swab. If you let a fan spin while blowing air, it acts as a generator and sends voltage back into the motherboard. That can kill components.</li>
+<li><strong>Use the soft brush</strong> to loosen caked-on dust, then follow with air.</li>
+</ol>
+<p><strong>Do not touch the motherboard or any circuit board with your fingers.</strong> The oils from your skin accelerate corrosion. If you must touch, use an anti-static brush or wear a glove.</p>
+<h2 id="step-6-the-heatsink-and-fan-the-highest-impact">Step 6: The Heatsink and Fan (The Highest Impact)</h2>
+<p>The CPU heatsink is where dust does the most damage. If you see a thick layer of dust matted between the fins, compressed air alone won&rsquo;t cut it. You&rsquo;ll need to remove the fan (usually four screws) and clean the heatsink separately.</p>
+<p>Here&rsquo;s the pro tip: <strong>use a plastic spudger or a toothpick to gently separate the dust from the fins</strong>, then use short air bursts. If the heatsink has a fan attached, clean the fan blades individually with a cotton swab dipped in alcohol.</p>
+<p>If your CPU temperatures are still high after cleaning, you may need to replace the thermal paste. That&rsquo;s a more advanced operation—I recommend watching a video specific to your CPU socket before attempting it. But a good cleaning alone often drops temperatures by 10–15°C.</p>
+<h2 id="step-7-the-power-supply-handle-with-care">Step 7: The Power Supply (Handle with Care)</h2>
+<p>The PSU is the most dangerous component to clean. It contains large capacitors that can hold a lethal charge for hours after unplugging.</p>
+<p><strong>Do not open the PSU casing.</strong> Period. If it&rsquo;s dusty, use compressed air through the rear grille and the fan opening. That&rsquo;s it. If the PSU is caked in dust and you can&rsquo;t clean it externally, consider replacing it—they&rsquo;re cheap compared to the cost of a fire.</p>
+<h2 id="step-8-reassembly-and-testing">Step 8: Reassembly and Testing</h2>
+<p>Before closing the case, do a visual check:</p>
+<ul>
+<li>Are all fan cables connected?</li>
+<li>Is the RAM fully seated?</li>
+<li>Are there any loose screws or cables?</li>
+</ul>
+<p>Close the case, plug in, and power on. Listen for unusual noise—if a fan is clicking, it might be misaligned or have a bearing issue. If everything sounds normal, run a temperature monitoring tool like HWMonitor or Core Temp to confirm your temps are back to normal.</p>
+<h2 id="how-often-should-you-clean">How Often Should You Clean?</h2>
+<ul>
+<li><strong>Desktop in a dusty room</strong>: every 3–4 months</li>
+<li><strong>Desktop in a clean room</strong>: every 6 months</li>
+<li><strong>Laptop</strong>: every 6 months (they&rsquo;re harder to open, but they accumulate dust faster due to tight spaces)</li>
+<li><strong>Keyboard and screen</strong>: weekly, or at least twice a month</li>
+</ul>
+<p>If you smoke indoors or have pets, double the frequency. Pet hair is particularly bad—it wraps around fan blades and forms dense mats.</p>
+<h2 id="the-one-mistake-that-ruins-everything">The One Mistake That Ruins Everything</h2>
+<p>I&rsquo;ll end with the mistake I made that killed my laptop: <strong>using a vacuum cleaner</strong>. Static electricity from the hose can jump to the motherboard and fry it instantly. Even if you don&rsquo;t see a spark, the damage can be latent—your computer might work for a week, then randomly die.</p>
+<p>If you&rsquo;re on a budget and can&rsquo;t afford compressed air, use a rubber bulb syringe (like the ones for baby nasal aspirators) instead of a vacuum. It provides focused, static-free air.</p>
+<h2 id="final-thought">Final Thought</h2>
+<p>Cleaning your computer is a 30-minute task that can extend its life by years. It&rsquo;s not difficult, it&rsquo;s not risky if you follow the rules, and the payoff is immediate: quieter fans, cooler temperatures, and a machine that feels like new.</p>
+<p>The next time your computer starts sounding like a jet engine, don&rsquo;t ignore it. Grab your compressed air, unplug, and spend half an hour showing it some love. Your future self—and your wallet—will thank you.</p>
+]]></content:encoded></item></channel></rss>

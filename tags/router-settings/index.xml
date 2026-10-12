@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Router Settings on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/router-settings/</link><description>Recent content in Router Settings on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 04 Oct 2026 03:36:26 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/router-settings/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Secure Home WiFi: A Practical 2025 Guide</title><link>https://pengjiangwen.github.io/home/how-to-secure-home-wifi-a-practical-2025-guide/</link><pubDate>Sun, 04 Oct 2026 03:36:26 +0000</pubDate><guid>https://pengjiangwen.github.io/home/how-to-secure-home-wifi-a-practical-2025-guide/</guid><description>Learn how to secure your home WiFi with actionable steps: change default passwords, enable WPA3, update firmware, and lock down your router today.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>In 2021, a homeowner in the UK noticed his internet bill had tripled. After checking his router logs, he found 14 unknown devices streaming video through his network — his neighbor had been using his WiFi for months, and a stranger was running a small file-sharing operation off his connection. The fix took ten minutes. The damage took months to sort out.</p>
+<p>This isn&rsquo;t a rare story. An unsecured router is one of the easiest doors into your digital life, and most people never check whether theirs is locked. The good news: securing home WiFi isn&rsquo;t complicated. You don&rsquo;t need to be a network engineer. You need about 30 minutes and the willingness to log into your router&rsquo;s admin panel once.</p>
+<p>Here&rsquo;s exactly what to do, in the order that matters most.</p>
+<h2 id="start-with-the-router-itself">Start With the Router Itself</h2>
+<h3 id="change-the-default-admin-password">Change the Default Admin Password</h3>
+<p>Every router ships with a default username and password — usually &ldquo;admin/admin&rdquo; or printed on a sticker. These defaults are published online in public databases. Anyone within range of your network can look them up.</p>
+<p>Log into your router (typically by typing 192.168.1.1 or 192.168.0.1 into a browser), find the admin credentials section, and set a unique password. Use a passphrase of at least 12 characters, not your WiFi password — these are two separate logins, and both need to be strong.</p>
+<h3 id="update-the-firmware">Update the Firmware</h3>
+<p>Router firmware contains security patches. Outdated firmware contains known vulnerabilities that attackers actively scan for. Check your router&rsquo;s admin panel for a firmware update option, or download the latest version from the manufacturer&rsquo;s website.</p>
+<p>Better yet, enable automatic updates if your router supports it. If your router is more than five or six years old and no longer receives updates, that&rsquo;s a genuine reason to replace it.</p>
+<h3 id="disable-wps">Disable WPS</h3>
+<p>WiFi Protected Setup lets you connect devices by pressing a button or entering an 8-digit PIN. Convenient — and deeply flawed. The PIN can be brute-forced in hours with free tools, and WPS has been exploited in routers from nearly every major brand.</p>
+<p>Turn it off. It&rsquo;s in your router&rsquo;s wireless settings, usually labeled &ldquo;WPS&rdquo; or &ldquo;Push Button Connect.&rdquo;</p>
+<h2 id="lock-down-your-wireless-network">Lock Down Your Wireless Network</h2>
+<h3 id="use-wpa3-or-wpa2-if-you-must">Use WPA3 (or WPA2 if You Must)</h3>
+<p>Your network&rsquo;s encryption protocol is the lock on the front door. In your router&rsquo;s wireless security settings, you&rsquo;ll see options like WEP, WPA, WPA2, and WPA3.</p>
+<ul>
+<li><strong>WEP</strong>: Broken since roughly 2001. Never use it.</li>
+<li><strong>WPA</strong>: Also outdated. Avoid.</li>
+<li><strong>WPA2-AES</strong>: Still acceptable if your devices don&rsquo;t support WPA3.</li>
+<li><strong>WPA3</strong>: The current standard. Use it if available.</li>
+</ul>
+<p>If you have a mix of old and new devices, WPA2/WPA3 mixed mode is a reasonable compromise, though it&rsquo;s slightly less secure than WPA3 alone.</p>
+<h3 id="set-a-strong-wifi-password">Set a Strong WiFi Password</h3>
+<p>Your WiFi password should be long and random — ideally 16+ characters. A passphrase like &ldquo;correct-horse-battery-staple-42&rdquo; is both strong and memorable. Avoid anything derived from your address, pet names, or phone number.</p>
+<p>Change it from whatever the router came with, and change it again if you&rsquo;ve ever shared it widely (contractors, houseguests, that Airbnb phase).</p>
+<h3 id="rename-your-network">Rename Your Network</h3>
+<p>Your SSID (network name) shouldn&rsquo;t include your name, apartment number, or router model. &ldquo;Smith_5G_Apartment_3B&rdquo; tells an attacker exactly which unit to target and what hardware you&rsquo;re running.</p>
+<p>Something neutral like &ldquo;Bluebird&rdquo; or &ldquo;Network-7&rdquo; gives away nothing. Hiding your SSID entirely is an option, but it offers minimal real security and can cause connection headaches — skip it.</p>
+<h2 id="manage-who-gets-in">Manage Who Gets In</h2>
+<h3 id="create-a-guest-network">Create a Guest Network</h3>
+<p>Almost every modern router supports a guest network — a separate SSID with its own password that isolates guests from your main devices. Put smart TVs, visitors, and IoT gadgets on it.</p>
+<p>This matters more than people realize. If a guest&rsquo;s phone is infected with malware, or your cheap smart bulb has weak security, the guest network keeps that problem away from your laptop and file backups.</p>
+<h3 id="check-your-device-list">Check Your Device List</h3>
+<p>In your router&rsquo;s admin panel, find the list of connected devices. If you see something you don&rsquo;t recognize — an unfamiliar phone, a device named &ldquo;DESKTOP-7X2K&rdquo; you never set up — investigate.</p>
+<p>You can also use a free mobile app like Fing to scan your network and identify devices. Do this once a month for the first few months, then quarterly.</p>
+<h3 id="disable-remote-administration">Disable Remote Administration</h3>
+<p>Many routers allow you to log in from outside your home network. Unless you specifically need this feature, turn it off. It&rsquo;s a common attack vector, and most people never use it.</p>
+<p>Similarly, disable UPnP (Universal Plug and Play) unless a specific app or game requires it. UPnP lets devices open ports automatically — convenient, but it can expose services you didn&rsquo;t intend to expose.</p>
+<h2 id="extra-layers-worth-adding">Extra Layers Worth Adding</h2>
+<h3 id="use-a-vpn-on-public-wifi-and-consider-it-at-home">Use a VPN on Public WiFi (and Consider It at Home)</h3>
+<p>A VPN encrypts your traffic, which is essential on coffee shop or airport WiFi. At home, it&rsquo;s optional but useful if your ISP has a history of data collection or you want to hide browsing from your network provider.</p>
+<h3 id="enable-dns-filtering">Enable DNS Filtering</h3>
+<p>Services like Cloudflare&rsquo;s 1.1.1.1 for Families or OpenDNS let you block malicious domains at the DNS level. You can set this in your router so every device on your network benefits automatically. It&rsquo;s a simple change that blocks a surprising amount of malware and phishing traffic.</p>
+<h3 id="keep-an-eye-on-router-logs">Keep an Eye on Router Logs</h3>
+<p>Your router logs connection attempts, failed logins, and device activity. You don&rsquo;t need to read them daily, but a quick scan every few weeks can reveal patterns — repeated failed login attempts, for example, mean someone is trying to get in.</p>
+<h2 id="what-to-do-if-you-suspect-a-breach">What to Do If You Suspect a Breach</h2>
+<p>If your internet is suddenly slow, your router settings have changed without your input, or you see unknown devices:</p>
+<ol>
+<li>Change your WiFi password and admin password immediately.</li>
+<li>Update firmware.</li>
+<li>Factory reset the router if settings look tampered with, then reconfigure from scratch.</li>
+<li>Run a malware scan on all your devices.</li>
+<li>Check your bank and email accounts for unauthorized activity.</li>
+</ol>
+<p>Most router compromises are opportunistic, not targeted. A fast, thorough response usually resolves the issue.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Securing home WiFi comes down to a handful of moves: change the defaults, update the firmware, use WPA3, set strong passwords, and separate your guest traffic. None of it requires technical expertise, and all of it can be done in one sitting.</p>
+<p>Do it today. Then set a calendar reminder to check your device list and firmware every three months. The ten minutes you spend now is worth far more than the months of cleanup if someone gets in.</p>
+]]></content:encoded></item><item><title>Home Network Security: 12 Best Practices That Work</title><link>https://pengjiangwen.github.io/home/home-network-security-12-best-practices-that-work/</link><pubDate>Fri, 11 Sep 2026 02:17:35 +0000</pubDate><guid>https://pengjiangwen.github.io/home/home-network-security-12-best-practices-that-work/</guid><description>Protect your home Wi-Fi from hackers with these practical network security tips—from router settings to guest networks and firmware updates.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>A few years ago, a family in my neighborhood noticed their smart TV buffering constantly. Odd, but not alarming—until the internet provider called. Someone had been using their network to run a small file-sharing operation, and it had been going on for months. The router password? Still the default one printed on the sticker.</p>
+<p>That story isn&rsquo;t unusual. Your home network is the front door to every device you own: laptops with tax documents, phones with banking apps, cameras pointed at your living room. Most people lock that door with a password they&rsquo;ve never changed. Here&rsquo;s how to actually secure it, without needing a degree in computer science.</p>
+<h2 id="start-with-the-router-its-the-weakest-link">Start With the Router (It&rsquo;s the Weakest Link)</h2>
+<h3 id="change-the-default-admin-credentials">Change the Default Admin Credentials</h3>
+<p>Every router ships with a username and password like &ldquo;admin/admin.&rdquo; These are publicly documented. If you&rsquo;ve never logged into your router, do it today—usually by typing 192.168.1.1 or 192.168.0.1 into a browser. Change both the admin username and password to something unique.</p>
+<h3 id="update-firmware-regularly">Update Firmware Regularly</h3>
+<p>Router manufacturers patch security holes through firmware updates, but they can&rsquo;t force you to install them. Log into your router&rsquo;s admin panel and check for updates every few months. Some newer routers have an auto-update option—turn it on. If your router hasn&rsquo;t received a firmware update in over two years, it&rsquo;s probably time for a new one.</p>
+<h3 id="disable-wps">Disable WPS</h3>
+<p>Wi-Fi Protected Setup lets you connect devices by pressing a button, which sounds convenient until you learn that its PIN method can be brute-forced in hours. Turn WPS off in your router settings. Connecting a new device manually takes thirty extra seconds.</p>
+<h2 id="lock-down-your-wi-fi">Lock Down Your Wi-Fi</h2>
+<h3 id="use-wpa3-or-wpa2-if-you-must">Use WPA3 (or WPA2 if You Must)</h3>
+<p>Check your wireless security setting. If it says WEP or &ldquo;open,&rdquo; you&rsquo;re essentially broadcasting your traffic to the street. WPA3 is the current standard; WPA2-AES is acceptable if your devices don&rsquo;t support WPA3. Anything older should be replaced.</p>
+<h3 id="make-your-password-long-not-clever">Make Your Password Long, Not Clever</h3>
+<p>&ldquo;Fluffy2019!&rdquo; is not a strong password—it&rsquo;s a guessable one. Aim for at least 16 characters, mixing words in a way that&rsquo;s memorable to you but not obvious: something like &ldquo;purplecouch7lampmonday.&rdquo; Length beats complexity every time. And never reuse your Wi-Fi password for other accounts.</p>
+<h3 id="hide-your-network-name-skip-it">Hide Your Network Name? Skip It</h3>
+<p>Hiding your SSID (network name) sounds stealthy, but it doesn&rsquo;t stop determined attackers and it breaks your own devices&rsquo; ability to reconnect smoothly. A strong password does far more for you.</p>
+<h2 id="segment-your-network">Segment Your Network</h2>
+<h3 id="set-up-a-guest-network">Set Up a Guest Network</h3>
+<p>Your guest Wi-Fi isn&rsquo;t just for visitors. Put smart bulbs, TVs, and other IoT gadgets on it. These devices often have weak security and rarely get updates. Keeping them on a separate network means a compromised smart plug can&rsquo;t reach your laptop.</p>
+<h3 id="consider-a-vlan-if-youre-technical">Consider a VLAN If You&rsquo;re Technical</h3>
+<p>More advanced routers let you create VLANs—virtual networks that isolate device groups. It&rsquo;s overkill for most homes, but if you work from home with sensitive data, it&rsquo;s worth exploring.</p>
+<h2 id="pay-attention-to-the-devices-themselves">Pay Attention to the Devices Themselves</h2>
+<h3 id="change-default-passwords-on-everything">Change Default Passwords on Everything</h3>
+<p>That IP camera with the password &ldquo;12345&rdquo;? It&rsquo;s a known entry point. Every connected device—cameras, printers, smart speakers—should have its default login changed the day you set it up.</p>
+<h3 id="enable-automatic-updates">Enable Automatic Updates</h3>
+<p>Phones, computers, and even smart TVs push security patches. Turning on automatic updates means you don&rsquo;t have to think about it. For devices that don&rsquo;t support auto-updates, set a calendar reminder to check quarterly.</p>
+<h3 id="turn-off-features-you-dont-use">Turn Off Features You Don&rsquo;t Use</h3>
+<p>Remote access, UPnP, and file sharing are convenient until they&rsquo;re not. If you don&rsquo;t use your router&rsquo;s remote management feature, disable it. UPnP, in particular, lets apps open ports without asking—a favorite trick of malware.</p>
+<h2 id="monitor-and-maintain">Monitor and Maintain</h2>
+<h3 id="check-whos-on-your-network">Check Who&rsquo;s on Your Network</h3>
+<p>Most routers list connected devices in the admin panel. Scan it occasionally. If you see a device you don&rsquo;t recognize, investigate immediately and change your Wi-Fi password. Some routers and apps (like Fing) will alert you to new devices automatically.</p>
+<h3 id="watch-for-warning-signs">Watch for Warning Signs</h3>
+<p>Sluggish internet, unexpected reboots, or a router admin page that won&rsquo;t load properly can all signal trouble. Don&rsquo;t dismiss them.</p>
+<h3 id="back-up-your-router-configuration">Back Up Your Router Configuration</h3>
+<p>Once you&rsquo;ve got everything set up the way you like, export the router&rsquo;s configuration file. If you ever need to factory reset, you can restore your settings in minutes instead of redoing everything.</p>
+<h2 id="a-quick-reality-check">A Quick Reality Check</h2>
+<p>You don&rsquo;t need to do all twelve of these today. But pick three—changing your router password, updating firmware, and setting up a guest network—and you&rsquo;ll be ahead of most households. The goal isn&rsquo;t perfection; it&rsquo;s making your network annoying enough to break into that intruders move on to an easier target.</p>
+<p>Your home network protects more than Wi-Fi. Treat it like it matters, and it&rsquo;ll return the favor.</p>
+]]></content:encoded></item></channel></rss>

@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Pc Performance on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/pc-performance/</link><description>Recent content in Pc Performance on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2026 02:09:51 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/pc-performance/index.xml" rel="self" type="application/rss+xml"/><item><title>Should You Upgrade to Windows 12? (Honest Review)</title><link>https://pengjiangwen.github.io/tech/should-you-upgrade-to-windows-12-honest-review/</link><pubDate>Fri, 10 Jul 2026 02:09:51 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/should-you-upgrade-to-windows-12-honest-review/</guid><description>Is Windows 12 worth the upgrade? We break down performance, hardware requirements, and real-world benefits to help you decide.</description><content:encoded><![CDATA[<p>TITLE: Should You Upgrade to Windows 12? (Honest Review)
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Pc Performance on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/pc-performance/</link><description>Recent content in Pc Performance on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 13 Sep 2026 02:23:05 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/pc-performance/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Speed Up Your Computer: 12 Proven Fixes That Work</title><link>https://pengjiangwen.github.io/tech/how-to-speed-up-your-computer-12-proven-fixes-that-work/</link><pubDate>Sun, 13 Sep 2026 02:23:05 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-speed-up-your-computer-12-proven-fixes-that-work/</guid><description>Is your PC crawling? Learn how to speed up your computer with 12 practical fixes, from startup cleanup to hardware upgrades that actually deliver.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>Last month, a friend handed me her laptop and said, &ldquo;It takes four minutes just to open Chrome.&rdquo; Four minutes. She&rsquo;d been living with it for over a year, assuming she needed to buy a new machine. Twenty minutes of work later—no new hardware, no reinstall—her boot time dropped to under 30 seconds.</p>
+<p>That&rsquo;s the thing about slow computers: the fix is usually simpler than people think. Most slowdowns come from a handful of fixable problems—bloatware hogging resources, a full hard drive, outdated drivers, or background apps you forgot existed.</p>
+<p>This guide walks through 12 fixes in order of impact. Start at the top, work your way down, and stop when your machine feels fast again. Most people solve 80% of their problem with the first four.</p>
+<h2 id="why-computers-slow-down-over-time">Why Computers Slow Down Over Time</h2>
+<p>Hardware doesn&rsquo;t degrade the way people assume. A 2018 processor runs just as fast today as it did new. What changes is everything around it:</p>
+<ul>
+<li><strong>Startup programs multiply</strong> every time you install software</li>
+<li><strong>Storage fills up</strong>, and drives get slower as they approach capacity</li>
+<li><strong>Background processes</strong> accumulate—updaters, sync tools, telemetry</li>
+<li><strong>Operating systems get heavier</strong> with each major update</li>
+<li><strong>Dust and heat</strong> cause thermal throttling on laptops</li>
+<li><strong>Malware</strong> quietly consumes resources</li>
+</ul>
+<p>Understanding this matters because it tells you where to look. You&rsquo;re not fighting entropy—you&rsquo;re cleaning up specific, identifiable messes.</p>
+<h2 id="quick-wins-do-these-first">Quick Wins (Do These First)</h2>
+<h3 id="1-trim-your-startup-programs">1. Trim Your Startup Programs</h3>
+<p>This is the single highest-impact fix for most people.</p>
+<p><strong>Windows:</strong> Press <code>Ctrl + Shift + Esc</code> to open Task Manager, go to the <strong>Startup</strong> tab, and disable anything you don&rsquo;t need running the moment you log in. Be aggressive. Spotify, Steam, Slack, Adobe Creative Cloud, and most &ldquo;helper&rdquo; utilities don&rsquo;t need to launch at boot.</p>
+<p><strong>Mac:</strong> Go to <strong>System Settings → General → Login Items</strong> and remove what you don&rsquo;t need.</p>
+<p>Don&rsquo;t disable your antivirus, audio drivers, or touchpad software. Everything else is fair game—you can always re-enable it.</p>
+<h3 id="2-uninstall-software-you-dont-use">2. Uninstall Software You Don&rsquo;t Use</h3>
+<p>Open your installed programs list and sort by size or install date. You&rsquo;ll find things you installed once for a single task in 2021. Every installed program adds registry entries, background services, and update checkers.</p>
+<p>On Windows, check <strong>Settings → Apps → Installed Apps</strong>. On Mac, drag unused apps from Applications to the Trash, then empty it.</p>
+<h3 id="3-free-up-disk-space">3. Free Up Disk Space</h3>
+<p>Both Windows and macOS slow down noticeably when your system drive is above 90% full. The operating system needs room for virtual memory and temporary files.</p>
+<p>Aim to keep at least 15% of your drive free. Quick ways to reclaim space:</p>
+<ul>
+<li>Run <strong>Disk Cleanup</strong> (Windows) or check <strong>Storage</strong> in System Settings (Mac)</li>
+<li>Clear browser caches—Chrome alone can accumulate 10+ GB</li>
+<li>Move large media files to an external drive or cloud storage</li>
+<li>Delete old downloads and duplicate photos</li>
+</ul>
+<h3 id="4-restart-properly">4. Restart Properly</h3>
+<p>Not sleep. Not hibernate. An actual shutdown and restart. Windows especially benefits because a full restart clears memory leaks and applies pending updates. If you only ever close the lid, try shutting down once a week and see the difference.</p>
+<h2 id="deeper-fixes-for-stubborn-slowness">Deeper Fixes for Stubborn Slowness</h2>
+<h3 id="5-check-for-malware">5. Check for Malware</h3>
+<p>If your computer got slow suddenly rather than gradually, malware is a real possibility. Run a full scan with Windows Defender (it&rsquo;s genuinely good now) or Malwarebytes. On Mac, Malwarebytes for Mac catches adware that most people don&rsquo;t realize they have.</p>
+<h3 id="6-update-your-drivers-and-os">6. Update Your Drivers and OS</h3>
+<p>Outdated graphics drivers cause stuttering in games and video playback. Outdated chipset drivers cause general sluggishness. Windows Update handles most of this, but GPU drivers are worth updating manually from NVIDIA, AMD, or Intel&rsquo;s site.</p>
+<p>On Mac, keep macOS current—Apple&rsquo;s updates often include performance fixes.</p>
+<h3 id="7-reduce-visual-effects">7. Reduce Visual Effects</h3>
+<p>Windows animations look nice but cost resources on older hardware.</p>
+<p>Go to <strong>System Properties → Advanced → Performance Settings</strong> and choose &ldquo;Adjust for best performance,&rdquo; or manually disable animations you don&rsquo;t care about. The difference is noticeable on machines with integrated graphics.</p>
+<h3 id="8-manage-browser-bloat">8. Manage Browser Bloat</h3>
+<p>Your browser might be the actual bottleneck, not your computer. Extensions are the usual culprit—each one runs code on every page you visit.</p>
+<ul>
+<li>Audit your extensions and remove anything you haven&rsquo;t used in a month</li>
+<li>Limit yourself to 10-15 open tabs, or use a tab suspension extension</li>
+<li>Clear cache and cookies periodically</li>
+<li>Try a lighter browser if Chrome feels heavy</li>
+</ul>
+<h3 id="9-disable-unnecessary-background-services">9. Disable Unnecessary Background Services</h3>
+<p>Windows runs dozens of services you&rsquo;ll never use—print spooler if you don&rsquo;t print, fax service, Xbox Game Bar if you don&rsquo;t game. Type <code>services.msc</code> in the Run dialog and set rarely-used services to Manual rather than Automatic.</p>
+<p>Be careful here. If you&rsquo;re unsure what a service does, look it up before touching it.</p>
+<h2 id="hardware-upgrades-that-actually-pay-off">Hardware Upgrades That Actually Pay Off</h2>
+<h3 id="10-swap-your-hard-drive-for-an-ssd">10. Swap Your Hard Drive for an SSD</h3>
+<p>If your computer still has a mechanical hard drive, this is the upgrade. Nothing else comes close. An SSD can cut boot time from minutes to seconds and make everything feel instant.</p>
+<p>A 500GB SSD costs $40-60. Cloning software is often included free. If you have a laptop from 2015 or later, it almost certainly supports one.</p>
+<h3 id="11-add-more-ram">11. Add More RAM</h3>
+<p>8GB is the practical minimum for modern Windows; 16GB is comfortable. If you regularly see memory usage above 80% in Task Manager, more RAM will help. Check your motherboard&rsquo;s specs first—laptops often have one or two accessible slots.</p>
+<h3 id="12-clean-out-the-dust">12. Clean Out the Dust</h3>
+<p>This sounds trivial until you see a laptop heatsink packed solid with dust. When components overheat, they throttle—running slower to avoid damage. Open the case (or the laptop&rsquo;s bottom panel), blow out dust with compressed air, and make sure fans spin freely.</p>
+<h2 id="when-to-stop-fixing-and-start-replacing">When to Stop Fixing and Start Replacing</h2>
+<p>If you&rsquo;ve done all of the above and your computer is still slow, consider the math. A 10-year-old machine with a dual-core processor and 4GB of RAM has limits no software tweak can overcome. But if your computer is less than six or seven years old, these fixes will almost always bring it back to usable speed.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Speed up your computer by attacking the biggest offenders first: startup programs, disk space, and malware. Then move to drivers, browser cleanup, and visual settings. If you&rsquo;re still stuck, an SSD upgrade is the best money you can spend on an older machine.</p>
+<p>Start with Task Manager&rsquo;s startup tab right now. It takes two minutes, and it&rsquo;s the fix that helps most people the most.</p>
+]]></content:encoded></item><item><title>Should You Upgrade to Windows 12? (Honest Review)</title><link>https://pengjiangwen.github.io/tech/should-you-upgrade-to-windows-12-honest-review/</link><pubDate>Fri, 10 Jul 2026 02:09:51 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/should-you-upgrade-to-windows-12-honest-review/</guid><description>Is Windows 12 worth the upgrade? We break down performance, hardware requirements, and real-world benefits to help you decide.</description><content:encoded><![CDATA[<p>TITLE: Should You Upgrade to Windows 12? (Honest Review)
 DESCRIPTION: Is Windows 12 worth the upgrade? We break down performance, hardware requirements, and real-world benefits to help you decide.
 TAGS: Windows 12, Windows upgrade, Windows 12 review, PC performance, tech decision</p>
 <h2 id="introduction">Introduction</h2>

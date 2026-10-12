@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Speed Up Pc on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/speed-up-pc/</link><description>Recent content in Speed Up Pc on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 15 Jun 2026 01:03:32 +0800</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/speed-up-pc/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Speed Up a Slow Computer: 10 Proven Fixes</title><link>https://pengjiangwen.github.io/tech/how-to-speed-up-a-slow-computer-10-proven-fixes/</link><pubDate>Mon, 15 Jun 2026 01:03:32 +0800</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-speed-up-a-slow-computer-10-proven-fixes/</guid><description>Is your computer painfully slow? Try these 10 proven fixes to speed up your PC—from startup cleanup to cheap SSD upgrades. No tech skills required.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Speed Up Pc on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/speed-up-pc/</link><description>Recent content in Speed Up Pc on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2026 12:34:45 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/speed-up-pc/index.xml" rel="self" type="application/rss+xml"/><item><title>Speed Up Windows 11: 11 Fixes That Actually Work</title><link>https://pengjiangwen.github.io/tech/speed-up-windows-11-11-fixes-that-actually-work/</link><pubDate>Sun, 09 Aug 2026 12:34:45 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/speed-up-windows-11-11-fixes-that-actually-work/</guid><description>Is your PC lagging? Stop guessing. These 11 proven tweaks—from startup apps to power settings—will make Windows 11 feel brand new.</description><content:encoded><![CDATA[<p>TITLE: Speed Up Windows 11: 11 Fixes That Actually Work
+DESCRIPTION: Is your PC lagging? Stop guessing. These 11 proven tweaks—from startup apps to power settings—will make Windows 11 feel brand new.
+TAGS: windows 11 performance, speed up pc, windows optimization, tech tips</p>
+<h2 id="introduction">Introduction</h2>
+<p>Let’s be honest: Windows 11 is beautiful, but it can be a resource hog. I remember the day I upgraded my trusty Dell XPS 13—within a week, the fan was roaring like a jet engine, and opening Chrome felt like waiting for a dial-up connection. The culprit wasn&rsquo;t the OS itself; it was the accumulation of startup junk, background bloatware, and power settings tuned for &ldquo;looks&rdquo; rather than &ldquo;go.&rdquo;</p>
+<p>You don’t need a new laptop. You don’t need to disable security features (please don’t). You need to strip away the fat. After tweaking my own machines and a few friends&rsquo; desktops, I’ve narrowed down the fixes that deliver the biggest performance gains with the least risk. Here’s my no-nonsense playbook to speed up Windows 11.</p>
+<h2 id="1-kill-the-startup-zombies-the-1-free-win">1. Kill the Startup Zombies (The #1 Free Win)</h2>
+<p>Open Task Manager (Ctrl + Shift + Esc) and click &ldquo;Startup apps.&rdquo; Look at the &ldquo;Status&rdquo; and &ldquo;Impact&rdquo; columns. If you see <strong>Spotify</strong>, <strong>Discord</strong>, <strong>Adobe Updater</strong>, or anything from <strong>Microsoft Teams</strong> set to &ldquo;High Impact,&rdquo; those are your zombies. They wake up when you log in and eat RAM in the background.</p>
+<p><strong>Action:</strong> Right-click every non-essential app and select &ldquo;Disable.&rdquo; You don&rsquo;t need Steam auto-launching unless you game the second you boot. This single step cuts boot time by 30-50% on older hard drives and significantly reduces lag after login.</p>
+<p><strong>Pro tip:</strong> You can still open these apps manually. Disabling startup doesn&rsquo;t uninstall them—it just makes them wait until you actually need them.</p>
+<h2 id="2-turn-off-startup-boost-in-your-browser">2. Turn Off &ldquo;Startup Boost&rdquo; in Your Browser</h2>
+<p>This is sneaky. Chrome and Edge have a feature called &ldquo;Startup Boost&rdquo; that keeps browser processes running in the background to make opening the browser faster. The problem? It eats 200-400 MB of RAM <em>all the time</em>.</p>
+<p><strong>Action:</strong></p>
+<ul>
+<li><strong>Chrome:</strong> Settings → System → Turn off &ldquo;Continue running background apps when Google Chrome is closed.&rdquo;</li>
+<li><strong>Edge:</strong> Settings → System and performance → Turn off &ldquo;Startup boost&rdquo; and &ldquo;Continue running background extensions and apps.&rdquo;</li>
+</ul>
+<p>Your browser will take one extra second to open, but your entire system will feel snappier, especially if you only have 8GB of RAM.</p>
+<h2 id="3-disable-transparency--animations-instant-visual-boost">3. Disable Transparency &amp; Animations (Instant Visual Boost)</h2>
+<p>Windows 11 loves blur and fade effects. They look nice, but they force your GPU to render constantly. If you&rsquo;re on a laptop without a dedicated graphics card, these effects are pure drag.</p>
+<p><strong>Action:</strong></p>
+<ul>
+<li>Go to <strong>Settings → Personalization → Colors</strong> and toggle <strong>Transparency effects</strong> to <strong>Off</strong>.</li>
+<li>Go to <strong>Settings → Accessibility → Visual effects</strong> and toggle <strong>Animation effects</strong> to <strong>Off</strong>.</li>
+</ul>
+<p>This won&rsquo;t make your PC a gaming beast, but it will make window dragging and snapping feel instant. It’s the fastest &ldquo;feel&rdquo; fix you can do in under 30 seconds.</p>
+<h2 id="4-switch-to-best-performance-power-mode">4. Switch to &ldquo;Best Performance&rdquo; Power Mode</h2>
+<p>Windows 11 defaults to &ldquo;Balanced&rdquo; power mode to save energy. That’s great for a tablet, terrible for a desktop workstation.</p>
+<p><strong>Action:</strong> Go to <strong>Settings → System → Power &amp; battery</strong>. Under &ldquo;Power mode,&rdquo; select <strong>Best performance</strong>.</p>
+<p>If you have a gaming laptop, also check the manufacturer&rsquo;s app (e.g., NVIDIA Control Panel or MSI Center) to ensure it’s in &ldquo;Performance&rdquo; or &ldquo;Discrete&rdquo; mode, not &ldquo;Hybrid&rdquo; or &ldquo;Eco.&rdquo;</p>
+<p><strong>Real example:</strong> On my Lenovo Legion, switching from Balanced to Best Performance fixed micro-stutters in <em>Valorant</em> entirely. No driver update needed.</p>
+<h2 id="5-reclaim-storage-with-storage-sense-dont-ignore-this">5. Reclaim Storage with Storage Sense (Don&rsquo;t Ignore This)</h2>
+<p>A full SSD (over 90%) will slow down Windows 11 significantly because the drive has to work harder to find free blocks for virtual memory. You don&rsquo;t need to buy a new drive; you need to clean house.</p>
+<p><strong>Action:</strong></p>
+<ul>
+<li>Go to <strong>Settings → System → Storage</strong> and turn on <strong>Storage Sense</strong>.</li>
+<li>Click the arrow to configure it: set &ldquo;Cleanup of temporary files&rdquo; to <strong>Every week</strong> and enable &ldquo;Delete temporary files that my apps aren&rsquo;t using.&rdquo;</li>
+</ul>
+<p>Then, click <strong>Cleanup recommendations</strong> immediately. You’ll likely find the &ldquo;Windows Update Cleanup&rdquo; item (often 2-5 GB) and old Recycle Bin files. Delete them.</p>
+<p><strong>Bonus:</strong> If you have a 256GB SSD, consider moving your &ldquo;Downloads&rdquo; or &ldquo;Desktop&rdquo; folder to a secondary HDD (if you have one) via <strong>Right-click on folder → Properties → Location → Move</strong>. This frees up precious space on your boot drive.</p>
+<h2 id="6-stop-game-bar-and-background-recording">6. Stop Game Bar and Background Recording</h2>
+<p>The Xbox Game Bar is useful for screenshots, but its background recording feature (which captures clips automatically) is a silent performance killer. It constantly uses the GPU encoder.</p>
+<p><strong>Action:</strong></p>
+<ul>
+<li>Go to <strong>Settings → Gaming → Captures</strong>.</li>
+<li>Turn <strong>off</strong> &ldquo;Record what happened in the background.&rdquo;</li>
+</ul>
+<p>If you don&rsquo;t use Xbox Game Bar at all, you can disable it entirely via <strong>Settings → Gaming → Xbox Game Bar</strong> and toggling it off. This also removes the overlay shortcut (Win + G) that sometimes pops up accidentally.</p>
+<h2 id="7-fix-the-search-indexing-issue">7. Fix the &ldquo;Search&rdquo; Indexing Issue</h2>
+<p>Windows Search is notoriously slow. The culprit is often the indexing of emails or OneDrive folders that are cloud-only. If typing &ldquo;calc&rdquo; takes 10 seconds to find Calculator, this is for you.</p>
+<p><strong>Action:</strong></p>
+<ul>
+<li>Go to <strong>Settings → Privacy &amp; security → Searching Windows</strong>.</li>
+<li>Under &ldquo;Find My Files,&rdquo; select <strong>Classic</strong> (instead of Enhanced). Enhanced scans your entire drive constantly. Classic only scans the Start Menu and Documents.</li>
+</ul>
+<p><strong>Pro tip:</strong> If you use a third-party search tool like <em>Everything</em> (which I highly recommend), you can turn off Windows Search entirely via Services, but that&rsquo;s a bit advanced. Stick with &ldquo;Classic&rdquo; for now.</p>
+<h2 id="8-disable-sysmain-for-hdds-only">8. Disable &ldquo;SysMain&rdquo; (For HDDs Only)</h2>
+<p>This is controversial, but hear me out. <strong>SysMain</strong> (formerly Superfetch) preloads frequently used apps into RAM to speed them up. On an SSD, this is pointless because the drive is already fast. On an HDD, it can cause constant disk thrashing at 100% usage.</p>
+<p><strong>Action (SSD users only):</strong></p>
+<ol>
+<li>Press <strong>Win + R</strong>, type <code>services.msc</code>, and press Enter.</li>
+<li>Scroll down to <strong>SysMain</strong>.</li>
+<li>Right-click → <strong>Properties</strong> → Set &ldquo;Startup type&rdquo; to <strong>Disabled</strong> → Click <strong>Stop</strong> → OK.</li>
+</ol>
+<p><strong>Warning:</strong> Do NOT do this if you use a traditional hard drive (HDD). It will actually slow things down. If you have an SSD (most Windows 11 machines do), this frees up RAM and stops the disk from spinning up randomly.</p>
+<h2 id="9-update-drivers-but-not-the-way-you-think">9. Update Drivers (But Not the Way You Think)</h2>
+<p>Don&rsquo;t use third-party &ldquo;driver booster&rdquo; apps—they cause more problems than they solve. Use Windows Update and the manufacturer&rsquo;s site.</p>
+<p><strong>Action:</strong></p>
+<ul>
+<li>Go to <strong>Settings → Windows Update → Advanced options → Optional updates</strong>.</li>
+<li>Install any <strong>Driver updates</strong> listed there. These are usually chipset or graphics drivers that Microsoft has verified.</li>
+</ul>
+<p><strong>Real example:</strong> My Wi-Fi adapter kept dropping. Windows Update pushed a &ldquo;Realtek&rdquo; driver update that fixed it and improved latency by 20ms. I never would have found that on my own.</p>
+<h2 id="10-reduce-visual-effects-for-older-gpus">10. Reduce Visual Effects for Older GPUs</h2>
+<p>If you&rsquo;re running Windows 11 on a PC from 2018 or earlier with integrated graphics, the shadows and window animations can cause input lag.</p>
+<p><strong>Action:</strong></p>
+<ol>
+<li>Press <strong>Win + R</strong>, type <code>sysdm.cpl</code>, press Enter.</li>
+<li>Go to the <strong>Advanced</strong> tab → Under &ldquo;Performance,&rdquo; click <strong>Settings</strong>.</li>
+<li>Select <strong>Adjust for best performance</strong> (or manually uncheck: &ldquo;Animate controls and elements inside windows,&rdquo; &ldquo;Fade or slide menus into view,&rdquo; and &ldquo;Show shadows under windows&rdquo;).</li>
+</ol>
+<p>Keep &ldquo;Smooth edges of screen fonts&rdquo; checked—it makes text readable. This turns Windows 11 into a lean, responsive machine that feels like Windows 7 in speed, but with the modern UI.</p>
+<h2 id="11-the-nuclear-option-reset-this-pc">11. The Nuclear Option: Reset This PC</h2>
+<p>If you’ve tried everything and your PC still crawls, don&rsquo;t buy a new one. Use the built-in reset tool. This is the &ldquo;I give up&rdquo; fix that works 90% of the time.</p>
+<p><strong>Action:</strong> Go to <strong>Settings → System → Recovery → Reset PC</strong>. Choose <strong>&ldquo;Keep my files&rdquo;</strong> to remove apps and settings but keep your documents and photos. Then choose <strong>&ldquo;Cloud download&rdquo;</strong> to get a fresh copy of Windows 11 (this often fixes corrupted system files that the local image can&rsquo;t).</p>
+<p><strong>Note:</strong> This takes about 30-45 minutes. It will uninstall all your apps (Steam, Chrome, etc.), so make a list of what you need to reinstall. But honestly, a clean install is the single best performance upgrade you can do without spending money.</p>
+<hr>
+<h2 id="the-one-thing-not-to-do">The One Thing NOT to Do</h2>
+<p>Do <strong>not</strong> download &ldquo;RAM cleaners&rdquo; or &ldquo;PC optimizers&rdquo; from random websites. They are almost always malware or scamware that show you fake memory usage charts. Windows 11 manages memory fine on its own. The only &ldquo;cleaner&rdquo; you need is the built-in Storage Sense.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Speed isn&rsquo;t about one magic switch—it&rsquo;s about removing the invisible weight. Start with the startup apps (Fix #1) and the Game Bar (Fix #6). Those two alone will fix 80% of &ldquo;my PC is slow&rdquo; complaints. If you have an SSD, disable SysMain. If you have a laptop, switch the power mode.</p>
+<p>Do these ten fixes today, reboot, and you’ll notice the difference immediately. Your machine won&rsquo;t be a gaming rocket ship, but it will feel like a new laptop—without the $1,000 price tag.</p>
+<p><strong>Which fix worked for you?</strong> Let me know in the comments—I’m genuinely curious if the Game Bar was the culprit for you too.</p>
+]]></content:encoded></item><item><title>How to Speed Up a Slow Computer: 10 Proven Fixes</title><link>https://pengjiangwen.github.io/tech/how-to-speed-up-a-slow-computer-10-proven-fixes/</link><pubDate>Mon, 15 Jun 2026 01:03:32 +0800</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-speed-up-a-slow-computer-10-proven-fixes/</guid><description>Is your computer painfully slow? Try these 10 proven fixes to speed up your PC—from startup cleanup to cheap SSD upgrades. No tech skills required.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>You know the feeling: you press the power button, make a cup of coffee, come back, and the login screen still isn’t ready. By the time you open a browser, your enthusiasm for getting anything done has evaporated. A slow computer isn’t just an annoyance—it drains your productivity and patience. But here’s the good news: in most cases, you don’t need to be a tech wizard or spend hundreds on a new machine. I’ve revived dozens of sluggish laptops and desktops for friends and family using a handful of straightforward fixes, and almost all of them are free.</p>
 <p>In this guide, I’m going to walk you through 10 proven ways to speed up your computer. We’ll start with the simplest, no-cost software tweaks you can do right now, then move into a couple of low-cost hardware upgrades that can make an old PC feel brand new. All steps are safe, beginner-friendly, and tested on Windows 10 and 11 (though many apply to older versions and even macOS with slight adjustments). Whether your computer takes forever to boot, lags when opening apps, or just feels “sticky,” there’s something here for you.</p>
 <p>Let’s get your machine back up to speed.</p>
