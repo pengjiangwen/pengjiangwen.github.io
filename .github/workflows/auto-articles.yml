@@ -66,6 +66,14 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 
+      - name: Check Google indexed pages
+        if: success()
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+        run: |
+          pip install --quiet google-api-python-client google-auth
+          python scripts/gsc_indexed_count.py
+
       - name: Collect publish stats
         if: success()
         env:
