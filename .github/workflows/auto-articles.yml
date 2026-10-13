@@ -13,6 +13,9 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    concurrency:
+      group: auto-articles
+      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -58,7 +61,12 @@ jobs:
           git config user.name "pengjiangwen"
           git config user.email "pengjiangwen@gmail.com"
           git add config/keywords.json content/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto: generate daily articles"
+          if git diff --cached --quiet; then
+            echo "No content changes to commit."
+            exit 0
+          fi
+          git commit -m "Auto: generate daily articles"
+          git pull --rebase origin main || true
           git push
 
       - uses: peaceiris/actions-gh-pages@v3

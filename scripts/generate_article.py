@@ -57,14 +57,13 @@ def need_replenish(data):
 
 
 SAFETY_BLOCKLIST = [
-    "porn", "sex", "nude", "erotic", "adult content", "xxx", "hentai",
-    "gambling", "casino", "betting", "crack", "hack", "cheat code",
-    "drug", "weed", "cocaine", "weed", " marijuana", "illegal",
-    "weapon", "gun", "ammo", "dark web", "deep web",
-    "escort", "dating", "hookup", "casual encounter",
+    "porn", "pornography", "nude", "nudes", "erotic", "hentai",
+    "gambling", "casino", "betting", "poker", "lottery",
+    "cocaine", "heroin", "methamphetamine", "marijuana",
+    "weapon", "firearm", "ammunition", "dark web", "deep web",
+    "escort", "hookup", "casual encounter",
     "weight loss pill", "diet pill", "fat burner",
-    "get rich quick", "make money fast", "forex",
-    "spy", "hacker", "cracked", "warez",
+    "get rich quick", "forex trading", "warez",
 ]
 
 def is_safe(text):
