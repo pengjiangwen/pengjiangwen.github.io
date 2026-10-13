@@ -144,3 +144,7 @@ If I had to pick one, I’d go with the **Lenovo LOQ 15**. It’s not the fastes
 Whichever you choose, remember: a $999 laptop today outperforms a $2,000 laptop from three years ago. You’re getting real performance. Just don’t expect 4K ray tracing at 120 FPS — that’s still a pipe dream at this price.
 
 Now go play something.
+
+## Related Reading
+
+- [How to Clean a Laptop Keyboard Without Breaking It](https://pengjiangwen.github.io/tech/how-to-clean-a-laptop-keyboard-without-breaking-it/)
