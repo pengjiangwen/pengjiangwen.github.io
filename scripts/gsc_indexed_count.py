@@ -136,15 +136,21 @@ def main() -> None:
 
 
 def report(cache, errors=None):
-    indexed = sum(1 for e in cache.values() if e.get("i") == 1)
+    indexed_urls = sorted(u for u, e in cache.items() if e.get("i") == 1)
+    indexed = len(indexed_urls)
     known = len(cache)
     total = len(article_urls())
     print(f"Indexed (from cache): {indexed} of {known} checked")
+    for u in indexed_urls:
+        print(f"  indexed: {u}")
     if "GITHUB_ENV" in os.environ:
         with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as fh:
             fh.write(f"INDEXED_COUNT={indexed}\n")
             fh.write(f"INDEXED_KNOWN={known}\n")
             fh.write(f"INDEXED_TOTAL={total}\n")
+            fh.write("INDEXED_URLS<<__EOF__\n")
+            fh.write("\n".join(indexed_urls[:15]))
+            fh.write("\n__EOF__\n")
             fh.write(f"GSC_ERRORS={' || '.join((errors or [])[:2])}\n")
     else:
         print(f"INDEXED_COUNT={indexed} INDEXED_KNOWN={known} INDEXED_TOTAL={total}")
