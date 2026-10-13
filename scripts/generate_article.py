@@ -76,33 +76,79 @@ def is_safe(text):
 
 def replenish_keywords(data, category):
     client = OpenAI(api_key=LLM_API_KEY, base_url=LLM_BASE_URL)
-    prompt = f"""Generate {REPLENISH_COUNT} SEO-friendly blog post topics for the "{category}" category on "{SITE_NAME}".
-Each topic: a common search phrase people type into Google (2-8 words).
-ONLY generate safe, family-friendly, legal topics. NO adult, gambling, drug, weapon, or illegal content.
-Return a JSON array of strings ONLY. Example: {{"keywords": ["topic 1", "topic 2", ...]}}"""
+    existing = set(data[category]["pool"])
+    existing_slugs = {p.stem for p in CONTENT_DIR.rglob("*.md")}
+    avoid = "; ".join(sorted(existing)[:60])
+    prompt = f"""Generate {REPLENISH_COUNT} SEO blog post topics for the "{category}" category on "{SITE_NAME}".
+
+Requirements:
+- Each topic must be a SPECIFIC long-tail search phrase (4-8 words) with LOW competition
+- Topics should be simple, everyday questions a normal person would search
+- They must be DIVERSE and must NOT overlap with each other or with the existing topics below
+- Prefer concrete, narrow questions over broad "best X" roundups
+
+Already-covered topics to AVOID (do not repeat or rephrase): {avoid}
+
+ONLY safe, family-friendly, legal topics. NO adult, gambling, drug, weapon, or illegal content.
+Return ONLY a JSON array of strings. Example: ["how to ...", "why does ...", "when should ..."]"""
     resp = client.chat.completions.create(model=LLM_MODEL, messages=[
-        {"role": "system", "content": "You are an SEO keyword researcher. Return ONLY valid JSON. Never suggest unsafe or illegal topics."},
+        {"role": "system", "content": "You are an SEO keyword researcher. Return ONLY valid JSON. Never suggest unsafe, illegal, or overlapping topics."},
         {"role": "user", "content": prompt},
-    ], temperature=0.8, max_tokens=4096)
+    ], temperature=0.9, max_tokens=4096)
     text = resp.choices[0].message.content.strip()
     m = re.search(r"\[.*?\]", text, re.DOTALL)
-    if m:
-        try:
-            new_kws = json.loads(m.group(0))
-        except json.JSONDecodeError:
-            new_kws = []
-    else:
+    try:
+        new_kws = json.loads(m.group(0)) if m else []
+    except json.JSONDecodeError:
         new_kws = []
-    existing = set(data[category]["pool"])
-    added = [kw for kw in new_kws if isinstance(kw, str) and kw.strip() and is_safe(kw) and kw not in existing]
+
+    added, skipped = [], 0
+    for kw in new_kws:
+        if not isinstance(kw, str) or not kw.strip():
+            skipped += 1
+            continue
+        kw = kw.strip()
+        if not is_safe(kw) or kw in existing:
+            skipped += 1
+            continue
+        slug = slugify(kw)
+        if any(slug in s for s in existing_slugs):  # already published
+            skipped += 1
+            continue
+        if any(similar(kw, e) >= 0.5 for e in existing):  # near-duplicate of pool
+            skipped += 1
+            continue
+        if any(similar(kw, a) >= 0.5 for a in added):  # near-duplicate of each other
+            skipped += 1
+            continue
+        added.append(kw)
+
     data[category]["pool"].extend(added)
-    print(f"  Replenished {category}: +{len(added)} keywords (filtered {len(new_kws) - len(added)} unsafe)")
+    print(f"  Replenished {category}: +{len(added)} keywords (skipped {skipped})")
     return added
 
 
 def slugify(text):
     text = re.sub(r"[^\w\s-]", "", text.lower().strip())
     return re.sub(r"-+", "-", re.sub(r"[\s_]+", "-", text)).strip("-")
+
+
+_STOP = {
+    "best", "top", "how", "to", "a", "an", "the", "your", "you", "guide", "guides",
+    "ideas", "tips", "for", "of", "and", "in", "on", "with", "2024", "2025", "2026",
+    "beginners", "beginner", "review", "reviews",
+}
+
+
+def _tokens(text):
+    return {t for t in re.findall(r"[a-z0-9]+", text.lower()) if t not in _STOP}
+
+
+def similar(a, b):
+    A, B = _tokens(a), _tokens(b)
+    if not A or not B:
+        return 0.0
+    return len(A & B) / len(A | B)
 
 
 def yaml_str(text):
@@ -180,18 +226,32 @@ def parse_response(text):
 
 def generate(keyword, category, articles):
     client = OpenAI(api_key=LLM_API_KEY, base_url=LLM_BASE_URL)
-    prompt = f"""Write a deeply useful, original blog post about: "{keyword}"
+    prompt = f"""Write a genuinely useful, original blog post about: "{keyword}"
 Category: {category}
 
-Requirements:
-- 1200-1800 words of genuinely useful content (depth over breadth)
-- Open with a concrete, specific hook: a real scenario, a number, or a sharp question. NO generic intros.
-- Well-structured with H2/H3 subheadings. Include specific, actionable details: numbers, steps, examples, common mistakes to avoid.
-- Write like an experienced human specialist. Vary sentence length. Be direct and specific.
-- Include at least one practical checklist or step-by-step section.
-- BANNED phrases (never use): "in today's fast-paced world", "in conclusion", "delve", "landscape", "game-changer", "unlock", "elevate", "it's important to note", "when it comes to", "in the realm of".
-- 100% original, family-safe content. Do NOT include: adult, gambling, drugs, violence, illegal topics
-- Format EXACTLY:
+This must NOT read like generic AI content. Follow every requirement:
+
+STRUCTURE
+- 1500-2200 words, H2/H3 subheadings, short paragraphs.
+- Open with a specific, concrete hook: a real scenario, a hard number, or a sharp question. No generic intros.
+- Include at least one step-by-step or checklist section.
+
+SUBSTANCE (most important)
+- Be SPECIFIC: real numbers, prices, timeframes, brand/model names, measurements, examples.
+- You may use plausible illustrative examples, but never invent fake statistics presented as studies.
+- Debunk at least one common myth or point out a common mistake people make.
+- Add a short section titled "What most guides get wrong" with 2-3 sharp points.
+- Every paragraph must carry information. If a sentence would fit any article on any topic, delete it.
+
+STYLE
+- Write like an experienced practitioner sharing hard-won specifics, not a content farm.
+- Vary sentence length. Be direct. Avoid hedging.
+- BANNED phrases: "in today's fast-paced world", "in conclusion", "delve", "landscape", "game-changer", "unlock", "elevate", "it's important to note", "when it comes to", "in the realm of", "navigate the", "embark on".
+
+SAFETY
+- 100% original, family-safe. No adult, gambling, drugs, violence, or illegal topics.
+
+Format EXACTLY:
 
 TITLE: SEO title (under 60 chars)
 DESCRIPTION: Meta description (140-155 chars)

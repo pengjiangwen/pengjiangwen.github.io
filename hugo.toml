@@ -63,3 +63,11 @@ timeZone = 'Asia/Shanghai'
     name = 'Health'
     url = '/health/'
     weight = 4
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 5
+  [[menu.main]]
+    name = 'Contact'
+    url = '/contact/'
+    weight = 6
