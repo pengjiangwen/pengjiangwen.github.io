@@ -147,7 +147,7 @@ The goal isn't a perfect system. It's finishing your work with enough time left 
 
 ## Related Reading
 
+- [Best Free Photo Editing Apps: A Practical Guide](https://pengjiangwen.github.io/tech/best-free-photo-editing-apps-a-practical-guide/)
 - [Should You Upgrade to Windows 12? (Honest Review)](https://pengjiangwen.github.io/tech/should-you-upgrade-to-windows-12-honest-review/)
 - [Best Video Editing Software 2024: Honest Reviews & Picks](https://pengjiangwen.github.io/tech/best-video-editing-software-2024-honest-reviews-picks/)
 - [Best Free Software Alternatives 2025](https://pengjiangwen.github.io/tech/best-free-software-alternatives-2025/)
-

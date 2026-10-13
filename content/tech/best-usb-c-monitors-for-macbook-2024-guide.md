@@ -158,3 +158,7 @@ defaults -currentHost write -globalDomain AppleFontSmoothing -int 0
 - **If you want one screen to rule them all:** Get the LG 40WP95C-W. Just make sure your desk is big enough.
 
 Stop buying dongles. Stop wrestling with cables. A good USB-C monitor transforms your MacBook from a laptop into a proper workstation with one plug. Your desk—and your sanity—will thank you.
+
+## Related Reading
+
+- [Best Free Online Courses: A Practical Guide for 2025](https://pengjiangwen.github.io/tech/best-free-online-courses-a-practical-guide-for-2025/)
