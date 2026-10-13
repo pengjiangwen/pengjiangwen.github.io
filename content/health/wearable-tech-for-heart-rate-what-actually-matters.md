@@ -79,3 +79,7 @@ Don't overthink the brand. The best wearable is the one you'll actually wear con
 Wearable heart rate tech won't transform your health on its own. What it does is give you a feedback loop — a way to see whether your habits are moving you in the right direction. Used well, that loop is genuinely powerful. Used carelessly, it's just another source of noisy numbers.
 
 Start with your resting heart rate. Watch the trend for a month. Let the data inform your choices, not dictate them. And remember: the most important heart rate reading is the one your doctor takes when something feels wrong.
+
+## Related Reading
+
+- [Telehealth Pros and Cons: An Honest Guide for Patients](https://pengjiangwen.github.io/health/telehealth-pros-and-cons-an-honest-guide-for-patients/)

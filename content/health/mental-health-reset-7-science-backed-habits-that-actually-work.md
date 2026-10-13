@@ -121,3 +121,7 @@ Start with one. Just one. Don’t try to implement all seven and burn out. Pick 
 Mental health isn’t a destination. It’s a daily practice of small, deliberate choices that tell your nervous system: *You are safe. You are capable. You can handle this.*
 
 And that is a message worth repeating to yourself—especially when the noise gets loud.
+
+## Related Reading
+
+- [Stress Relief Techniques That Actually Work](https://pengjiangwen.github.io/health/stress-relief-techniques-that-actually-work/)
