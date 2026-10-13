@@ -44,7 +44,8 @@ def build_message() -> dict:
     now = time.strftime("%Y-%m-%d %H:%M", time.localtime(time.time() + 8 * 3600))  # CST
     total = os.environ.get("TOTAL_ARTICLES", "?").strip()
     indexed = os.environ.get("INDEXED_COUNT", "").strip()
-    failed = os.environ.get("INDEXED_FAILED", "").strip()
+    known = os.environ.get("INDEXED_KNOWN", "").strip()
+    itotal = os.environ.get("INDEXED_TOTAL", "").strip()
     gsc_errors = os.environ.get("GSC_ERRORS", "").strip()
     items = [t.strip() for t in os.environ.get("NEW_ITEMS", "").split("\n") if t.strip()]
 
@@ -62,12 +63,12 @@ def build_message() -> dict:
         lines.append("")
         lines.append(f"**网站文章总数**：{total} 篇")
         if indexed:
-            if failed not in ("", "0"):
-                lines.append(f"**Google 已收录**：{indexed} 页（{failed} 页查询失败，可能有遗漏）")
+            if known and itotal:
+                lines.append(f"**Google 已收录**：{indexed} 页（已核对 {known}/{itotal} 页）")
             else:
                 lines.append(f"**Google 已收录**：{indexed} 页")
-        if gsc_errors and failed not in ("", "0"):
-            lines.append(f"**GSC 错误**：{gsc_errors[:220]}")
+        if gsc_errors:
+            lines.append(f"**GSC 提示**：{gsc_errors[:200]}")
         lines.append("")
         lines.append(f"[查看运行日志]({RUN_URL})")
     else:

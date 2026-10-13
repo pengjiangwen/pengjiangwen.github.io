@@ -2,22 +2,20 @@
 """Count how many article pages Google has indexed, using the
 Google Search Console URL Inspection API.
 
-Requires a service account (JSON key) added as a user of the Search Console
-property. The key is read from GSC_SERVICE_ACCOUNT_JSON.
+The URL Inspection API has a per-property daily quota, so we cannot check every
+page on every run. Instead we keep an incrementally-refreshed cache
+(config/index_cache.json, committed to the repo): each run inspects only a
+limited number of the least-recently-checked pages, and the reported count is
+computed from the whole cache.
 
-The URL Inspection API is rate limited (~600 requests/minute), so requests are
-paced by a global limiter (default 8/second) regardless of worker count, and
-transient failures are retried with backoff.
-
-Writes INDEXED_COUNT / INDEXED_FAILED / GSC_ERRORS to $GITHUB_ENV
-(or prints them when run locally). Skips silently if credentials are missing.
+Writes INDEXED_COUNT / INDEXED_KNOWN / INDEXED_TOTAL / GSC_ERRORS to
+$GITHUB_ENV (or prints them locally). Skips silently if credentials are missing.
 """
 import json
 import os
 import socket
 import threading
 import time
-from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 socket.setdefaulttimeout(30)
@@ -25,21 +23,16 @@ socket.setdefaulttimeout(30)
 BASE_URL = os.environ.get("SITE_BASE_URL", "https://pengjiangwen.github.io").rstrip("/")
 SITE_URL = os.environ.get("GSC_SITE_URL", BASE_URL + "/").strip()
 CREDS_JSON = os.environ.get("GSC_SERVICE_ACCOUNT_JSON", "").strip()
-MAX_WORKERS = int(os.environ.get("GSC_WORKERS", "8"))
-RATE_PER_SEC = float(os.environ.get("GSC_RATE", "8"))  # must stay under 10/sec
-MAX_RETRIES = int(os.environ.get("GSC_RETRIES", "3"))
+CACHE_PATH = Path(os.environ.get("GSC_CACHE", "config/index_cache.json"))
+CHECK_LIMIT = int(os.environ.get("GSC_LIMIT", "150"))  # pages inspected per run
+RATE_PER_SEC = float(os.environ.get("GSC_RATE", "8"))  # stay under 10/sec
 SCOPES = ["https://www.googleapis.com/auth/webmasters.readonly"]
-
-_local = threading.local()
-_CREDS = None
-_ERRORS = []
 
 _rate_lock = threading.Lock()
 _next_slot = [0.0]
 
 
 def _throttle():
-    """Global limiter: keep at most RATE_PER_SEC request starts per second."""
     interval = 1.0 / RATE_PER_SEC
     with _rate_lock:
         now = time.monotonic()
@@ -54,21 +47,23 @@ def article_urls():
     return [f"{BASE_URL}/{f.parent.name}/{f.stem}/" for f in sorted(Path("content").rglob("*.md"))]
 
 
-def get_service():
-    """One Search Console client per thread (service objects are not thread-safe)."""
-    service = getattr(_local, "service", None)
-    if service is None:
-        from googleapiclient.discovery import build
-
-        service = build("searchconsole", "v1", credentials=_CREDS, cache_discovery=False)
-        _local.service = service
-    return service
+def load_cache():
+    if CACHE_PATH.exists():
+        try:
+            return json.loads(CACHE_PATH.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            return {}
+    return {}
 
 
-def inspect_once(url):
+def save_cache(cache):
+    CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    CACHE_PATH.write_text(json.dumps(cache, indent=0, sort_keys=True) + "\n", encoding="utf-8")
+
+
+def inspect_once(service, url):
     resp = (
-        get_service()
-        .urlInspection()
+        service.urlInspection()
         .index()
         .inspect(body={"inspectionUrl": url, "siteUrl": SITE_URL})
         .execute(num_retries=0)
@@ -82,55 +77,77 @@ def inspect_once(url):
     return "indexed" in low and "not indexed" not in low
 
 
-def is_indexed(url):
-    last_error = None
-    for attempt in range(MAX_RETRIES):
-        _throttle()
-        try:
-            return inspect_once(url)
-        except Exception as exc:
-            last_error = " ".join(str(exc).split())[:200]
-            time.sleep(1.0 * (attempt + 1))
-    if last_error and last_error not in _ERRORS and len(_ERRORS) < 5:
-        _ERRORS.append(last_error)
-    return None
-
-
 def main() -> None:
+    cache = load_cache()
+
     if not CREDS_JSON:
-        print("GSC_SERVICE_ACCOUNT_JSON not set, skipping index check.")
+        print("GSC_SERVICE_ACCOUNT_JSON not set, reporting cached count only.")
+        report(cache)
         return
 
     try:
         from google.oauth2 import service_account
+        from googleapiclient.discovery import build
+        from googleapiclient.errors import HttpError
     except ImportError as exc:
-        print(f"GSC libraries not installed ({exc}), skipping index check.")
+        print(f"GSC libraries not installed ({exc}).")
+        report(cache)
         return
 
-    global _CREDS
-    _CREDS = service_account.Credentials.from_service_account_info(
-        json.loads(CREDS_JSON), scopes=SCOPES
-    )
+    creds = service_account.Credentials.from_service_account_info(json.loads(CREDS_JSON), scopes=SCOPES)
+    service = build("searchconsole", "v1", credentials=creds, cache_discovery=False)
 
     urls = article_urls()
-    start = time.time()
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
-        results = list(pool.map(is_indexed, urls))
+    today = time.strftime("%Y-%m-%d")
+    # Never-checked pages first, then those checked longest ago.
+    ordered = sorted(urls, key=lambda u: (cache.get(u, {}).get("d", ""), cache.get(u, {}).get("d") is not None))
+    todo = ordered[:CHECK_LIMIT]
 
-    indexed = sum(1 for r in results if r is True)
-    failed = sum(1 for r in results if r is None)
-    print(f"Checked {len(urls)} pages in {time.time() - start:.0f}s | indexed: {indexed} | failed: {failed}")
-    if _ERRORS:
-        print("Sample errors:", _ERRORS)
+    checked = 0
+    errors = []
+    for url in todo:
+        _throttle()
+        try:
+            indexed = inspect_once(service, url)
+            cache[url] = {"i": 1 if indexed else 0, "d": today}
+            checked += 1
+        except HttpError as exc:
+            status = getattr(getattr(exc, "resp", None), "status", None)
+            msg = " ".join(str(exc).split())[:180]
+            if msg not in errors:
+                errors.append(msg)
+            if status == 429:
+                print("Quota exhausted (429) - stopping this run.")
+                break
+        except Exception as exc:
+            msg = " ".join(str(exc).split())[:180]
+            if msg not in errors:
+                errors.append(msg)
 
+    # Drop cache entries for pages that no longer exist.
+    valid = set(urls)
+    cache = {u: e for u, e in cache.items() if u in valid}
+    save_cache(cache)
+
+    print(f"Inspected {checked} pages this run | cache size {len(cache)}/{len(urls)}")
+    if errors:
+        print("Sample errors:", errors[:3])
+    report(cache, errors)
+
+
+def report(cache, errors=None):
+    indexed = sum(1 for e in cache.values() if e.get("i") == 1)
+    known = len(cache)
+    total = len(article_urls())
+    print(f"Indexed (from cache): {indexed} of {known} checked")
     if "GITHUB_ENV" in os.environ:
         with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as fh:
             fh.write(f"INDEXED_COUNT={indexed}\n")
-            fh.write(f"INDEXED_FAILED={failed}\n")
-            fh.write(f"GSC_ERRORS={' || '.join(_ERRORS)}\n")
+            fh.write(f"INDEXED_KNOWN={known}\n")
+            fh.write(f"INDEXED_TOTAL={total}\n")
+            fh.write(f"GSC_ERRORS={' || '.join((errors or [])[:2])}\n")
     else:
-        print(f"INDEXED_COUNT={indexed}")
-        print(f"INDEXED_FAILED={failed}")
+        print(f"INDEXED_COUNT={indexed} INDEXED_KNOWN={known} INDEXED_TOTAL={total}")
 
 
 if __name__ == "__main__":

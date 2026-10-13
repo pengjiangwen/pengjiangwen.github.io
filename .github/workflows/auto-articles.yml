@@ -60,7 +60,7 @@ jobs:
         run: |
           git config user.name "pengjiangwen"
           git config user.email "pengjiangwen@gmail.com"
-          git add config/keywords.json content/
+          git add config/ content/
           if git diff --cached --quiet; then
             echo "No content changes to commit."
             exit 0
