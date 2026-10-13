@@ -62,13 +62,15 @@ def build_message() -> dict:
             lines.append("- （本次无新文章）")
         lines.append("")
         lines.append(f"**网站文章总数**：{total} 篇")
-        if indexed:
-            if known and itotal:
-                lines.append(f"**Google 已收录**：{indexed} 页（已核对 {known}/{itotal} 页）")
-            else:
-                lines.append(f"**Google 已收录**：{indexed} 页")
+        try:
+            known_n = int(known or 0)
+        except ValueError:
+            known_n = 0
+        if known_n > 0:
+            lines.append(f"**Google 已收录**：{indexed} 页（已核对 {known}/{itotal} 页）")
         if gsc_errors:
-            lines.append(f"**GSC 提示**：{gsc_errors[:200]}")
+            hint = "已用完今日查询配额，明天自动继续" if ("Quota" in gsc_errors or "429" in gsc_errors) else gsc_errors[:160]
+            lines.append(f"**GSC 提示**：{hint}")
         lines.append("")
         lines.append(f"[查看运行日志]({RUN_URL})")
     else:
