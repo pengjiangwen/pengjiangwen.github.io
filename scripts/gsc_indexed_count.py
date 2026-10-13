@@ -68,11 +68,11 @@ def inspect_once(service, url):
         .inspect(body={"inspectionUrl": url, "siteUrl": SITE_URL})
         .execute(num_retries=0)
     )
-    state = (
-        resp.get("inspectionResult", {})
-        .get("indexStatusResult", {})
-        .get("coverageState", "")
-    )
+    res = resp.get("inspectionResult", {}).get("indexStatusResult", {})
+    return (res.get("coverageState") or "unknown").strip() or "unknown"
+
+
+def is_indexed_state(state):
     low = state.lower()
     return "indexed" in low and "not indexed" not in low
 
@@ -108,8 +108,8 @@ def main() -> None:
     for url in todo:
         _throttle()
         try:
-            indexed = inspect_once(service, url)
-            cache[url] = {"i": 1 if indexed else 0, "d": today}
+            state = inspect_once(service, url)
+            cache[url] = {"s": state, "i": 1 if is_indexed_state(state) else 0, "d": today}
             checked += 1
         except HttpError as exc:
             status = getattr(getattr(exc, "resp", None), "status", None)
@@ -140,14 +140,26 @@ def report(cache, errors=None):
     indexed = len(indexed_urls)
     known = len(cache)
     total = len(article_urls())
+
+    # Coverage-state breakdown: tells us WHY pages are not indexed.
+    from collections import Counter
+
+    states = Counter((e.get("s") or "unknown") for e in cache.values())
     print(f"Indexed (from cache): {indexed} of {known} checked")
-    for u in indexed_urls:
+    for state, count in states.most_common():
+        print(f"  {count:>4}  {state}")
+    for u in indexed_urls[:15]:
         print(f"  indexed: {u}")
+
+    summary = "; ".join(f"{s} = {c}" for s, c in states.most_common(6))
     if "GITHUB_ENV" in os.environ:
         with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as fh:
             fh.write(f"INDEXED_COUNT={indexed}\n")
             fh.write(f"INDEXED_KNOWN={known}\n")
             fh.write(f"INDEXED_TOTAL={total}\n")
+            fh.write("INDEXED_STATES<<__EOF__\n")
+            fh.write(summary)
+            fh.write("\n__EOF__\n")
             fh.write("INDEXED_URLS<<__EOF__\n")
             fh.write("\n".join(indexed_urls[:15]))
             fh.write("\n__EOF__\n")

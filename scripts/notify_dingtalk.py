@@ -68,9 +68,16 @@ def build_message() -> dict:
             known_n = 0
         if known_n > 0:
             lines.append(f"**Google 已收录**：{indexed} 页（已核对 {known}/{itotal} 页）")
+            states = os.environ.get("INDEXED_STATES", "").strip()
+            if states:
+                lines.append("**收录状态分布**：")
+                for part in states.split(";"):
+                    part = part.strip()
+                    if part:
+                        lines.append(f"- {part}")
             iurls = [u.strip() for u in os.environ.get("INDEXED_URLS", "").split("\n") if u.strip()]
             for u in iurls[:8]:
-                lines.append(f"- {u}")
+                lines.append(f"- ✅ {u}")
         if gsc_errors:
             hint = "已用完今日查询配额，明天自动继续" if ("Quota" in gsc_errors or "429" in gsc_errors) else gsc_errors[:160]
             lines.append(f"**GSC 提示**：{hint}")
