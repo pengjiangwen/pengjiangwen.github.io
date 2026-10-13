@@ -5,9 +5,9 @@ Google Search Console URL Inspection API.
 Requires a service account (JSON key) added as a user of the Search Console
 property. The key is read from GSC_SERVICE_ACCOUNT_JSON.
 
-The URL Inspection API is rate limited (about 600 requests/minute), so we use
-a small number of workers plus a delay, and retry transient failures with
-backoff.
+The URL Inspection API is rate limited (~600 requests/minute), so requests are
+paced by a global limiter (default 8/second) regardless of worker count, and
+transient failures are retried with backoff.
 
 Writes INDEXED_COUNT / INDEXED_FAILED / GSC_ERRORS to $GITHUB_ENV
 (or prints them when run locally). Skips silently if credentials are missing.
@@ -25,14 +25,29 @@ socket.setdefaulttimeout(30)
 BASE_URL = os.environ.get("SITE_BASE_URL", "https://pengjiangwen.github.io").rstrip("/")
 SITE_URL = os.environ.get("GSC_SITE_URL", BASE_URL + "/").strip()
 CREDS_JSON = os.environ.get("GSC_SERVICE_ACCOUNT_JSON", "").strip()
-MAX_WORKERS = int(os.environ.get("GSC_WORKERS", "2"))
-REQUEST_DELAY = float(os.environ.get("GSC_DELAY", "0.5"))
+MAX_WORKERS = int(os.environ.get("GSC_WORKERS", "8"))
+RATE_PER_SEC = float(os.environ.get("GSC_RATE", "8"))  # must stay under 10/sec
 MAX_RETRIES = int(os.environ.get("GSC_RETRIES", "3"))
 SCOPES = ["https://www.googleapis.com/auth/webmasters.readonly"]
 
 _local = threading.local()
 _CREDS = None
 _ERRORS = []
+
+_rate_lock = threading.Lock()
+_next_slot = [0.0]
+
+
+def _throttle():
+    """Global limiter: keep at most RATE_PER_SEC request starts per second."""
+    interval = 1.0 / RATE_PER_SEC
+    with _rate_lock:
+        now = time.monotonic()
+        wait = _next_slot[0] - now
+        if wait > 0:
+            time.sleep(wait)
+            now = time.monotonic()
+        _next_slot[0] = max(now, _next_slot[0]) + interval
 
 
 def article_urls():
@@ -70,13 +85,12 @@ def inspect_once(url):
 def is_indexed(url):
     last_error = None
     for attempt in range(MAX_RETRIES):
+        _throttle()
         try:
             return inspect_once(url)
         except Exception as exc:
             last_error = " ".join(str(exc).split())[:200]
-            time.sleep(1.0 * (attempt + 1))  # backoff on 429 / transient errors
-        finally:
-            time.sleep(REQUEST_DELAY)
+            time.sleep(1.0 * (attempt + 1))
     if last_error and last_error not in _ERRORS and len(_ERRORS) < 5:
         _ERRORS.append(last_error)
     return None
