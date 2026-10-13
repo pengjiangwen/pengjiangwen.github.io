@@ -79,3 +79,7 @@ After 30 days, my average screen-on time increased from 5.5 hours to 6.8 hours. 
 Extending your phone battery life isn’t about one dramatic gesture. It’s about building small, painless habits: not charging overnight, keeping the phone out of the sun, and pruning background apps. The goal isn’t to baby your device — it’s to make it last through your day, and through the years, so you’re not shelling out for a replacement every 18 months.
 
 Try three of these tips this week. Check your battery stats, set that 80% charge limit, and delete the Facebook app. You’ll be surprised how little you miss the constant drain — and how much longer your phone stays alive.
+
+## Related Reading
+
+- [How to Increase Phone Storage Without an SD Card](https://pengjiangwen.github.io/tech/how-to-increase-phone-storage-without-an-sd-card/)

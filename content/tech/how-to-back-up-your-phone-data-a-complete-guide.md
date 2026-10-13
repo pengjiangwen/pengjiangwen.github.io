@@ -127,3 +127,7 @@ For cloud backups, encryption is handled by Apple and Google, though neither off
 Backing up your phone isn't a one-time task — it's a habit. Set up automatic cloud backup today, do a local backup this weekend, and check both once a week. That's it.
 
 The 15 minutes you spend now could save you from the kind of data loss that no recovery service can fix. Ask my friend about the lake sometime. She'll tell you the same thing.
+
+## Related Reading
+
+- [How to Stop Your Phone From Overheating While Charging](https://pengjiangwen.github.io/tech/how-to-stop-your-phone-from-overheating-while-charging/)
