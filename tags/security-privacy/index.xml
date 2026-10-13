@@ -1,4 +1,102 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Security-Privacy on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/security-privacy/</link><description>Recent content in Security-Privacy on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2026 15:59:34 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/security-privacy/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Password Manager: An Honest 2025 Guide</title><link>https://pengjiangwen.github.io/tech/best-password-manager-an-honest-2025-guide/</link><pubDate>Mon, 12 Oct 2026 15:59:34 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/best-password-manager-an-honest-2025-guide/</guid><description>Stop guessing which password manager wins. Compare Bitwarden, 1Password, and Proton Pass on price, security, and the features that actually matter.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Security-Privacy on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/security-privacy/</link><description>Recent content in Security-Privacy on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 13 Oct 2026 12:50:05 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/security-privacy/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Secure Your Home Network: A Practical Guide</title><link>https://pengjiangwen.github.io/tech/how-to-secure-your-home-network-a-practical-guide/</link><pubDate>Tue, 13 Oct 2026 12:50:05 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-secure-your-home-network-a-practical-guide/</guid><description>A step-by-step guide to locking down your home Wi-Fi: router hardening, DNS filtering, guest networks, firmware updates, and the mistakes to avoid.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>In 2016, a malware strain called Mirai quietly assembled an army of roughly 600,000 compromised devices — and the vast majority were home routers, IP cameras, and DVRs still running default usernames and passwords. That botnet then knocked major websites offline for hours. Nobody hacked a bank. They hacked living rooms.</p>
+<p>Your router is the front door to every laptop, phone, thermostat, and baby monitor you own. And most people set it up once, shove it on a shelf, and never touch it again. This guide is about fixing that — not with vague advice like &ldquo;use strong passwords,&rdquo; but with the specific settings, numbers, and order of operations that actually matter.</p>
+<h2 id="first-understand-what-youre-actually-defending">First, Understand What You&rsquo;re Actually Defending</h2>
+<p>A home network has three layers worth protecting:</p>
+<ol>
+<li><strong>The perimeter</strong> — your router and its admin panel, the thing between the internet and your devices.</li>
+<li><strong>The interior</strong> — the devices themselves, and how much they can see and touch each other.</li>
+<li><strong>The traffic</strong> — what leaves your house, where it goes, and who can read it.</li>
+</ol>
+<p>Most home security advice only addresses layer one. That&rsquo;s a mistake. A hardened router with a compromised smart bulb still leaks your Wi-Fi password to whoever controls the bulb.</p>
+<h2 id="step-1-get-into-your-routers-admin-panel-and-change-the-obvious-stuff">Step 1: Get Into Your Router&rsquo;s Admin Panel (And Change the Obvious Stuff)</h2>
+<p>Open a browser and type your router&rsquo;s gateway address — commonly <code>192.168.1.1</code>, <code>192.168.0.1</code>, or <code>192.168.1.254</code>. If you don&rsquo;t know it, run <code>ipconfig</code> on Windows or <code>netstat -nr | grep default</code> on macOS/Linux. The default login is usually printed on a sticker on the router itself.</p>
+<p>Now do these four things immediately:</p>
+<ul>
+<li><strong>Change the admin password.</strong> Not the Wi-Fi password — the password that controls the router&rsquo;s settings. If an attacker gets in here, they own everything. Use a 16+ character passphrase. Write it on paper and put it somewhere physical. Yes, paper. A password manager on a device that connects to this router is fine too, but a physical copy survives a factory reset.</li>
+<li><strong>Disable remote administration (WAN access).</strong> This is a setting that lets you log into your router from anywhere on the internet. Unless you specifically need it, turn it off. This single toggle closes one of the most exploited holes in consumer routers.</li>
+<li><strong>Disable UPnP.</strong> Universal Plug and Play lets devices open their own ports to the internet without asking you. It&rsquo;s convenient for gaming consoles and terrible for security. Turn it off and manually forward ports only when a specific app requires it.</li>
+<li><strong>Update the firmware.</strong> Check the router&rsquo;s admin panel for a firmware update option, or download it from the manufacturer&rsquo;s site. Do this before anything else — old firmware often contains known, publicly documented vulnerabilities.</li>
+</ul>
+<p><strong>Common mistake:</strong> People change the Wi-Fi password and think they&rsquo;re done. The admin panel is the real prize.</p>
+<h2 id="step-2-lock-down-your-wi-fi-properly">Step 2: Lock Down Your Wi-Fi Properly</h2>
+<p>Your wireless settings deserve more attention than the default.</p>
+<h3 id="use-wpa3-or-wpa2-aes-as-a-fallback">Use WPA3, or WPA2-AES as a fallback</h3>
+<p>In your router&rsquo;s wireless security settings, choose <strong>WPA3-Personal</strong> if available. If not, use <strong>WPA2-Personal with AES encryption</strong>. Never select TKIP, and never use WEP — WEP can be cracked in minutes with free tools.</p>
+<h3 id="pick-a-wi-fi-password-that-isnt-guessable">Pick a Wi-Fi password that isn&rsquo;t guessable</h3>
+<p>A good Wi-Fi password is long, not clever. &ldquo;Coffee$Mug42!&rdquo; is worse than &ldquo;purple-tractor-sandwich-lantern-91&rdquo; because length beats complexity. Aim for at least 16 characters. Avoid anything tied to your address, name, or birthday.</p>
+<h3 id="turn-off-wps">Turn off WPS</h3>
+<p>Wi-Fi Protected Setup lets you connect devices by pressing a button or entering an 8-digit PIN. The PIN method has a well-known design flaw that lets attackers brute-force it in hours. Disable WPS entirely in the router settings. If your router doesn&rsquo;t let you disable it, that&rsquo;s a reason to replace it.</p>
+<h3 id="hide-your-ssid-skip-it">Hide your SSID? Skip it.</h3>
+<p>Hiding your network name is security theater. Anyone with basic tools can still see it, and it makes your own life harder. Spend your effort on the settings above instead.</p>
+<h2 id="step-3-segment-your-network-this-is-the-big-one">Step 3: Segment Your Network (This Is the Big One)</h2>
+<p>Here&rsquo;s the concept that separates a decent home network from a genuinely secure one: <strong>segmentation</strong>.</p>
+<p>Your smart TV, your kid&rsquo;s tablet, your work laptop, and your Wi-Fi doorbell should not all be on the same network. If one gets compromised, the attacker shouldn&rsquo;t be able to reach the others.</p>
+<h3 id="set-up-a-guest-network">Set up a guest network</h3>
+<p>Most routers support a guest network. Enable it with its own password. Put every smart home device on it: bulbs, plugs, cameras, thermostats, robot vacuums. These devices often have weak security and rarely get updates. Isolating them means a hacked camera can&rsquo;t scan your laptop.</p>
+<h3 id="use-vlans-if-your-router-supports-them">Use VLANs if your router supports them</h3>
+<p>If you have a router running custom firmware (OpenWrt, DD-WRT, pfSense) or a prosumer model, you can create true VLANs — separate virtual networks with firewall rules between them. This is the gold standard. A guest network is a simplified version of the same idea.</p>
+<h3 id="check-client-isolation">Check client isolation</h3>
+<p>Many guest networks have a &ldquo;client isolation&rdquo; or &ldquo;AP isolation&rdquo; option. Enable it. This stops devices on the guest network from talking to each other, which is exactly what you want for a pile of untrusted gadgets.</p>
+<p><strong>Common mistake:</strong> Putting a work laptop on the same network as a decade-old smart plug. One is patched by an IT department; the other hasn&rsquo;t seen an update since 2018.</p>
+<h2 id="step-4-fix-your-dns-and-filter-what-comes-in">Step 4: Fix Your DNS (And Filter What Comes In)</h2>
+<p>Your router hands out DNS settings to every device. DNS is how domain names get translated into IP addresses. Whoever controls your DNS sees every site you visit and can redirect you to malicious copies.</p>
+<h3 id="change-your-dns-provider">Change your DNS provider</h3>
+<p>Log into your router and replace the default DNS servers with a privacy-respecting provider:</p>
+<ul>
+<li><strong>Cloudflare:</strong> <code>1.1.1.1</code> and <code>1.0.0.1</code></li>
+<li><strong>Quad9 (malware filtering):</strong> <code>9.9.9.9</code> and <code>149.112.112.112</code></li>
+<li><strong>Google:</strong> <code>8.8.8.8</code> and <code>8.8.4.4</code></li>
+</ul>
+<p>Quad9 blocks known malicious domains at the DNS level, which stops a surprising amount of junk before it reaches your devices.</p>
+<h3 id="consider-dns-over-https-at-the-device-level">Consider DNS-over-HTTPS at the device level</h3>
+<p>Modern browsers and operating systems support DNS-over-HTTPS (DoH), which encrypts your DNS queries so your ISP can&rsquo;t see them. Enable it in Chrome, Firefox, or your OS settings. Note that this can bypass router-level filtering, so decide which approach you prefer.</p>
+<h2 id="step-5-the-practical-checklist">Step 5: The Practical Checklist</h2>
+<p>Run through this in order. It takes about 45 minutes.</p>
+<ul>
+<li><input disabled="" type="checkbox"> Log into router admin panel; change admin password to 16+ characters</li>
+<li><input disabled="" type="checkbox"> Disable remote/WAN administration</li>
+<li><input disabled="" type="checkbox"> Disable UPnP</li>
+<li><input disabled="" type="checkbox"> Update router firmware to the latest version</li>
+<li><input disabled="" type="checkbox"> Set Wi-Fi encryption to WPA3 or WPA2-AES</li>
+<li><input disabled="" type="checkbox"> Set Wi-Fi password to 16+ characters, no personal info</li>
+<li><input disabled="" type="checkbox"> Disable WPS</li>
+<li><input disabled="" type="checkbox"> Enable guest network with a separate password</li>
+<li><input disabled="" type="checkbox"> Move all smart home devices to the guest network</li>
+<li><input disabled="" type="checkbox"> Enable client isolation on the guest network</li>
+<li><input disabled="" type="checkbox"> Change DNS to Cloudflare or Quad9</li>
+<li><input disabled="" type="checkbox"> Enable automatic firmware updates if your router supports it</li>
+<li><input disabled="" type="checkbox"> Write down all new passwords and store them physically</li>
+<li><input disabled="" type="checkbox"> Reboot the router and confirm every device reconnects</li>
+</ul>
+<h2 id="step-6-maintain-it-the-part-everyone-skips">Step 6: Maintain It (The Part Everyone Skips)</h2>
+<p>Security isn&rsquo;t a one-time setup. It&rsquo;s a habit.</p>
+<ul>
+<li><strong>Check for firmware updates every 3 months.</strong> Set a calendar reminder. Router vulnerabilities get patched, but only if you install the patch.</li>
+<li><strong>Audit connected devices twice a year.</strong> Log into the admin panel and look at the client list. If you see a device you don&rsquo;t recognize, kick it off and change your Wi-Fi password.</li>
+<li><strong>Replace routers older than 5–6 years.</strong> Manufacturers stop shipping security updates long before the hardware dies. A router from 2016 is a liability, not a bargain.</li>
+<li><strong>Watch for the &ldquo;end of support&rdquo; announcement.</strong> When your router&rsquo;s maker announces it&rsquo;s ending support, that&rsquo;s your cue to buy a new one — not a suggestion.</li>
+</ul>
+<h2 id="the-mistakes-that-undo-everything">The Mistakes That Undo Everything</h2>
+<p>Even careful people trip on these:</p>
+<ul>
+<li><strong>Reusing your Wi-Fi password elsewhere.</strong> If that password shows up in a breach, attackers try it against your router. Keep it unique.</li>
+<li><strong>Letting a roommate or guest share the main network password.</strong> Give them the guest network instead.</li>
+<li><strong>Ignoring the IoT device you bought on sale.</strong> Cheap cameras and plugs from unknown brands are the most common entry point. If it doesn&rsquo;t get firmware updates, don&rsquo;t put it on your main network.</li>
+<li><strong>Assuming your ISP&rsquo;s router is secure by default.</strong> It isn&rsquo;t. ISP-provided routers often have remote management enabled and generic admin credentials.</li>
+<li><strong>Forgetting the extender.</strong> A Wi-Fi extender has its own settings and its own password. Secure it too.</li>
+</ul>
+<h2 id="a-realistic-threat-model">A Realistic Threat Model</h2>
+<p>You are not a target of nation-state hackers. You are a target of automated scanners that sweep the entire internet looking for routers with default passwords, open UPnP, and outdated firmware. Those scans don&rsquo;t care who you are. They just want another node in a botnet.</p>
+<p>The steps above defeat the overwhelming majority of that automated traffic. You don&rsquo;t need enterprise gear. You need to change the defaults, segment your devices, keep the firmware current, and stop treating your router like an appliance you never think about again.</p>
+<p>Spend an hour this weekend. Your network will be harder to break into than 95% of the homes on your street — and you&rsquo;ll know exactly why.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-secure-your-home-wifi-a-practical-guide/">How to Secure Your Home WiFi: A Practical Guide</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-clean-your-pc-fans-in-20-minutes-or-less/">How to Clean Your PC Fans in 20 Minutes or Less</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/router-setup-in-20-minutes-a-no-nonsense-guide/">Router Setup in 20 Minutes: A No-Nonsense Guide</a></li>
+</ul>
+]]></content:encoded></item><item><title>Best Password Manager: An Honest 2025 Guide</title><link>https://pengjiangwen.github.io/tech/best-password-manager-an-honest-2025-guide/</link><pubDate>Mon, 12 Oct 2026 15:59:34 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/best-password-manager-an-honest-2025-guide/</guid><description>Stop guessing which password manager wins. Compare Bitwarden, 1Password, and Proton Pass on price, security, and the features that actually matter.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Last year, a client of mine—a freelance designer with about 140 online accounts—told me she kept her passwords in a Notes app synced across her devices. She figured it was fine because her phone had a passcode. Then her iCloud account got compromised through a reused password on an old forum she&rsquo;d forgotten about. Within an hour, someone had her email, her bank, and her client portal. The Notes file was the master key.</p>
 <p>That story isn&rsquo;t unusual. It&rsquo;s the default outcome of how most people manage passwords. Reuse one password across a dozen sites and you&rsquo;ve effectively made every account as weak as the weakest site you&rsquo;ve ever signed up for. A password manager fixes this, but only if you pick one you&rsquo;ll actually use every day. The &ldquo;best&rdquo; one isn&rsquo;t a universal answer—it depends on your devices, your threat model, and how much friction you&rsquo;ll tolerate.</p>
 <p>This guide cuts through the affiliate-driven listicles. I&rsquo;ll walk through what actually matters, compare the real contenders, and give you a setup checklist you can finish in an afternoon.</p>
@@ -216,6 +314,7 @@ If privacy and email aliases matter most: <strong>Proton Pass</strong>.</p>
 <p>Your WiFi is the perimeter of your digital life. Treat the router like the front door it is — lock it, check it occasionally, and don&rsquo;t hand out keys you can&rsquo;t track.</p>
 <h2 id="related-reading">Related Reading</h2>
 <ul>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-secure-your-home-network-a-practical-guide/">How to Secure Your Home Network: A Practical Guide</a></li>
 <li><a href="https://pengjiangwen.github.io/tech/how-to-clean-your-pc-fans-in-20-minutes-or-less/">How to Clean Your PC Fans in 20 Minutes or Less</a></li>
 <li><a href="https://pengjiangwen.github.io/tech/fix-slow-internet-speed-15-fixes-that-actually-work/">Fix Slow Internet Speed: 15 Fixes That Actually Work</a></li>
 <li><a href="https://pengjiangwen.github.io/tech/how-to-fix-a-slow-internet-connection-12-real-solutions/">How to Fix a Slow Internet Connection: 12 Real Solutions</a></li>

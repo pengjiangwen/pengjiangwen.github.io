@@ -1,4 +1,176 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>TechLife Guide</title><link>https://pengjiangwen.github.io/</link><description>Recent content on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 13 Oct 2026 12:31:22 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Clean a Laptop Keyboard Without Breaking It</title><link>https://pengjiangwen.github.io/tech/how-to-clean-a-laptop-keyboard-without-breaking-it/</link><pubDate>Tue, 13 Oct 2026 12:31:22 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-clean-a-laptop-keyboard-without-breaking-it/</guid><description>Learn how to clean a laptop keyboard safely with tools you already own, plus fixes for sticky keys, crumbs, and spills.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>TechLife Guide</title><link>https://pengjiangwen.github.io/</link><description>Recent content on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 13 Oct 2026 12:50:05 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Secure Your Home Network: A Practical Guide</title><link>https://pengjiangwen.github.io/tech/how-to-secure-your-home-network-a-practical-guide/</link><pubDate>Tue, 13 Oct 2026 12:50:05 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-secure-your-home-network-a-practical-guide/</guid><description>A step-by-step guide to locking down your home Wi-Fi: router hardening, DNS filtering, guest networks, firmware updates, and the mistakes to avoid.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>In 2016, a malware strain called Mirai quietly assembled an army of roughly 600,000 compromised devices — and the vast majority were home routers, IP cameras, and DVRs still running default usernames and passwords. That botnet then knocked major websites offline for hours. Nobody hacked a bank. They hacked living rooms.</p>
+<p>Your router is the front door to every laptop, phone, thermostat, and baby monitor you own. And most people set it up once, shove it on a shelf, and never touch it again. This guide is about fixing that — not with vague advice like &ldquo;use strong passwords,&rdquo; but with the specific settings, numbers, and order of operations that actually matter.</p>
+<h2 id="first-understand-what-youre-actually-defending">First, Understand What You&rsquo;re Actually Defending</h2>
+<p>A home network has three layers worth protecting:</p>
+<ol>
+<li><strong>The perimeter</strong> — your router and its admin panel, the thing between the internet and your devices.</li>
+<li><strong>The interior</strong> — the devices themselves, and how much they can see and touch each other.</li>
+<li><strong>The traffic</strong> — what leaves your house, where it goes, and who can read it.</li>
+</ol>
+<p>Most home security advice only addresses layer one. That&rsquo;s a mistake. A hardened router with a compromised smart bulb still leaks your Wi-Fi password to whoever controls the bulb.</p>
+<h2 id="step-1-get-into-your-routers-admin-panel-and-change-the-obvious-stuff">Step 1: Get Into Your Router&rsquo;s Admin Panel (And Change the Obvious Stuff)</h2>
+<p>Open a browser and type your router&rsquo;s gateway address — commonly <code>192.168.1.1</code>, <code>192.168.0.1</code>, or <code>192.168.1.254</code>. If you don&rsquo;t know it, run <code>ipconfig</code> on Windows or <code>netstat -nr | grep default</code> on macOS/Linux. The default login is usually printed on a sticker on the router itself.</p>
+<p>Now do these four things immediately:</p>
+<ul>
+<li><strong>Change the admin password.</strong> Not the Wi-Fi password — the password that controls the router&rsquo;s settings. If an attacker gets in here, they own everything. Use a 16+ character passphrase. Write it on paper and put it somewhere physical. Yes, paper. A password manager on a device that connects to this router is fine too, but a physical copy survives a factory reset.</li>
+<li><strong>Disable remote administration (WAN access).</strong> This is a setting that lets you log into your router from anywhere on the internet. Unless you specifically need it, turn it off. This single toggle closes one of the most exploited holes in consumer routers.</li>
+<li><strong>Disable UPnP.</strong> Universal Plug and Play lets devices open their own ports to the internet without asking you. It&rsquo;s convenient for gaming consoles and terrible for security. Turn it off and manually forward ports only when a specific app requires it.</li>
+<li><strong>Update the firmware.</strong> Check the router&rsquo;s admin panel for a firmware update option, or download it from the manufacturer&rsquo;s site. Do this before anything else — old firmware often contains known, publicly documented vulnerabilities.</li>
+</ul>
+<p><strong>Common mistake:</strong> People change the Wi-Fi password and think they&rsquo;re done. The admin panel is the real prize.</p>
+<h2 id="step-2-lock-down-your-wi-fi-properly">Step 2: Lock Down Your Wi-Fi Properly</h2>
+<p>Your wireless settings deserve more attention than the default.</p>
+<h3 id="use-wpa3-or-wpa2-aes-as-a-fallback">Use WPA3, or WPA2-AES as a fallback</h3>
+<p>In your router&rsquo;s wireless security settings, choose <strong>WPA3-Personal</strong> if available. If not, use <strong>WPA2-Personal with AES encryption</strong>. Never select TKIP, and never use WEP — WEP can be cracked in minutes with free tools.</p>
+<h3 id="pick-a-wi-fi-password-that-isnt-guessable">Pick a Wi-Fi password that isn&rsquo;t guessable</h3>
+<p>A good Wi-Fi password is long, not clever. &ldquo;Coffee$Mug42!&rdquo; is worse than &ldquo;purple-tractor-sandwich-lantern-91&rdquo; because length beats complexity. Aim for at least 16 characters. Avoid anything tied to your address, name, or birthday.</p>
+<h3 id="turn-off-wps">Turn off WPS</h3>
+<p>Wi-Fi Protected Setup lets you connect devices by pressing a button or entering an 8-digit PIN. The PIN method has a well-known design flaw that lets attackers brute-force it in hours. Disable WPS entirely in the router settings. If your router doesn&rsquo;t let you disable it, that&rsquo;s a reason to replace it.</p>
+<h3 id="hide-your-ssid-skip-it">Hide your SSID? Skip it.</h3>
+<p>Hiding your network name is security theater. Anyone with basic tools can still see it, and it makes your own life harder. Spend your effort on the settings above instead.</p>
+<h2 id="step-3-segment-your-network-this-is-the-big-one">Step 3: Segment Your Network (This Is the Big One)</h2>
+<p>Here&rsquo;s the concept that separates a decent home network from a genuinely secure one: <strong>segmentation</strong>.</p>
+<p>Your smart TV, your kid&rsquo;s tablet, your work laptop, and your Wi-Fi doorbell should not all be on the same network. If one gets compromised, the attacker shouldn&rsquo;t be able to reach the others.</p>
+<h3 id="set-up-a-guest-network">Set up a guest network</h3>
+<p>Most routers support a guest network. Enable it with its own password. Put every smart home device on it: bulbs, plugs, cameras, thermostats, robot vacuums. These devices often have weak security and rarely get updates. Isolating them means a hacked camera can&rsquo;t scan your laptop.</p>
+<h3 id="use-vlans-if-your-router-supports-them">Use VLANs if your router supports them</h3>
+<p>If you have a router running custom firmware (OpenWrt, DD-WRT, pfSense) or a prosumer model, you can create true VLANs — separate virtual networks with firewall rules between them. This is the gold standard. A guest network is a simplified version of the same idea.</p>
+<h3 id="check-client-isolation">Check client isolation</h3>
+<p>Many guest networks have a &ldquo;client isolation&rdquo; or &ldquo;AP isolation&rdquo; option. Enable it. This stops devices on the guest network from talking to each other, which is exactly what you want for a pile of untrusted gadgets.</p>
+<p><strong>Common mistake:</strong> Putting a work laptop on the same network as a decade-old smart plug. One is patched by an IT department; the other hasn&rsquo;t seen an update since 2018.</p>
+<h2 id="step-4-fix-your-dns-and-filter-what-comes-in">Step 4: Fix Your DNS (And Filter What Comes In)</h2>
+<p>Your router hands out DNS settings to every device. DNS is how domain names get translated into IP addresses. Whoever controls your DNS sees every site you visit and can redirect you to malicious copies.</p>
+<h3 id="change-your-dns-provider">Change your DNS provider</h3>
+<p>Log into your router and replace the default DNS servers with a privacy-respecting provider:</p>
+<ul>
+<li><strong>Cloudflare:</strong> <code>1.1.1.1</code> and <code>1.0.0.1</code></li>
+<li><strong>Quad9 (malware filtering):</strong> <code>9.9.9.9</code> and <code>149.112.112.112</code></li>
+<li><strong>Google:</strong> <code>8.8.8.8</code> and <code>8.8.4.4</code></li>
+</ul>
+<p>Quad9 blocks known malicious domains at the DNS level, which stops a surprising amount of junk before it reaches your devices.</p>
+<h3 id="consider-dns-over-https-at-the-device-level">Consider DNS-over-HTTPS at the device level</h3>
+<p>Modern browsers and operating systems support DNS-over-HTTPS (DoH), which encrypts your DNS queries so your ISP can&rsquo;t see them. Enable it in Chrome, Firefox, or your OS settings. Note that this can bypass router-level filtering, so decide which approach you prefer.</p>
+<h2 id="step-5-the-practical-checklist">Step 5: The Practical Checklist</h2>
+<p>Run through this in order. It takes about 45 minutes.</p>
+<ul>
+<li><input disabled="" type="checkbox"> Log into router admin panel; change admin password to 16+ characters</li>
+<li><input disabled="" type="checkbox"> Disable remote/WAN administration</li>
+<li><input disabled="" type="checkbox"> Disable UPnP</li>
+<li><input disabled="" type="checkbox"> Update router firmware to the latest version</li>
+<li><input disabled="" type="checkbox"> Set Wi-Fi encryption to WPA3 or WPA2-AES</li>
+<li><input disabled="" type="checkbox"> Set Wi-Fi password to 16+ characters, no personal info</li>
+<li><input disabled="" type="checkbox"> Disable WPS</li>
+<li><input disabled="" type="checkbox"> Enable guest network with a separate password</li>
+<li><input disabled="" type="checkbox"> Move all smart home devices to the guest network</li>
+<li><input disabled="" type="checkbox"> Enable client isolation on the guest network</li>
+<li><input disabled="" type="checkbox"> Change DNS to Cloudflare or Quad9</li>
+<li><input disabled="" type="checkbox"> Enable automatic firmware updates if your router supports it</li>
+<li><input disabled="" type="checkbox"> Write down all new passwords and store them physically</li>
+<li><input disabled="" type="checkbox"> Reboot the router and confirm every device reconnects</li>
+</ul>
+<h2 id="step-6-maintain-it-the-part-everyone-skips">Step 6: Maintain It (The Part Everyone Skips)</h2>
+<p>Security isn&rsquo;t a one-time setup. It&rsquo;s a habit.</p>
+<ul>
+<li><strong>Check for firmware updates every 3 months.</strong> Set a calendar reminder. Router vulnerabilities get patched, but only if you install the patch.</li>
+<li><strong>Audit connected devices twice a year.</strong> Log into the admin panel and look at the client list. If you see a device you don&rsquo;t recognize, kick it off and change your Wi-Fi password.</li>
+<li><strong>Replace routers older than 5–6 years.</strong> Manufacturers stop shipping security updates long before the hardware dies. A router from 2016 is a liability, not a bargain.</li>
+<li><strong>Watch for the &ldquo;end of support&rdquo; announcement.</strong> When your router&rsquo;s maker announces it&rsquo;s ending support, that&rsquo;s your cue to buy a new one — not a suggestion.</li>
+</ul>
+<h2 id="the-mistakes-that-undo-everything">The Mistakes That Undo Everything</h2>
+<p>Even careful people trip on these:</p>
+<ul>
+<li><strong>Reusing your Wi-Fi password elsewhere.</strong> If that password shows up in a breach, attackers try it against your router. Keep it unique.</li>
+<li><strong>Letting a roommate or guest share the main network password.</strong> Give them the guest network instead.</li>
+<li><strong>Ignoring the IoT device you bought on sale.</strong> Cheap cameras and plugs from unknown brands are the most common entry point. If it doesn&rsquo;t get firmware updates, don&rsquo;t put it on your main network.</li>
+<li><strong>Assuming your ISP&rsquo;s router is secure by default.</strong> It isn&rsquo;t. ISP-provided routers often have remote management enabled and generic admin credentials.</li>
+<li><strong>Forgetting the extender.</strong> A Wi-Fi extender has its own settings and its own password. Secure it too.</li>
+</ul>
+<h2 id="a-realistic-threat-model">A Realistic Threat Model</h2>
+<p>You are not a target of nation-state hackers. You are a target of automated scanners that sweep the entire internet looking for routers with default passwords, open UPnP, and outdated firmware. Those scans don&rsquo;t care who you are. They just want another node in a botnet.</p>
+<p>The steps above defeat the overwhelming majority of that automated traffic. You don&rsquo;t need enterprise gear. You need to change the defaults, segment your devices, keep the firmware current, and stop treating your router like an appliance you never think about again.</p>
+<p>Spend an hour this weekend. Your network will be harder to break into than 95% of the homes on your street — and you&rsquo;ll know exactly why.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-secure-your-home-wifi-a-practical-guide/">How to Secure Your Home WiFi: A Practical Guide</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-clean-your-pc-fans-in-20-minutes-or-less/">How to Clean Your PC Fans in 20 Minutes or Less</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/router-setup-in-20-minutes-a-no-nonsense-guide/">Router Setup in 20 Minutes: A No-Nonsense Guide</a></li>
+</ul>
+]]></content:encoded></item><item><title>Indoor Air Quality Monitor: What to Measure and Why</title><link>https://pengjiangwen.github.io/health/indoor-air-quality-monitor-what-to-measure-and-why/</link><pubDate>Tue, 13 Oct 2026 12:49:48 +0000</pubDate><guid>https://pengjiangwen.github.io/health/indoor-air-quality-monitor-what-to-measure-and-why/</guid><description>Learn what an indoor air quality monitor actually measures, which readings matter for health, and how to use one without wasting money on hype.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>A woman in Denver bought a $249 air quality monitor, set it on her nightstand, and spent the next two weeks anxious about a CO2 reading that hovered around 1,400 ppm every night. She slept with the door closed and the window shut. Her monitor was working perfectly. Her bedroom was simply not ventilated — and no air purifier was going to fix that, because CO2 isn&rsquo;t a particle.</p>
+<p>That story captures the single biggest problem with indoor air quality monitors: they generate numbers, and numbers generate worry, but worry isn&rsquo;t the same as knowing what to do. A monitor is a diagnostic tool, not a solution. Used well, it tells you exactly which problem you have — ventilation, filtration, humidity, or a specific source — so you spend money on the right fix instead of guessing.</p>
+<p>This guide covers what these devices actually measure, which readings have real health relevance, how to place and interpret them, and a step-by-step process for turning readings into action. No product endorsements. Just the physics and the practical decisions.</p>
+<h2 id="what-monitors-actually-measure-and-what-they-dont">What Monitors Actually Measure (and What They Don&rsquo;t)</h2>
+<p>Most consumer monitors track a subset of these:</p>
+<p><strong>Particulate matter (PM2.5 and PM10).</strong> The most health-relevant metric for most households. PM2.5 particles are 2.5 microns or smaller — small enough to reach deep into the lungs and enter the bloodstream. Sources: cooking, candles, wildfire smoke, dust, pet dander, vacuuming.</p>
+<p><strong>Carbon dioxide (CO2).</strong> A proxy for ventilation, not a pollutant of major concern at typical home levels. Outdoor air sits around 420 ppm. Well-ventilated indoor spaces stay under 800 ppm. Above 1,000 ppm, cognitive performance studies show measurable declines in decision-making tasks.</p>
+<p><strong>Volatile organic compounds (VOCs).</strong> A catch-all sensor reading, usually expressed as a relative index, not a concentration. New furniture, paint, cleaning products, air fresheners, and adhesives all off-gas VOCs. The cheap sensors in most monitors respond to some VOCs and ignore others — treat the number as directional, not diagnostic.</p>
+<p><strong>Formaldehyde.</strong> A specific VOC with real health concerns. Only higher-end monitors measure it directly. New cabinets, engineered wood, and some textiles are common sources.</p>
+<p><strong>Temperature and relative humidity.</strong> Underrated. Dust mites thrive above 50% relative humidity. Mold grows above 60%. Below 30%, you get dry eyes, irritated sinuses, and more airborne dust.</p>
+<p><strong>Radon.</strong> Almost no consumer monitor measures this, despite it being the second-leading cause of lung cancer in the US. You need a dedicated radon test — a $20–$50 kit or a professional test. Don&rsquo;t assume your air quality monitor covers it.</p>
+<p>What monitors generally <em>don&rsquo;t</em> do: identify the source, remove the pollutant, or tell you whether a reading is dangerous for your specific health situation.</p>
+<h2 id="which-readings-actually-matter-for-health">Which Readings Actually Matter for Health</h2>
+<p>Not all numbers deserve equal attention. Here&rsquo;s a practical hierarchy:</p>
+<p><strong>1. PM2.5 — highest priority.</strong> The World Health Organization guideline is an annual average of 5 µg/m³, with 24-hour exposure ideally under 15 µg/m³. During cooking, indoor PM2.5 can spike to 200–500 µg/m³ within minutes. If you only watch one number, watch this one.</p>
+<p><strong>2. Humidity — second priority.</strong> Keep indoor relative humidity between 30% and 50%. This single range controls dust mites, mold risk, and respiratory comfort simultaneously.</p>
+<p><strong>3. CO2 — third priority, but actionable.</strong> If your bedroom reads above 1,000 ppm overnight, you have a ventilation problem. Crack a window, add a door gap, or install a heat recovery ventilator if you live in a tightly sealed new build.</p>
+<p><strong>4. VOCs — useful for source-hunting.</strong> If your VOC index spikes after bringing home new furniture, that&rsquo;s a signal to ventilate that room aggressively for a few weeks.</p>
+<p><strong>5. Formaldehyde — matters if you have new pressed-wood furniture</strong> or live in a recently renovated home.</p>
+<p>A monitor that reports all five accurately costs more than one that reports three well. A $150 monitor with a good PM2.5 sensor and a mediocre VOC sensor beats a $90 monitor with five unreliable sensors.</p>
+<h2 id="sensor-quality-where-cheap-monitors-fail">Sensor Quality: Where Cheap Monitors Fail</h2>
+<p>The sensor is the whole device. Two things separate good from bad:</p>
+<p><strong>PM sensors</strong> use either laser scattering (accurate, $15–$40 component cost) or infrared scattering (cheap, poor at small particles). If a monitor doesn&rsquo;t specify laser/LED scattering, assume infrared.</p>
+<p><strong>CO2 sensors</strong> use either NDIR (non-dispersive infrared — accurate, $20–$50 component) or eCO2 estimation (a guess derived from VOC readings). Many budget monitors advertise &ldquo;CO2&rdquo; but actually report eCO2. That number can be off by 500 ppm or more. If the spec sheet doesn&rsquo;t say NDIR, it&rsquo;s probably eCO2.</p>
+<p><strong>Calibration drift</strong> is real. NDIR CO2 sensors should be recalibrated every 6–12 months, usually by placing the device outdoors in fresh air for 20 minutes. PM sensors need occasional cleaning of the intake fan. Skip maintenance and your readings slowly become fiction.</p>
+<p>A practical rule: if a monitor costs under $80 and claims to measure CO2, VOCs, formaldehyde, and PM2.5, at least two of those readings are estimates.</p>
+<h2 id="placement-the-most-common-mistake">Placement: The Most Common Mistake</h2>
+<p>People put monitors on a shelf next to a scented candle, or six inches from a humidifier, then wonder why readings are erratic.</p>
+<p><strong>Do this instead:</strong></p>
+<ul>
+<li><strong>Height matters.</strong> Place monitors at breathing height — roughly 3 to 5 feet off the floor, ideally where you sit or sleep.</li>
+<li><strong>Away from direct sources.</strong> Keep at least 3 feet from candles, stoves, diffusers, humidifiers, and windows that open.</li>
+<li><strong>Away from vents and fans.</strong> HVAC registers and fans create turbulence that skews readings.</li>
+<li><strong>One per zone, not one per home.</strong> A monitor in the living room tells you nothing about the bedroom you sleep in for eight hours. Bedrooms and kitchens are the two highest-value locations.</li>
+<li><strong>Don&rsquo;t seal it in a cabinet.</strong> Obvious, but people do it to hide the cable.</li>
+</ul>
+<p>If you can only afford one monitor, put it in the bedroom first. You spend a third of your life there, and ventilation problems show up most clearly overnight.</p>
+<h2 id="a-step-by-step-process-for-using-your-monitor">A Step-by-Step Process for Using Your Monitor</h2>
+<p>Here&rsquo;s a workflow that turns readings into decisions.</p>
+<p><strong>Step 1: Baseline for 72 hours.</strong> Don&rsquo;t change anything. Record typical readings in each room at three times: morning, evening, and after cooking. Write them down. You need a baseline before you can judge an intervention.</p>
+<p><strong>Step 2: Identify the worst metric.</strong> Is PM2.5 spiking during cooking? Is CO2 climbing overnight? Is humidity sitting at 65%? Pick the single worst problem.</p>
+<p><strong>Step 3: Test one intervention at a time.</strong></p>
+<ul>
+<li>For PM2.5 spikes from cooking: run the range hood on high, and if you don&rsquo;t have one that vents outside, open a window and use a portable HEPA purifier. Re-measure. A good purifier should cut PM2.5 by 50–80% in a closed room within 30 minutes.</li>
+<li>For overnight CO2: crack the bedroom window 1–2 inches, or leave the door open. Re-measure the next morning. You&rsquo;re looking for a drop of 300+ ppm.</li>
+<li>For high humidity: run a dehumidifier or increase ventilation. Target 40–50%.</li>
+<li>For VOC spikes after new furniture: ventilate the room with a fan pointed out a window for 2–3 weeks. Formaldehyde off-gassing declines over time but can take months.</li>
+</ul>
+<p><strong>Step 4: Verify with a second measurement.</strong> One good reading isn&rsquo;t proof. Confirm the change holds for at least three days.</p>
+<p><strong>Step 5: Recheck seasonally.</strong> Winter (sealed windows, heating) and summer (AC, closed windows) produce very different indoor air. A problem that disappears in spring can return in November.</p>
+<h2 id="what-to-do-with-the-data-and-what-not-to">What to Do With the Data (and What Not To)</h2>
+<p><strong>Do:</strong></p>
+<ul>
+<li>Treat trends as more important than single readings. A PM2.5 of 35 that drops to 8 after you run a purifier tells you the purifier works.</li>
+<li>Use CO2 as a ventilation signal, not a toxicity alarm.</li>
+<li>Cross-check with a second device if a reading seems implausible. Two cheap monitors agreeing is stronger evidence than one expensive one.</li>
+</ul>
+<p><strong>Don&rsquo;t:</strong></p>
+<ul>
+<li>Panic over a single spike. Burning toast can push PM2.5 past 300 for ten minutes. Ventilate and move on.</li>
+<li>Assume a &ldquo;good&rdquo; air quality index means your air is clean. Most consumer indices are weighted toward whichever sensor the manufacturer prioritized.</li>
+<li>Buy a monitor instead of fixing an obvious problem. If you can smell mold, you don&rsquo;t need a sensor to tell you something&rsquo;s wrong.</li>
+<li>Ignore radon. Order a test kit. It&rsquo;s cheap and it&rsquo;s the one thing your monitor almost certainly can&rsquo;t see.</li>
+</ul>
+<h2 id="the-bottom-line-on-buying-and-using-one">The Bottom Line on Buying and Using One</h2>
+<p>A monitor is worth owning if you&rsquo;re willing to act on what it tells you. The most useful configuration for most homes is a device with a real laser PM2.5 sensor, an NDIR CO2 sensor, and humidity — placed in the bedroom, with a second unit in the kitchen if budget allows. Expect to spend $120–$250 for that combination. Anything cheaper is likely estimating at least one key metric.</p>
+<p>Then use it the way a mechanic uses a diagnostic scanner: to find the problem, fix it, and confirm the fix worked. The number on the screen isn&rsquo;t the point. The open window, the running range hood, and the dehumidifier set to 45% are the point.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/health/air-purifiers-for-better-breathing-a-practical-guide/">Air Purifiers for Better Breathing: A Practical Guide</a></li>
+<li><a href="https://pengjiangwen.github.io/health/healthy-smartphone-habits-a-30-day-reset-guide/">Healthy Smartphone Habits: A 30-Day Reset Guide</a></li>
+<li><a href="https://pengjiangwen.github.io/health/best-vitamins-for-energy-and-brain-focus/">Best Vitamins for Energy and Brain Focus</a></li>
+</ul>
+]]></content:encoded></item><item><title>How to Clean a Laptop Keyboard Without Breaking It</title><link>https://pengjiangwen.github.io/tech/how-to-clean-a-laptop-keyboard-without-breaking-it/</link><pubDate>Tue, 13 Oct 2026 12:31:22 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-clean-a-laptop-keyboard-without-breaking-it/</guid><description>Learn how to clean a laptop keyboard safely with tools you already own, plus fixes for sticky keys, crumbs, and spills.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Last month a client handed me a laptop with a spacebar that only registered one out of every four presses. She&rsquo;d been living with it for six weeks because she assumed the keyboard was failing and a repair would cost $120. It wasn&rsquo;t failing. A single popcorn kernel fragment had wedged under the keycap and was blocking the scissor mechanism underneath. Ten minutes with a can of compressed air and a plastic spudger fixed it, and she didn&rsquo;t pay me anything because I was already there for a software issue.</p>
 <p>That story repeats constantly. Most laptop keyboards don&rsquo;t break from use. They break from what falls into them, and most of what falls in can be removed at home with the right technique. The catch is that laptop keyboards are not desktop keyboards. You can&rsquo;t yank a keycap off a MacBook the way you can on a $40 mechanical board and expect it to snap back. The tolerances are tighter, the mechanisms are thinner, and one wrong move turns a cleaning job into a $200 top-case replacement.</p>
 <p>This guide covers what actually works, what quietly destroys keyboards, and how to handle the two situations that scare people most: sticky keys and liquid spills.</p>
@@ -626,6 +798,7 @@ If privacy and email aliases matter most: <strong>Proton Pass</strong>.</p>
 <p>Your WiFi is the perimeter of your digital life. Treat the router like the front door it is — lock it, check it occasionally, and don&rsquo;t hand out keys you can&rsquo;t track.</p>
 <h2 id="related-reading">Related Reading</h2>
 <ul>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-secure-your-home-network-a-practical-guide/">How to Secure Your Home Network: A Practical Guide</a></li>
 <li><a href="https://pengjiangwen.github.io/tech/how-to-clean-your-pc-fans-in-20-minutes-or-less/">How to Clean Your PC Fans in 20 Minutes or Less</a></li>
 <li><a href="https://pengjiangwen.github.io/tech/fix-slow-internet-speed-15-fixes-that-actually-work/">Fix Slow Internet Speed: 15 Fixes That Actually Work</a></li>
 <li><a href="https://pengjiangwen.github.io/tech/how-to-fix-a-slow-internet-connection-12-real-solutions/">How to Fix a Slow Internet Connection: 12 Real Solutions</a></li>
@@ -14662,6 +14835,10 @@ TAGS: sustainable living, green gadgets, eco tech, zero waste, energy saving</p>
 <p>An air purifier is not a magic bullet. It’s a tool that works only when sized correctly, placed thoughtfully, and maintained diligently. I’ve seen people spend $500 on a unit and get zero benefit because they put it behind a curtain. I’ve also seen $150 units transform a room when used properly.</p>
 <p>Start with the bedroom. Measure your room, buy a True HEPA unit with a CADR that matches your square footage, place it in the open, and maintain the filters. Give it two weeks. Check your air quality monitor and your symptoms. That’s the data that matters.</p>
 <p>Your lungs do the work every second of every day. The least you can do is give them clean air to work with.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/health/indoor-air-quality-monitor-what-to-measure-and-why/">Indoor Air Quality Monitor: What to Measure and Why</a></li>
+</ul>
 ]]></content:encoded></item><item><title>Healthy Smartphone Habits: A 30-Day Reset Guide</title><link>https://pengjiangwen.github.io/health/healthy-smartphone-habits-a-30-day-reset-guide/</link><pubDate>Fri, 04 Sep 2026 02:15:00 +0000</pubDate><guid>https://pengjiangwen.github.io/health/healthy-smartphone-habits-a-30-day-reset-guide/</guid><description>Learn to break free from doomscrolling with a practical 30-day framework. Reduce screen time, boost focus, and reclaim your attention without going cold turkey.</description><content:encoded><![CDATA[<p>TITLE: Healthy Smartphone Habits: A 30-Day Reset Guide</p>
 <p>DESCRIPTION: Learn to break free from doomscrolling with a practical 30-day framework. Reduce screen time, boost focus, and reclaim your attention without going cold turkey.</p>
 <p>TAGS: digital wellbeing, smartphone addiction, healthy habits, screen time reduction, mental health</p>
