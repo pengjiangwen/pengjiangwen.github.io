@@ -2,27 +2,37 @@
 """Count how many article pages Google has indexed, using the
 Google Search Console URL Inspection API.
 
-Requires a service account (JSON key) that has been added as a user of the
-Search Console property. The key is read from GSC_SERVICE_ACCOUNT_JSON.
+Requires a service account (JSON key) added as a user of the Search Console
+property. The key is read from GSC_SERVICE_ACCOUNT_JSON.
 
-Writes INDEXED_COUNT=<n> to $GITHUB_ENV (or prints it when run locally).
-Silently skips (exit 0) if credentials are missing.
+The URL Inspection API is rate limited (about 600 requests/minute), so we use
+a small number of workers plus a delay, and retry transient failures with
+backoff.
+
+Writes INDEXED_COUNT / INDEXED_FAILED / GSC_ERRORS to $GITHUB_ENV
+(or prints them when run locally). Skips silently if credentials are missing.
 """
 import json
 import os
+import socket
 import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+socket.setdefaulttimeout(30)
+
 BASE_URL = os.environ.get("SITE_BASE_URL", "https://pengjiangwen.github.io").rstrip("/")
 SITE_URL = os.environ.get("GSC_SITE_URL", BASE_URL + "/").strip()
 CREDS_JSON = os.environ.get("GSC_SERVICE_ACCOUNT_JSON", "").strip()
-MAX_WORKERS = int(os.environ.get("GSC_WORKERS", "10"))
+MAX_WORKERS = int(os.environ.get("GSC_WORKERS", "2"))
+REQUEST_DELAY = float(os.environ.get("GSC_DELAY", "0.5"))
+MAX_RETRIES = int(os.environ.get("GSC_RETRIES", "3"))
 SCOPES = ["https://www.googleapis.com/auth/webmasters.readonly"]
 
 _local = threading.local()
 _CREDS = None
+_ERRORS = []
 
 
 def article_urls():
@@ -40,24 +50,36 @@ def get_service():
     return service
 
 
+def inspect_once(url):
+    resp = (
+        get_service()
+        .urlInspection()
+        .index()
+        .inspect(body={"inspectionUrl": url, "siteUrl": SITE_URL})
+        .execute(num_retries=0)
+    )
+    state = (
+        resp.get("inspectionResult", {})
+        .get("indexStatusResult", {})
+        .get("coverageState", "")
+    )
+    low = state.lower()
+    return "indexed" in low and "not indexed" not in low
+
+
 def is_indexed(url):
-    try:
-        resp = (
-            get_service()
-            .urlInspection()
-            .index()
-            .inspect(body={"inspectionUrl": url, "siteUrl": SITE_URL})
-            .execute(num_retries=0)
-        )
-        state = (
-            resp.get("inspectionResult", {})
-            .get("indexStatusResult", {})
-            .get("coverageState", "")
-        )
-        low = state.lower()
-        return "indexed" in low and "not indexed" not in low
-    except Exception:
-        return None
+    last_error = None
+    for attempt in range(MAX_RETRIES):
+        try:
+            return inspect_once(url)
+        except Exception as exc:
+            last_error = " ".join(str(exc).split())[:200]
+            time.sleep(1.0 * (attempt + 1))  # backoff on 429 / transient errors
+        finally:
+            time.sleep(REQUEST_DELAY)
+    if last_error and last_error not in _ERRORS and len(_ERRORS) < 5:
+        _ERRORS.append(last_error)
+    return None
 
 
 def main() -> None:
@@ -84,11 +106,14 @@ def main() -> None:
     indexed = sum(1 for r in results if r is True)
     failed = sum(1 for r in results if r is None)
     print(f"Checked {len(urls)} pages in {time.time() - start:.0f}s | indexed: {indexed} | failed: {failed}")
+    if _ERRORS:
+        print("Sample errors:", _ERRORS)
 
     if "GITHUB_ENV" in os.environ:
         with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as fh:
             fh.write(f"INDEXED_COUNT={indexed}\n")
             fh.write(f"INDEXED_FAILED={failed}\n")
+            fh.write(f"GSC_ERRORS={' || '.join(_ERRORS)}\n")
     else:
         print(f"INDEXED_COUNT={indexed}")
         print(f"INDEXED_FAILED={failed}")

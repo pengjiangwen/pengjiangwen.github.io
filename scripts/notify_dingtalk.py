@@ -45,6 +45,7 @@ def build_message() -> dict:
     total = os.environ.get("TOTAL_ARTICLES", "?").strip()
     indexed = os.environ.get("INDEXED_COUNT", "").strip()
     failed = os.environ.get("INDEXED_FAILED", "").strip()
+    gsc_errors = os.environ.get("GSC_ERRORS", "").strip()
     items = [t.strip() for t in os.environ.get("NEW_ITEMS", "").split("\n") if t.strip()]
 
     if status == "success":
@@ -61,8 +62,12 @@ def build_message() -> dict:
         lines.append("")
         lines.append(f"**网站文章总数**：{total} 篇")
         if indexed:
-            suffix = f"（另有 {failed} 页查询失败）" if failed not in ("", "0") else ""
-            lines.append(f"**Google 已收录**：{indexed} 页{suffix}")
+            if failed not in ("", "0"):
+                lines.append(f"**Google 已收录**：{indexed} 页（{failed} 页查询失败，可能有遗漏）")
+            else:
+                lines.append(f"**Google 已收录**：{indexed} 页")
+        if gsc_errors and failed not in ("", "0"):
+            lines.append(f"**GSC 错误**：{gsc_errors[:220]}")
         lines.append("")
         lines.append(f"[查看运行日志]({RUN_URL})")
     else:
