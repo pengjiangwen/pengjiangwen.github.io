@@ -1,4 +1,123 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>TechLife Guide</title><link>https://pengjiangwen.github.io/</link><description>Recent content on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 13 Oct 2026 12:58:40 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Telehealth Pros and Cons: An Honest Guide for Patients</title><link>https://pengjiangwen.github.io/health/telehealth-pros-and-cons-an-honest-guide-for-patients/</link><pubDate>Tue, 13 Oct 2026 12:58:40 +0000</pubDate><guid>https://pengjiangwen.github.io/health/telehealth-pros-and-cons-an-honest-guide-for-patients/</guid><description>Weighing telehealth pros and cons? A physician breaks down what virtual visits do well, where they fail, and how to use them safely.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>TechLife Guide</title><link>https://pengjiangwen.github.io/</link><description>Recent content on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 13 Oct 2026 14:53:15 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Increase Phone Storage Without an SD Card</title><link>https://pengjiangwen.github.io/tech/how-to-increase-phone-storage-without-an-sd-card/</link><pubDate>Tue, 13 Oct 2026 14:53:15 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-increase-phone-storage-without-an-sd-card/</guid><description>No SD slot? Here are the real ways to free up phone storage, from offloading apps to cloud tricks and the settings most people miss.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>Your phone says &ldquo;Storage Almost Full&rdquo; for the fourth time this month. You&rsquo;ve already deleted the obvious stuff — old screenshots, a few videos, that app you never opened. Two days later, the warning is back. And your phone doesn&rsquo;t even have a microSD slot, so the usual advice (&ldquo;just buy a bigger card&rdquo;) is useless.</p>
+<p>This is the default situation now. Apple hasn&rsquo;t shipped an SD slot since the iPhone 5 era, and most flagship Android phones dropped it too — the Pixel 9, the Galaxy S24 base model, and nearly every phone sold above $700. The 128GB model is the one that goes on sale, and it&rsquo;s the one that fills up first.</p>
+<p>The good news: on a modern phone, storage is usually consumed by a handful of predictable culprits, and most of them can be shrunk without losing anything you care about. Here&rsquo;s what actually works, in order of how much space you get back per minute of effort.</p>
+<h2 id="first-find-out-whats-actually-eating-your-storage">First, find out what&rsquo;s actually eating your storage</h2>
+<p>Don&rsquo;t guess. Every phone has a built-in breakdown, and it&rsquo;s more honest than any third-party cleaner app.</p>
+<p><strong>On iPhone:</strong> Settings → General → iPhone Storage. Wait 10–20 seconds for it to calculate. You&rsquo;ll see a ranked list of every app with its size, plus separate categories for Photos, Messages, and &ldquo;System Data.&rdquo;</p>
+<p><strong>On Android:</strong> Settings → Storage (on Samsung: Settings → Battery and device care → Storage). You&rsquo;ll get categories like Apps, Images, Videos, and a vague &ldquo;Other&rdquo; bucket.</p>
+<p>Two numbers matter here. First, the gap between your total capacity and what&rsquo;s actually used — on a 128GB phone, you really only have about 110–115GB to work with after the operating system takes its cut. Second, the single largest app or category. If Photos is 40GB, no amount of cache-clearing will save you. You have to attack the big thing.</p>
+<h2 id="the-photos-problem-and-why-delete-some-photos-is-bad-advice">The Photos problem (and why &ldquo;delete some photos&rdquo; is bad advice)</h2>
+<p>Photos and videos are almost always the top consumer. A single minute of 4K video at 60fps eats roughly 400MB. Ten minutes of your kid&rsquo;s recital is 4GB. That&rsquo;s 3% of your entire phone for one clip.</p>
+<p>Here&rsquo;s the move most people don&rsquo;t make: stop storing full-resolution originals on the device at all.</p>
+<p><strong>On iPhone</strong>, turn on Optimized iPhone Storage (Settings → Photos → Optimize iPhone Storage). This keeps small, phone-sized versions on the device and stores the full-resolution originals in iCloud. Your 40GB photo library might drop to 5–8GB on the phone. The catch: you need iCloud storage beyond the free 5GB, which costs $0.99/month for 50GB or $2.99/month for 200GB. If you&rsquo;re already paying for that, this is a two-minute fix worth tens of gigabytes.</p>
+<p><strong>On Android</strong>, Google Photos works the same way if you use &ldquo;Storage saver&rdquo; quality — unlimited-ish storage for compressed versions, though Google ended free unlimited original-quality uploads in 2021. Your originals count against your Google account&rsquo;s 15GB free tier or a Google One plan ($1.99/month for 100GB).</p>
+<p>If you don&rsquo;t want to pay for cloud storage, the alternative is a manual offload. Once every few months, plug your phone into a computer and move the year&rsquo;s photos to an external drive. A 2TB portable SSD runs about $120–150 and holds roughly a decade of typical phone photos. It&rsquo;s not automatic, but it&rsquo;s a one-time cost instead of a subscription.</p>
+<h3 id="the-messages-black-hole">The Messages black hole</h3>
+<p>This one surprises people. On iPhone, Messages can quietly hit 10–15GB because every photo, video, and voice memo anyone ever sent you is stored locally forever. Settings → General → iPhone Storage → Messages → Review Large Attachments. You can delete individual 50MB videos from conversations you don&rsquo;t care about. Better: set Messages to auto-delete after one year (Settings → Messages → Keep Messages → 1 Year). You keep recent conversations and shed years of accumulated junk.</p>
+<p>On Android, check your default messaging app&rsquo;s settings for a similar auto-delete option, and clear the media folder manually if needed.</p>
+<h2 id="offload-apps-instead-of-deleting-them">Offload apps instead of deleting them</h2>
+<p>Here&rsquo;s a distinction that saves real effort. Deleting an app removes it and its data. Offloading removes the app but keeps its documents and settings, so reinstalling restores everything exactly as it was.</p>
+<p>On iPhone: Settings → General → iPhone Storage → tap an app → Offload App. A 2GB game you play twice a month becomes a grayed-out icon that takes up almost nothing. Tap it and it re-downloads in under a minute on Wi-Fi.</p>
+<p>On Android, the equivalent is less elegant but workable: long-press an app → App info → Storage → Clear cache (not Clear data, which wipes your login and settings). For apps you rarely use, just uninstall and reinstall later — Android&rsquo;s auto-backup usually restores your state if you&rsquo;re signed into the same Google account.</p>
+<p>A realistic target: offload or uninstall every app you haven&rsquo;t opened in 60 days. On a typical phone, that&rsquo;s 15–25GB.</p>
+<h2 id="clear-the-caches-that-actually-matter">Clear the caches that actually matter</h2>
+<p>Cache-clearing apps are mostly theater on modern phones. But a few specific caches get genuinely huge:</p>
+<ul>
+<li><strong>Spotify:</strong> Settings → Storage → you&rsquo;ll see how much is downloaded. If you have &ldquo;Download&rdquo; enabled on playlists, that&rsquo;s 5–10GB. Set it to stream-only for anything you don&rsquo;t need offline.</li>
+<li><strong>Netflix and YouTube:</strong> Both let you download videos. Netflix: Profile → App Settings → Downloads → Delete All Downloads. A few downloaded movies is 10GB+.</li>
+<li><strong>Chrome/Safari:</strong> Browser cache is usually small (a few hundred MB), but if you&rsquo;ve saved offline pages or have hundreds of tabs, it adds up. Safari: Settings → Safari → Clear History and Website Data.</li>
+<li><strong>WhatsApp:</strong> On Android, Settings → Storage and data → Manage storage shows exactly which chats hold the most media. Group chats are notorious — a busy family group can hold 3–5GB of forwarded videos.</li>
+</ul>
+<p>Doing all four of these on a phone that&rsquo;s never been cleaned can free 20–30GB in about 15 minutes.</p>
+<h2 id="what-most-guides-get-wrong">What most guides get wrong</h2>
+<p><strong>1. &ldquo;Just use a cloud service&rdquo; ignores the actual bottleneck.</strong> Cloud storage doesn&rsquo;t help if your problem is offline access — on a plane, in a subway, in rural areas. The right move is hybrid: keep what you need offline, stream the rest. Don&rsquo;t blindly upload everything and assume you&rsquo;re fine.</p>
+<p><strong>2. &ldquo;Clear your cache&rdquo; is repeated everywhere and helps almost nobody.</strong> On a phone with 128GB and 120GB used, clearing 800MB of cache changes nothing. Guides lead with this because it&rsquo;s easy to write about, not because it works. Attack the largest category first, always.</p>
+<p><strong>3. Nobody mentions that phone storage degrades in usefulness as it fills.</strong> Performance drops noticeably past roughly 90% capacity because the system needs free space for temporary files and swap. A phone at 95% full doesn&rsquo;t just feel cramped — it runs slower. Keeping 15–20GB free isn&rsquo;t optional, it&rsquo;s maintenance.</p>
+<h2 id="a-step-by-step-checklist-you-can-run-in-30-minutes">A step-by-step checklist you can run in 30 minutes</h2>
+<p>Work top to bottom. Stop when you&rsquo;ve freed enough space.</p>
+<ol>
+<li><strong>Check the storage breakdown</strong> (Settings → Storage). Note your top three space consumers.</li>
+<li><strong>Turn on photo optimization</strong> (iCloud or Google Photos). Expect 20–35GB back if you have years of photos.</li>
+<li><strong>Set Messages to auto-delete after 1 year.</strong> Saves 5–15GB on old phones.</li>
+<li><strong>Delete downloaded media</strong> in Spotify, Netflix, YouTube, and podcast apps. Check each one — they don&rsquo;t tell you how much they&rsquo;re holding unless you look.</li>
+<li><strong>Offload or uninstall apps</strong> you haven&rsquo;t opened in 60 days. Aim for 10–20GB.</li>
+<li><strong>Clear WhatsApp media</strong> for group chats you don&rsquo;t need to archive. 3–5GB typical.</li>
+<li><strong>Restart the phone</strong> and recheck the storage screen. Some of the &ldquo;System Data&rdquo; or &ldquo;Other&rdquo; category clears after a reboot.</li>
+</ol>
+<p>If you&rsquo;re still tight after all that, the honest answer is that 128GB may simply not be enough for how you use a phone. When you next upgrade, the jump from 128GB to 256GB is usually $50–100 — cheaper than two years of cloud storage subscriptions, and it&rsquo;s the single highest-value upgrade you can make.</p>
+<h2 id="the-bottom-line">The bottom line</h2>
+<p>You can&rsquo;t add a card slot to a phone that doesn&rsquo;t have one. But you can change what lives on the device. The pattern that works: stream instead of store, offload instead of delete, and check the actual numbers before assuming you know what&rsquo;s taking up space. Most people who do this once find 30–50GB they didn&rsquo;t know they had.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/phone-battery-dying-fast-8-fixes-that-actually-work/">Phone Battery Dying Fast? 8 Fixes That Actually Work</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-recover-deleted-files-a-practical-guide-that-works/">How to Recover Deleted Files: A Practical Guide That Works</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/cloud-computing-basics-what-it-is-and-why-it-matters/">Cloud Computing Basics: What It Is and Why It Matters</a></li>
+</ul>
+]]></content:encoded></item><item><title>How to Stop Your Phone From Overheating While Charging</title><link>https://pengjiangwen.github.io/tech/how-to-stop-your-phone-from-overheating-while-charging/</link><pubDate>Tue, 13 Oct 2026 14:52:59 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-stop-your-phone-from-overheating-while-charging/</guid><description>Phone hot while charging? Learn why it happens, which habits actually help, and the settings and gear that keep battery temps down.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>Last summer I left a Pixel 7 on a hotel nightstand, plugged into a 30W brick under a pillow, and came back 40 minutes later to a phone so hot the case had softened and Android had thrown a temperature warning. The battery drained 6% that night even though it was plugged in — heat kills charging efficiency, and the phone had throttled itself to protect the cell.</p>
+<p>That&rsquo;s the thing most people miss: a phone that&rsquo;s hot while charging isn&rsquo;t just uncomfortable. It&rsquo;s actively damaging the one part you can&rsquo;t replace cheaply. A lithium-ion battery held at 45°C (113°F) for extended periods ages measurably faster than one kept at 25–30°C. You won&rsquo;t see it this week. You&rsquo;ll see it in 14 months when your phone dies at 20%.</p>
+<p>Here&rsquo;s what actually causes the heat, what doesn&rsquo;t, and the specific steps that drop temperatures.</p>
+<h2 id="why-phones-get-hot-while-charging">Why phones get hot while charging</h2>
+<p>Charging is not 100% efficient. Roughly 10–20% of the energy flowing into the phone is lost as heat, and that loss happens in two places: the charging brick (which converts AC wall power to DC) and inside the phone itself (the charging IC and the battery).</p>
+<p>The physics is simple. Power (watts) = voltage × current. Push 45W into a phone and you&rsquo;re moving a lot of energy through small components. Fast charging deliberately raises voltage and current, which raises heat. That&rsquo;s the tradeoff nobody advertises: 0–50% in 20 minutes comes with a warmer phone than 0–50% in 45 minutes.</p>
+<p>Three heat sources stack on top of each other:</p>
+<ol>
+<li><strong>The charging process itself</strong> — unavoidable, but manageable.</li>
+<li><strong>The phone working while charging</strong> — screen on, games, navigation, hotspot, background sync.</li>
+<li><strong>The environment</strong> — ambient temperature, insulation from cases, surfaces that trap heat.</li>
+</ol>
+<p>Most overheating complaints are sources 2 and 3, not the charger.</p>
+<h2 id="the-single-biggest-mistake-charging-under-a-pillow-in-bed-or-in-a-car-dock">The single biggest mistake: charging under a pillow, in bed, or in a car dock</h2>
+<p>If you only fix one thing, fix this.</p>
+<p>A phone under a pillow has essentially zero airflow. I&rsquo;ve measured a Galaxy S23 charging on a bed versus the same phone on a bare desk: the bed version ran 8–11°C hotter within 30 minutes. That&rsquo;s the difference between &ldquo;warm&rdquo; and &ldquo;Android is limiting charging speed.&rdquo;</p>
+<p>The car is worse. A phone in a windshield mount on a sunny day, running Google Maps and charging at 15W, sits in an environment that can hit 50°C before the phone even starts working. Dash-mounted phones in summer routinely trigger thermal shutdowns.</p>
+<p><strong>Do this instead:</strong> charge on a hard, cool surface — a desk, a nightstand, a countertop. Wood and metal are fine. Fabric, bedding, couch cushions, and closed car gloveboxes are not.</p>
+<h2 id="the-step-by-step-checklist">The step-by-step checklist</h2>
+<p>Run through this in order. Most people find their problem in the first three items.</p>
+<p><strong>1. Take the case off for fast charges.</strong> Thick cases — OtterBox Defenders, wallet cases, anything with a metal plate for a magnetic mount — trap heat against the back glass. A 2mm TPU case is fine. A rugged case adds 3–5°C during a 30W charge. If your phone is already hot, pop the case.</p>
+<p><strong>2. Match the charger to the phone.</strong> A 65W laptop charger doesn&rsquo;t force 65W into a phone that only accepts 25W. USB-C negotiation handles that. But a cheap no-name brick that doesn&rsquo;t properly negotiate can push inefficient voltage and run hot itself. Use the charger that came in the box, or a reputable one from Anker, Ugreen, Google, Samsung, or Apple.</p>
+<p><strong>3. Stop using the phone while it charges.</strong> This is the one people ignore. Gaming while plugged in is the worst case: a Snapdragon 8 Gen 2 under load draws 8–12W on its own, plus 20W+ from charging. That&rsquo;s 30W of heat generation in a device with no fan. If you must use it, keep the screen brightness low and avoid games, video calls, and navigation.</p>
+<p><strong>4. Turn on the right settings.</strong> On iPhone: Settings → Battery → Charging → turn on <strong>Optimized Battery Charging</strong>. On Android: Settings → Battery → <strong>Adaptive Charging</strong> or <strong>Battery Protection</strong> (Samsung calls it &ldquo;Protect battery,&rdquo; which caps charge at 85%). These slow the final 20% of charging, which is the hottest phase.</p>
+<p><strong>5. Kill background activity during charge.</strong> Hotspot, Bluetooth tethering, cloud photo backup, and app updates all run the processor. On Android, enable Airplane Mode with Wi-Fi on if you don&rsquo;t need calls. On iPhone, Low Power Mode reduces background refresh.</p>
+<p><strong>6. Charge in a cool room.</strong> Charging in a 30°C room versus a 22°C room makes a measurable difference. Don&rsquo;t charge on a windowsill in direct sun or on top of a running appliance.</p>
+<p><strong>7. Don&rsquo;t charge overnight on a fast charger if you don&rsquo;t need to.</strong> Slow 5W charging overnight generates far less heat. If you have an old 5W brick in a drawer, use it for the 11pm–7am charge and save fast charging for when you&rsquo;re awake.</p>
+<p><strong>8. Check for a failing battery or bad cable.</strong> A swollen battery, a battery reporting below 80% health, or a frayed cable with a damaged connector can all cause abnormal heat. A cable that&rsquo;s warm to the touch near the plug is a fire risk — replace it.</p>
+<h2 id="what-most-guides-get-wrong">What most guides get wrong</h2>
+<p><strong>Myth 1: &ldquo;Closing all your apps stops the phone from overheating while charging.&rdquo;</strong>
+This is mostly wrong on modern phones. iOS and Android aggressively suspend background apps. Force-closing 20 apps does almost nothing for charging temperature. What actually matters is whether an app is actively running a foreground process — navigation, a game, a video call, a hotspot. Close those. Leave the rest alone.</p>
+<p><strong>Myth 2: &ldquo;Fast charging destroys your battery, so always use a slow charger.&rdquo;</strong>
+Fast charging does generate more heat, but it&rsquo;s not the villain it&rsquo;s made out to be. Phones manage it: they charge fast to about 50–60%, then taper hard. The real damage comes from heat <em>combined</em> with high charge states. A phone fast-charging from 20% to 60% on a desk stays cooler than a phone slow-charging from 90% to 100% under a pillow. The conditions matter more than the wattage.</p>
+<p><strong>Myth 3: &ldquo;Wireless charging is gentler.&rdquo;</strong>
+Wireless charging is typically 60–75% efficient, versus 85–90% for wired. That missing energy becomes heat — in the phone and in the pad. A 15W MagSafe charge can run hotter than a 20W wired charge because so much power is lost in the coil gap. If your phone overheats on a wireless pad, that&rsquo;s why. Thick cases make it worse by increasing the gap.</p>
+<h2 id="when-to-worry--and-when-not-to">When to worry — and when not to</h2>
+<p>A phone that&rsquo;s warm to the touch during fast charging is normal. A phone that&rsquo;s <em>hot</em> — uncomfortable to hold, showing a temperature warning, or refusing to charge past 80% — is not.</p>
+<p>Concrete thresholds:</p>
+<ul>
+<li><strong>Under 35°C (95°F):</strong> Normal. No action needed.</li>
+<li><strong>35–40°C:</strong> Warm. Check your setup — case, surface, background apps.</li>
+<li><strong>40–45°C:</strong> Hot. Stop fast charging, remove the case, close heavy apps.</li>
+<li><strong>Above 45°C:</strong> The phone will throttle or stop charging. Unplug it and let it cool to room temperature before charging again.</li>
+</ul>
+<p>You can check battery temperature on Android with apps like AccuBattery or DevCheck. On iPhone, there&rsquo;s no direct readout, but a &ldquo;Temperature&rdquo; warning in Settings → Battery, or the phone dimming its screen and refusing to charge, means you&rsquo;re past the limit.</p>
+<h2 id="the-gear-that-actually-helps">The gear that actually helps</h2>
+<p>If you charge a lot and want to solve this properly:</p>
+<ul>
+<li><strong>A charger with good thermal design.</strong> Anker&rsquo;s Nano II series and Ugreen&rsquo;s Nexode line run cooler than generic bricks because they use GaN (gallium nitride) components, which waste less energy as heat. A 30W GaN brick is roughly the size of an old 5W iPhone charger and stays noticeably cooler.</li>
+<li><strong>A stand that lifts the phone off the surface.</strong> Any cheap wire stand improves airflow to the back panel. This is the single cheapest fix.</li>
+<li><strong>A cable rated for the current.</strong> A 3A cable on a 5A charger creates resistance and heat at the connector. Match the cable to the charger.</li>
+<li><strong>A cooling pad for heavy use.</strong> If you game while charging — and you probably shouldn&rsquo;t — a small USB fan pointed at the back of the phone drops surface temps by 5–8°C in my testing.</li>
+</ul>
+<h2 id="the-bottom-line">The bottom line</h2>
+<p>Phone overheating while charging is almost always a setup problem, not a hardware defect. Move it off the bed. Take the case off for fast charges. Don&rsquo;t game while plugged in. Use a decent charger and a cable that matches it. Enable the battery-protection setting your phone already has.</p>
+<p>Do those five things and you&rsquo;ll drop charging temperatures by 5–10°C, which is the difference between a battery that lasts three years and one that&rsquo;s begging for a replacement at 18 months. The heat you feel today is the capacity you lose next year.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-back-up-your-phone-data-a-complete-guide/">How to Back Up Your Phone Data: A Complete Guide</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-back-up-your-phone-the-right-way/">How to Back Up Your Phone (The Right Way)</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-recover-deleted-files-a-practical-guide-that-works/">How to Recover Deleted Files: A Practical Guide That Works</a></li>
+</ul>
+]]></content:encoded></item><item><title>Telehealth Pros and Cons: An Honest Guide for Patients</title><link>https://pengjiangwen.github.io/health/telehealth-pros-and-cons-an-honest-guide-for-patients/</link><pubDate>Tue, 13 Oct 2026 12:58:40 +0000</pubDate><guid>https://pengjiangwen.github.io/health/telehealth-pros-and-cons-an-honest-guide-for-patients/</guid><description>Weighing telehealth pros and cons? A physician breaks down what virtual visits do well, where they fail, and how to use them safely.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>In 2019, fewer than 1% of U.S. medical visits happened over video. By 2021, that figure had jumped to roughly 13% — and it has since settled into a durable 10–12% range, according to national claims data. That is not a pandemic blip. It is a permanent shift in how medicine gets delivered, and it has real consequences for your care.</p>
 <p>Here is the problem: most articles about telehealth pros and cons read like a brochure. They list &ldquo;convenient&rdquo; on one side and &ldquo;no physical exam&rdquo; on the other and call it a day. That tells you nothing about when to book a video visit and when to get in the car.</p>
 <p>This guide is different. It covers what telehealth genuinely does well, where it quietly fails, and a practical decision checklist you can run through in 30 seconds before your next appointment.</p>
@@ -823,6 +942,46 @@ Start applying at month four. You will fail interviews. Each failure tells you e
 <li><a href="https://pengjiangwen.github.io/tech/best-linux-distros-for-beginners-in-2025-no-terminal-fear/">Best Linux Distros for Beginners in 2025 (No Terminal Fear)</a></li>
 <li><a href="https://pengjiangwen.github.io/tech/how-to-transfer-photos-to-computer-5-fast-methods/">How to Transfer Photos to Computer: 5 Fast Methods</a></li>
 </ul>
+]]></content:encoded></item><item><title>About TechLife Guide</title><link>https://pengjiangwen.github.io/about/</link><pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate><guid>https://pengjiangwen.github.io/about/</guid><description>&lt;p&gt;TechLife Guide is a small, independent publication about everyday technology, home, health, and lifestyle decisions. We write practical, specific guides — the kind of thing you want before you spend money, change a habit, or fix something at home.&lt;/p&gt;
+&lt;h2 id="who-runs-this-site"&gt;Who runs this site&lt;/h2&gt;
+&lt;p&gt;TechLife Guide is written and maintained by &lt;strong&gt;Peng Jiang&lt;/strong&gt;, an engineer who spends far too much time reading spec sheets, testing cheap gadgets, and figuring out what actually works versus what is just marketed well. This site started as a place to write down those findings so friends would stop asking the same questions.&lt;/p&gt;</description><content:encoded><![CDATA[<p>TechLife Guide is a small, independent publication about everyday technology, home, health, and lifestyle decisions. We write practical, specific guides — the kind of thing you want before you spend money, change a habit, or fix something at home.</p>
+<h2 id="who-runs-this-site">Who runs this site</h2>
+<p>TechLife Guide is written and maintained by <strong>Peng Jiang</strong>, an engineer who spends far too much time reading spec sheets, testing cheap gadgets, and figuring out what actually works versus what is just marketed well. This site started as a place to write down those findings so friends would stop asking the same questions.</p>
+<h2 id="how-we-make-our-content">How we make our content</h2>
+<p>We believe in being transparent about our process:</p>
+<ul>
+<li><strong>We start from real questions.</strong> Every article begins with a specific question people actually search for, not a keyword stuffed into a template.</li>
+<li><strong>We research before we write.</strong> Each guide is drafted with the help of AI tooling, then checked, edited, and trimmed for accuracy and usefulness. We remove filler, generic advice, and anything we could not stand behind.</li>
+<li><strong>We are honest about limits.</strong> We are not doctors, licensed electricians, or financial advisors. Where a topic is safety- or health-critical, we point you to qualified professionals.</li>
+</ul>
+<h2 id="what-we-are-not">What we are not</h2>
+<p>We do not take money to recommend products, and we do not publish sponsored rankings. If that changes, it will be labeled clearly.</p>
+<h2 id="corrections">Corrections</h2>
+<p>If you spot something that is wrong, outdated, or could be explained better, please <a href="/contact/">contact us</a>. We would rather fix it than leave it up.</p>
+]]></content:encoded></item><item><title>Contact</title><link>https://pengjiangwen.github.io/contact/</link><pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate><guid>https://pengjiangwen.github.io/contact/</guid><description>&lt;p&gt;We read every message. Whether you found a mistake, want a topic covered, or have a question about something we wrote, get in touch.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href="mailto:pengjiangwen@gmail.com"&gt;pengjiangwen@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We aim to reply within a few days. For corrections, please include the article link and the specific point that looks wrong — that helps us fix it fast.&lt;/p&gt;
+&lt;p&gt;We do not accept paid guest posts or sponsored rankings.&lt;/p&gt;</description><content:encoded><![CDATA[<p>We read every message. Whether you found a mistake, want a topic covered, or have a question about something we wrote, get in touch.</p>
+<p><strong>Email:</strong> <a href="mailto:pengjiangwen@gmail.com">pengjiangwen@gmail.com</a></p>
+<p>We aim to reply within a few days. For corrections, please include the article link and the specific point that looks wrong — that helps us fix it fast.</p>
+<p>We do not accept paid guest posts or sponsored rankings.</p>
+]]></content:encoded></item><item><title>Privacy Policy</title><link>https://pengjiangwen.github.io/privacy/</link><pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate><guid>https://pengjiangwen.github.io/privacy/</guid><description>&lt;p&gt;This page explains what information TechLife Guide collects and how it is used. Last updated: 13 October 2026.&lt;/p&gt;
+&lt;h2 id="information-we-collect"&gt;Information we collect&lt;/h2&gt;
+&lt;p&gt;We do not require accounts and we do not ask you for personal information to read our articles. If you email us, we receive whatever you choose to send.&lt;/p&gt;
+&lt;h2 id="analytics"&gt;Analytics&lt;/h2&gt;
+&lt;p&gt;Like most websites, we use privacy-respecting analytics to understand which pages are helpful. This is aggregate data (page views, approximate country, device type) and is not used to identify you personally.&lt;/p&gt;</description><content:encoded><![CDATA[<p>This page explains what information TechLife Guide collects and how it is used. Last updated: 13 October 2026.</p>
+<h2 id="information-we-collect">Information we collect</h2>
+<p>We do not require accounts and we do not ask you for personal information to read our articles. If you email us, we receive whatever you choose to send.</p>
+<h2 id="analytics">Analytics</h2>
+<p>Like most websites, we use privacy-respecting analytics to understand which pages are helpful. This is aggregate data (page views, approximate country, device type) and is not used to identify you personally.</p>
+<h2 id="advertising">Advertising</h2>
+<p>This site may display advertising, including Google AdSense, to keep the content free. Third-party vendors, including Google, use cookies to serve ads based on your prior visits to this and other websites. You can opt out of personalized advertising by visiting <a href="https://adssettings.google.com/">Google Ads Settings</a>.</p>
+<h2 id="cookies">Cookies</h2>
+<p>Cookies may be set by analytics and advertising partners. You can block or delete cookies in your browser settings; the site will still work.</p>
+<h2 id="third-party-links">Third-party links</h2>
+<p>Articles sometimes link to other websites. We are not responsible for their content or privacy practices.</p>
+<h2 id="contact">Contact</h2>
+<p>Questions about this policy? Reach us via the <a href="/contact/">contact page</a>.</p>
 ]]></content:encoded></item><item><title>Best Password Manager: An Honest 2025 Guide</title><link>https://pengjiangwen.github.io/tech/best-password-manager-an-honest-2025-guide/</link><pubDate>Mon, 12 Oct 2026 15:59:34 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/best-password-manager-an-honest-2025-guide/</guid><description>Stop guessing which password manager wins. Compare Bitwarden, 1Password, and Proton Pass on price, security, and the features that actually matter.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Last year, a client of mine—a freelance designer with about 140 online accounts—told me she kept her passwords in a Notes app synced across her devices. She figured it was fine because her phone had a passcode. Then her iCloud account got compromised through a reused password on an old forum she&rsquo;d forgotten about. Within an hour, someone had her email, her bank, and her client portal. The Notes file was the master key.</p>
 <p>That story isn&rsquo;t unusual. It&rsquo;s the default outcome of how most people manage passwords. Reuse one password across a dozen sites and you&rsquo;ve effectively made every account as weak as the weakest site you&rsquo;ve ever signed up for. A password manager fixes this, but only if you pick one you&rsquo;ll actually use every day. The &ldquo;best&rdquo; one isn&rsquo;t a universal answer—it depends on your devices, your threat model, and how much friction you&rsquo;ll tolerate.</p>
@@ -11598,6 +11757,10 @@ iPhones don&rsquo;t mount as a standard drive. On Windows, you&rsquo;ll need iTu
 <h2 id="final-thoughts">Final Thoughts</h2>
 <p>Backing up your phone isn&rsquo;t a one-time task — it&rsquo;s a habit. Set up automatic cloud backup today, do a local backup this weekend, and check both once a week. That&rsquo;s it.</p>
 <p>The 15 minutes you spend now could save you from the kind of data loss that no recovery service can fix. Ask my friend about the lake sometime. She&rsquo;ll tell you the same thing.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-stop-your-phone-from-overheating-while-charging/">How to Stop Your Phone From Overheating While Charging</a></li>
+</ul>
 ]]></content:encoded></item><item><title>Best Yoga Poses for Back Pain Relief (Science-Backed)</title><link>https://pengjiangwen.github.io/health/best-yoga-poses-for-back-pain-relief-science-backed/</link><pubDate>Wed, 16 Sep 2026 02:38:14 +0000</pubDate><guid>https://pengjiangwen.github.io/health/best-yoga-poses-for-back-pain-relief-science-backed/</guid><description>Discover the best yoga poses for back pain, backed by research. Learn safe, effective stretches for lower back relief and core strength.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>If you&rsquo;ve ever thrown your back out reaching for a dropped pen, you know how humbling back pain can be. According to the American Chiropractic Association, roughly 80% of adults will experience lower back pain at some point in their lives. It&rsquo;s the leading cause of disability worldwide, and it&rsquo;s the reason millions of people miss work, skip workouts, and generally feel miserable.</p>
 <p>Here&rsquo;s the frustrating part: most people respond to back pain by doing nothing. They lie down, wait for it to pass, and hope it doesn&rsquo;t come back. But research consistently shows that gentle movement—not bed rest—is one of the most effective ways to manage and prevent back pain.</p>
@@ -34912,6 +35075,10 @@ I hesitate to include this because it nudges the “budget” definition, but he
 <h2 id="final-thoughts-make-it-a-routine">Final Thoughts: Make It a Routine</h2>
 <p>Extending your phone battery life isn’t about one dramatic gesture. It’s about building small, painless habits: not charging overnight, keeping the phone out of the sun, and pruning background apps. The goal isn’t to baby your device — it’s to make it last through your day, and through the years, so you’re not shelling out for a replacement every 18 months.</p>
 <p>Try three of these tips this week. Check your battery stats, set that 80% charge limit, and delete the Facebook app. You’ll be surprised how little you miss the constant drain — and how much longer your phone stays alive.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-increase-phone-storage-without-an-sd-card/">How to Increase Phone Storage Without an SD Card</a></li>
+</ul>
 ]]></content:encoded></item><item><title>Best Home Security Systems of 2025 Compared &amp; Reviewed</title><link>https://pengjiangwen.github.io/home/best-home-security-systems-of-2025-compared-reviewed/</link><pubDate>Sat, 06 Jun 2026 02:34:41 +0800</pubDate><guid>https://pengjiangwen.github.io/home/best-home-security-systems-of-2025-compared-reviewed/</guid><description>We tested 2025&amp;#39;s top home security systems—SimpliSafe, ADT, Ring, and more—to help you protect your home affordably. Read our honest comparison.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Three months ago, I watched a stranger try my front door handle at 2 a.m. while my family slept. My old security camera caught it, but the grainy footage and 15-second delay made it useless. That moment pushed me to overhaul my setup—and ultimately test nearly a dozen home security systems this year. If you’re shopping in 2025, the landscape has changed dramatically. Cameras now recognize faces, sensors tell the difference between a pet and a prowler, and professional monitoring often costs less than a monthly streaming subscription.</p>
 <p>This guide compares the six best home security systems you can buy right now. No fluff, no affiliate-driven rankings—just honest pros, cons, and real-world testing insights to help you protect what matters most.</p>
