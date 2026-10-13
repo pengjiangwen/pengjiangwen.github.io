@@ -107,3 +107,7 @@ An air purifier is not a magic bullet. It’s a tool that works only when sized 
 Start with the bedroom. Measure your room, buy a True HEPA unit with a CADR that matches your square footage, place it in the open, and maintain the filters. Give it two weeks. Check your air quality monitor and your symptoms. That’s the data that matters.
 
 Your lungs do the work every second of every day. The least you can do is give them clean air to work with.
+
+## Related Reading
+
+- [Indoor Air Quality Monitor: What to Measure and Why](https://pengjiangwen.github.io/health/indoor-air-quality-monitor-what-to-measure-and-why/)
