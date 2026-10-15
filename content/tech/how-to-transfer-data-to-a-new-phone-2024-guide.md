@@ -106,3 +106,7 @@ Don't skip this. A factory reset is the only way to ensure your data doesn't end
 Transferring data to a new phone is one of those tasks that feels intimidating until you actually do it. The built-in tools from Apple and Google handle 90% of cases without any third-party software. The remaining 10%—cross-platform messages, local app data, authentication apps—requires a bit of manual work, but nothing that should take more than an hour.
 
 Back up first. Use the official tools. Verify before you wipe. Do those three things, and you'll wonder why you ever dreaded switching phones.
+
+## Related Reading
+
+- [How to Fix a Blurry Webcam on Windows (Real Fixes)](https://pengjiangwen.github.io/tech/how-to-fix-a-blurry-webcam-on-windows-real-fixes/)
