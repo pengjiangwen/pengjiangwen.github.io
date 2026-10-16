@@ -120,3 +120,7 @@ You don't need to do all twelve things at once. Pick two or three and do them fo
 Nail those four and you've addressed 80% of what actually moves the needle. The rest is fine-tuning.
 
 Your metabolism isn't broken. It's just waiting for the right inputs. Give it consistent sleep, enough protein, some resistance, and daily movement—and it will respond.
+
+## Related Reading
+
+- [Smartwatch Health Features: What Actually Works](https://pengjiangwen.github.io/health/smartwatch-health-features-what-actually-works/)
