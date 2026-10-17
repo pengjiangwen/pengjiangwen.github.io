@@ -151,3 +151,7 @@ The goal isn't to become a raw-food vegan who eats nothing but air. The goal is 
 These alternatives aren't "diet food." They're just real food, prepared smartly. And once you taste the difference, you won't want to go back to the cardboard boxes.
 
 **Your move:** Pick one snack from this list and try it this week. Comment below with which one you're trying—I want to hear how it goes.
+
+## Related Reading
+
+- [Foods That Help Joint Stiffness: A Practical Guide](https://pengjiangwen.github.io/health/foods-that-help-joint-stiffness-a-practical-guide/)
