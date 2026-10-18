@@ -102,3 +102,7 @@ Match the solution to your actual risk and budget:
 There's no single best backup power solution — only the one that matches your outage pattern, your budget, and what you refuse to live without. Start by listing your essential loads. Then pick the tier that covers them with room to spare. A $900 battery station that reliably runs your fridge beats a $5,000 generator you never maintain.
 
 Power outages are a when, not an if. The homeowners who handle them well are the ones who planned on a sunny afternoon, not the ones scrambling in the dark.
+
+## Related Reading
+
+- [How to Fix a Slow Draining Bathroom Sink (Plumber's Guide)](https://pengjiangwen.github.io/home/how-to-fix-a-slow-draining-bathroom-sink-plumbers-guide/)
