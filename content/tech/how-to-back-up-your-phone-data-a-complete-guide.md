@@ -130,4 +130,5 @@ The 15 minutes you spend now could save you from the kind of data loss that no r
 
 ## Related Reading
 
+- [How to Fix a Laptop That Won't Turn On: A Tech's Guide](https://pengjiangwen.github.io/tech/how-to-fix-a-laptop-that-wont-turn-on-a-techs-guide/)
 - [How to Stop Your Phone From Overheating While Charging](https://pengjiangwen.github.io/tech/how-to-stop-your-phone-from-overheating-while-charging/)
