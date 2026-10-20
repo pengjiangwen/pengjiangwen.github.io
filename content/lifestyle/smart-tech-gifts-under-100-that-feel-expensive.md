@@ -142,3 +142,7 @@ One more tip: Buy the gift, but also buy a $10 gift card to their favorite coffe
 All these items are under $100 before tax. They’re all things I’d buy for myself, which is the highest compliment I can give.  
 
 Now go wrap something.
+
+## Related Reading
+
+- [How to Fix Slow Home WiFi: A Practical Guide](https://pengjiangwen.github.io/lifestyle/how-to-fix-slow-home-wifi-a-practical-guide/)
