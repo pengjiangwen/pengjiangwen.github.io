@@ -128,3 +128,7 @@ When you build a living room home theater, you’re not trying to replicate a co
 Start with your room. Measure your distance. Buy the biggest screen you can. Add a soundbar with a sub. Hide the cables. Dim the lights. Then press play.
 
 You don’t need a basement. You just need a living room and a little planning.
+
+## Related Reading
+
+- [How to Keep Your Basement Dry During Heavy Rain](https://pengjiangwen.github.io/home/how-to-keep-your-basement-dry-during-heavy-rain/)
