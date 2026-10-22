@@ -82,4 +82,5 @@ Try three of these tips this week. Check your battery stats, set that 80% charge
 
 ## Related Reading
 
+- [Why Is My Phone Screen Not Responding? Real Fixes](https://pengjiangwen.github.io/tech/why-is-my-phone-screen-not-responding-real-fixes/)
 - [How to Increase Phone Storage Without an SD Card](https://pengjiangwen.github.io/tech/how-to-increase-phone-storage-without-an-sd-card/)
