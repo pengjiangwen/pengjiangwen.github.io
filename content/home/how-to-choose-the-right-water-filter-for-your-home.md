@@ -144,3 +144,7 @@ Start with a test kit. Look at your city’s water report. Decide if you want fi
 I went from buying bottled water every week to having a glass of tap water that tastes better than anything from a plastic bottle. The initial effort—one test, one hour of research—saved me money, reduced plastic waste, and gave me peace of mind.
 
 Your water is unique. Treat it that way.
+
+## Related Reading
+
+- [Refrigerator Clicking Noise: 7 Real Causes & Fixes](https://pengjiangwen.github.io/home/refrigerator-clicking-noise-7-real-causes-fixes/)
