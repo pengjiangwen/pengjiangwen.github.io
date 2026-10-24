@@ -82,4 +82,5 @@ Start with your resting heart rate. Watch the trend for a month. Let the data in
 
 ## Related Reading
 
+- [Digital Detox Benefits: What Actually Works](https://pengjiangwen.github.io/health/digital-detox-benefits-what-actually-works/)
 - [Telehealth Pros and Cons: An Honest Guide for Patients](https://pengjiangwen.github.io/health/telehealth-pros-and-cons-an-honest-guide-for-patients/)
