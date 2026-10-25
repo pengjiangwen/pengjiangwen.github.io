@@ -105,7 +105,7 @@ If you do nothing else, walk your house during the next hard rain with an umbrel
 
 ## Related Reading
 
+- [How to Get Rid of Gnats in Your Kitchen for Good](https://pengjiangwen.github.io/home/how-to-get-rid-of-gnats-in-your-kitchen-for-good/)
 - [Living Room Home Theater Setup: Big Sound, Small Space](https://pengjiangwen.github.io/home/living-room-home-theater-setup-big-sound-small-space/)
 - [Smart Kitchen Guide: Tech That Actually Helps You Cook](https://pengjiangwen.github.io/home/smart-kitchen-guide-tech-that-actually-helps-you-cook/)
 - [Home Weather Station Setup: A Practical Guide That Works](https://pengjiangwen.github.io/home/home-weather-station-setup-a-practical-guide-that-works/)
-
