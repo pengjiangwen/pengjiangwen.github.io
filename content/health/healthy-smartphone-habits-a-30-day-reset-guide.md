@@ -163,3 +163,7 @@ The test isn't whether you can go a day without your phone. The test is: Can you
 If you can do that, you’re free. And the best part? You don't need to be a monk to get there. You just need a little friction, a little boredom, and a lot of self-compassion.
 
 **Your first step:** Put your phone down. Go find a blank piece of paper. Write down your current screen time. That’s it. That’s the start.
+
+## Related Reading
+
+- [What Causes Frequent Urination at Night (Nocturia Explained)](https://pengjiangwen.github.io/health/what-causes-frequent-urination-at-night-nocturia-explained/)
