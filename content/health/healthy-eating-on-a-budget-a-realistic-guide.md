@@ -131,3 +131,7 @@ The choice isn't always easy, especially when you're tired and stressed. But eve
 Start small. Pick one meal this week and make it from scratch. Then pick another. Before you know it, you'll have a system — and a grocery bill that doesn't make you cringe.
 
 Your health and your wallet can coexist. It just takes a little intention.
+
+## Related Reading
+
+- [How to Prevent Leg Cramps at Night: A Practical Guide](https://pengjiangwen.github.io/health/how-to-prevent-leg-cramps-at-night-a-practical-guide/)
