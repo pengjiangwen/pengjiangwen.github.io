@@ -134,3 +134,7 @@ The best method is the one you’ll actually use. Don’t overthink it. If you�
 Start with the USB cable method if you’re unsure. It works on everything. Once you get comfortable, try an SD card reader for speed or cloud sync for convenience. The goal isn’t to find the “perfect” method—it’s to get those photos off your device and into a safe place where you can actually enjoy them.
 
 Now go transfer those photos. Your future self (who won’t have to scroll through 2,000 phone screenshots) will thank you.
+
+## Related Reading
+
+- [How to Recover Deleted Text Messages on Android (Real Methods)](https://pengjiangwen.github.io/tech/how-to-recover-deleted-text-messages-on-android-real-methods/)
