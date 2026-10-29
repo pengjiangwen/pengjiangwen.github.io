@@ -534,6 +534,10 @@ iPhones don&rsquo;t mount as a standard drive. On Windows, you&rsquo;ll need iTu
 <h2 id="final-thoughts">Final Thoughts</h2>
 <p>The &ldquo;best&rdquo; method doesn&rsquo;t exist in the abstract — it depends on file size, frequency, and what hardware you already own. For most people, a combination of USB for big files and Telegram or cloud storage for small ones covers 95% of situations.</p>
 <p>Pick two methods, learn them properly, and you&rsquo;ll never waste time hunting for a cable again.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-stop-spam-calls-on-android-that-actually-work/">How to Stop Spam Calls on Android (That Actually Work)</a></li>
+</ul>
 ]]></content:encoded></item><item><title>How to Protect Your Online Privacy in 2025</title><link>https://pengjiangwen.github.io/tech/how-to-protect-your-online-privacy-in-2025/</link><pubDate>Sat, 12 Sep 2026 14:44:06 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-protect-your-online-privacy-in-2025/</guid><description>Practical steps to protect your online privacy, from password managers to browser hardening, plus the data brokers quietly selling your info.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>In 2019, a security researcher bought a used photocopier from a government surplus auction. The machine&rsquo;s hard drive still contained thousands of scanned documents, including sensitive records that should have been destroyed years earlier. The lesson wasn&rsquo;t about the copier. It was about how much data we leave behind without realizing it — and how little control we have over where it ends up.</p>
 <p>Most people assume their online privacy is already gone, so there&rsquo;s no point trying. That&rsquo;s exactly what data brokers, ad networks, and lax companies are counting on. The truth is that privacy isn&rsquo;t a switch you flip. It&rsquo;s a series of small, deliberate decisions that, stacked together, make you a much harder target. Here&rsquo;s how to actually do it.</p>
