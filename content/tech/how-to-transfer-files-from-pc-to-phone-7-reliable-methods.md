@@ -114,3 +114,7 @@ Here's a quick decision guide:
 The "best" method doesn't exist in the abstract — it depends on file size, frequency, and what hardware you already own. For most people, a combination of USB for big files and Telegram or cloud storage for small ones covers 95% of situations.
 
 Pick two methods, learn them properly, and you'll never waste time hunting for a cable again.
+
+## Related Reading
+
+- [How to Stop Spam Calls on Android (That Actually Work)](https://pengjiangwen.github.io/tech/how-to-stop-spam-calls-on-android-that-actually-work/)
