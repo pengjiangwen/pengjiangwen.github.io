@@ -144,3 +144,7 @@ Next time you feel a headache starting, try this sequence:
 This protocol has stopped about 60% of my headaches before they escalated. It won’t work every time, but it’s a powerful first line of defense that doesn’t require a pharmacy trip.
 
 Natural remedies aren’t about rejecting science—they’re about expanding your toolkit. The next time a headache hits, you’ll have options that don’t come in a blister pack.
+
+## Related Reading
+
+- [Why You Feel Tired After Eating (and How to Fix It)](https://pengjiangwen.github.io/health/why-you-feel-tired-after-eating-and-how-to-fix-it/)
