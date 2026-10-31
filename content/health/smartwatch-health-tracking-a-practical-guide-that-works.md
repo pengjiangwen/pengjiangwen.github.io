@@ -112,3 +112,7 @@ Your smartwatch is not a doctor. It's a mirror. It reflects your habits back at 
 Start with one metric. For most people, that's resting heart rate or HRV. Track it for two weeks. Make one small change — a consistent bedtime, a lighter dinner, a 10-minute walk after a meal. Watch the trend. When you see the number move in the right direction, you'll feel the difference in your energy, focus, and mood. That's when the watch becomes a tool, not a toy.  
 
 And if you ever feel anxious about your data, take the watch off for a day. The goal is better health, not better watch scores. Your body already knows how to do that — the watch just helps you listen.
+
+## Related Reading
+
+- [Dizzy When Standing Up? Why It Happens and What to Do](https://pengjiangwen.github.io/health/dizzy-when-standing-up-why-it-happens-and-what-to-do/)
