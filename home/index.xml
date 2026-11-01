@@ -1,4 +1,117 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Homes on TechLife Guide</title><link>https://pengjiangwen.github.io/home/</link><description>Recent content in Homes on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2026 15:36:47 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/home/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Get Rid of Gnats in Your Kitchen for Good</title><link>https://pengjiangwen.github.io/home/how-to-get-rid-of-gnats-in-your-kitchen-for-good/</link><pubDate>Sun, 25 Oct 2026 15:36:47 +0000</pubDate><guid>https://pengjiangwen.github.io/home/how-to-get-rid-of-gnats-in-your-kitchen-for-good/</guid><description>Stop fruit flies and drain gnats at the source. A practical pest-control tech explains traps, drain treatments, and the one mistake most people make.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Homes on TechLife Guide</title><link>https://pengjiangwen.github.io/home/</link><description>Recent content in Homes on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2026 17:40:48 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/home/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Stop Smart Doorbell False Alerts (For Good)</title><link>https://pengjiangwen.github.io/home/how-to-stop-smart-doorbell-false-alerts-for-good/</link><pubDate>Sun, 01 Nov 2026 17:40:48 +0000</pubDate><guid>https://pengjiangwen.github.io/home/how-to-stop-smart-doorbell-false-alerts-for-good/</guid><description>Tired of your doorbell pinging for every passing car? Here&amp;#39;s how to tune motion zones, sensitivity, and angles to kill false alerts for good.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>It&rsquo;s 2:47 a.m. Your phone buzzes on the nightstand. Someone&rsquo;s at the door. You fumble for the app, heart pounding, and pull up the feed: a moth. A single moth, orbiting the IR LEDs like a tiny drunk moon.</p>
+<p>If that scene is familiar, you&rsquo;re not alone—and you&rsquo;re not stuck with it. I&rsquo;ve installed and tuned dozens of these things for friends, family, and my own long-suffering household, and I can tell you the dirty secret of the smart doorbell industry: the default settings on almost every model are bad. They&rsquo;re calibrated to catch <em>everything</em> so the manufacturer can advertise &ldquo;never miss a visitor.&rdquo; The cost of that caution lands on your sleep and your notification tray.</p>
+<p>The fix isn&rsquo;t one magic toggle. It&rsquo;s four or five small adjustments, done in the right order, that together cut false alerts by something like 90% in my experience. Here&rsquo;s the whole playbook.</p>
+<h2 id="first-diagnose-whats-actually-triggering-it">First, Diagnose What&rsquo;s Actually Triggering It</h2>
+<p>Before you touch a single setting, spend 48 hours logging your false alerts. This sounds tedious. Do it anyway—it takes two minutes per alert and it changes everything, because the fix for a moth is nothing like the fix for a passing truck.</p>
+<p>Keep a note on your phone with three columns: <strong>time</strong>, <strong>what triggered it</strong>, and <strong>weather</strong>. After two days you&rsquo;ll see a pattern. In my experience, false alerts cluster into five buckets:</p>
+<ul>
+<li><strong>Insects and spiders</strong> at night (especially spring through fall)</li>
+<li><strong>Passing cars</strong> with headlights sweeping your porch</li>
+<li><strong>Tree branches or flags</strong> moving in wind</li>
+<li><strong>Neighbors, delivery drivers, and pedestrians</strong> who aren&rsquo;t actually visiting you</li>
+<li><strong>Sunlight and heat</strong> hitting the sensor at certain hours</li>
+</ul>
+<p>Each bucket has a different solution. Most people crank down sensitivity and call it a day, which just trades false alerts for missed real visitors. Don&rsquo;t do that.</p>
+<h2 id="step-1-fix-the-mounting-angle-before-touching-settings">Step 1: Fix the Mounting Angle Before Touching Settings</h2>
+<p>This is the step almost everyone skips, and it&rsquo;s the highest-leverage one. A doorbell camera mounted at chest height and pointed straight out at the street will see every car that passes. It has no choice—the sensor is doing its job.</p>
+<p>The fix: angle the camera <strong>downward</strong> so the bottom third of the frame is your doormat and the top third is the wall or ceiling of your porch. Aim for the lens to sit roughly 4–5 feet off the ground and tilt down 15–20 degrees. Most doorbells ship with a wedge kit in the box—Ring, Eufy, and Arlo all include one—and using it is a 10-minute job with a screwdriver.</p>
+<p>If your doorbell is mounted on a wall that faces a busy street, a <strong>30-degree wedge</strong> (sold separately for about $10–15) turns the camera toward the doorframe instead of the road. On my own front door, which faces a street with about 40 cars an hour during rush hour, adding a 30-degree wedge alone cut vehicle-triggered alerts from roughly 60 a day to under 5.</p>
+<p><strong>Checklist before you proceed:</strong></p>
+<ul>
+<li><input disabled="" type="checkbox"> Lens is 4–5 feet off the ground</li>
+<li><input disabled="" type="checkbox"> Camera tilts down 15–20 degrees</li>
+<li><input disabled="" type="checkbox"> The street is not visible in the live view (or is only a sliver at the top)</li>
+<li><input disabled="" type="checkbox"> The doormat is visible in the bottom of the frame</li>
+<li><input disabled="" type="checkbox"> No direct view of a tree canopy or a neighbor&rsquo;s flag</li>
+</ul>
+<p>If you can see the road in your live preview, you will get car alerts. No setting will fully save you.</p>
+<h2 id="step-2-draw-motion-zones-like-you-mean-it">Step 2: Draw Motion Zones Like You Mean It</h2>
+<p>Every mainstream doorbell—Ring, Nest, Eufy, Arlo, Wyze—lets you mask off parts of the frame so motion there is ignored. Most people draw a big lazy rectangle around the whole porch. That&rsquo;s the second-biggest mistake.</p>
+<p>Draw the zone to cover <strong>only the walkway leading to your door and the doormat itself</strong>. Leave out:</p>
+<ul>
+<li>The sidewalk (pedestrians will trigger it constantly)</li>
+<li>The street and driveway apron</li>
+<li>Bushes and trees, even if they&rsquo;re &ldquo;mostly still&rdquo;</li>
+<li>Any part of a neighbor&rsquo;s yard</li>
+</ul>
+<p>On a typical suburban porch, your zone should be a narrow trapezoid maybe 4 feet wide at the door and 8 feet wide at the walkway&rsquo;s end. If your doorbell supports <strong>person detection</strong> (Ring&rsquo;s &ldquo;Smart Alerts,&rdquo; Nest&rsquo;s &ldquo;Person&rdquo; toggle, Eufy&rsquo;s &ldquo;Human Only&rdquo; mode), turn it on <em>in addition to</em> the zone. Person detection alone isn&rsquo;t perfect—it&rsquo;ll occasionally flag a large dog or a Halloween decoration—but combined with a tight zone it&rsquo;s remarkably reliable.</p>
+<p>One caution: don&rsquo;t make the zone so tight that a delivery driver who sets the package down and steps back out of frame doesn&rsquo;t get recorded. Test it by walking up, dropping a box, and walking away while watching the timeline. If the recording cuts off before they leave, widen the zone by a foot.</p>
+<h2 id="step-3-tune-sensitivity-in-small-increments-not-big-ones">Step 3: Tune Sensitivity in Small Increments, Not Big Ones</h2>
+<p>Sensitivity sliders usually run 1–10 or Low/Medium/High. Here&rsquo;s the counterintuitive part: <strong>medium is almost always the right answer</strong>, and the difference between 6 and 8 is bigger than you&rsquo;d expect.</p>
+<p>Change one notch at a time and live with it for a full day before adjusting again. If you drop from 8 to 3 in one go, you&rsquo;ll stop the moth alerts—and also stop recording the mail carrier. I&rsquo;ve watched people do this, conclude the doorbell is &ldquo;broken,&rdquo; and buy a new one. The doorbell was fine. The slider was at 2.</p>
+<p>A reasonable starting sequence:</p>
+<ol>
+<li>Set sensitivity to the middle of the range.</li>
+<li>Run the zone test (walk up, walk away).</li>
+<li>If you get 5+ false alerts in 24 hours, drop one notch.</li>
+<li>If you miss a real visitor, raise one notch.</li>
+</ol>
+<h2 id="step-4-kill-the-nighttime-insect-problem-specifically">Step 4: Kill the Nighttime Insect Problem Specifically</h2>
+<p>Moths, spiders building webs across the lens, and beetles drawn to IR light cause a huge share of 2 a.m. alerts. There are three fixes, in order of effectiveness:</p>
+<p><strong>Turn off the IR illuminator and use ambient light.</strong> If you have a porch light, leave it on a schedule (a $15 smart bulb on a dusk-to-dawn routine works) and disable the doorbell&rsquo;s built-in IR. Insects are attracted to the IR LEDs, not to your door. This single change eliminated roughly 80% of my nighttime alerts.</p>
+<p><strong>Physically clear the lens housing.</strong> Spiders love the warm, sheltered nook behind a doorbell. Wipe down the housing and the wall around it every couple of weeks with a damp cloth; a cotton swab gets into the crevices. Don&rsquo;t use insect spray near the camera—it can cloud the plastic lens cover.</p>
+<p><strong>Reduce the night motion sensitivity separately, if your model allows it.</strong> Ring and Eufy both let you set different sensitivity for day and night. Take advantage: night sensitivity one or two notches lower than daytime.</p>
+<h2 id="step-5-use-scheduling-and-geofencing">Step 5: Use Scheduling and Geofencing</h2>
+<p>If your doorbell supports schedules (most do), set it to <strong>reduce or pause motion alerts when you&rsquo;re home and awake</strong>, and keep them on when you&rsquo;re away or asleep. Ring calls this &ldquo;Modes&rdquo;; Eufy calls it &ldquo;Home/Away&rdquo;; Nest folds it into &ldquo;Home &amp; Away Routines.&rdquo;</p>
+<p>Geofencing is the automated version: the app uses your phone&rsquo;s location to switch modes when you leave. It&rsquo;s genuinely useful, but it&rsquo;s also the flakiest feature on most doorbells—it relies on your phone&rsquo;s GPS and occasionally decides you&rsquo;re still at the office when you&rsquo;re on the couch. Check it monthly. If it misfires more than once a week, turn it off and use a manual schedule instead.</p>
+<h2 id="step-6-update-firmware-and-re-check-after-updates">Step 6: Update Firmware and Re-Check After Updates</h2>
+<p>Firmware updates routinely change detection behavior—sometimes for the better, sometimes not. After any update, re-run your walk-up test. I&rsquo;ve seen a routine update reset a carefully tuned zone back to the full frame on a Ring doorbell. Check the app&rsquo;s firmware version every couple of months; it&rsquo;s buried in device settings, usually under &ldquo;Device Health&rdquo; or &ldquo;About.&rdquo;</p>
+<h2 id="what-most-guides-get-wrong">What Most Guides Get Wrong</h2>
+<p><strong>They tell you to lower sensitivity first.</strong> Sensitivity is a blunt instrument. Zones and mounting angle are precise. Fix the geometry before you touch the slider, or you&rsquo;ll spend weeks chasing a problem you created.</p>
+<p><strong>They ignore the IR insect problem entirely.</strong> Search any doorbell forum in July and you&rsquo;ll find hundreds of posts about &ldquo;ghost&rdquo; nighttime alerts. Nearly all of them are bugs on the lens or in the IR beam. Turning off IR and using a porch light fixes it, and almost no guide mentions it.</p>
+<p><strong>They treat person detection as a silver bullet.</strong> It&rsquo;s good, not perfect. A person-detection-only setup will still fire on a poster of a face, a large dog at dusk, or a reflective jacket. Combine it with a tight zone and sane sensitivity—don&rsquo;t rely on it alone.</p>
+<h2 id="a-quick-troubleshooting-table">A Quick Troubleshooting Table</h2>
+<table>
+	<thead>
+			<tr>
+					<th>Symptom</th>
+					<th>Most likely cause</th>
+					<th>Fix</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>Alerts every few minutes at night</td>
+					<td>Insects on lens / IR attraction</td>
+					<td>Porch light on, IR off</td>
+			</tr>
+			<tr>
+					<td>Alerts whenever a car passes</td>
+					<td>Camera sees the street</td>
+					<td>Wedge mount, tilt down</td>
+			</tr>
+			<tr>
+					<td>Alerts all afternoon at one spot</td>
+					<td>Sunlight or heat signature</td>
+					<td>Adjust zone, add a small shade</td>
+			</tr>
+			<tr>
+					<td>Alerts from sidewalk pedestrians</td>
+					<td>Zone too wide</td>
+					<td>Redraw zone to walkway only</td>
+			</tr>
+			<tr>
+					<td>Misses real visitors</td>
+					<td>Sensitivity too low</td>
+					<td>Raise one notch, widen zone slightly</td>
+			</tr>
+			<tr>
+					<td>Constant alerts after firmware update</td>
+					<td>Settings reset</td>
+					<td>Re-check zone and sensitivity</td>
+			</tr>
+	</tbody>
+</table>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>You will not get to zero false alerts—a doorbell that never misfires is probably missing real events too. But going from 40 alerts a day to 3 or 4 is realistic, and it takes an afternoon, not a new device. Fix the angle, draw a tight zone, set sensitivity to the middle, kill the IR at night, and use schedules. Do those five things and the 2:47 a.m. moth will finally leave you alone.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/home/smart-doorbell-installation-guide-diy-in-90-minutes/">Smart Doorbell Installation Guide: DIY in 90 Minutes</a></li>
+<li><a href="https://pengjiangwen.github.io/home/home-wifi-setup-guide-get-strong-signal-every-room/">Home WiFi Setup Guide: Get Strong Signal Every Room</a></li>
+<li><a href="https://pengjiangwen.github.io/home/12-home-tech-gadgets-under-50-that-are-actually-worth-it/">12 Home Tech Gadgets Under $50 That Are Actually Worth It</a></li>
+</ul>
+]]></content:encoded></item><item><title>How to Get Rid of Gnats in Your Kitchen for Good</title><link>https://pengjiangwen.github.io/home/how-to-get-rid-of-gnats-in-your-kitchen-for-good/</link><pubDate>Sun, 25 Oct 2026 15:36:47 +0000</pubDate><guid>https://pengjiangwen.github.io/home/how-to-get-rid-of-gnats-in-your-kitchen-for-good/</guid><description>Stop fruit flies and drain gnats at the source. A practical pest-control tech explains traps, drain treatments, and the one mistake most people make.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Fill a wine glass with apple cider vinegar, add three drops of dish soap, and set it on the counter. By morning you&rsquo;ll have a dozen drowned gnats and a false sense of victory. I know because I did exactly that for two weeks straight one August, emptying the glass every morning while the swarm around my banana bowl never thinned out. The trap was working. The problem was that I was trapping the grandchildren while the grandparents bred undisturbed two feet away.</p>
 <p>That&rsquo;s the core truth about kitchen gnats: vinegar traps catch adults, but adults are the symptom, not the cause. A single female fruit fly can lay roughly 500 eggs in her lifetime, and those eggs hatch in about 24 hours at room temperature. You cannot trap your way out of a 500-to-1 math problem. You have to find and destroy the breeding site. This guide is about doing that systematically, with specific products, measurements, and timeframes — and with a hard look at the advice most guides repeat without testing.</p>
 <p>First, know your enemy, because &ldquo;gnat&rdquo; is a catch-all word.</p>
@@ -3131,6 +3244,10 @@ Yes, for your own property. Laws vary on audio recording and pointing cameras at
 <h2 id="final-thoughts">Final Thoughts</h2>
 <p>The whole job — from flipping the breaker to watching your first live feed — takes about 90 minutes for a wired install and 20 minutes for battery-powered. The prep work matters more than the installation itself: verify your transformer, know your chime type, and test your Wi-Fi before you buy.</p>
 <p>Do those three checks and you&rsquo;ll join the ranks of people who installed their own doorbell and spent the savings on something better than an electrician&rsquo;s invoice.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/home/how-to-stop-smart-doorbell-false-alerts-for-good/">How to Stop Smart Doorbell False Alerts (For Good)</a></li>
+</ul>
 ]]></content:encoded></item><item><title>Best Printer for Home Use: 2025 Buyer's Guide</title><link>https://pengjiangwen.github.io/home/best-printer-for-home-use-2025-buyers-guide/</link><pubDate>Thu, 24 Sep 2026 16:13:28 +0000</pubDate><guid>https://pengjiangwen.github.io/home/best-printer-for-home-use-2025-buyers-guide/</guid><description>Stop wasting money on the wrong printer. Compare the best home printers for documents, photos, and families, plus ink cost tips that actually save.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Most people buy a printer exactly once every seven years, which means every purchase feels like starting from scratch. You stand in the store aisle or scroll through endless listings, and every model claims to be &ldquo;the best.&rdquo; Meanwhile, the last printer you owned sat unused for months, then greeted you with a dried-up ink cartridge and a blinking error light the one time you actually needed it.</p>
 <p>Here&rsquo;s the thing: there is no single best home printer. There&rsquo;s a best printer for <em>your</em> home. A family printing school worksheets has completely different needs than a remote worker printing contracts or a hobbyist printing 4x6 photos. This guide breaks down the categories, the real costs, and the specific models worth your money in 2025 — so you can buy once and stop thinking about it.</p>
