@@ -100,3 +100,7 @@ Two caveats: battery models usually don't trigger your existing indoor chime (yo
 The whole job — from flipping the breaker to watching your first live feed — takes about 90 minutes for a wired install and 20 minutes for battery-powered. The prep work matters more than the installation itself: verify your transformer, know your chime type, and test your Wi-Fi before you buy.
 
 Do those three checks and you'll join the ranks of people who installed their own doorbell and spent the savings on something better than an electrician's invoice.
+
+## Related Reading
+
+- [How to Stop Smart Doorbell False Alerts (For Good)](https://pengjiangwen.github.io/home/how-to-stop-smart-doorbell-false-alerts-for-good/)
