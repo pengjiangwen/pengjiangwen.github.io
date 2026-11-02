@@ -117,3 +117,7 @@ Rotate in the others as you get bored. Variety matters — eating the same snack
 ## The Bottom Line
 
 Healthy snacking at work isn't about discipline. It's about logistics. If the good stuff is within reach and the junk requires a walk to the vending machine, you'll eat the good stuff most of the time. Start with three snacks from this list, stock them this weekend, and see how different 3:47 PM feels by Wednesday.
+
+## Related Reading
+
+- [How to Stay Hydrated Without Drinking Water](https://pengjiangwen.github.io/health/how-to-stay-hydrated-without-drinking-water/)
