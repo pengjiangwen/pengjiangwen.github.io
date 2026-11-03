@@ -164,3 +164,7 @@ If none of those apply, save your money.
 The best smart scale for your home depends on what you'll actually use. For most people, the Withings Body+ offers the best balance of reliability, app quality, and no-subscription features. Budget buyers should look at the Wyze Scale X. Athletes in the Garmin ecosystem will get the most from the Index S2.
 
 Whichever you choose, remember: the scale is a tool for spotting trends, not a judge of your worth. Use the data to inform decisions, not to spiral over a two-pound fluctuation. Consistency in how you measure matters more than which scale sits in your bathroom.
+
+## Related Reading
+
+- [How to Keep Feet Warm During the Workday](https://pengjiangwen.github.io/health/how-to-keep-feet-warm-during-the-workday/)
