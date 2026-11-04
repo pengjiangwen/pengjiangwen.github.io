@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>TechLife Guide</title><link>https://pengjiangwen.github.io/</link><description>Recent content on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 03 Nov 2026 19:07:14 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Keep Feet Warm During the Workday</title><link>https://pengjiangwen.github.io/health/how-to-keep-feet-warm-during-the-workday/</link><pubDate>Tue, 03 Nov 2026 19:07:14 +0000</pubDate><guid>https://pengjiangwen.github.io/health/how-to-keep-feet-warm-during-the-workday/</guid><description>Cold feet at work? Learn why office feet freeze, which socks and gear actually work, and a practical checklist to stay warm all day.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>TechLife Guide</title><link>https://pengjiangwen.github.io/</link><description>Recent content on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 04 Nov 2026 19:25:00 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Transfer Photos from Phone to Computer (No Cloud)</title><link>https://pengjiangwen.github.io/lifestyle/how-to-transfer-photos-from-phone-to-computer-no-cloud/</link><pubDate>Wed, 04 Nov 2026 19:25:00 +0000</pubDate><guid>https://pengjiangwen.github.io/lifestyle/how-to-transfer-photos-from-phone-to-computer-no-cloud/</guid><description>Skip the cloud and move photos straight to your PC or Mac. Real speeds, free tools, and the mistakes that quietly corrupt your files.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>Your phone says &ldquo;Storage Full&rdquo; for the third time this month. You&rsquo;ve got 14,000 photos in the camera roll, iCloud wants $2.99 a month for 200GB, and you just want the pictures off the phone and onto the laptop you already own. Here&rsquo;s the thing nobody tells you: a USB cable moves 1,000 photos in under four minutes. Google Photos over hotel Wi-Fi can take an hour and a half for the same batch, and half of them arrive compressed to mush.</p>
+<p>This guide is the cable-and-file-manager version. No subscriptions, no &ldquo;upload to cloud, download from cloud&rdquo; round trips. Just your phone, your computer, and the files where you can actually find them.</p>
+<h2 id="first-decide-what-transfer-means-for-you">First, decide what &ldquo;transfer&rdquo; means for you</h2>
+<p>There are three real options, and they behave differently:</p>
+<ul>
+<li><strong>Copy (keep originals on phone).</strong> Safest. Good when you&rsquo;re just backing up.</li>
+<li><strong>Move (delete from phone after copy).</strong> Frees space immediately. Dangerous if the copy fails silently.</li>
+<li><strong>Sync (two-way).</strong> Only worth it if you edit on both devices. Most people don&rsquo;t need this and it causes duplicates.</li>
+</ul>
+<p>For most people, the answer is copy, verify, then delete from the phone a week later once you&rsquo;ve confirmed the files open.</p>
+<h2 id="the-cable-method-fastest-free-and-underrated">The cable method: fastest, free, and underrated</h2>
+<p>A USB 3.0 cable (the one that came in the box, usually) beats every app. Real-world speeds:</p>
+<ul>
+<li><strong>Android over USB 3.0:</strong> roughly 30–60 MB/s. A 5GB camera roll takes about 2–3 minutes.</li>
+<li><strong>iPhone over USB 2.0 Lightning:</strong> roughly 20–30 MB/s. Slower, but still fine.</li>
+<li><strong>iPhone 15/16 over USB-C:</strong> jumps to 60–100 MB/s with a good cable.</li>
+</ul>
+<h3 id="step-by-step-android-to-windows">Step-by-step: Android to Windows</h3>
+<ol>
+<li>Plug the phone into the PC with the cable. Pull down the notification shade on the phone.</li>
+<li>Tap the &ldquo;Charging this device via USB&rdquo; notification. Choose <strong>File Transfer / MTP</strong>. (If you skip this, Windows sees a charging brick, not a phone.)</li>
+<li>On the PC, open File Explorer. Your phone appears under &ldquo;This PC&rdquo; as a device name, e.g., &ldquo;Pixel 8.&rdquo;</li>
+<li>Navigate to <code>Internal storage &gt; DCIM &gt; Camera</code>. That&rsquo;s where the originals live.</li>
+<li>Select the folders, right-click, <strong>Copy</strong>. Paste into a folder like <code>D:\Photos\2024-Phone</code>.</li>
+<li>Wait. Don&rsquo;t unplug until the progress bar is gone and the folder count matches.</li>
+</ol>
+<h3 id="step-by-step-iphone-to-windows">Step-by-step: iPhone to Windows</h3>
+<ol>
+<li>Plug in. On the phone, tap <strong>Trust</strong> and enter your passcode.</li>
+<li>Open File Explorer. The iPhone shows up as a camera device.</li>
+<li>Go to <code>Internal Storage &gt; DCIM</code>. You&rsquo;ll see folders like <code>100APPLE</code>, <code>101APPLE</code>.</li>
+<li>Copy the whole <code>DCIM</code> folder out. Don&rsquo;t cherry-pick.</li>
+<li>For HEIC files: Windows 10/11 needs the free &ldquo;HEIF Image Extensions&rdquo; from the Microsoft Store (about 30 seconds to install) or the photos will show as blank thumbnails.</li>
+</ol>
+<h3 id="step-by-step-iphone-to-mac">Step-by-step: iPhone to Mac</h3>
+<ol>
+<li>Plug in, tap Trust.</li>
+<li>Open <strong>Image Capture</strong> (it&rsquo;s preinstalled, in Applications). Not Photos — Image Capture.</li>
+<li>Select the phone in the left sidebar, choose a destination folder at the bottom, and hit <strong>Import All</strong>.</li>
+<li>This bypasses the Photos app entirely, which means no duplicate library and no iCloud sync surprises.</li>
+</ol>
+<h2 id="the-myth-just-use-google-photos--icloud-its-easier">The myth: &ldquo;Just use Google Photos / iCloud, it&rsquo;s easier&rdquo;</h2>
+<p>This is the most common mistake, and it costs people real money and real quality.</p>
+<p>Google Photos&rsquo; free &ldquo;Storage saver&rdquo; setting compresses images to roughly 16MP and re-encodes them. A 48MP photo from a modern Android flagship comes back visibly softer. If you pay for Google One (100GB is $1.99/month, 200GB is $2.99/month), you get originals — but now you&rsquo;re renting storage for photos you could own on a $40 external drive.</p>
+<p>iCloud is worse for mixed households. Photos uploaded from an iPhone are stored in Apple&rsquo;s format and syncing them to a Windows PC through iCloud for Windows is slow and occasionally drops files. And if you ever stop paying, you don&rsquo;t lose the photos, but you lose the ability to add more — which is a stressful place to be.</p>
+<p>The cloud is a backup, not a transfer method. Use the cable for the move, use the cloud for the safety net.</p>
+<h2 id="what-most-guides-get-wrong">What most guides get wrong</h2>
+<p><strong>1. They tell you to delete from the phone immediately.</strong> Don&rsquo;t. Copy first, open five random photos from the destination folder, confirm they&rsquo;re full-resolution (right-click &gt; Properties; a modern phone photo is 2–8MB, not 200KB), then delete. A half-finished copy that you &ldquo;cleaned up&rdquo; is how people lose wedding photos.</p>
+<p><strong>2. They ignore HEIC.</strong> iPhones have shot HEIC by default since iOS 11. On a Windows PC without the extension, those files look broken. On older Android phones, they won&rsquo;t open at all. Either install the codec or set the iPhone to &ldquo;Most Compatible&rdquo; (Settings &gt; Camera &gt; Formats) before a big shoot.</p>
+<p><strong>3. They recommend third-party transfer apps.</strong> Most of these are ad-supported, request absurd permissions, and are slower than dragging a folder. You already have a file manager. Use it.</p>
+<h2 id="the-60-second-checklist-before-you-unplug">The 60-second checklist before you unplug</h2>
+<ul>
+<li><input disabled="" type="checkbox"> Destination folder has the same number of files as the source (check the status bar count).</li>
+<li><input disabled="" type="checkbox"> Open three random photos — one from the start, middle, and end of the batch.</li>
+<li><input disabled="" type="checkbox"> Check file sizes: originals should be megabytes, not kilobytes.</li>
+<li><input disabled="" type="checkbox"> Confirm the date modified hasn&rsquo;t reset to today for every file (a sign of re-encoding).</li>
+<li><input disabled="" type="checkbox"> Only then delete from the phone.</li>
+</ul>
+<h2 id="wireless-options-that-actually-work-when-the-cable-isnt-handy">Wireless options that actually work (when the cable isn&rsquo;t handy)</h2>
+<p><strong>LocalSend</strong> (free, open source, Windows/Mac/Android/iOS): transfers over your home Wi-Fi at roughly 10–20 MB/s. No account, no internet needed. Good for 50–200 photos.</p>
+<p><strong>Snapdrop / PairDrop</strong> in a browser: drag and drop between devices on the same network. Caps out around 5–10 MB/s. Fine for a handful of shots, painful for a vacation&rsquo;s worth.</p>
+<p><strong>Android&rsquo;s built-in Nearby Share / Quick Share</strong> to a Windows PC: works well if both are on the same Wi-Fi 6 network. Roughly 20–40 MB/s.</p>
+<p><strong>AirDrop</strong> between iPhone and Mac: genuinely fast, roughly 30–50 MB/s. But it&rsquo;s one batch at a time and the receiving Mac needs to accept each transfer.</p>
+<p>Avoid: emailing yourself photos (most providers cap attachments at 25MB — that&rsquo;s about four modern photos), and messaging apps like WhatsApp, which recompress images to roughly 1,600 pixels wide. A 12MP photo sent through WhatsApp arrives at a fraction of its detail.</p>
+<h2 id="organizing-so-you-can-actually-find-them-later">Organizing so you can actually find them later</h2>
+<p>Copy into dated folders: <code>Photos/2024/2024-06-Vacation</code>. Then rename the folder, not the files. Renaming 3,000 individual files breaks the metadata links some apps rely on.</p>
+<p>For duplicates, use a free tool like <strong>Czkawka</strong> (Windows/Linux/Mac) or <strong>dupeGuru</strong>. Both find identical files by hash, not filename, so they catch the same photo saved twice under different names.</p>
+<p>Back up the destination folder to a second drive. A $60 1TB external HDD holds roughly 150,000 phone photos. That&rsquo;s cheaper than three years of a 200GB cloud plan, and it&rsquo;s yours.</p>
+<h2 id="the-bottom-line">The bottom line</h2>
+<p>The cable is not old-fashioned. It&rsquo;s the fastest, cheapest, highest-fidelity path from your phone to your computer, and it takes about four minutes for a thousand photos. Copy, verify, then delete. Skip the compression, skip the subscription, and keep the originals where you can actually find them.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/lifestyle/meal-planning-apps-review-5-best-options-tested/">Meal Planning Apps Review: 5 Best Options Tested</a></li>
+<li><a href="https://pengjiangwen.github.io/lifestyle/best-fitness-trackers-2025-my-honest-comparison/">Best Fitness Trackers 2025: My Honest Comparison</a></li>
+<li><a href="https://pengjiangwen.github.io/lifestyle/smart-home-ideas-for-beginners-simple-starter-projects/">Smart Home Ideas for Beginners: Simple Starter Projects</a></li>
+</ul>
+]]></content:encoded></item><item><title>How to Keep Feet Warm During the Workday</title><link>https://pengjiangwen.github.io/health/how-to-keep-feet-warm-during-the-workday/</link><pubDate>Tue, 03 Nov 2026 19:07:14 +0000</pubDate><guid>https://pengjiangwen.github.io/health/how-to-keep-feet-warm-during-the-workday/</guid><description>Cold feet at work? Learn why office feet freeze, which socks and gear actually work, and a practical checklist to stay warm all day.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>It&rsquo;s 2:47 p.m. on a Thursday in February. You&rsquo;re three hours into a spreadsheet, and your feet have gone from &ldquo;a little chilly&rdquo; to &ldquo;numb slabs of meat.&rdquo; You&rsquo;ve tried crossing your ankles. You&rsquo;ve tried sitting on one foot. Nothing works, and you still have two meetings before you can go home and put on the thick socks you keep for emergencies.</p>
 <p>If that sounds familiar, you&rsquo;re not alone — and you&rsquo;re not imagining it. Office feet get cold for predictable, fixable reasons. Most advice on this topic is useless (&ldquo;wear thicker socks!&rdquo;), so here&rsquo;s the version I wish someone had handed me years ago: what actually happens to your feet in a cold office, which gear is worth the money, and a step-by-step routine that keeps your toes warm from the first email to the last.</p>
 <h2 id="why-your-feet-get-cold-at-work-its-not-just-the-temperature">Why Your Feet Get Cold at Work (It&rsquo;s Not Just the Temperature)</h2>
@@ -13855,6 +13932,10 @@ iPhones don&rsquo;t mount as a standard drive. On Windows, you&rsquo;ll need iTu
 <h2 id="the-bottom-line">The Bottom Line</h2>
 <p>The best meal planning app is the one you&rsquo;ll actually open on Sunday afternoon. For most people, that&rsquo;s a free app with a simple interface, not a $13/month service with 40 features you&rsquo;ll never touch.</p>
 <p>Start free. Upgrade only when you hit a real limitation. And if you try one for two weeks and it feels like a chore, delete it and try another. The whole point is to make dinner easier, not to add another subscription to manage.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/lifestyle/how-to-transfer-photos-from-phone-to-computer-no-cloud/">How to Transfer Photos from Phone to Computer (No Cloud)</a></li>
+</ul>
 ]]></content:encoded></item><item><title>Standing Desk Health Benefits: What Science Really Says</title><link>https://pengjiangwen.github.io/health/standing-desk-health-benefits-what-science-really-says/</link><pubDate>Mon, 14 Sep 2026 17:19:43 +0000</pubDate><guid>https://pengjiangwen.github.io/health/standing-desk-health-benefits-what-science-really-says/</guid><description>Discover the real health benefits of standing desks, from back pain relief to better focus, plus practical tips to avoid common pitfalls.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>In 2015, a Silicon Valley recruiter named Dan Fallon did something unusual: he stood up at work and stayed that way for a full month. He wasn&rsquo;t trying to set a record. He was trying to fix the lower back pain that had followed him through three years of sitting at a traditional desk. By week two, the pain had faded. By week four, he noticed something he didn&rsquo;t expect—his afternoon energy crashes had disappeared too.</p>
 <p>Fallon&rsquo;s experience isn&rsquo;t unique, and it&rsquo;s not just anecdotal. A growing body of research suggests that the way we&rsquo;ve arranged our workstations for the past century might be working against our bodies. But here&rsquo;s the catch: standing desks aren&rsquo;t a magic bullet, and standing all day comes with its own problems. The real story is more nuanced—and more useful—than the headlines suggest.</p>
