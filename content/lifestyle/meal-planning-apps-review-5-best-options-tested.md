@@ -98,3 +98,7 @@ Here's the shortcut version:
 The best meal planning app is the one you'll actually open on Sunday afternoon. For most people, that's a free app with a simple interface, not a $13/month service with 40 features you'll never touch.
 
 Start free. Upgrade only when you hit a real limitation. And if you try one for two weeks and it feels like a chore, delete it and try another. The whole point is to make dinner easier, not to add another subscription to manage.
+
+## Related Reading
+
+- [How to Transfer Photos from Phone to Computer (No Cloud)](https://pengjiangwen.github.io/lifestyle/how-to-transfer-photos-from-phone-to-computer-no-cloud/)
