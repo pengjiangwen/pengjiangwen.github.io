@@ -133,3 +133,7 @@ Robot vacuums are one of the most discounted home appliances. You should never p
 The golden rule: Spend money on navigation and brush roll design, not on suction numbers or brand names. A $500 robot with LiDAR will always beat a $300 robot with random bounce navigation, regardless of how many Pa the motor claims.
 
 I’ve been using the Roborock Q5+ daily for three months now. It hasn’t gotten stuck once. The self-empty dock has only needed a new bag once. And I haven’t manually swept a single floor since. That’s the real value of a good robot vacuum—it’s not the specs, it’s the time you get back.
+
+## Related Reading
+
+- [How to Stop Condensation on Windows in Winter (That Works)](https://pengjiangwen.github.io/home/how-to-stop-condensation-on-windows-in-winter-that-works/)
