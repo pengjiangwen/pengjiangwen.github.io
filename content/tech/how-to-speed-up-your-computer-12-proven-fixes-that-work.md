@@ -118,3 +118,7 @@ If you've done all of the above and your computer is still slow, consider the ma
 Speed up your computer by attacking the biggest offenders first: startup programs, disk space, and malware. Then move to drivers, browser cleanup, and visual settings. If you're still stuck, an SSD upgrade is the best money you can spend on an older machine.
 
 Start with Task Manager's startup tab right now. It takes two minutes, and it's the fix that helps most people the most.
+
+## Related Reading
+
+- [How to Connect a Wireless Printer to a Laptop (No Fluff)](https://pengjiangwen.github.io/tech/how-to-connect-a-wireless-printer-to-a-laptop-no-fluff/)
