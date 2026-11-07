@@ -114,7 +114,7 @@ That's the whole trick. Make the good choice the easy one, and let the benefits 
 
 ## Related Reading
 
+- [How to Stop Eye Strain From Screens: A Practical Guide](https://pengjiangwen.github.io/health/how-to-stop-eye-strain-from-screens-a-practical-guide/)
 - [Wearable Tech for Heart Rate: What Actually Matters](https://pengjiangwen.github.io/health/wearable-tech-for-heart-rate-what-actually-matters/)
 - [7 Ways to Prevent Digital Eye Strain (That Actually Work)](https://pengjiangwen.github.io/health/7-ways-to-prevent-digital-eye-strain-that-actually-work/)
 - [Reduce Screen Time Effects: Real Changes in 30 Days](https://pengjiangwen.github.io/health/reduce-screen-time-effects-real-changes-in-30-days/)
-
