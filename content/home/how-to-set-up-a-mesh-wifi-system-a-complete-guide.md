@@ -90,3 +90,7 @@ Many mesh systems support this, and some even support MoCA adapters that run dat
 ## Conclusion
 
 Setting up a mesh WiFi system isn't complicated, but it rewards a little patience. Get the main node connected, place the satellites where they can actually relay a strong signal, and use wired backhaul if your home allows it. Within an hour, you can go from buffering video calls to walking from the basement to the backyard without a single dropout. That's the whole point: WiFi that just works, everywhere you do.
+
+## Related Reading
+
+- [Why Your Dishwasher Smells After a Wash (And How to Fix It)](https://pengjiangwen.github.io/home/why-your-dishwasher-smells-after-a-wash-and-how-to-fix-it/)
