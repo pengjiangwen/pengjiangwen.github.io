@@ -151,3 +151,7 @@ My grandmother didn’t get stronger because she was disciplined. She got strong
 You don’t need a perfect routine. You need a consistent one. Pick two exercises from this list. Do them today. Do them tomorrow. That’s how independence is built—one repetition at a time.
 
 *Always consult your doctor before starting any new exercise program, especially if you have chronic conditions or recent surgery.*
+
+## Related Reading
+
+- [Stretches for Hip Tightness That Actually Work](https://pengjiangwen.github.io/health/stretches-for-hip-tightness-that-actually-work/)
