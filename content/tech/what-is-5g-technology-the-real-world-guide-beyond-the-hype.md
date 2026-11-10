@@ -118,3 +118,7 @@ The 3GPP (the standards body) is already rolling out “5G-Advanced” (Release 
 The next time you see that 5G icon, ask yourself: *What kind of 5G am I on?* The answer will tell you more about what you can actually do than any carrier ad ever will.
 
 The technology is still maturing. But the foundation being laid right now—the towers, the chips, the standards—will define how we connect for the next decade. Understanding it today means you’re not just a passenger. You’re someone who knows how to use the road.
+
+## Related Reading
+
+- [How to Share Internet from Phone to Laptop: A Real Guide](https://pengjiangwen.github.io/tech/how-to-share-internet-from-phone-to-laptop-a-real-guide/)
