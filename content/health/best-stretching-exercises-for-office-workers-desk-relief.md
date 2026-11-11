@@ -171,3 +171,7 @@ Start with the doorway chest opener and the figure-four glute stretch tomorrow m
 That one change—just two stretches—might be the difference between a productive afternoon and a sore, distracted one.
 
 Your chair doesn’t have to win.
+
+## Related Reading
+
+- [Exercise After 50: A Practical Guide That Actually Works](https://pengjiangwen.github.io/health/exercise-after-50-a-practical-guide-that-actually-works/)
