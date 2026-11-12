@@ -147,4 +147,5 @@ Natural remedies aren’t about rejecting science—they’re about expanding yo
 
 ## Related Reading
 
+- [How to Reduce Bloating After Meals: A Practical Guide](https://pengjiangwen.github.io/health/how-to-reduce-bloating-after-meals-a-practical-guide/)
 - [Why You Feel Tired After Eating (and How to Fix It)](https://pengjiangwen.github.io/health/why-you-feel-tired-after-eating-and-how-to-fix-it/)
