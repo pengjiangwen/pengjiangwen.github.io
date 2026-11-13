@@ -119,3 +119,7 @@ If you’ve optimized everything and your speeds are still terrible, it might be
 Improving your WiFi isn't about buying the most expensive gear. It’s about being methodical. Start with placement (free), then move to channel settings (free), then split your bands (free), and only then consider spending money.
 
 I promise you, if you take 30 minutes today to move your router off the floor and change your channels, you’ll see a noticeable difference tonight. Don't chase the "latest WiFi 7" hype until you've mastered the basics. Your network is probably 80% capable of what you want—you just need to unblock it. Good luck, and enjoy the buffer-free streaming.
+
+## Related Reading
+
+- [Why Your Dryer Takes So Long (and How to Fix It Fast)](https://pengjiangwen.github.io/home/why-your-dryer-takes-so-long-and-how-to-fix-it-fast/)
