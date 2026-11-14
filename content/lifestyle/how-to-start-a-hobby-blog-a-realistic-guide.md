@@ -102,3 +102,7 @@ If you do want to earn something, the usual paths are affiliate links to gear yo
 ## The Only Real Rule
 
 Publish regularly, write about what you actually do, and don't wait until everything looks perfect. The bloggers who stick around aren't the ones with the best design. They're the ones who kept showing up. Start this week — one post, one topic you love, no excuses.
+
+## Related Reading
+
+- [How to Use a Smart Plug With Alexa (Without the Headaches)](https://pengjiangwen.github.io/lifestyle/how-to-use-a-smart-plug-with-alexa-without-the-headaches/)
