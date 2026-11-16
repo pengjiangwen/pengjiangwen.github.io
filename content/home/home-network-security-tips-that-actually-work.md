@@ -77,3 +77,7 @@ Two-factor authentication is worth turning on for your email especially. Your em
 Home network security isn't about buying expensive equipment or becoming a networking expert. It's about closing the doors that ship open by default. Change the router password, update the firmware, use WPA3, separate your smart devices, and keep everything patched.
 
 Do those five things this weekend and you'll be safer than the vast majority of households on your street. My friend with the rogue thermostat? She did all of the above in one afternoon, and nothing strange has happened since.
+
+## Related Reading
+
+- [Why Your Wi-Fi Drops at Night (And How to Fix It)](https://pengjiangwen.github.io/home/why-your-wi-fi-drops-at-night-and-how-to-fix-it/)
