@@ -174,4 +174,5 @@ Your chair doesn’t have to win.
 
 ## Related Reading
 
+- [How to Reduce Neck Tension from Desk Work](https://pengjiangwen.github.io/health/how-to-reduce-neck-tension-from-desk-work/)
 - [Exercise After 50: A Practical Guide That Actually Works](https://pengjiangwen.github.io/health/exercise-after-50-a-practical-guide-that-actually-works/)
