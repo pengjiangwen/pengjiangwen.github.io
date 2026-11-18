@@ -126,3 +126,7 @@ Digital eye strain isn't an inevitable part of modern life. It’s a signal that
 Start with just two things today: lower your monitor below eye level and increase your font size. Then, add the blink training and the 20-8-2 rule.
 
 Your eyes have to last you a lifetime. Screens aren't going anywhere. But you can make the next 8 hours of screen time a lot more comfortable than the last 8. Try these for a week and see if the 3 PM headache disappears. I bet it will.
+
+## Related Reading
+
+- [How to Protect Your Knees on Stairs: A Practical Guide](https://pengjiangwen.github.io/health/how-to-protect-your-knees-on-stairs-a-practical-guide/)
