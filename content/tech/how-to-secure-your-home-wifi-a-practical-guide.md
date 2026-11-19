@@ -158,6 +158,7 @@ Your WiFi is the perimeter of your digital life. Treat the router like the front
 
 ## Related Reading
 
+- [Why Your Email Goes to Spam (And How to Fix It)](https://pengjiangwen.github.io/tech/why-your-email-goes-to-spam-and-how-to-fix-it/)
 - [How to Secure Your Home Network: A Practical Guide](https://pengjiangwen.github.io/tech/how-to-secure-your-home-network-a-practical-guide/)
 - [How to Clean Your PC Fans in 20 Minutes or Less](https://pengjiangwen.github.io/tech/how-to-clean-your-pc-fans-in-20-minutes-or-less/)
 - [Fix Slow Internet Speed: 15 Fixes That Actually Work](https://pengjiangwen.github.io/tech/fix-slow-internet-speed-15-fixes-that-actually-work/)
