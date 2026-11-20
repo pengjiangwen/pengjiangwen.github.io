@@ -143,7 +143,7 @@ The glass is rarely the problem. The air is.
 
 ## Related Reading
 
+- [Why Does My Ceiling Fan Hum? Real Fixes That Work](https://pengjiangwen.github.io/home/why-does-my-ceiling-fan-hum-real-fixes-that-work/)
 - [Best Robot Vacuums Under $500 in 2024: Tested Picks](https://pengjiangwen.github.io/home/best-robot-vacuums-under-500-in-2024-tested-picks/)
 - [Smart Thermostat Installation Guide: DIY in 60 Minutes](https://pengjiangwen.github.io/home/smart-thermostat-installation-guide-diy-in-60-minutes/)
 - [Eco Friendly Home Upgrades That Actually Save Money](https://pengjiangwen.github.io/home/eco-friendly-home-upgrades-that-actually-save-money/)
-
