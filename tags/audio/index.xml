@@ -1,4 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Audio on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/audio/</link><description>Recent content in Audio on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2026 15:27:48 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/audio/index.xml" rel="self" type="application/rss+xml"/><item><title>AI Tools for Students: 12 That Actually Help</title><link>https://pengjiangwen.github.io/tech/ai-tools-for-students-12-that-actually-help/</link><pubDate>Sat, 26 Sep 2026 15:27:48 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/ai-tools-for-students-12-that-actually-help/</guid><description>Discover the best AI tools for students in 2025—from note-taking to citations. Real examples, pricing, and honest limits of each tool.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Audio on TechLife Guide</title><link>https://pengjiangwen.github.io/tags/audio/</link><description>Recent content in Audio on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 21 Nov 2026 18:43:57 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tags/audio/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Connect Bluetooth Headphones to Your Smart TV</title><link>https://pengjiangwen.github.io/tech/how-to-connect-bluetooth-headphones-to-your-smart-tv/</link><pubDate>Sat, 21 Nov 2026 18:43:57 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-connect-bluetooth-headphones-to-your-smart-tv/</guid><description>Learn how to pair Bluetooth headphones to your smart TV, fix lag and connection drops, and know which TVs actually support it.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>Your partner is asleep. The movie is at the good part. You reach for your Bluetooth headphones, pair them to your TV, and… nothing. Or worse: the audio connects, but the lips move a half-second before the words arrive.</p>
+<p>Here&rsquo;s the number that surprises most people: a Bluetooth audio connection adds roughly 100–300 milliseconds of latency on a standard SBC codec. At 200ms, that&rsquo;s about five frames of lip-sync drift at 24fps. You will notice it. Whether you can fix it depends entirely on what your TV supports — and most people never check that before buying headphones or a transmitter.</p>
+<p>This guide covers how to actually get the connection working, how to kill the lag, and the specific mistakes that make people give up and return perfectly good headphones.</p>
+<h2 id="first-check-whether-your-tv-even-has-bluetooth-audio">First, Check Whether Your TV Even Has Bluetooth Audio</h2>
+<p>This is the step almost everyone skips, and it&rsquo;s where most frustration starts.</p>
+<p>Having Bluetooth on a TV does not mean it can output audio to headphones. Plenty of sets use Bluetooth only for the remote, for pairing a phone to cast content, or for a proprietary feature. Samsung, for example, has supported Bluetooth headphone output on most of its smart TVs since roughly 2016, and it&rsquo;s buried under <strong>Settings &gt; Sound &gt; Sound Output &gt; Bluetooth Speaker List</strong>. LG&rsquo;s webOS sets have a similar path under <strong>Sound &gt; Sound Out &gt; Bluetooth</strong>.</p>
+<p>But budget brands are a minefield. Some Vizio and Hisense models ship with Bluetooth radios that are locked to the remote and app casting only. The manual won&rsquo;t always say so clearly.</p>
+<p><strong>Fastest way to check:</strong> press the Home or Settings button, go to the sound output menu, and look for a &ldquo;Bluetooth&rdquo; or &ldquo;Bluetooth Speaker List&rdquo; option. If it&rsquo;s not there, your TV cannot send audio over Bluetooth, full stop. No firmware update will add it.</p>
+<h3 id="the-workaround-if-your-tv-lacks-bluetooth-audio">The workaround if your TV lacks Bluetooth audio</h3>
+<p>Buy a Bluetooth transmitter. These plug into your TV&rsquo;s optical (TOSLINK) or 3.5mm headphone jack and broadcast audio to your headphones. Expect to pay $25–$50 for a decent one — brands like Avantree and 1Mii are the common picks. Two things to look for:</p>
+<ul>
+<li><strong>aptX Low Latency or LC3 support</strong> on both the transmitter and your headphones. This is the single biggest factor in reducing lag.</li>
+<li><strong>Optical input</strong>, because many TVs disable their 3.5mm jack&rsquo;s volume control or mute the internal speakers in ways that cause problems.</li>
+</ul>
+<p>A $30 transmitter with aptX LL will often beat a TV&rsquo;s built-in Bluetooth, which frequently defaults to the higher-latency SBC codec.</p>
+<h2 id="the-step-by-step-pairing-process">The Step-by-Step Pairing Process</h2>
+<p>Here&rsquo;s the checklist that works across most brands. I&rsquo;ll use a Samsung set as the example, but the logic transfers.</p>
+<ol>
+<li><strong>Put your headphones into pairing mode first.</strong> Not just &ldquo;on&rdquo; — actually in pairing mode. On Sony WH-1000XM4/XM5, hold the power button past the &ldquo;on&rdquo; chime until you hear &ldquo;Bluetooth pairing.&rdquo; On AirPods Max, hold the noise control button for about 5 seconds until the light flashes white. If your headphones are already connected to your phone, they may refuse to enter pairing mode — turn off Bluetooth on your phone first.</li>
+<li><strong>On the TV, open Settings &gt; Sound &gt; Sound Output.</strong> Select &ldquo;Bluetooth Speaker List&rdquo; or &ldquo;Bluetooth Audio Devices.&rdquo;</li>
+<li><strong>Choose &ldquo;Add New&rdquo; or &ldquo;Pair New Device.&rdquo;</strong> The TV will scan for about 30 seconds.</li>
+<li><strong>Select your headphones from the list.</strong> Some TVs ask you to confirm a PIN — usually 0000 or 1234, though modern sets skip this.</li>
+<li><strong>Set the TV to output audio to Bluetooth.</strong> On many sets, selecting the device does this automatically. On others, you have to change Sound Output to &ldquo;Bluetooth&rdquo; as a separate step.</li>
+<li><strong>Test with actual dialogue</strong>, not music. Play a news broadcast or a talk-heavy scene. Music hides latency; speech doesn&rsquo;t.</li>
+</ol>
+<p>If pairing fails, the fix is almost always one of three things: the headphones weren&rsquo;t in pairing mode, they were still bonded to another device, or the TV&rsquo;s Bluetooth list is full (some sets cap at 8 saved devices — delete old ones).</p>
+<h2 id="fixing-the-lip-sync-lag">Fixing the Lip-Sync Lag</h2>
+<p>This is the real problem, and it has real solutions.</p>
+<h3 id="use-the-right-codecs">Use the right codecs</h3>
+<p>Bluetooth audio latency by codec, roughly:</p>
+<ul>
+<li><strong>SBC:</strong> 150–300ms. The default. Worst offender.</li>
+<li><strong>AAC:</strong> 120–200ms. Common on Apple devices and many TVs.</li>
+<li><strong>aptX:</strong> ~70–100ms. Better, but not &ldquo;low latency.&rdquo;</li>
+<li><strong>aptX Low Latency / aptX LL:</strong> 32–40ms. Effectively imperceptible.</li>
+<li><strong>LC3 (via LE Audio):</strong> ~20–30ms with proper support. The newest and best option, but you need a TV and headphones that both support LE Audio.</li>
+</ul>
+<p>Check your headphone specs. If they support aptX LL, you want a TV or transmitter that also does. Mismatched codecs fall back to the slowest common denominator.</p>
+<h3 id="use-the-tvs-audio-delay-adjustment">Use the TV&rsquo;s audio delay adjustment</h3>
+<p>Most smart TVs have a setting called <strong>Audio Delay</strong>, <strong>Digital Audio Delay</strong>, or <strong>AV Sync</strong>. It&rsquo;s designed for soundbars, but it works for Bluetooth too. On Samsung it&rsquo;s under <strong>Sound &gt; Expert Settings &gt; Digital Output Audio Delay</strong>. You can usually adjust in 10ms increments up to 250ms.</p>
+<p>Here&rsquo;s the trick: you&rsquo;re not trying to remove the delay. You&rsquo;re trying to <em>match</em> it. If your headphones lag by 150ms, you can&rsquo;t speed up the headphones — but on some setups you can delay the <em>video</em> to match, or use the delay setting to compensate in the other direction depending on how your TV routes audio. Experiment. It&rsquo;s tedious, but a 100ms adjustment can transform the experience.</p>
+<h3 id="sit-closer-and-cut-interference">Sit closer, and cut interference</h3>
+<p>Bluetooth Classic has a range of about 10 meters (33 feet) in open air — but that&rsquo;s optimistic. Through a wall or a couch, expect half that. More importantly, 2.4GHz Wi-Fi, microwave ovens, and even some LED lighting interfere with Bluetooth. If your router sits between you and the TV, you&rsquo;ll get dropouts. Moving the router&rsquo;s band to 5GHz for your other devices helps more than you&rsquo;d think.</p>
+<h2 id="what-most-guides-get-wrong">What Most Guides Get Wrong</h2>
+<p><strong>1. They tell you to buy &ldquo;Bluetooth 5.0&rdquo; headphones as if that fixes latency.</strong> It doesn&rsquo;t. Bluetooth 5.0 improves range and connection stability, not audio lag. A Bluetooth 5.3 headset running SBC will lag more than a Bluetooth 4.2 headset running aptX LL. Codec support matters; version number mostly doesn&rsquo;t.</p>
+<p><strong>2. They ignore that many TVs mute internal speakers entirely when Bluetooth is active.</strong> People pair headphones, hear nothing, and assume it failed — when actually the TV switched output and the volume was at zero on the headphone channel. Check the headphone volume separately; some TVs keep it independent of the main volume.</p>
+<p><strong>3. They don&rsquo;t mention that some streaming apps block Bluetooth audio output.</strong> A handful of DRM-protected apps on certain TV platforms won&rsquo;t route audio to Bluetooth at all. If Netflix works but one specific app doesn&rsquo;t, it&rsquo;s the app, not your setup.</p>
+<h2 id="quick-troubleshooting-table">Quick Troubleshooting Table</h2>
+<table>
+	<thead>
+			<tr>
+					<th>Symptom</th>
+					<th>Likely cause</th>
+					<th>Fix</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>Headphones don&rsquo;t appear in list</td>
+					<td>Not in pairing mode, or bonded elsewhere</td>
+					<td>Disconnect from phone, re-enter pairing mode</td>
+			</tr>
+			<tr>
+					<td>Connects but no sound</td>
+					<td>TV output not switched, or headphone volume at zero</td>
+					<td>Check Sound Output menu and headphone volume</td>
+			</tr>
+			<tr>
+					<td>Audio cuts out every few minutes</td>
+					<td>2.4GHz interference or distance</td>
+					<td>Move closer, switch router to 5GHz</td>
+			</tr>
+			<tr>
+					<td>Constant lip-sync lag</td>
+					<td>SBC codec</td>
+					<td>Use aptX LL headphones + transmitter, or adjust audio delay</td>
+			</tr>
+			<tr>
+					<td>Works, then drops when you walk to kitchen</td>
+					<td>Range limit (~10m open air, less through walls)</td>
+					<td>Expected behavior; nothing to fix</td>
+			</tr>
+	</tbody>
+</table>
+<h2 id="a-note-on-gaming">A Note on Gaming</h2>
+<p>If you&rsquo;re connecting headphones for gaming, Bluetooth is the wrong tool. Even 40ms of latency is noticeable in a shooter. Use a 2.4GHz dongle-based headset instead — those run at 10–20ms and don&rsquo;t suffer from the same interference patterns. Bluetooth is fine for movies and TV; it&rsquo;s mediocre for competitive games.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Check your TV&rsquo;s sound output menu before anything else. If Bluetooth audio is there, pair in the right order — headphones into pairing mode first, then scan from the TV. If it&rsquo;s not there, a $30 optical transmitter with aptX Low Latency solves it. And if you&rsquo;re fighting lag, the codec is almost always the culprit, not the Bluetooth version. Get the codecs matched and you&rsquo;ll forget the headphones are wireless at all.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/ai-tools-for-students-12-that-actually-help/">AI Tools for Students: 12 That Actually Help</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/wireless-earbuds-buying-guide-2024-edition/">Wireless Earbuds Buying Guide: 2024 Edition</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/best-wireless-earbuds-2025-top-picks-buying-guide/">Best Wireless Earbuds 2025: Top Picks &amp; Buying Guide</a></li>
+</ul>
+]]></content:encoded></item><item><title>AI Tools for Students: 12 That Actually Help</title><link>https://pengjiangwen.github.io/tech/ai-tools-for-students-12-that-actually-help/</link><pubDate>Sat, 26 Sep 2026 15:27:48 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/ai-tools-for-students-12-that-actually-help/</guid><description>Discover the best AI tools for students in 2025—from note-taking to citations. Real examples, pricing, and honest limits of each tool.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Last semester, a friend of mine spent six hours formatting citations for a ten-page history paper. Six hours. Not researching, not writing—just matching parentheses to periods. When I showed her Zotero&rsquo;s AI-assisted citation grabber, the job took eleven minutes.</p>
 <p>That&rsquo;s the thing about AI tools for students: the good ones don&rsquo;t write your essays for you. They delete the busywork that has nothing to do with learning. The bad ones—and there are plenty—either hallucinate facts, get flagged by Turnitin, or charge you $30 a month for a glorified autocomplete.</p>
 <p>This guide covers twelve tools I&rsquo;ve actually used or watched classmates rely on, grouped by what they&rsquo;re good at. I&rsquo;ll tell you what each costs, where it shines, and where it falls apart.</p>
@@ -56,6 +151,10 @@
 <h2 id="the-bottom-line">The Bottom Line</h2>
 <p>The best AI tools for students are the ones that give you back time for thinking. Otter for transcripts, Consensus for research, Anki plus AI for retention, Wolfram for math checks. None of them replace understanding the material—they just clear the underbrush so you can get to it.</p>
 <p>Start with one. Pick the task that eats the most time in your week, find the tool that handles it, and test it for two weeks. If it doesn&rsquo;t save you at least an hour, drop it. Your attention is the scarce resource here, and no tool is worth more of it than it gives back.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-connect-bluetooth-headphones-to-your-smart-tv/">How to Connect Bluetooth Headphones to Your Smart TV</a></li>
+</ul>
 ]]></content:encoded></item><item><title>How to Extend Phone Battery Life: 12 Proven Tips</title><link>https://pengjiangwen.github.io/tech/how-to-extend-phone-battery-life-12-proven-tips/</link><pubDate>Fri, 25 Sep 2026 02:45:52 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-extend-phone-battery-life-12-proven-tips/</guid><description>Learn how to extend your phone battery life with practical, tested tips—from screen settings to charging habits that actually work.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>My phone died at 2 PM last Tuesday. Not because the battery was old—it was an eight-month-old flagship with a 4,500 mAh cell. It died because I&rsquo;d been running Google Maps navigation at full brightness, with Bluetooth on, streaming music to wireless earbuds, and letting 47 apps refresh in the background. All at once.</p>
 <p>That afternoon taught me something most people learn the hard way: modern phones don&rsquo;t die from bad hardware. They die from bad habits.</p>
