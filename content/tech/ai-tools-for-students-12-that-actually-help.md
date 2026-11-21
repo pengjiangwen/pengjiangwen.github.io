@@ -113,3 +113,7 @@ Replit's Ghostwriter explains error messages in plain English, which is invaluab
 The best AI tools for students are the ones that give you back time for thinking. Otter for transcripts, Consensus for research, Anki plus AI for retention, Wolfram for math checks. None of them replace understanding the material—they just clear the underbrush so you can get to it.
 
 Start with one. Pick the task that eats the most time in your week, find the tool that handles it, and test it for two weeks. If it doesn't save you at least an hour, drop it. Your attention is the scarce resource here, and no tool is worth more of it than it gives back.
+
+## Related Reading
+
+- [How to Connect Bluetooth Headphones to Your Smart TV](https://pengjiangwen.github.io/tech/how-to-connect-bluetooth-headphones-to-your-smart-tv/)
