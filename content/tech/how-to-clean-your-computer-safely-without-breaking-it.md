@@ -136,3 +136,7 @@ If you're on a budget and can't afford compressed air, use a rubber bulb syringe
 Cleaning your computer is a 30-minute task that can extend its life by years. It's not difficult, it's not risky if you follow the rules, and the payoff is immediate: quieter fans, cooler temperatures, and a machine that feels like new.
 
 The next time your computer starts sounding like a jet engine, don't ignore it. Grab your compressed air, unplug, and spend half an hour showing it some love. Your future self—and your wallet—will thank you.
+
+## Related Reading
+
+- [Why Does My Laptop Fan Keep Running? Real Fixes](https://pengjiangwen.github.io/tech/why-does-my-laptop-fan-keep-running-real-fixes/)
