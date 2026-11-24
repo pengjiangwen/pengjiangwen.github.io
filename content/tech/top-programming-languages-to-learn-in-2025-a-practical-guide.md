@@ -121,7 +121,7 @@ The language matters less than the 90 days. Anyone can read a list of languages.
 
 ## Related Reading
 
+- [How to Free Up Space on Your Smart TV (Real Fixes)](https://pengjiangwen.github.io/tech/how-to-free-up-space-on-your-smart-tv-real-fixes/)
 - [Best Coding Apps for Beginners in 2025](https://pengjiangwen.github.io/tech/best-coding-apps-for-beginners-in-2025/)
 - [Best Linux Distros for Beginners in 2025 (No Terminal Fear)](https://pengjiangwen.github.io/tech/best-linux-distros-for-beginners-in-2025-no-terminal-fear/)
 - [How to Transfer Photos to Computer: 5 Fast Methods](https://pengjiangwen.github.io/tech/how-to-transfer-photos-to-computer-5-fast-methods/)
-
