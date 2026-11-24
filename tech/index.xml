@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Teches on TechLife Guide</title><link>https://pengjiangwen.github.io/tech/</link><description>Recent content in Teches on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 22 Nov 2026 19:04:52 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>Why Does My Laptop Fan Keep Running? Real Fixes</title><link>https://pengjiangwen.github.io/tech/why-does-my-laptop-fan-keep-running-real-fixes/</link><pubDate>Sun, 22 Nov 2026 19:04:52 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/why-does-my-laptop-fan-keep-running-real-fixes/</guid><description>Laptop fan won&amp;#39;t stop? Learn the real causes—dust, thermal paste, runaway processes—and step-by-step fixes that actually quiet it down.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Teches on TechLife Guide</title><link>https://pengjiangwen.github.io/tech/</link><description>Recent content in Teches on TechLife Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 24 Nov 2026 21:57:23 +0000</lastBuildDate><atom:link href="https://pengjiangwen.github.io/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Free Up Space on Your Smart TV (Real Fixes)</title><link>https://pengjiangwen.github.io/tech/how-to-free-up-space-on-your-smart-tv-real-fixes/</link><pubDate>Tue, 24 Nov 2026 21:57:23 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/how-to-free-up-space-on-your-smart-tv-real-fixes/</guid><description>Learn how to free up space on a smart TV by clearing app caches, removing bloatware, and using USB storage—with real steps and numbers.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>Your TV throws up a &ldquo;Storage space is running low&rdquo; warning in the middle of a movie, and suddenly the app you wanted won&rsquo;t update. If that sounds familiar, you&rsquo;re not alone—and you&rsquo;re not stuck. A 2023 Samsung 43-inch CU7000 ships with roughly 1.5 GB of usable app storage out of its total 8 GB. A Fire TV Stick 4K Max has about 5.5 GB free out of 8 GB. Those numbers are tiny by phone standards, and they explain why smart TVs choke so easily.</p>
+<p>This guide covers what actually works: where the space goes, which caches are safe to clear, when a USB drive is the real answer, and the mistakes that make things worse.</p>
+<h2 id="why-smart-tvs-run-out-of-space-so-fast">Why Smart TVs Run Out of Space So Fast</h2>
+<p>TV manufacturers cut storage to keep costs down. A $300 TV might have 8 GB of internal storage, and the operating system eats a big chunk of it. On top of that, preinstalled apps you never asked for—shopping channels, game portals, promotional hubs—can occupy 500 MB to 2 GB combined.</p>
+<p>Then there&rsquo;s the cache problem. Streaming apps store thumbnails, previews, and buffered video to load faster. Over months, a single app like YouTube or Netflix can accumulate hundreds of megabytes of cached data. Multiply that by ten apps and you&rsquo;ve lost a gigabyte or more to files you don&rsquo;t need.</p>
+<h2 id="step-1-find-out-whats-actually-using-space">Step 1: Find Out What&rsquo;s Actually Using Space</h2>
+<p>Before deleting anything, look at the storage breakdown. The path varies by platform:</p>
+<ul>
+<li><strong>Android TV / Google TV (Sony, TCL, Hisense):</strong> Settings → System → Storage. You&rsquo;ll see app sizes and cached data listed separately.</li>
+<li><strong>Samsung Tizen:</strong> Settings → Support → Device Care → Storage. Samsung labels it &ldquo;Memory&rdquo; in some models, which confuses people—check both.</li>
+<li><strong>LG webOS:</strong> Settings → All Settings → General → Storage. Newer webOS versions show a clean bar chart.</li>
+<li><strong>Fire TV:</strong> Settings → My Fire TV → About → Storage. This gives you internal free space and attached storage.</li>
+</ul>
+<p>Write down the top three space hogs. That list drives everything else.</p>
+<h2 id="step-2-clear-app-caches-not-app-data">Step 2: Clear App Caches (Not App Data)</h2>
+<p>Clearing cache is safe. Clearing app data logs you out and resets preferences, so keep them separate.</p>
+<p>On Android TV and Fire TV: Settings → Apps → [App Name] → Clear Cache. Do this for your heaviest streaming apps first. A YouTube cache can hit 300–500 MB after a few months of daily use. Netflix typically sits around 100–200 MB.</p>
+<p>On Samsung and LG, you usually can&rsquo;t clear individual app caches from settings. Instead, use the built-in memory cleaner (Samsung: Device Care → Memory → Clean Now) or uninstall and reinstall the offending app. Reinstalling wipes the cache as a side effect.</p>
+<p>Do this monthly. It takes about four minutes and routinely recovers 500 MB to 1.5 GB.</p>
+<h2 id="step-3-uninstall-apps-you-dont-use">Step 3: Uninstall Apps You Don&rsquo;t Use</h2>
+<p>This sounds obvious, but most people underestimate how many apps they&rsquo;ve installed and forgotten. A single game on Android TV can be 400 MB to 1.2 GB. Streaming apps you tried once and abandoned—a niche sports app, a foreign-language service, a trial you never canceled—add up fast.</p>
+<p>Go through your app list and remove anything you haven&rsquo;t opened in 60 days. Be honest. If you watched one documentary on a service six months ago, delete it; you can reinstall in 90 seconds.</p>
+<h2 id="step-4-deal-with-preinstalled-bloatware">Step 4: Deal With Preinstalled Bloatware</h2>
+<p>Here&rsquo;s where platforms differ sharply.</p>
+<p><strong>Fire TV</strong> lets you uninstall many preinstalled apps directly—Amazon Shopping, Prime Photos, and some promotional apps can go. A few system apps can&rsquo;t be removed, but you can often disable them: Settings → Apps → [App] → Disable. Disabling stops updates and frees some space.</p>
+<p><strong>Android TV</strong> varies by manufacturer. On Sony and TCL sets, you can disable some preinstalled apps via Settings → Apps → Disable. On some Hisense models, the option is hidden or absent.</p>
+<p><strong>Samsung and LG</strong> generally don&rsquo;t allow removing built-in apps. You can sometimes remove them from the home bar, but the storage stays occupied. Don&rsquo;t waste an hour hunting for a workaround—there usually isn&rsquo;t one.</p>
+<h2 id="step-5-add-usb-storage-the-real-fix-for-some-tvs">Step 5: Add USB Storage (The Real Fix for Some TVs)</h2>
+<p>If your TV has a USB port—most do—you can offload some pressure. Two caveats matter enormously:</p>
+<ol>
+<li><strong>Not all apps can move to USB.</strong> On Android TV, you can format a USB drive as internal/adoptable storage (Settings → Storage → [USB drive] → Set up as device storage). This lets you install apps to it. A 32 GB USB 3.0 drive costs about $8–$12 and effectively triples your app space. Performance is slower than internal storage, so keep your most-used apps internal.</li>
+<li><strong>Samsung and LG TVs do not support installing apps to USB.</strong> On those platforms, a USB drive only works for media playback (recorded TV, photos, video files). Don&rsquo;t buy a drive expecting to expand app storage on a Samsung—it won&rsquo;t work.</li>
+</ol>
+<p>For Fire TV, a USB drive works with the Fire TV Cube and some Stick models via an OTG adapter (about $10), but setup is fiddly. Check your specific model before buying anything.</p>
+<h2 id="step-6-cut-down-on-downloads-and-recordings">Step 6: Cut Down on Downloads and Recordings</h2>
+<p>If you use a DVR feature or download shows for offline viewing, those files are the biggest space consumers on the device. A single hour of HD recording can run 2–4 GB. Check your recordings list and delete watched content. On TVs with built-in recording (common on LG and Samsung models paired with a USB drive), the drive fills up quietly.</p>
+<h2 id="a-monthly-maintenance-checklist">A Monthly Maintenance Checklist</h2>
+<p>Run this once a month; it takes under ten minutes:</p>
+<ul>
+<li><input disabled="" type="checkbox"> Check storage breakdown in settings</li>
+<li><input disabled="" type="checkbox"> Clear caches on your top three streaming apps</li>
+<li><input disabled="" type="checkbox"> Uninstall one app you haven&rsquo;t used in 60 days</li>
+<li><input disabled="" type="checkbox"> Delete watched recordings and downloads</li>
+<li><input disabled="" type="checkbox"> Restart the TV (a full power cycle, not just standby—unplug for 30 seconds)</li>
+<li><input disabled="" type="checkbox"> Check for system updates (updates sometimes include storage cleanup tools)</li>
+</ul>
+<p>That last point matters more than people think. A system update can clear stale temporary files and fix apps that balloon in size due to bugs.</p>
+<h2 id="what-most-guides-get-wrong">What Most Guides Get Wrong</h2>
+<p><strong>Myth 1: &ldquo;Factory reset is the ultimate fix.&rdquo;</strong> A factory reset does clear space—and then you reinstall the same apps and rebuild the same cache within weeks. It&rsquo;s a last resort for corrupted software, not a storage strategy. If you reset, reinstall only what you actually watch.</p>
+<p><strong>Myth 2: &ldquo;Delete the cache and you&rsquo;re done.&rdquo;</strong> Cache regrows. Without a monthly habit, you&rsquo;ll be back to the warning screen in two months. The fix is the routine, not the one-time purge.</p>
+<p><strong>Mistake 3: Buying a bigger USB drive without checking compatibility.</strong> People buy a 128 GB drive for a Samsung TV expecting more app space and discover it only handles media files. Confirm your platform supports adoptable storage before spending money.</p>
+<h2 id="when-to-stop-fighting-the-tv">When to Stop Fighting the TV</h2>
+<p>If you&rsquo;re clearing caches every two weeks on an 8 GB TV, the hardware is the problem. A $30 Fire TV Stick 4K or a $50 Google TV streamer plugs into HDMI and brings its own storage and a faster processor. Many people find it easier to bypass the TV&rsquo;s built-in system entirely and let a streaming stick handle apps. It&rsquo;s often cheaper than replacing the TV and solves the storage ceiling permanently.</p>
+<p>One more option: check whether your TV supports expanding storage via microSD. A handful of Android TV models do, and a 64 GB card costs under $10. It&rsquo;s rare, but worth checking your manual before you buy anything else.</p>
+<p>The bottom line: clear caches monthly, uninstall ruthlessly, and know your platform&rsquo;s limits. If the TV only has 1.5 GB of usable space, no amount of cleaning will make it roomy—but a streaming stick will.</p>
+<h2 id="related-reading">Related Reading</h2>
+<ul>
+<li><a href="https://pengjiangwen.github.io/tech/top-programming-languages-to-learn-in-2025-a-practical-guide/">Top Programming Languages to Learn in 2025: A Practical Guide</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/best-free-cloud-storage-options-in-2025-up-to-50gb/">Best Free Cloud Storage Options in 2025 (Up to 50GB)</a></li>
+<li><a href="https://pengjiangwen.github.io/tech/best-free-software-alternatives-2025/">Best Free Software Alternatives 2025</a></li>
+</ul>
+]]></content:encoded></item><item><title>Why Does My Laptop Fan Keep Running? Real Fixes</title><link>https://pengjiangwen.github.io/tech/why-does-my-laptop-fan-keep-running-real-fixes/</link><pubDate>Sun, 22 Nov 2026 19:04:52 +0000</pubDate><guid>https://pengjiangwen.github.io/tech/why-does-my-laptop-fan-keep-running-real-fixes/</guid><description>Laptop fan won&amp;#39;t stop? Learn the real causes—dust, thermal paste, runaway processes—and step-by-step fixes that actually quiet it down.</description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Open Task Manager on a Windows laptop that&rsquo;s just sitting on a desk doing nothing. If you see &ldquo;System Interrupts&rdquo; or &ldquo;Windows Update&rdquo; chewing 15–25% CPU, or if the fan is spinning at what sounds like 4,000 RPM while you type in Notepad, you don&rsquo;t have a mystery. You have a thermal problem with a measurable cause. The fan is a symptom, not the disease.</p>
 <p>Most people treat a loud, constant fan as &ldquo;just how laptops are.&rdquo; That&rsquo;s wrong. A healthy laptop idles with the fan either off or barely audible—often under 30 dB, quieter than a whisper. If yours sounds like a hairdryer on low while you browse email, something is pushing heat into the heatsink faster than the fan can dump it, or the heatsink itself is clogged. This guide walks through the actual causes, in the order you should check them, with specific numbers and fixes. No vague &ldquo;clean your vents&rdquo; hand-waving.</p>
 <h2 id="first-understand-what-the-fan-is-actually-doing">First, Understand What the Fan Is Actually Doing</h2>
@@ -1328,6 +1390,7 @@ Start applying at month four. You will fail interviews. Each failure tells you e
 <p>The language matters less than the 90 days. Anyone can read a list of languages. The people who get hired are the ones who wrote code yesterday, the day before, and the day before that.</p>
 <h2 id="related-reading">Related Reading</h2>
 <ul>
+<li><a href="https://pengjiangwen.github.io/tech/how-to-free-up-space-on-your-smart-tv-real-fixes/">How to Free Up Space on Your Smart TV (Real Fixes)</a></li>
 <li><a href="https://pengjiangwen.github.io/tech/best-coding-apps-for-beginners-in-2025/">Best Coding Apps for Beginners in 2025</a></li>
 <li><a href="https://pengjiangwen.github.io/tech/best-linux-distros-for-beginners-in-2025-no-terminal-fear/">Best Linux Distros for Beginners in 2025 (No Terminal Fear)</a></li>
 <li><a href="https://pengjiangwen.github.io/tech/how-to-transfer-photos-to-computer-5-fast-methods/">How to Transfer Photos to Computer: 5 Fast Methods</a></li>
