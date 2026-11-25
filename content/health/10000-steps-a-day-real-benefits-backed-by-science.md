@@ -118,3 +118,7 @@ The 10,000-step goal isn’t a magic pill. It won’t reverse years of poor diet
 Start today. Not tomorrow, not next Monday. Put on your shoes, step outside, and take the first 1,000 steps. The rest will follow.
 
 *Have you tried walking 10,000 steps daily? What worked for you? Share your experience in the comments below—I read every one.*
+
+## Related Reading
+
+- [How to Reduce Foot Swelling from Standing: A Practical Guide](https://pengjiangwen.github.io/health/how-to-reduce-foot-swelling-from-standing-a-practical-guide/)
