@@ -138,3 +138,7 @@ Run the filter under cold water (no soap) and let it air dry completely. A clogg
 - **If you’re paranoid about pet accidents:** Get the **iRobot j7+**. The poop guarantee is real, and the camera navigation is smart.  
 
 Skip the cheap no-name brands from Amazon. They’ll save you $150 upfront, but you’ll replace them within a year when the bristle brush tangles and the motor burns out. A good robot vacuum for pet hair is an investment in your time—you’ll never sweep or vacuum manually again, and that’s worth every penny.
+
+## Related Reading
+
+- [How to Stop Drafts From Your Front Door (For Good)](https://pengjiangwen.github.io/home/how-to-stop-drafts-from-your-front-door-for-good/)
