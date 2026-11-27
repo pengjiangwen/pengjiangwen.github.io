@@ -144,3 +144,7 @@ Try it for 30 days. The effects are real, and they start the moment you put the 
 ---
 
 *Have you tried reducing your screen time? What worked for you? Share your experience in the comments below.*
+
+## Related Reading
+
+- [Why Your Jaw Hurts After Work (And How to Fix It)](https://pengjiangwen.github.io/health/why-your-jaw-hurts-after-work-and-how-to-fix-it/)
